@@ -17,8 +17,6 @@ https://hls-01-regions.emgsound.ru/11_kazakhstan/96/playlist.m3u8
 https://85.29.129.134:8443/orda
 #EXTINF:-1 tvg-name="Love Radio Казахстан" tvg-logo="https://kuasark.com/files/stations-logos/love-radio-kz-kz-86415.png" group-title="adult", Love Radio Казахстан
 https://stream.gakku.tv:8443/love128.mp3
-#EXTINF:-1 tvg-name="Қазақ радиосы" tvg-logo="https://kuasark.com/files/stations-logos/kazak-radiosy.png" group-title="folk", Қазақ радиосы
-https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
 #EXTINF:-1 tvg-name="Радио Classic" tvg-logo="https://kuasark.com/files/stations-logos/radio-classic.png" group-title="classical", Радио Classic
 https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
 #EXTINF:-1 tvg-name="Тенгри FM" tvg-logo="https://kuasark.com/files/stations-logos/tengri-fm.png" group-title="rock", Тенгри FM
@@ -29,14 +27,10 @@ http://91.201.214.229:8000/vostokfm
 http://89.219.34.117:8008/NEWENERGY
 #EXTINF:-1 tvg-name="Business FM" tvg-logo="https://kuasark.com/files/stations-logos/business-fm-kz.png" group-title="kazakh pop", Business FM
 https://kvs01.businessfm.kz/businessfm
-#EXTINF:-1 tvg-name="Радио Дача Казахстан" tvg-logo="https://kuasark.com/files/stations-logos/radio-daca-kz.png" group-title="pop", Радио Дача Казахстан
-https://stream.gakku.tv:8443/love128.mp3
 #EXTINF:-1 tvg-name="Астана радиосы" tvg-logo="https://kuasark.com/files/stations-logos/radio-astana.png" group-title="folk", Астана радиосы
 https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
 #EXTINF:-1 tvg-name="Радио 7 Казахстан" tvg-logo="https://kuasark.com/files/stations-logos/radio-7-kazahstan.png" group-title="pop", Радио 7 Казахстан
 https://myradio24.org/8334
-#EXTINF:-1 tvg-name="Шалқар Радиосы" tvg-logo="https://kuasark.com/files/stations-logos/salkar-radiosy.png" group-title="news", Шалқар Радиосы
-https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
 #EXTINF:-1 tvg-name="Радио Lux FM" tvg-logo="https://kuasark.com/files/stations-logos/radio-lux-fm.png" group-title="pop", Радио Lux FM
 https://icecast.luxfm.kz/luxfm
 #EXTINF:-1 tvg-name="Радио Вышка" tvg-logo="https://kuasark.com/files/stations-logos/radio-vyska-1811.png" group-title="pop", Радио Вышка
@@ -51,8 +45,8 @@ https://radiobulbul.stream.laut.fm/radiobulbul?t302=2023-04-25_19-52-29&uuid=2e2
 https://kvs01.businessfm.kz/city
 #EXTINF:-1 tvg-name="Юмор FM Казахстан" tvg-logo="https://kuasark.com/files/stations-logos/umor-fm-kazahstan.png" group-title="pop", Юмор FM Казахстан
 https://live.zhanafm.kz:8443/veseloeradio_onair
-#EXTINF:-1 tvg-name="Жаңа FM" tvg-logo="https://kuasark.com/files/stations-logos/zaa-fm.png" group-title="adult", Жаңа FM
-https://live.zhanafm.kz:8443/zhanafm_onair
+#EXTINF:-1 tvg-name="Радио КН" tvg-logo="https://kuasark.com/files/stations-logos/radio-kn.png" group-title="pop", Радио КН
+https://radiokn.ddns.net:8080/
 #EXTINF:-1 tvg-name="Lux Radio" tvg-logo="https://kuasark.com/files/stations-logos/lux-radio-kz.png" group-title="charts", Lux Radio
 https://lux-radio.com:8005/stream
 #EXTINF:-1 tvg-name="Russian Dance Radio" tvg-logo="https://kuasark.com/files/stations-logos/russian-dance-radio.png" group-title="electronic", Russian Dance Radio
@@ -75,22 +69,12 @@ https://lux-radio.com:8025/stream
 https://live.zhanafm.kz:8443/zhanamix
 #EXTINF:-1 tvg-name="Радио Азамат" tvg-logo="https://kuasark.com/files/stations-logos/radio-azamat.png" group-title="chanson", Радио Азамат
 https://listen4.myradio24.com/8162
-#EXTINF:-1 tvg-name="BoomRoom.kz" tvg-logo="https://kuasark.com/files/stations-logos/boomroomkz.png" group-title="electronic", BoomRoom.kz
-https://a5.radioheart.ru:9037/RH3009
-#EXTINF:-1 tvg-name="Жаңа FM - MIX" tvg-logo="https://kuasark.com/files/stations-logos/zaa-fm-mix.png" group-title="pop", Жаңа FM - MIX
-https://live.zhanafm.kz:8443/zhanamix
 #EXTINF:-1 tvg-name="Жаңа FM - Rock" tvg-logo="https://kuasark.com/files/stations-logos/zaa-fm-rock.png" group-title="rock", Жаңа FM - Rock
 https://live.zhanafm.kz:8443/zhanarock
 #EXTINF:-1 tvg-name="Жаңа - Lounge" tvg-logo="https://kuasark.com/files/stations-logos/zaa-lounge.png" group-title="easy listening", Жаңа - Lounge
 https://live.zhanafm.kz:8443/zhanalounge
 #EXTINF:-1 tvg-name="ВАШЕ РАДИО" tvg-logo="https://kuasark.com/files/stations-logos/vase-radio.png" group-title="pop", ВАШЕ РАДИО
 https://live.zhanafm.kz:8443/vasheradio
-#EXTINF:-1 tvg-name="Жаңа - Rock" tvg-logo="https://kuasark.com/files/stations-logos/zaa-rock.png" group-title="rock", Жаңа - Rock
-https://live.zhanafm.kz:8443/zhanarock
-#EXTINF:-1 tvg-name="Жаңа FM - Lounge" tvg-logo="https://kuasark.com/files/stations-logos/zaa-fm-lounge.png" group-title="cafe", Жаңа FM - Lounge
-https://live.zhanafm.kz:8443/zhanalounge
-#EXTINF:-1 tvg-name="Радио Рауан" tvg-logo="https://kuasark.com/files/stations-logos/radio-rauan.png" group-title="pop", Радио Рауан
-https://listen4.myradio24.com/radiosana
 #EXTINF:-1 tvg-name="Жаңа FM - Pioner FM KZ" tvg-logo="https://kuasark.com/files/stations-logos/zaa-fm-pioner-fm-kz.png" group-title="nostalgic", Жаңа FM - Pioner FM KZ
 https://live.zhanafm.kz:8443/pionerfm
 #EXTINF:-1 tvg-name="Радио 90s Eurodance" tvg-logo="https://kuasark.com/files/stations-logos/radio-90s-eurodance.png" group-title="1990s", Радио 90s Eurodance
