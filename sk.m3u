@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="RTVS Rádio Slovensko" tvg-logo="https://kuasark.com/files/stations-logos/rtvs-radio-slovensko.png" group-title="adult", RTVS Rádio Slovensko
+https://icecast.stv.livebox.sk/slovensko_128.mp3
+#EXTINF:-1 tvg-name="Fun Radio" tvg-logo="https://kuasark.com/files/stations-logos/fun-radio-26558.png" group-title="pop", Fun Radio
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 tvg-name="Radio Expres" tvg-logo="https://kuasark.com/files/stations-logos/radio-expres.png" group-title="pop", Radio Expres
+https://stream.expres.sk/128.mp3
+#EXTINF:-1 tvg-name="Rádio Vlna" tvg-logo="https://kuasark.com/files/stations-logos/radio-vlna.png" group-title="1960s", Rádio Vlna
+https://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1 tvg-name="Europa 2" tvg-logo="https://kuasark.com/files/stations-logos/europa-2.png" group-title="adult", Europa 2
+https://stream.bauermedia.sk/europa2.mp3
+#EXTINF:-1 tvg-name="Jemné Melódie" tvg-logo="https://kuasark.com/files/stations-logos/jemne-melodie.png" group-title="adult", Jemné Melódie
+http://stream.bauermedia.sk/melody-hi.mp3
+#EXTINF:-1 tvg-name="Info Vojna" tvg-logo="https://kuasark.com/files/stations-logos/info-vojna.png" group-title="show", Info Vojna
+http://ply.infovojna.bz:8000/live
+#EXTINF:-1 tvg-name="Slobodny Vysielac" tvg-logo="https://kuasark.com/files/stations-logos/slobodny-vysielac.png" group-title="alternative", Slobodny Vysielac
+https://vysielanie.online/radio/8010/aac
+#EXTINF:-1 tvg-name="RTVS Litera" tvg-logo="https://kuasark.com/files/stations-logos/rtvs-litera.png" group-title="culture", RTVS Litera
+https://icecast.stv.livebox.sk/litera_128.mp3
+#EXTINF:-1 tvg-name="RTVS R Junior" tvg-logo="https://kuasark.com/files/stations-logos/rtvs-r-junior.png" group-title="folk", RTVS R Junior
+https://icecast.stv.livebox.sk/junior_128.mp3
+#EXTINF:-1 tvg-name="RTVS Radio FM" tvg-logo="https://kuasark.com/files/stations-logos/rtvs-radio-fm.png" group-title="alternative", RTVS Radio FM
+https://icecast.stv.livebox.sk/fm_128.mp3
+#EXTINF:-1 tvg-name="Rádio Regina Západ" tvg-logo="https://kuasark.com/files/stations-logos/radio-regina-zapad.png" group-title="folk", Rádio Regina Západ
+https://icecast.stv.livebox.sk/regina-ba_128.mp3
+#EXTINF:-1 tvg-name="RTVS R Devin" tvg-logo="https://kuasark.com/files/stations-logos/rtvs-r-devin.png" group-title="alternative", RTVS R Devin
+https://icecast.stv.livebox.sk/devin_128.mp3
+#EXTINF:-1 tvg-name="RTVS R Patria" tvg-logo="https://kuasark.com/files/stations-logos/rtvs-r-patria.png" group-title="folk", RTVS R Patria
+https://icecast.stv.livebox.sk/patria_128.mp3
+#EXTINF:-1 tvg-name="Janko Hrasko" tvg-logo="https://kuasark.com/files/stations-logos/janko-hrasko.png" group-title="folk", Janko Hrasko
+http://78.24.9.110:31088/;
+#EXTINF:-1 tvg-name="Rádio Viva" tvg-logo="https://kuasark.com/files/stations-logos/radio-viva-sk.png" group-title="adult", Rádio Viva
+http://stream.sepia.sk:8000/viva128.mp3
+#EXTINF:-1 tvg-name="RTVS R Pyramída" tvg-logo="https://kuasark.com/files/stations-logos/rtvs-r-pyramida.png" group-title="classical", RTVS R Pyramída
+https://icecast.stv.livebox.sk/klasika_128.mp3
+#EXTINF:-1 tvg-name="Radio Kosice" tvg-logo="https://kuasark.com/files/stations-logos/radio-kosice.png" group-title="pop", Radio Kosice
+http://stream.ecce.sk:8000/radiokosice-128.mp3
+#EXTINF:-1 tvg-name="Rádio Vlna Golden Hits" tvg-logo="https://kuasark.com/files/stations-logos/radio-vlna-golden-hits.png" group-title="hits", Rádio Vlna Golden Hits
+https://stream.radiovlna.sk/gold-hi.mp3
+#EXTINF:-1 tvg-name="RTVS R Slovakia Int" tvg-logo="https://kuasark.com/files/stations-logos/rtvs-r-slovakia-int.png" group-title="culture", RTVS R Slovakia Int
+https://icecast.stv.livebox.sk/rsi_128.mp3
+#EXTINF:-1 tvg-name="80s 90s Party Mix Radio" tvg-logo="https://kuasark.com/files/stations-logos/80s-90s-party-mix-radio.png" group-title="1980s", 80s 90s Party Mix Radio
+https://stream-067.zeno.fm/b4wkbpdn6s8uv?zs=QVX7GUt4TxKwAV8Q1-ZxRg
+#EXTINF:-1 tvg-name="Radio Sity" tvg-logo="https://kuasark.com/files/stations-logos/radio-sity.png" group-title="pop", Radio Sity
+https://radiosity.online:8000/aac
+#EXTINF:-1 tvg-name="HITRADIO SLOVAKIA" tvg-logo="https://kuasark.com/files/stations-logos/hitradio-slovakia.png" group-title="pop", HITRADIO SLOVAKIA
+https://hitradioslovakia.stream.laut.fm/hitradioslovakia?t302=2023-04-25_20-24-35&uuid=a5373936-938a-4648-aa5d-b1bba936904f
+#EXTINF:-1 tvg-name="Radio ROCK" tvg-logo="https://kuasark.com/files/stations-logos/radio-rock-sk.png" group-title="rock", Radio ROCK
+https://stream.bauermedia.sk/rock-hi.mp3
+#EXTINF:-1 tvg-name="Rádio iRock" tvg-logo="https://kuasark.com/files/stations-logos/radio-irock.png" group-title="metal", Rádio iRock
+https://radioserver.online:9927/irockHQ.mp3
+#EXTINF:-1 tvg-name="Classic Rock Radio" tvg-logo="https://kuasark.com/files/stations-logos/classic-rock-radio.png" group-title="rock", Classic Rock Radio
+https://stream-155.zeno.fm/gvz5q869n98uv?zs=h2h9NptuTkezy8eRHzuxjg
+#EXTINF:-1 tvg-name="Radio WOW" tvg-logo="https://kuasark.com/files/stations-logos/radio-wow-sk.png" group-title="adult", Radio WOW
+https://radioserver.online:9816/radiowow.mp3
+#EXTINF:-1 tvg-name="Záhorácke rádio" tvg-logo="https://kuasark.com/files/stations-logos/zahoracke-radio.png" group-title="pop", Záhorácke rádio
+http://live.zahorackeradio.sk:8000/zr128.mp3
+#EXTINF:-1 tvg-name="Rusyn.fm" tvg-logo="https://kuasark.com/files/stations-logos/rusynfm.png" group-title="folk", Rusyn.fm
+http://stream.rusyn.fm/rusyny.mp3
+#EXTINF:-1 tvg-name="Frontinus Radio" tvg-logo="https://kuasark.com/files/stations-logos/frontinus-radio.png" group-title="adult", Frontinus Radio
+http://stream.frontinus.sk:8000/frontinus64.mp3
+#EXTINF:-1 tvg-name="Fun Radio 80's-90's" tvg-logo="https://kuasark.com/files/stations-logos/fun-radio-80s-90s.png" group-title="pop", Fun Radio 80's-90's
+https://stream.funradio.sk:18443/80-90-128.mp3
+#EXTINF:-1 tvg-name="Radio 7" tvg-logo="https://kuasark.com/files/stations-logos/radio-7-sk.png" group-title="bible", Radio 7
+https://play.radio7.sk/128
+#EXTINF:-1 tvg-name="RadioBela" tvg-logo="https://kuasark.com/files/stations-logos/radiobela.png" group-title="rock", RadioBela
+http://65.109.81.84:8855/live
+#EXTINF:-1 tvg-name="Fun Radio CZ-SK" tvg-logo="https://kuasark.com/files/stations-logos/fun-radio-cz-sk.png" group-title="pop", Fun Radio CZ-SK
+https://stream.funradio.sk:18443/cs128.mp3
+#EXTINF:-1 tvg-name="Radio Tatras International" tvg-logo="https://kuasark.com/files/stations-logos/radio-tatras-international.png" group-title="pop", Radio Tatras International
+http://s32.myradiostream.com:10486/;
+#EXTINF:-1 tvg-name="SKY Rádio" tvg-logo="https://kuasark.com/files/stations-logos/sky-radio-sk.png" group-title="pop", SKY Rádio
+http://stream.skyradio.sk:8000/sky128
+#EXTINF:-1 tvg-name="Fun Radio Dance" tvg-logo="https://kuasark.com/files/stations-logos/fun-radio-dance.png" group-title="pop", Fun Radio Dance
+https://stream.funradio.sk:18443/dance128.mp3
+#EXTINF:-1 tvg-name="BB FM rádio" tvg-logo="https://kuasark.com/files/stations-logos/bb-fm-radio.png" group-title="adult", BB FM rádio
+http://stream.bbfm.sk/bbfm128.mp3
+#EXTINF:-1 tvg-name="FRESH rádio" tvg-logo="https://kuasark.com/files/stations-logos/fresh-radio.png" group-title="adult", FRESH rádio
+https://icecast2.radionet.sk/freshradio.sk
+#EXTINF:-1 tvg-name="Rádio Aetter" tvg-logo="https://kuasark.com/files/stations-logos/radio-aetter.png" group-title="pop", Rádio Aetter
+https://stream.aetter.sk/aetter
+#EXTINF:-1 tvg-name="Radio Biblia SK" tvg-logo="https://kuasark.com/files/stations-logos/radio-biblia-sk.png" group-title="gospel", Radio Biblia SK
+http://radiobiblia.online:8000/stream.ogg
+#EXTINF:-1 tvg-name="Rádio Logos" tvg-logo="https://kuasark.com/files/stations-logos/radio-logos.png" group-title="gospel", Rádio Logos
+https://radio.wanderingsheep.net/radio/8120/live.mp3
+#EXTINF:-1 tvg-name="Rádio Topoľčany" tvg-logo="https://kuasark.com/files/stations-logos/radio-topolcany.png" group-title="pop", Rádio Topoľčany
+http://80.242.44.249:8000/;
+#EXTINF:-1 tvg-name="Fun Radio Chill" tvg-logo="https://kuasark.com/files/stations-logos/fun-radio-chill.png" group-title="pop", Fun Radio Chill
+https://stream.funradio.sk:8000/chill128.mp3
+#EXTINF:-1 tvg-name="Mária Rádió" tvg-logo="https://kuasark.com/files/stations-logos/maria-radio.png" group-title="bible", Mária Rádió
+https://dreamsiteradiocp5.com/proxy/rmslo?mp=/stream
+#EXTINF:-1 tvg-name="Radio Zabava" tvg-logo="https://kuasark.com/files/stations-logos/radio-zabava-124750.png" group-title="folk", Radio Zabava
+https://stream-162.zeno.fm/h07g40cx1nhvv?zs=0JpL2H89RFOo_XmpVS6FBA
+#EXTINF:-1 tvg-name="SRo5 Rádio Pátria /RSI" tvg-logo="https://kuasark.com/files/stations-logos/sro5-radio-patria-rsi.png" group-title="culture", SRo5 Rádio Pátria /RSI
+http://live.slovakradio.sk:8000/Patria_128.mp3
+#EXTINF:-1 tvg-name="Rádio Modra" tvg-logo="https://kuasark.com/files/stations-logos/radio-modra.png", Rádio Modra
+http://185.98.208.12:8000/;
+#EXTINF:-1 tvg-name="Rádio Rebeca" tvg-logo="https://kuasark.com/files/stations-logos/radio-rebeca.png" group-title="pop", Rádio Rebeca
+https://mpc2.mediacp.eu:8200/rebecaweb
+#EXTINF:-1 tvg-name="SRo8 Rádio Litera" tvg-logo="https://kuasark.com/files/stations-logos/sro8-radio-litera.png" group-title="am", SRo8 Rádio Litera
+http://icecast.stv.livebox.sk/litera_128.mp3
+#EXTINF:-1 tvg-name="SRo2 Rádio Regina Stred" tvg-logo="https://kuasark.com/files/stations-logos/sro2-radio-regina-stred.png" group-title="culture", SRo2 Rádio Regina Stred
+http://icecast.stv.livebox.sk/regina-bb_128.mp3
+#EXTINF:-1 tvg-name="SRo2 Rádio Regina Východ" tvg-logo="https://kuasark.com/files/stations-logos/sro2-radio-regina-vychod.png" group-title="culture", SRo2 Rádio Regina Východ
+http://icecast.stv.livebox.sk/regina-ke_128.mp3
+#EXTINF:-1 tvg-name="Rádio Beta - Hráme jubilantom" tvg-logo="https://kuasark.com/files/stations-logos/radio-beta-hrame-jubilantom.png", Rádio Beta - Hráme jubilantom
+http://109.71.67.102:8000/beta_jubilanti.mp3
+#EXTINF:-1 tvg-name="SRo1 Rádio Slovensko" tvg-logo="https://kuasark.com/files/stations-logos/sro1-radio-slovensko.png" group-title="culture", SRo1 Rádio Slovensko
+http://live.slovakradio.sk:8000/Slovensko_128.mp3
+#EXTINF:-1 tvg-name="Fun Radio CZ" tvg-logo="https://kuasark.com/files/stations-logos/fun-radio-cz.png", Fun Radio CZ
+http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 tvg-name="Fun Radio 80&90" tvg-logo="https://kuasark.com/files/stations-logos/fun-radio-8090.png" group-title="1980s", Fun Radio 80&90
+http://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1 tvg-name="SRo4 Rádio FM" tvg-logo="https://kuasark.com/files/stations-logos/sro4-radio-fm.png" group-title="alternative", SRo4 Rádio FM
+http://live.slovakradio.sk:8000/FM_256.mp3
+#EXTINF:-1 tvg-name="SRo9 Rádio Junior" tvg-logo="https://kuasark.com/files/stations-logos/sro9-radio-junior.png" group-title="childrens", SRo9 Rádio Junior
+http://live.slovakradio.sk:8000/Junior_128.mp3
+#EXTINF:-1 tvg-name="Rádio Lumen" tvg-logo="https://kuasark.com/files/stations-logos/radio-lumen.png" group-title="bible", Rádio Lumen
+http://audio.lumen.sk:8000/live128.mp3
+#EXTINF:-1 tvg-name="Rádio Beta - Hity 80's a 90's" tvg-logo="https://kuasark.com/files/stations-logos/radio-beta-hity-80s-a-90s.png" group-title="1980s", Rádio Beta - Hity 80's a 90's
+http://109.71.67.102:8000/beta_80a90.mp3
+#EXTINF:-1 tvg-name="Rádio Frontinus" tvg-logo="https://kuasark.com/files/stations-logos/radio-frontinus.png" group-title="pop", Rádio Frontinus
+http://stream.frontinus.sk:8000/frontinus128.mp3
+#EXTINF:-1 tvg-name="Rádio Litera" tvg-logo="https://kuasark.com/files/stations-logos/radio-litera.png", Rádio Litera
+http://live.slovakradio.sk:8000/Litera_256.mp3
+#EXTINF:-1 tvg-name="Rádio Maria Slovensko" tvg-logo="https://kuasark.com/files/stations-logos/radio-maria-slovensko.png" group-title="love", Rádio Maria Slovensko
+http://dreamsiteradiocp5.com:8012/streaming.mp3
+#EXTINF:-1 tvg-name="SRo1 Rádio Slovensko (256k)" tvg-logo="https://kuasark.com/files/stations-logos/sro1-radio-slovensko-256k.png" group-title="love", SRo1 Rádio Slovensko (256k)
+http://live.slovakradio.sk:8000/Slovensko_256.mp3
+#EXTINF:-1 tvg-name="Mirjam Rádio - Mária Rádió Felvidék" tvg-logo="https://kuasark.com/files/stations-logos/mirjam-radio-maria-radio-felvidek.png", Mirjam Rádio - Mária Rádió Felvidék
+http://193.87.81.131:8081/MariaRadioFelvidek
+#EXTINF:-1 tvg-name="Rádio Beta - České a Slovenské hity" tvg-logo="https://kuasark.com/files/stations-logos/radio-beta-ceske-a-slovenske-hity.png" group-title="hits", Rádio Beta - České a Slovenské hity
+http://109.71.67.102:8000/beta_cspop.mp3
+#EXTINF:-1 tvg-name="Trnavské rádio" tvg-logo="https://kuasark.com/files/stations-logos/trnavske-radio.png", Trnavské rádio
+https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske
+#EXTINF:-1 tvg-name="Repete" tvg-logo="https://kuasark.com/files/stations-logos/repete.png" group-title="classical", Repete
+http://stream.rusyn.fm/rusyny-low.mp3
+#EXTINF:-1 tvg-name="Rádio Jupiter" tvg-logo="https://kuasark.com/files/stations-logos/radio-jupiter-sk.png", Rádio Jupiter
+http://stream.radiojupiter.sk:8000/jupiter_64.aac
+#EXTINF:-1 tvg-name="Rádio Šírava" tvg-logo="https://kuasark.com/files/stations-logos/radio-sirava.png" group-title="pop", Rádio Šírava
+https://radioserver.online:9936/radiosirava.mp3
+#EXTINF:-1 tvg-name="METALSCENA netRADIO" tvg-logo="https://kuasark.com/files/stations-logos/metalscena-netradio.png" group-title="epic metal", METALSCENA netRADIO
+https://listen.radioking.com/radio/263218/stream/308365
+#EXTINF:-1 tvg-name="Rádio Logos" tvg-logo="https://kuasark.com/files/stations-logos/radio-logos-sk.png" group-title="bible", Rádio Logos
+http://radioserver.online:8824/;
+#EXTINF:-1 tvg-name="Duflo Radio" tvg-logo="https://kuasark.com/files/stations-logos/duflo-radio.png" group-title="classical", Duflo Radio
+http://stream-150.zeno.fm/kxwhyvz2fm0uv?zs=kMnKfCbyQgS5a8Qt1_VVXA
+#EXTINF:-1 tvg-name="Rádio Beta" tvg-logo="https://kuasark.com/files/stations-logos/radio-beta.png" group-title="pop", Rádio Beta
+http://109.71.67.102:8000/beta_live_high.mp3
+#EXTINF:-1 tvg-name="G-Radio" tvg-logo="https://kuasark.com/files/stations-logos/g-radio.png", G-Radio
+http://88.212.34.18:8050/mp3midband
+#EXTINF:-1 tvg-name="House Radio" tvg-logo="https://kuasark.com/files/stations-logos/house-radio-sk.png" group-title="electronic", House Radio
+http://stream-046.zeno.fm/qm8e21gta18uv?zs=PVVUHjy2QG-5oKNcD7JXmw
+#EXTINF:-1 tvg-name="Party Mix Radio" tvg-logo="https://kuasark.com/files/stations-logos/party-mix-radio.png" group-title="electronic", Party Mix Radio
+http://stream-154.zeno.fm/rw6ckefezs8uv?zs=nHOBMFNtTTmbRfsrvINdyw
+#EXTINF:-1 tvg-name="TLIS Rádio" tvg-logo="https://kuasark.com/files/stations-logos/tlis-radio.png", TLIS Rádio
+https://stream.tlis.sk/tlis.mp3
+#EXTINF:-1 tvg-name="Infovojna" tvg-logo="https://kuasark.com/files/stations-logos/infovojna-sk-67515.png" group-title="news", Infovojna
+http://159.69.219.5:8010/aac
+#EXTINF:-1 tvg-name="Sllobodný vysielač" tvg-logo="https://kuasark.com/files/stations-logos/sllobodny-vysielac.png", Sllobodný vysielač
+http://159.69.219.5:8010//aac
+#EXTINF:-1 tvg-name="Rádio Rock SV" tvg-logo="https://kuasark.com/files/stations-logos/radio-rock-sv-sk.png" group-title="rock", Rádio Rock SV
+https://s2.myradiostream.com/:4870/listen.mp3
+#EXTINF:-1 tvg-name="Rádio Paráda" tvg-logo="https://kuasark.com/files/stations-logos/radio-parada-sk.png" group-title="folk", Rádio Paráda
+https://extra.mediacp.eu/stream/RadioParada,o.z.
+#EXTINF:-1 tvg-name="Rádio v Nitre" tvg-logo="https://kuasark.com/files/stations-logos/radio-v-nitre.png" group-title="pop", Rádio v Nitre
+http://195.210.28.150:8932/radiovnitre_live.mp3
+#EXTINF:-1 tvg-name="Detské rádio" tvg-logo="https://kuasark.com/files/stations-logos/detske-radio.png", Detské rádio
+https://stream.21.sk/detskeradio-192.mp3
+#EXTINF:-1 tvg-name="SUB:FM" tvg-logo="https://kuasark.com/files/stations-logos/subfm.png" group-title="electronic", SUB:FM
+http://stream.subfm.sk/subfm
+#EXTINF:-1 tvg-name="Infovojna 128 kb/s" tvg-logo="https://kuasark.com/files/stations-logos/infovojna-128-kb-s.png" group-title="news", Infovojna 128 kb/s
+http://stream3.infovojna.bz:8000/live
+#EXTINF:-1 tvg-name="Rádio Jazz" tvg-logo="https://kuasark.com/files/stations-logos/radio-jazz-sk.png" group-title="jazz", Rádio Jazz
+http://stream.sepia.sk:8000/jazz128.mp3
+#EXTINF:-1 tvg-name="Kosice International ATC" tvg-logo="https://kuasark.com/files/stations-logos/kosice-international-atc.png" group-title="active", Kosice International ATC
+http://s1-fmt2.liveatc.net:80/lzkz?nocache=2023051507230953451
+#EXTINF:-1 tvg-name="Rádio Košice BA" tvg-logo="https://kuasark.com/files/stations-logos/radio-kosice-ba.png" group-title="pop", Rádio Košice BA
+http://176.102.98.74:8000/radiokosice-ba-128.mp3
+#EXTINF:-1 tvg-name="Rusyn FM" tvg-logo="https://kuasark.com/files/stations-logos/rusyn-fm.png" group-title="folk", Rusyn FM
+https://stream.rusyn.fm/rusyny.mp3
+#EXTINF:-1 tvg-name="Rádio Vlna CLASSIC ROCK" tvg-logo="https://kuasark.com/files/stations-logos/radio-vlna-classic-rock.png" group-title="rock", Rádio Vlna CLASSIC ROCK
+http://stream.radiovlna.sk:8000/rock-hi.mp3
+#EXTINF:-1 tvg-name="Radio Dychovka" tvg-logo="https://kuasark.com/files/stations-logos/radio-dychovka.png" group-title="folk", Radio Dychovka
+https://epanel.mediacp.eu:7661/stream
+#EXTINF:-1 tvg-name="Rádio X - Folklore X" tvg-logo="https://kuasark.com/files/stations-logos/radio-x-folklore-x.png" group-title="ethnic", Rádio X - Folklore X
+http://158.193.82.41:8000/ludovky.mp3
