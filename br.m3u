@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Antena 1" tvg-logo="https://kuasark.com/files/stations-logos/antena-1-br.png" group-title="pop", Antena 1
+https://antenaone.crossradio.com.br/stream/2;
+#EXTINF:-1 tvg-name="Mix FM" tvg-logo="https://kuasark.com/files/stations-logos/mix-fm-br-26484.png" group-title="adult", Mix FM
+https://26643.live.streamtheworld.com:443/MIXFM_SAOPAULOAAC.aac
+#EXTINF:-1 tvg-name="Rádio Gaúcha" tvg-logo="https://kuasark.com/files/stations-logos/radio-gaucha.png" group-title="brazilian music", Rádio Gaúcha
+https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="1.FM - Love Classics" tvg-logo="https://kuasark.com/files/stations-logos/1fm-love-classics.png" group-title="adult", 1.FM - Love Classics
+http://strm112.1.fm/loveclassics_mobile_mp3
+#EXTINF:-1 tvg-name="89 FM A Rádio Rock" tvg-logo="https://kuasark.com/files/stations-logos/89-fm-a-radio-rock.png" group-title="metal", 89 FM A Rádio Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac
+#EXTINF:-1 tvg-name="FM O Dia" tvg-logo="https://kuasark.com/files/stations-logos/fm-o-dia-br-83562.png" group-title="hip hop", FM O Dia
+https://streaming.livespanel.com:20000/live
+#EXTINF:-1 tvg-name="Super Rádio Tupi" tvg-logo="https://kuasark.com/files/stations-logos/super-radio-tupi-br-85998.png" group-title="brazilian music", Super Rádio Tupi
+https://8923.brasilstream.com.br/stream
+#EXTINF:-1 tvg-name="Rádio Só FlashBack" tvg-logo="https://kuasark.com/files/stations-logos/radio-so-flashback.png" group-title="pop", Rádio Só FlashBack
+https://servidor40-5.brlogic.com:8122/live
+#EXTINF:-1 tvg-name="Rádio Scalla Instrumental" tvg-logo="https://kuasark.com/files/stations-logos/radio-scalla-instrumental.png" group-title="ambient", Rádio Scalla Instrumental
+https://hts02.kshost.com.br:9710/live
+#EXTINF:-1 tvg-name="Radio Gold Instrumental" tvg-logo="https://kuasark.com/files/stations-logos/radio-gold-instrumental.png" group-title="easy", Radio Gold Instrumental
+https://centova.svdns.com.br:19373/;stream.nsv
+#EXTINF:-1 tvg-name="Bossa Nova Brazil" tvg-logo="https://kuasark.com/files/stations-logos/bossa-nova-brazil.png" group-title="bossa nova", Bossa Nova Brazil
+https://radio2.vip-radios.fm:18009/stream-128kmp3-BossaNovaBrazil
+#EXTINF:-1 tvg-name="Energia 97 FM" tvg-logo="https://kuasark.com/files/stations-logos/energia-97-fm.png" group-title="electronic", Energia 97 FM
+https://streaming.inweb.com.br/energia
+#EXTINF:-1 tvg-name="Sweet Melodies" tvg-logo="https://kuasark.com/files/stations-logos/sweet-melodies.png" group-title="easy", Sweet Melodies
+https://radio.sweetmelodies.tk:8000/stream1
+#EXTINF:-1 tvg-name="Rádio 105 FM" tvg-logo="https://kuasark.com/files/stations-logos/radio-105-fm-br-64666.png" group-title="rap", Rádio 105 FM
+https://appradio.app:8010//live
+#EXTINF:-1 tvg-name="Rádio Band FM" tvg-logo="https://kuasark.com/files/stations-logos/radio-band-fm.png" group-title="pop", Rádio Band FM
+https://27413.live.streamtheworld.com:443/BANDFM_SPAAC.aac
+#EXTINF:-1 tvg-name="Vagalume.FM - O Melhor de Bob Marley" tvg-logo="https://kuasark.com/files/stations-logos/vagalumefm-o-melhor-de-bob-marley.png" group-title="reggae", Vagalume.FM - O Melhor de Bob Marley
+https://stream.vagalume.fm/hls/1524167056721891/aac.m3u8
+#EXTINF:-1 tvg-name="LOVETIMES | Romantic Music Hits" tvg-logo="https://kuasark.com/files/stations-logos/lovetimes-romantic-music-hits.png" group-title="easy", LOVETIMES | Romantic Music Hits
+https://c15.radioboss.fm:18152/stream
+#EXTINF:-1 tvg-name="Radio Dumont FM" tvg-logo="https://kuasark.com/files/stations-logos/radio-dumont-fm.png" group-title="electronic", Radio Dumont FM
+https://up-continental.webnow.com.br/dumont.aac
+#EXTINF:-1 tvg-name="Hunter.FM - Hitz" tvg-logo="https://kuasark.com/files/stations-logos/hunterfm-hitz.png" group-title="pop", Hunter.FM - Hitz
+https://live.hunter.fm/pop_high
+#EXTINF:-1 tvg-name="Rádio Itatiaia" tvg-logo="https://kuasark.com/files/stations-logos/radio-itatiaia.png" group-title="brazilian music", Rádio Itatiaia
+https://8903.brasilstream.com.br/stream
+#EXTINF:-1 tvg-name="Rádio Bossa Jazz Brasil" tvg-logo="https://kuasark.com/files/stations-logos/radio-bossa-jazz-brasil.png" group-title="brazilian pop", Rádio Bossa Jazz Brasil
+https://centova5.transmissaodigital.com:20104/live
+#EXTINF:-1 tvg-name="Rádio Reggae Jamaicana" tvg-logo="https://kuasark.com/files/stations-logos/radio-reggae-jamaicana.png" group-title="reggae", Rádio Reggae Jamaicana
+https://s25.maxcast.com.br:8136/live
+#EXTINF:-1 tvg-name="Rádio Estilo FM" tvg-logo="https://kuasark.com/files/stations-logos/radio-estilo-fm.png" group-title="adult", Rádio Estilo FM
+https://cloud1.cdnseguro.com:20492/stream
+#EXTINF:-1 tvg-name="Rádio Metropolitana Sertanejo" tvg-logo="https://kuasark.com/files/stations-logos/radio-metropolitana-sertanejo.png" group-title="sertanejo", Rádio Metropolitana Sertanejo
+https://ice.fabricahost.com.br/metrospsertanejo
+#EXTINF:-1 tvg-name="Radio Atlântida FM" tvg-logo="https://kuasark.com/files/stations-logos/radio-atlantida-fm.png" group-title="pop", Radio Atlântida FM
+https://1852747t.ha.azioncdn.net/primary/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio 80's Best 4" tvg-logo="https://kuasark.com/files/stations-logos/radio-80s-best-4.png" group-title="1980s", Radio 80's Best 4
+https://stream-158.zeno.fm/qwyzbw7wgnruv?zs=WUvirBHpR_eqwgi31-yG-w
+#EXTINF:-1 tvg-name="Dance Music 90" tvg-logo="https://kuasark.com/files/stations-logos/dance-music-90.png" group-title="1990s", Dance Music 90
+http://stm17.xcast.com.br:9404/stream
+#EXTINF:-1 tvg-name="Rádio Nova Instrumental" tvg-logo="https://kuasark.com/files/stations-logos/radio-nova-instrumental.png" group-title="classical", Rádio Nova Instrumental
+https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream
+#EXTINF:-1 tvg-name="Radio Retro" tvg-logo="https://kuasark.com/files/stations-logos/radio-retro-17954.png" group-title="brazilian music", Radio Retro
+https://s1.reliastream.com/proxy/radioret?mp=/stream//stream
+#EXTINF:-1 tvg-name="Feliz FM" tvg-logo="https://kuasark.com/files/stations-logos/feliz-fm.png" group-title="gospel", Feliz FM
+https://cloud1.cdnseguro.com:5520/;
+#EXTINF:-1 tvg-name="Rádio Só Kakarecos Disco" tvg-logo="https://kuasark.com/files/stations-logos/radio-so-kakarecos-disco.png" group-title="disco", Rádio Só Kakarecos Disco
+http://sokakarecos.ddns.net:9000/disco128
+#EXTINF:-1 tvg-name="Rádio Maanaim" tvg-logo="https://kuasark.com/files/stations-logos/radio-maanaim.png" group-title="gospel", Rádio Maanaim
+http://radiostream01.radiomaanaim.com.br:1935/liverm/rmaac/chunklist_w1919834617.m3u8
+#EXTINF:-1 tvg-name="Gazeta FM" tvg-logo="https://kuasark.com/files/stations-logos/gazeta-fm-br-80408.png" group-title="pop", Gazeta FM
+https://shout25.crossradio.com.br:18002/1;/stream/1;
+#EXTINF:-1 tvg-name="Rádio Túnel do Tempo" tvg-logo="https://kuasark.com/files/stations-logos/radio-tunel-do-tempo.png" group-title="1970s", Rádio Túnel do Tempo
+https://player.xcast.com.br/proxy/8104
+#EXTINF:-1 tvg-name="Rádio Gospel Campinas" tvg-logo="https://kuasark.com/files/stations-logos/radio-gospel-campinas.png" group-title="gospel", Rádio Gospel Campinas
+http://centova.nardele.com.br:4343/stream.mp3
+#EXTINF:-1 tvg-name="Vagalume.FM - K-Pop" tvg-logo="https://kuasark.com/files/stations-logos/vagalumefm-k-pop.png" group-title="k pop", Vagalume.FM - K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+#EXTINF:-1 tvg-name="Rádio Massa FM" tvg-logo="https://kuasark.com/files/stations-logos/radio-massa-fm.png" group-title="pop", Rádio Massa FM
+https://stm01.virtualcast.com.br:8000/live
+#EXTINF:-1 tvg-name="Vagalume.FM - Disney Hits" tvg-logo="https://kuasark.com/files/stations-logos/vagalumefm-disney-hits.png" group-title="soundtracks", Vagalume.FM - Disney Hits
+https://stream.vagalume.fm/hls/1520610897818233/aac.m3u8
+#EXTINF:-1 tvg-name="Rádio Planet Rock" tvg-logo="https://kuasark.com/files/stations-logos/radio-planet-rock.png" group-title="pop", Rádio Planet Rock
+https://s44.maxcast.com.br:8056/live
+#EXTINF:-1 tvg-name="MPB FM" tvg-logo="https://kuasark.com/files/stations-logos/mpb-fm.png" group-title="adult", MPB FM
+https://stream-057.zeno.fm/81xnm788e3quv?zs=QHdaEEiUQMCQ8LFVTf0vxA
+#EXTINF:-1 tvg-name="Rádio Studio Souto - Sertaneja" tvg-logo="https://kuasark.com/files/stations-logos/radio-studio-souto-sertaneja.png" group-title="sertanejo", Rádio Studio Souto - Sertaneja
+https://centova5.transmissaodigital.com:20036/;
+#EXTINF:-1 tvg-name="Rádio Dance Anos 90" tvg-logo="https://kuasark.com/files/stations-logos/radio-dance-anos-90-br-103028.png" group-title="pop", Rádio Dance Anos 90
+https://stream-036.zeno.fm/zx9h2b61u8quv?zs=WejYVPiTQ5qfRHleJYQ-dA
+#EXTINF:-1 tvg-name="Rádio Reggae Brasil" tvg-logo="https://kuasark.com/files/stations-logos/radio-reggae-brasil.png" group-title="reggae", Rádio Reggae Brasil
+https://casthttps.suaradionanet.net/13805/stream
+#EXTINF:-1 tvg-name="Vagalume.FM - Samba e Pagode" tvg-logo="https://kuasark.com/files/stations-logos/vagalumefm-samba-e-pagode.png" group-title="dance music", Vagalume.FM - Samba e Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:-1 tvg-name="Rádio Gospel FM" tvg-logo="https://kuasark.com/files/stations-logos/radio-gospel-fm-br-25045.png" group-title="gospel", Rádio Gospel FM
+https://www.appradio.app:8161/live
+#EXTINF:-1 tvg-name="GOLD WEB RADIO (224k)" tvg-logo="https://kuasark.com/files/stations-logos/gold-web-radio-224k.png" group-title="classical", GOLD WEB RADIO (224k)
+https://centova.svdns.com.br:19418/stream2
+#EXTINF:-1 tvg-name="Gospel Mix SP" tvg-logo="https://kuasark.com/files/stations-logos/gospel-mix-sp.png" group-title="gospel", Gospel Mix SP
+https://servidor30-2.brlogic.com:8252/live
+#EXTINF:-1 tvg-name="Rádio Romântica Love" tvg-logo="https://kuasark.com/files/stations-logos/radio-romantica-love.png" group-title="adult", Rádio Romântica Love
+https://s11.w3bserver.com/radio/8030/love64.aac
+#EXTINF:-1 tvg-name="91 Rock" tvg-logo="https://kuasark.com/files/stations-logos/91-rock.png" group-title="rock", 91 Rock
+https://servidor40.brlogic.com:8044/live
+#EXTINF:-1 tvg-name="Portal Clube do Rei" tvg-logo="https://kuasark.com/files/stations-logos/portal-clube-do-rei.png" group-title="retro", Portal Clube do Rei
+https://s46.maxcast.com.br:8206/live
+#EXTINF:-1 tvg-name="Rádio Metropolitana MPB" tvg-logo="https://kuasark.com/files/stations-logos/radio-metropolitana-mpb.png" group-title="funk", Rádio Metropolitana MPB
+https://ice.fabricahost.com.br/metropolitanampb
+#EXTINF:-1 tvg-name="Vagalume.FM - O Melhor de Pink Floyd" tvg-logo="https://kuasark.com/files/stations-logos/vagalumefm-o-melhor-de-pink-floyd.png" group-title="rock", Vagalume.FM - O Melhor de Pink Floyd
+https://stream.vagalume.fm/hls/1498583990653093/aac.m3u8
+#EXTINF:-1 tvg-name="Radio Aparecida" tvg-logo="https://kuasark.com/files/stations-logos/radio-aparecida.png" group-title="brazilian pop", Radio Aparecida
+https://aparecida.jmvstream.com/stream
+#EXTINF:-1 tvg-name="Vagalume.FM - Rap e Hip Hop" tvg-logo="https://kuasark.com/files/stations-logos/vagalumefm-rap-e-hip-hop.png" group-title="hip hop", Vagalume.FM - Rap e Hip Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+#EXTINF:-1 tvg-name="Euro 90's - Dance 90's" tvg-logo="https://kuasark.com/files/stations-logos/euro-90s-dance-90s.png" group-title="1990s", Euro 90's - Dance 90's
+https://stream-156.zeno.fm/g1u270e2ybruv?zs=wSJ2dXS_RVCyed3LXiLWvA
+#EXTINF:-1 tvg-name="Rádio Estrela da Manhã Kids" tvg-logo="https://kuasark.com/files/stations-logos/radio-estrela-da-manha-kids.png" group-title="gospel", Rádio Estrela da Manhã Kids
+https://ssl.painelcast.com:6680/;
+#EXTINF:-1 tvg-name="Rádio Cocais FM" tvg-logo="https://kuasark.com/files/stations-logos/radio-cocais-fm.png" group-title="pop", Rádio Cocais FM
+https://webradio.amsolution.com.br/radio/8230/cocais
+#EXTINF:-1 tvg-name="Rádio Profecia Expresso Kids" tvg-logo="https://kuasark.com/files/stations-logos/radio-profecia-expresso-kids.png" group-title="childrens", Rádio Profecia Expresso Kids
+https://stream-150.zeno.fm/wy0rcktb3d0uv?zs=RCcAbDKqTRKnqKSEFZt3nA
+#EXTINF:-1 tvg-name="Radio Grenal" tvg-logo="https://kuasark.com/files/stations-logos/radio-grenal-br-10873.png" group-title="football", Radio Grenal
+https://grenal.audiostream.com.br:20000/aac
+#EXTINF:-1 tvg-name="Mega Rádio Kids" tvg-logo="https://kuasark.com/files/stations-logos/mega-radio-kids.png" group-title="childrens", Mega Rádio Kids
+https://stream-156.zeno.fm/yuu82xwymwzuv?zs=nzbZwljqTRi87a_Uix9xAg
+#EXTINF:-1 tvg-name="Rádio Dom Bosco" tvg-logo="https://kuasark.com/files/stations-logos/radio-dom-bosco.png" group-title="college", Rádio Dom Bosco
+https://stream-040.zeno.fm/wb1ptm05dkhvv?zs=i1JWp3V7SX2OuJtzN9oAbg
+#EXTINF:-1 tvg-name="Rádio Studio Souto - Love Songs" tvg-logo="https://kuasark.com/files/stations-logos/radio-studio-souto-love-songs.png" group-title="romantic", Rádio Studio Souto - Love Songs
+https://centova5.transmissaodigital.com:20022/;
+#EXTINF:-1 tvg-name="Sertaneja Pop" tvg-logo="https://kuasark.com/files/stations-logos/sertaneja-pop.png" group-title="pop", Sertaneja Pop
+https://srv2.andradedeveloper.net/listen/sertanejapop/radio.mp3
+#EXTINF:-1 tvg-name="Vagalume.FM - Funk" tvg-logo="https://kuasark.com/files/stations-logos/vagalumefm-funk.png" group-title="funk", Vagalume.FM - Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+#EXTINF:-1 tvg-name="Rádio Mini Kids" tvg-logo="https://kuasark.com/files/stations-logos/radio-mini-kids.png" group-title="childrens", Rádio Mini Kids
+https://stream-150.zeno.fm/shgv9qu39f0uv?zs=uCJWLE82Qw2GjH_4kC5uYw
+#EXTINF:-1 tvg-name="Rádio Studio Souto - Sertanejo Universitário" tvg-logo="https://kuasark.com/files/stations-logos/radio-studio-souto-sertanejo-universitario.png" group-title="sertanejo", Rádio Studio Souto - Sertanejo Universitário
+https://centova5.transmissaodigital.com:20042/;
+#EXTINF:-1 tvg-name="Tropical FM" tvg-logo="https://kuasark.com/files/stations-logos/tropical-fm-br-93752.png" group-title="adult", Tropical FM
+https://8199.brasilstream.com.br/stream
+#EXTINF:-1 tvg-name="Rádio Diário" tvg-logo="https://kuasark.com/files/stations-logos/radio-diario-br-80788.png" group-title="pop", Rádio Diário
+https://rrdns-megasistema.webnow.com.br/diario.aac?v=2324
+#EXTINF:-1 tvg-name="Rádio Espírita Sementinha de Luz" tvg-logo="https://kuasark.com/files/stations-logos/radio-espirita-sementinha-de-luz.png" group-title="gospel", Rádio Espírita Sementinha de Luz
+https://stream-151.zeno.fm/5zafh0egfg8uv?zs=e9XMQceUS_aXVj5HKmog8w
+#EXTINF:-1 tvg-name="Rede Brasil de Comunicação" tvg-logo="https://kuasark.com/files/stations-logos/rede-brasil-de-comunicacao.png" group-title="gospel", Rede Brasil de Comunicação
+https://directradios.net/proxy/rbc2?mp=/stream
+#EXTINF:-1 tvg-name="Live Mix" tvg-logo="https://kuasark.com/files/stations-logos/live-mix.png" group-title="electronic", Live Mix
+https://streaming.inweb.com.br/livemix
+#EXTINF:-1 tvg-name="Animu FM" tvg-logo="https://kuasark.com/files/stations-logos/animu-fm.png" group-title="anime", Animu FM
+https://cast.animu.com.br:9079/stream
+#EXTINF:-1 tvg-name="Rádio do Tio Pipa" tvg-logo="https://kuasark.com/files/stations-logos/radio-do-tio-pipa.png" group-title="pop", Rádio do Tio Pipa
+https://stream-061.zeno.fm/zbekt3atehruv?zs=MPtY6D7vSlmew1ouKzXtqw
+#EXTINF:-1 tvg-name="Rádio Raiz Sertaneja" tvg-logo="https://kuasark.com/files/stations-logos/radio-raiz-sertaneja.png" group-title="sertanejo", Rádio Raiz Sertaneja
+https://free.rcast.net/66450
+#EXTINF:-1 tvg-name="Rádio Studio Souto - Hip Hop" tvg-logo="https://kuasark.com/files/stations-logos/radio-studio-souto-hip-hop.png" group-title="hip hop", Rádio Studio Souto - Hip Hop
+https://centova5.transmissaodigital.com:20019/;
+#EXTINF:-1 tvg-name="Rádio Metropolitana POP" tvg-logo="https://kuasark.com/files/stations-logos/radio-metropolitana-pop.png" group-title="pop", Rádio Metropolitana POP
+https://ice.fabricahost.com.br/metrosppop
+#EXTINF:-1 tvg-name="Rádio 80 FM" tvg-logo="https://kuasark.com/files/stations-logos/radio-80-fm-br-106327.png" group-title="pop", Rádio 80 FM
+https://centova.euroti.com.br:20001/1/stream.mp3
+#EXTINF:-1 tvg-name="Rádio Novas De Paz FM" tvg-logo="https://kuasark.com/files/stations-logos/radio-novas-de-paz-fm-br-112232.png" group-title="gospel", Rádio Novas De Paz FM
+https://radio.saopaulo01.com.br/8304/stream
+#EXTINF:-1 tvg-name="Rádio Ouro Verde" tvg-logo="https://kuasark.com/files/stations-logos/radio-ouro-verde.png" group-title="pop", Rádio Ouro Verde
+https://servidor18.brlogic.com:7484/live
+#EXTINF:-1 tvg-name="Rádio Geração Kids" tvg-logo="https://kuasark.com/files/stations-logos/radio-geracao-kids.png" group-title="pop", Rádio Geração Kids
+https://servidor.geracaoradios.com/listen/kids/stream
+#EXTINF:-1 tvg-name="Rádio Viola de Ouro" tvg-logo="https://kuasark.com/files/stations-logos/radio-viola-de-ouro.png" group-title="country", Rádio Viola de Ouro
+https://hts02.kshost.com.br:9322/live
+#EXTINF:-1 tvg-name="Vagalume.FM - Deep House Mix" tvg-logo="https://kuasark.com/files/stations-logos/vagalumefm-deep-house-mix.png" group-title="deep house", Vagalume.FM - Deep House Mix
+https://stream.vagalume.fm/hls/1470426692759789/aac.m3u8
+#EXTINF:-1 tvg-name="Hunter.FM - Sertanejo" tvg-logo="https://kuasark.com/files/stations-logos/hunterfm-sertanejo.png" group-title="country", Hunter.FM - Sertanejo
+https://hls.hunter.fm/sertanejo/192.m3u8?shtl=B0sbOBOgnImf8fSgQcQ2quFH.5amnWJ5rysBo3jVPc%2FwW9L2kOXdH2E%2BBYCQgtt%2BRL0s
+#EXTINF:-1 tvg-name="Dj Eduardo" tvg-logo="https://kuasark.com/files/stations-logos/dj-eduardo.png" group-title="childrens", Dj Eduardo
+https://stream-150.zeno.fm/kcc7svztwd0uv?zs=jnyZDDvmQ76fQX6X95nFyA
+#EXTINF:-1 tvg-name="Rádio Studio Souto - Rap Nacional" tvg-logo="https://kuasark.com/files/stations-logos/radio-studio-souto-rap-nacional.png" group-title="hip hop", Rádio Studio Souto - Rap Nacional
+https://centova5.transmissaodigital.com:20031/;
+#EXTINF:-1 tvg-name="Rádio Exclusivo Sertanejo" tvg-logo="https://kuasark.com/files/stations-logos/radio-exclusivo-sertanejo.png" group-title="pop", Rádio Exclusivo Sertanejo
+https://player.stms.live/proxy/8408
+#EXTINF:-1 tvg-name="Vagalume.FM - Sertanejo" tvg-logo="https://kuasark.com/files/stations-logos/vagalumefm-sertanejo.png" group-title="pop", Vagalume.FM - Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+#EXTINF:-1 tvg-name="Anos Dourados FM" tvg-logo="https://kuasark.com/files/stations-logos/anos-dourados-fm.png" group-title="pop", Anos Dourados FM
+http://stm1.xcast.com.br:7882/stream
+#EXTINF:-1 tvg-name="Dj Eduardo 2" tvg-logo="https://kuasark.com/files/stations-logos/dj-eduardo-2.png" group-title="childrens", Dj Eduardo 2
+https://stream-151.zeno.fm/dc941rwuxd0uv?zs=y2RHSCEGRaKec004dtU9yw
+#EXTINF:-1 tvg-name="Vagalume.FM - Hits Anos 80" tvg-logo="https://kuasark.com/files/stations-logos/vagalumefm-hits-anos-80.png" group-title="pop", Vagalume.FM - Hits Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+#EXTINF:-1 tvg-name="Rádio Estúdio 80" tvg-logo="https://kuasark.com/files/stations-logos/radio-estudio-80.png" group-title="disco", Rádio Estúdio 80
+https://azura.servercast.com.br/radio/8040/stream
+#EXTINF:-1 tvg-name="Rádio Geração Funk" tvg-logo="https://kuasark.com/files/stations-logos/radio-geracao-funk.png" group-title="funk", Rádio Geração Funk
+https://servidor.geracaoradios.com/radio/8040/stream
+#EXTINF:-1 tvg-name="Sertanejo FM" tvg-logo="https://kuasark.com/files/stations-logos/sertanejo-fm.png" group-title="romantic", Sertanejo FM
+https://stream-057.zeno.fm/qcwuy1y3tm0uv?zs=EQ8JooXcSKSsfQ4V2X_cAQ
+#EXTINF:-1 tvg-name="Rádio Itapoan FM" tvg-logo="https://kuasark.com/files/stations-logos/radio-itapoan-fm-br-106455.png" group-title="brazilian music", Rádio Itapoan FM
+https://player.radiu.live/proxy/9300
+#EXTINF:-1 tvg-name="Retro FM - Simplesmente Saudade" tvg-logo="https://kuasark.com/files/stations-logos/retro-fm-simplesmente-saudade.png" group-title="classical", Retro FM - Simplesmente Saudade
+https://paineldj5.com.br:20109/stream
+#EXTINF:-1 tvg-name="GOLD WEB RADIO" tvg-logo="https://kuasark.com/files/stations-logos/gold-web-radio.png" group-title="adult", GOLD WEB RADIO
+https://centova.svdns.com.br:19418/stream/1/
+#EXTINF:-1 tvg-name="StudioBalaClubedaCriança03.fm" tvg-logo="https://kuasark.com/files/stations-logos/studiobalaclubedacrianca03fm.png" group-title="childrens", StudioBalaClubedaCriança03.fm
+https://stream-150.zeno.fm/duuvgvwc8f0uv?zs=ShbykCwNS_2XxjDB1d2Tfw
+#EXTINF:-1 tvg-name="Rádio Studio Souto - Saudade 80s" tvg-logo="https://kuasark.com/files/stations-logos/radio-studio-souto-saudade-80s.png" group-title="retro", Rádio Studio Souto - Saudade 80s
+https://centova5.transmissaodigital.com:20035/;
+#EXTINF:-1 tvg-name="Rádio Metropolitana LIGHT" tvg-logo="https://kuasark.com/files/stations-logos/radio-metropolitana-light.png" group-title="funk", Rádio Metropolitana LIGHT
+https://ice.fabricahost.com.br/metropolitanasplight
+#EXTINF:-1 tvg-name="Rádio Liberdade" tvg-logo="https://kuasark.com/files/stations-logos/radio-liberdade-br-12983.png" group-title="brazilian music", Rádio Liberdade
+http://cast4.audiostream.com.br:8655/mp3
+#EXTINF:-1 tvg-name="98FM" tvg-logo="https://kuasark.com/files/stations-logos/98fm-br.png" group-title="rock", 98FM
+https://9554.brasilstream.com.br/stream
+#EXTINF:-1 tvg-name="Radio Funk Brasil" tvg-logo="https://kuasark.com/files/stations-logos/radio-funk-brasil.png" group-title="funk", Radio Funk Brasil
+https://player.painelcast.com/proxy/6908/;
+#EXTINF:-1 tvg-name="Rádio Geração Samba, Pagode" tvg-logo="https://kuasark.com/files/stations-logos/radio-geracao-samba-pagode.png" group-title="brazilian music", Rádio Geração Samba, Pagode
+https://servidor.geracaoradios.com/radio/8010/stream
+#EXTINF:-1 tvg-name="Music FM" tvg-logo="https://kuasark.com/files/stations-logos/music-fm-br.png" group-title="adult", Music FM
+http://cast4.audiostream.com.br:8006/live
