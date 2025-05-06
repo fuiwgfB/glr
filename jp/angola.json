@@ -1,0 +1,380 @@
+{
+  "stations": [
+    {
+      "t": "RNA Canal A - Rádio Nacional de Angola",
+      "s": "https://radios.vpn.sapo.pt/AO/radio3.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405248/fc8g5a4222ee8998c213909941_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Rádio Escola",
+      "s": "http://radios.vpn.sapo.pt/AO/radio1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429408/906a0e990c98a4530e0ffe12fc3ae472_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Web Rádio Planeta Rap LuSo",
+      "s": "https://stream.zeno.fm/szs3r2e3cf9uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429516/837f7893416376aebeb8709838cab03a_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Nacional de Angola - Radio Luanda",
+      "s": "https://paineldj5.com.br:20089/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/424172/f1d880b2-9d22-4376-a850-f16a368d5ac2_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nacional de Angola - Radio N'Gola Yetu",
+      "s": "https://radios.vpn.sapo.pt/CV/radio12.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424170/172e1ec1-1a28-45c3-94dc-13d0f675bd39_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Kairós",
+      "s": "http://radios.vpn.sapo.pt/AO/radio9.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429411/f8472610b83d5ac92e720593514d2056_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kuia Bue FM",
+      "s": "https://a6.asurahosting.com:6820/radio.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/400719/jiox5a32378852005933555364_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Rádio Romantica",
+      "s": "https://radios.vpn.sapo.pt/AO/radio4.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429410/32e234e25be9bdb336c7728b2242477f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Despertar",
+      "s": "http://radios.vpn.sapo.pt/AO/radio15.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424178/86bbcc13-631f-4f44-ba57-f7ba5743311b_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Viciana",
+      "s": "http://radioviciana.org:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/424168/ec6b2ce6de674712d0abc2e9496219de_130x130.webp",
+      "g": [
+        "Folk",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ecclésia - Emissora católica de Angola",
+      "s": "http://radios.vpn.sapo.pt/AO/radio8.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405249/r7sd5a42235956521156502570_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "RNA FM Estéreo",
+      "s": "http://radios.vpn.sapo.pt/AO/radio7.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429409/3f70b8d86ac6e443f4a5da8c001b9ecd_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Mais",
+      "s": "https://radios.justweb.pt/8050/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429412/4ec0f3b48118eba24161be3d3f1016bc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Valerfm",
+      "s": "https://stream.zeno.fm/ub1fy05s538uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430095/242da8a7b5e9d604792541dd29b3f97a_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Luanda Antena Comercial (LAC)",
+      "s": "https://radios.vpn.sapo.pt/AO/radio14.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424169/f1523f2f57cf7dd8c881e769943a46c4_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Nacional de Angola - Rádio 5",
+      "s": "https://radios.vpn.sapo.pt/AO/radio5.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424173/c505a1d4-9557-4fa9-a8b0-6993985b6b6f_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Kuia Bue",
+      "s": "https://a6.asurahosting.com:6820/radio.mp3?1735309341499",
+      "l": "https://kuasark.com/files/stations-logos/radio-kuia-bue.png",
+      "g": [
+        "Folk",
+        "International",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Metal On: The Heavy",
+      "s": "https://radiometalon.com/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-metal-on-the-heavy.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Radio Muzangala",
+      "s": "http://108.59.11.81:10053/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-muzangala.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "International",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Ecclesia",
+      "s": "https://mediaserv33.live-streams.nl:8089/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-ecclesia.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RFI Português",
+      "s": "https://rfienportugais64k.ice.infomaniak.ch/rfienportugais-64.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rfi-portugues.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "KAJI FM \"Paixão & Música\"",
+      "s": "https://s07.maxcast.com.br:8022/live",
+      "l": "https://kuasark.com/files/stations-logos/kaji-fm-paixao-musica.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Ebnezer Radio",
+      "s": "http://08.stmip.net:10028/;",
+      "l": "https://kuasark.com/files/stations-logos/ebnezer-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Marcoense",
+      "s": "http://137.74.160.250:8000/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-marcoense.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Powermix FM",
+      "s": "https://cast.iplayradio.net/radio/9500/stream",
+      "l": "https://kuasark.com/files/stations-logos/powermix-fm.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "VALERFM",
+      "s": "https://stream-150.zeno.fm/ub1fy05s538uv?zs=brN30BVPQiucNwvBcObXPg",
+      "l": "https://kuasark.com/files/stations-logos/valerfm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rede Digital Gospel",
+      "s": "https://stream-152.zeno.fm/6nwb80z2dy8uv?zs=tklLhDrCSqOj7RhmEAuVwQ",
+      "l": "https://kuasark.com/files/stations-logos/rede-digital-gospel.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rádio Nosso Tempo",
+      "s": "http://stm25.srvstm.com:6756/RadioNossoTempo.pls?sid=1",
+      "l": "https://kuasark.com/files/stations-logos/radio-nosso-tempo.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rádio Voja24",
+      "s": "https://stream-148.zeno.fm/67ffa6b95uhvv?zs=NX0SiUFmSdGDO-et0WTrcQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-voja24.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Kanawa",
+      "s": "http://freeuk23.listen2myradio.com:10003/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-kanawa.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Som News Angola",
+      "s": "https://stream-148.zeno.fm/y1dkpe3pnd0uv?zs=JbDvLi12THa7Ngs1aftZBw",
+      "l": "https://kuasark.com/files/stations-logos/som-news-angola.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Fé Angola",
+      "s": "https://stream-148.zeno.fm/gsndh1xvczetv?zs=qSvmVSJwRZuwovG6PpA-yA",
+      "l": "https://kuasark.com/files/stations-logos/radio-fe-angola.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rádio UnIA (92.3 MHz FM, Luanda) Universidade Independente de Angola",
+      "s": "https://radios.vpn.sapo.pt/AO/radio2.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-unia-923-mhz-fm-luanda-universidade-independente-de-angola.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Escola 88.5 FM",
+      "s": "https://radios.vpn.sapo.pt/AO/radio1.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-escola-885-fm.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Mais 99.1",
+      "s": "https://radios.vpn.sapo.pt/AO/radio10.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-mais-991.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kuia Bue FM",
+      "s": "http://hts03.kshost.com.br:9126/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/kuia-bue-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio N'Gola Yetu",
+      "s": "https://radios.vpn.sapo.pt/AO/radio12.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-ngola-yetu.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Sem Anestesia",
+      "s": "https://radios.vpn.sapo.pt/AO/radio7.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-sem-anestesia.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RNA – Radio Cazenga",
+      "s": "https://radios.vpn.sapo.pt/AO/radio13.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rna-radio-cazenga.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio luanda fm line",
+      "s": "https://stream1.svrdedicado.org/8354/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-luanda-fm-line.png",
+      "g": [
+        "Themes",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "radio viana aovivo",
+      "s": "https://stream1.svrdedicado.org/8358/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-viana-aovivo.png",
+      "g": [
+        "Themes",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Rádio Jihenda",
+      "s": "https://s02.brascast.com:7830/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-jihenda.png",
+      "g": [
+        "Decades",
+        "Latin",
+        "Other",
+        "International"
+      ]
+    }
+  ]
+}

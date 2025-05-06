@@ -1,0 +1,3017 @@
+{
+  "stations": [
+    {
+      "t": "Chinese Music World",
+      "s": "https://radio.chinesemusicworld.com/chinesemusic.ogg?_=1",
+      "l": "https://images.radiovolna.net/_files/images/stations/2786/wdtt597c66fe6a82f481611737_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "CRI News Radio",
+      "s": "https://sk.cri.cn/905.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/426358/e537267e1dbddb943c3f6be082d188fe_130x130.webp",
+      "g": [
+        "International",
+        "Decades",
+        "News",
+        "Talk",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "RTHK Putonghua",
+      "s": "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/27199/2e8d4ffdd517104011a50a140f754aff_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "D100 PBS",
+      "s": "http://59.152.232.107:8000/Channel1-128MP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/30095/78d088fff07d7557ba6c90fc53edda60_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Apple-FM.net",
+      "s": "http://sc.apple-fm.net:9020/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2791/foe4595296b91c3f1662450821_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "HIT FM",
+      "s": "https://sk.cri.cn/887.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428533/cdc8b880f710eacbee323296bcb221b0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rolling cat children's Radio",
+      "s": "http://lhttp.qingting.fm/live/20500038/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426387/973a02cfa81a314ff083b0a4b2654448_130x130.webp",
+      "g": [
+        "International",
+        "Country",
+        "Folk",
+        "Themes",
+        "News",
+        "Talk",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "RTHK Radio 5",
+      "s": "http://stm1.rthk.hk/radio5",
+      "l": "https://images.radiovolna.net/_files/images/stations/23961/adaa406ad7d7aba749fd1b7bb15af390_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "北京新闻广播",
+      "s": "http://lhttp.qingting.fm/live/339/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428535/706dedc0f70fe2ccc8b6f931e4769bfd_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Star Radio",
+      "s": "http://lhttp.qingting.fm/live/21055/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426420/d78ac6edcad42d4fb394f5b61b3ae14e_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "Jazz",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Post-80s Yinyue broadcasting",
+      "s": "http://lhttp.qingting.fm/live/20207761/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426412/854316d961998aab42e91de530a50996_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hunan Era Music Channel",
+      "s": "https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430297/f92e93a226deea070c81fc5d58c38b66_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Beijing Joy FM",
+      "s": "http://lhttp.qingting.fm/live/333/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428532/c86c858c1c50faf7337b62bb66ec4b00_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "广州新闻资讯广播",
+      "s": "http://lhttp.qingting.fm/live/4848/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428540/7320fd27cad052720398033df914ab6d_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "广州MYFM",
+      "s": "http://lhttp.qingting.fm/live/20194/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428539/fa0a42b4b21d35abd9e35d61d5e68673_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "CRI EZFM",
+      "s": "https://sk.cri.cn/915.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428534/82690614057ca906ab39f930dd3fa39d_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jinan Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1671/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430365/87f91bcd8ad89bd94502e4222934e2b3_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Heilongjiang Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/4969/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430394/1ad7e9e7cf7a801cfb81f30d605770dc_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RTHK Radio 2",
+      "s": "http://stm.rthk.hk/radio2",
+      "l": "https://images.radiovolna.net/_files/images/stations/405610/q4zj5a50b0deb4513964755038_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "CNR Voice of Hong Kong",
+      "s": "http://lhttp.qingting.fm/live/4986/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426344/36fd739a4065152511e48eb675cecefb_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk",
+        "Pop",
+        "Rap",
+        "Easy Listening",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Liaoning Classic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/20021/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430420/e1921bd71e73492c235b3a661f25d63d_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Zhejiang Music FM",
+      "s": "https://lhttp.qtfm.cn/live/4866/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430316/fb44c14bd9e0b66ae897306523aa036b_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Xiamen Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1739/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430304/8a00e56e79faa76069ba7048f18aa061_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Cross-Strait Radio",
+      "s": "https://lhttp.qingting.fm/live/390/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426356/23de7693e0364644de147c61f3a460c8_130x130.webp",
+      "g": [
+        "International",
+        "Decades",
+        "News",
+        "Talk",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "CGTN Radio",
+      "s": "https://sk.cri.cn/am846.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428537/5bce9554539b8d95dbb29db60d528ecb_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hebei General Radio",
+      "s": "https://radio.pull.hebtv.com/live/hebzh.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430282/5112edfdefb7ca136d33e6965d9b3fb7_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Nanyang Traffic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/5022725/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430456/6f36a529435dcf6b80aa2e42c069e176_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Maanshan Traffic Music Radio",
+      "s": "https://ytcastmp3.radio.cn/86/stream_21739.mp3?type=1&key=2c87e1fe3401a846a5f7fc1dca06c59f&time=65ba882f",
+      "l": "https://images.radiovolna.net/_files/images/stations/430430/d2ab54fd2325e4b71a0698045a8b8e5d_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Guangzhou MYFM",
+      "s": "https://lhttp.qtfm.cn/live/20194/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430388/fbe65fa49ef3af9b5a30ec26182a3ada_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Harbin Classic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/5022338/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430364/f5a6aa857e694b8b7e57ae28af61feed_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Yulin Traffic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1763/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430328/548deeeac166471422c13f99cd666485_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tongchuan Music Traffic Radio",
+      "s": "https://lhttp.qtfm.cn/live/20207736/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430511/c7dd3d9a45c5f1b282a266441b3ddf7e_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Shijiazhuang Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1654/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430492/986893b7de956bb9c9991dd1e123df42_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Shanghai Dynamic Radio 101",
+      "s": "https://lhttp.qtfm.cn/live/274/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430469/b86757d41aa8620ab48e190a9fccf6d8_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jingmen Traffic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/20336/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430418/4b67bf1d8ef0b296cffdba211c8c8710_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fun Music Radio (Hubei)",
+      "s": "https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430296/e708a03db358bf307c2f86073266851a_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Sichuan Minjiang  Music Radio",
+      "s": "https://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430300/8c3a4b3d8cfdaf6ba915052d6f060824_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Shijiazhuang Classic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/5022038/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430493/dbe6004071307bbae7a56854e3c2aac5_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Wenzhou Sound of Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1149/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430565/f80f7e8c86888067a8e2c5aa6badd10a_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Wuzhou Traffic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/4599/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430433/66c260c3bb96668529217237c90bbc98_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Baoding Traffic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/5021803/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430341/f7244c68f510e77b579b9b2a5841e2ed_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jiangsu Music Radio",
+      "s": "https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430291/8b2aa08d0e846e8d5614313d65e6d3a4_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Hezhou Traffic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/5044/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430392/26990d41a87d66406f401c0804bb61ea_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hebei News Radio",
+      "s": "https://radio.pull.hebtv.com/live/hebxw.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430283/80790c4233e7606c756dac94489971ad_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Yichang Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/20567/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430329/c6259bfa37f189cfcd88a9156abf1d6f_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Xinyang Music Radio",
+      "s": "https://lhttp.qingting.fm/live/5021958/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430369/6bf9b0697b5f1235978615388c290c6f_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Harbin Literature and Art Radio",
+      "s": "https://lhttp.qtfm.cn/live/20083/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/431039/0e7b8505f984060501c8455a58d48f4a_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Wuan  Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/5022474/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430566/99cf2bbde9b2742f47afe0a99930b4ee_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kaifeng Car Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/4569/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430419/d32f13f82c4a118b023eb0726e013211_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Suzhou Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/2803/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430495/c6b4d7e11a086f860ee588fc83cd855f_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Haikou Music Radio WHIZRADIO",
+      "s": "https://lhttp.qtfm.cn/live/20010/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430391/5a9502467af15716270f1b2970fc2121_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Yantai Music Radio",
+      "s": " https://lhttp.qingting.fm/live/1683/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430332/3b7cc4fee5c042bad15ab8d172fbb061_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Hainan Music Radio",
+      "s": "https://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430298/9d2e91b94ee3e8bdb49cdb093f668070_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Ganzhou Traffic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/4942/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430387/a8155b49c712843d8aab27d12476e586_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jiangxi Music Radio",
+      "s": "https://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430294/7ce23db5eb5af1aba655bb7657bb7ba2_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Aksu Traffic Music Radio",
+      "s": "https://lhttp.qingting.fm/live/20207780/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430352/79644767cb62490443956c0cf2f26c85_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Harbin Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/839/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430363/3f8861ee58b47439786ea5c62548323d_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Guangzhou Car Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/20192/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430389/79c5870f105e7ae54c7418216b5ba38d_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Wuhan Classic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1297/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430567/9c48850689f270819f457885a0d82163_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "CCTV-15音乐伴音",
+      "s": "https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430476/c04fc731f91a44920ada4282729fee19_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Shenzhen Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1271/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430505/70b182134e0c17bf0f94624d6f8cf2a8_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Inner Mongolia Music Radio",
+      "s": "https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430288/f3eeae3a076f9e03c9c4e3898320046b_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Binzhou Traffic Music Radio",
+      "s": "https://lhttp.qingting.fm/live/20519/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430462/b95eb5dac4cea3ea0e7db787a39225c5_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Chuxiong Music Radio",
+      "s": " https://lhttp.qtfm.cn/live/4035/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430361/da827bfcff0f5054582bf148010b2cc6_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Changde Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/20212391/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430345/59fa8defbdfd7a4df47451431fd8c35c_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Zhengzhou Music Radio",
+      "s": "https://lhttp.qingting.fm/live/4921/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430323/21c9eb89e55b1e4c4f8d5a043093a216_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tianjin Classic Radio",
+      "s": "https://lhttp.qtfm.cn/live/20212227/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430510/70b68ea0ffd09a9eb5367ec562762969_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Xuzhou Classic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/15318160/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430404/9392b24f9edba46b2c3e8c5685b9ec8a_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Heshan Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/20500163/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430314/ab2fa6e2c3672342511188f71fbffcdd_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Shanghai Pop Music Love Radio",
+      "s": "https://lhttp.qtfm.cn/live/273/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430468/e644a293da5a64ab862f1cc38e1db6a7_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Shandong Music Radio",
+      "s": "https://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430295/fa23c98ef33c9cad431ce03d9d1c8bee_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Guangdong Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1260/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430303/96d09b7c41abeee965d42f8beffaac82_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Leshan Traffic Music Radio",
+      "s": "https://lhttp.qingting.fm/live/4864/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430464/07636d08b9922c271bc6cf72a2d431f0_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Zhuzhou Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/5021481/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430319/d994a410845f49c5f35251acfc4bf80b_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Changzhi Traffic Radio",
+      "s": "https://lhttp.qingting.fm/live/5021851/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430346/427b3fb436db8b8bc18c25c8ed5dd56e_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Qinghai Traffic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/5009/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430536/2a2494331ebbc6b66193a153cf56b43a_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Lushui Voice Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/5022493/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430422/d9a1df23b04632ec7e88782030f33eb6_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dongying Traffic Music Radio",
+      "s": "https://lhttp.qingting.fm/live/20142/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430463/942d3f83613847b18dee41a553cf28e5_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hebei Nostalgia Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/20211619/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430504/57b37780cd7de378f53e0ae6a27c463b_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Panzhihua Traffic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/4905/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430465/baa8ab8c0bd172230b2722e2caa7b426_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Anqing Traffic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1966/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430320/a1627494162bf28e805fa53977bd0080_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Yunnan Traffic Radio",
+      "s": "https://lhttp.qtfm.cn/live/1928/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427253/fd2ac45974952e288f418ff3fb064de4_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Guizhou Music Radio",
+      "s": "https://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430301/29d0816035a837458e56a64de9966d54_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Baoji Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/15318127/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430412/24cda39a1a44483091bbb7fe01fbac03_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Changsha Music Radio",
+      "s": "https://lhttp.qingting.fm/live/20847/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430353/bec5569ca64e853b2036e472547f8561_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bijie Traffic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/5022712/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430343/bf5537e9347815fd45f8a2dfb2f0a7e6_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Charming  City Life Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/5022716/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430355/f9d85082adf962c1f54e587097b93aaa_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Yunnan Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1929/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430327/b39a4ea49c74c674eafc2ee857bd8e10_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Beihai Traffic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/20211621/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430318/7350f76278d9ed96bea1bbe366a7c0ef_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tangshan Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/4871/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430508/a5b0a61480c8193f0685f910236cc325_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nostalgia Good Voice (Zhengzhou)",
+      "s": "https://lhttp.qtfm.cn/live/1223/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430317/2c0a3892dbdd2dfeda4ea6e36c56db75_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Super FM Ningxia Music Radio",
+      "s": "https://lhttp.qingting.fm/live/15318294/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430936/274af4b4cdfd495788c4f7df84ce6c94_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jiaxing Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1136/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430414/3ff3b13565b7f67f9bfde197543512f1_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Anhui Music Radio",
+      "s": "https://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430292/ea6faf04155e41af07994da6273a4b5f_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Xuzhou Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/4923/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430403/b65717980a91560b78c64d7a531f64b2_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Huaiji Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/4804/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430302/9eda786574405822211d0aa98e94d768_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Jingdezhen Traffic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/5021829/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430366/21f4740227d5f982f6c9797b4ce6959a_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Chaozhou Traffic Music Radio",
+      "s": "https://lhttp.qingting.fm/live/4594/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430354/39fe4591adee68389a36555a86c60b5c_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Qingchen Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/4915/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430368/71c2cbf0b047fad34d3fd465f45ef532_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Wuhan Dynamic Radio",
+      "s": "https://lhttp.qtfm.cn/live/5011/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430563/22e2e440e7ac9b182fb35645062888f9_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Taizhou Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1144/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430506/743ec94f36f612879ccd8ad510f71f30_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Taiyuan Private Car Radio",
+      "s": "https://lhttp.qingting.fm/live/4018/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430938/66bb466659777bd8de582c4f7517a50d_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Shunde Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/20500150/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430494/20ecd1b858e4d12434e2ae125776813e_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Chengdu Asia Music Radio",
+      "s": " https://lhttp.qtfm.cn/live/4581/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430356/4acb82e676d4f32cbb6327bd07af3d88_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Xian Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1612/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430432/33592d5b2fef7ee7c8b50f46d82a901e_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Luoyang Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/1226/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430429/a9fd802ce0e93118df680833f7632c47_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Xinghe Music Broadcast",
+      "s": "http://lhttp.qingting.fm/live/20210755/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426411/a52866523b60a7f8d332c868ee5e056c_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "Rock",
+        "Decades",
+        "R&B and Urban",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Huai An Classic Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/15318398/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430395/d1f873f6dbb84a815374f355fd7f3032_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Post-90s fashion Yinyue broadcasting",
+      "s": "http://lhttp.qingting.fm/live/20207760/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426410/a7edcdf76b44451e37a1aff3d19143ce_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "Decades",
+        "Easy Listening",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Voice of old",
+      "s": "http://lhttp.qingting.fm/live/396/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426378/c69a99884890b33c3582dae3c5531929_130x130.webp",
+      "g": [
+        "International",
+        "Decades",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "China Highway Traffic Radio",
+      "s": "http://lhttp.qingting.fm/live/4985/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426345/aaf4d3804e11dd36aceb3febc2dc2ba7_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk",
+        "Pop",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "RTHK Radio 1",
+      "s": "http://stm1.rthk.hk/radio1",
+      "l": "https://images.radiovolna.net/_files/images/stations/30099/12baf9547897fad4981149c5877924ec_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Beijing Pop Music Radio 999",
+      "s": "https://lhttp.qtfm.cn/live/20211620/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430344/9be8918e96347c7d11fa826e425cdf7d_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Beautiful music network broadcasting",
+      "s": "http://lhttp.qingting.fm/live/5022107/64k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426404/5f4c445a02be2466f2f871c0ef16d3f8_130x130.webp",
+      "g": [
+        "International",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Metro Plus",
+      "s": "https://1435271937.rsc.cdn77.org/1435271937/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428542/71ae622fb3d06d07689885cc7792c0e0_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Love Radio",
+      "s": "https://lhttp.qingting.fm/live/273/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/love-radio-cn.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "China Plus",
+      "s": "http://sk.cri.cn/am846.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/china-plus.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "LamRim Tibetan Buddhist Internet Radio",
+      "s": "http://199.180.72.2:9097/lamrim",
+      "l": "https://kuasark.com/files/stations-logos/lamrim-tibetan-buddhist-internet-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Zhejiang Music Radio",
+      "s": "https://ytcast.radio.cn/62/radios/20928/index_20928.m3u8?type=1&key=e115c684de84ab834f5c84e3164234d7&time=678e8576",
+      "l": "https://kuasark.com/files/stations-logos/zhejiang-music-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Shanghai FM Radio",
+      "s": "https://lhttp.qingting.fm/live/274/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/shanghai-fm-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Changsha Music Radio",
+      "s": "http://lhttp.qingting.fm/live/4930/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/changsha-music-radio.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Meowing Tiger Radio",
+      "s": "http://ca2.rcast.net:8040/;",
+      "l": "https://kuasark.com/files/stations-logos/meowing-tiger-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Station of China Voice",
+      "s": "http://lhttp.qingting.fm/live/386/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/station-of-china-voice.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "FRED FILM RADIO",
+      "s": "https://s10.webradio-hosting.com/proxy/fredradiocn/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/fred-film-radio-46845.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "China Campus Voice Radio",
+      "s": "https://lhttp.qingting.fm/live/20091/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/china-campus-voice-radio.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1950  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1950/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1950-tick-tock-radio.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "CNR Goldenradio",
+      "s": "https://rscdn.ajmide.com/r_70/live_70.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/cnr-goldenradio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Bitter Sweet Music Cn",
+      "s": "http://91.121.236.34:8520/cn",
+      "l": "https://kuasark.com/files/stations-logos/bitter-sweet-music-cn.png",
+      "g": [
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "2021  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2021/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2021-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2022 TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2022/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2022-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chengdu Simple Music Radio",
+      "s": "https://lhttp.qingting.fm/live/5012/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/chengdu-simple-music-radio.png",
+      "g": [
+        "Folk",
+        "Jazz",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "2000  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2000/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2000-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "经典音乐广播",
+      "s": "https://lhttp.qingting.fm/live/267/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/jing-dian-yin-le-guang-bo.png",
+      "g": [
+        "Classical",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Henan Opera Radio",
+      "s": "https://stream.hndt.com/live/yule/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/henan-opera-radio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "KFM",
+      "s": "https://ytcast.radio.cn/69/radios/21310/index_21310.m3u8?type=1&key=d28ef7edca208fa62c6482857f7d14b8&time=678e8ca6",
+      "l": "https://kuasark.com/files/stations-logos/kfm-cn.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Liangyou Tongxing Channel",
+      "s": "https://ly729.out.airtime.pro/ly729_b",
+      "l": "https://kuasark.com/files/stations-logos/radio-liangyou-tongxing-channel.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "2001  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2001/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2001-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2005  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2005/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2005-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2006  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2006/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2006-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2010  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2010/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2010-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2020  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2020/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2020-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Beijing Metro Radio",
+      "s": "http://lhttp.qingting.fm/live/5022463/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/beijing-metro-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Asia FM",
+      "s": "https://n12a-eu.rcs.revma.com/xpgtqc74hv8uv?rj-ttl=5&rj-tok=AAABiLQOoGUA2VEcvA8KNxL-rA",
+      "l": "https://kuasark.com/files/stations-logos/asia-fm.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Other"
+      ]
+    },
+    {
+      "t": "CNR",
+      "s": "http://www.radio.cn/pc-portal/erji/radioStation.html",
+      "l": "https://kuasark.com/files/stations-logos/cnr.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "2003  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2003/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2003-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Green Village Radio FM 99.5 -  澳門",
+      "s": "https://fm995.ddns.net/hls1/fm995.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/green-village-radio-fm-995-ao-men.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "CNR Finance",
+      "s": "https://rscdn.ajmide.com/r_68/live_68.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/cnr-finance.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Salsa La Salsera",
+      "s": "https://stream-154.zeno.fm/vqnryd9b2wzuv?zs=zuFtHWc6QJCSznj7J2KOcA",
+      "l": "https://kuasark.com/files/stations-logos/salsa-la-salsera.png",
+      "g": [
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "1991  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1991/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1991-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1995  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1995/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1995-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1999  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1999/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1999-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2002  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2002/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2002-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2007  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2007/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2007-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2008  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2008/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2008-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2017  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2017/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2017-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2019  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2019/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2019-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Henan News Radio",
+      "s": "https://stream.hndt.com/live/xinwen/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/henan-news-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Yantai News Radio",
+      "s": "https://lhttp.qingting.fm/live/1682/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/yantai-news-radio.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Sichuan iRadio",
+      "s": "https://lhttp.qingting.fm/live/1110/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sichuan-iradio.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1960  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1960/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1960-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1984  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1984/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1984-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1992  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1992/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1992-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1993  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1993/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1993-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1997  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1997/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1997-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2004  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2004/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2004-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2009  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2009/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2009-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2011  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2011/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2011-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2012  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2012/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2012-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2013  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2013/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2013-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2018  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2018/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2018-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "First Financial Broadcast",
+      "s": "https://lhttp.qingting.fm/live/276/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/first-financial-broadcast.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Zhejiang Ladies Radio",
+      "s": "https://lhttp.qingting.fm/live/4524/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/zhejiang-ladies-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1990  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1990/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1990-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1996  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1996/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1996-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2014  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2014/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2014-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Shanghai ERC Story Radio",
+      "s": "https://ytcast.radio.cn/64/radios/20844/index_20844.m3u8?type=1&key=ef7b642d8ebff01c6536af4b05972e20&time=678f8e4b",
+      "l": "https://kuasark.com/files/stations-logos/shanghai-erc-story-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Jinlin Village Radio",
+      "s": "https://lhttp.qingting.fm/live/3977/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/jinlin-village-radio.png",
+      "g": [
+        "Folk",
+        "News"
+      ]
+    },
+    {
+      "t": "1966  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1966/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1966-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1994  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1994/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1994-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1998  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1998/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1998-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2015  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2015/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2015-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2016  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2016/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2016-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Beijing International",
+      "s": "http://lhttp.qingting.fm/live/334/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/beijing-international.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fujian News Radio",
+      "s": "https://lhttp.qingting.fm/live/1731/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fujian-news-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hebei Rural Radio",
+      "s": "https://lhttp.qingting.fm/live/1650/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hebei-rural-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Taiyuan Traffic Radio",
+      "s": "https://lhttp.qingting.fm/live/4900/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/taiyuan-traffic-radio.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1961  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1961/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1961-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1979  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1979/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1979-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1981  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1981/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1981-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1982  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1982/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1982-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1987  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1987/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1987-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1988  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1988/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1988-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hebei Literature & Arts Radio",
+      "s": "https://lhttp.qingting.fm/live/4868/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hebei-literature-arts-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1951  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1951/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1951-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1955  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1955/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1955-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1958  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1958/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1958-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1959  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1959/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1959-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1962  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1962/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1962-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1969  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1969/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1969-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1972  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1972/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1972-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1977  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1977/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1977-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1980  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1980/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1980-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1985  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1985/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1985-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1986  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1986/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1986-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1989  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1989/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1989-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Shanghai Theatre Arts",
+      "s": "https://lhttp.qingting.fm/live/269/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/shanghai-theatre-arts.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "East City Radio",
+      "s": "https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8?wsSession=d0e08ed961c035246d235f5a-173747122008040&wsIPSercert=4d5fc908834b536dac7d00f558a30b32",
+      "l": "https://kuasark.com/files/stations-logos/east-city-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hebei Music Radio",
+      "s": "https://lhttp.qingting.fm/live/1649/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hebei-music-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hebei News",
+      "s": "https://lhttp.qingting.fm/live/1644/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hebei-news.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "FM93",
+      "s": "https://lhttp.qingting.fm/live/4522/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fm93-cn.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Zhejiang Economic",
+      "s": "https://lhttp.qingting.fm/live/4519/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/zhejiang-economic.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Zhejiang Music FM Livelihood",
+      "s": "https://lhttp.qingting.fm/live/4521/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/zhejiang-music-fm-livelihood.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1952  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1952/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1952-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1953  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1953/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1953-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1954  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1954/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1954-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1956  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1956/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1956-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1957  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1957/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1957-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1963  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1963/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1963-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1965  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1965/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1965-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1968  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1968/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1968-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1970  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1970/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1970-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1971  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1971/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1971-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1973  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1973/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1973-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1975  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1975/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1975-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1976  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1976/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1976-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1978  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1978/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1978-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2023  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2023/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2023-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Five Star Sports",
+      "s": "https://ytcastmp3.radio.cn/64/stream_20845.mp3?type=1&key=d32d69e6f4000bd3094df4c45ff8fc5a&time=678fb6f3",
+      "l": "https://kuasark.com/files/stations-logos/five-star-sports.png",
+      "g": [
+        "Classical",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Beijing Traffic Radio",
+      "s": "https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/beijing-traffic-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Yantai Economics Radio",
+      "s": "https://lhttp.qingting.fm/live/1683/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/yantai-economics-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "GLRadio",
+      "s": "https://stream-148.zeno.fm/m43urb0wu38uv?zs=E9hYEhyMR6eTk8MkMVyiuQ",
+      "l": "https://kuasark.com/files/stations-logos/glradio.png",
+      "g": [
+        "Classical",
+        "Country",
+        "R&B and Urban",
+        "Rap",
+        "Pop",
+        "Rock",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "政大之聲 FM88.7",
+      "s": "http://vnccuonair.nccu.edu.tw:8000/ade.taiwan.mp3",
+      "l": "https://kuasark.com/files/stations-logos/zheng-da-zhi-sheng-fm887.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1964  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1964/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1964-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1967  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1967/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1967-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1974  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1974/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1974-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1983  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1983/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1983-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "PlayFM 89.7",
+      "s": "https://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/playfm-897.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Beijing Sport Radio",
+      "s": "https://lhttp.qingting.fm/live/335/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/beijing-sport-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "RBC",
+      "s": "http://lhttp.qingting.fm/live/345/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rbc.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "CNR Old",
+      "s": "https://rscdn.ajmide.com/r_77/live_77.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/cnr-old.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jiangsu News",
+      "s": "https://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/jiangsu-news.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Shanghai Traffic Radio",
+      "s": "https://lhttp.qingting.fm/live/266/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/shanghai-traffic-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Voice of Zhejiang",
+      "s": "https://lhttp.qingting.fm/live/4518/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/voice-of-zhejiang.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Voice of Zhejiang City",
+      "s": "https://ali-m-l.cztv.com/channels/lantian/fm107/128k.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/voice-of-zhejiang-city.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jiaxing News Radio",
+      "s": "https://lhttp.qingting.fm/live/1154/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/jiaxing-news-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Hebei Traffic Radio",
+      "s": "https://lhttp.qingting.fm/live/1646/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hebei-traffic-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Circuito Digital Plus RG",
+      "s": "https://stream-050.zeno.fm/zwp95vep11zuv?zs=r0tmZ98jSWKi0ygLYO8AfA",
+      "l": "https://kuasark.com/files/stations-logos/circuito-digital-plus-rg.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ningbo News Radio",
+      "s": "https://lhttp.qingting.fm/live/1138/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ningbo-news-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Nanjing News Radio",
+      "s": "https://live.ximalaya.com/radio-first-page-app/live/68/64.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/nanjing-news-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nanjing Economics Radio",
+      "s": "https://ytcastmp3.radio.cn/64/stream_20874.mp3?type=1&key=52104ffb3dff5ba62d170cc3beea4d35&time=678fc128",
+      "l": "https://kuasark.com/files/stations-logos/nanjing-economics-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nanjing Music Radio",
+      "s": "https://lhttp.qtfm.cn/live/4963/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nanjing-music-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hebei Economics Radio",
+      "s": "https://lhttp.qingting.fm/live/1645/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hebei-economics-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tianjin Life  ",
+      "s": "http://lhttp.qingting.fm/live/1169/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/tianjin-life-.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "CNR National Voice",
+      "s": "https://rscdn.ajmide.com/r_67/live_67.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/cnr-national-voice.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ningbo Radio",
+      "s": "https://ytcast.radio.cn/62/radios/20930/index_20930.m3u8?type=1&key=ad3b707bd631c1072c68b036db247036&time=678fccbc",
+      "l": "https://kuasark.com/files/stations-logos/ningbo-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ningbo Economics Radio",
+      "s": "https://ytcast.radio.cn/62/radios/20931/index_20931.m3u8?type=1&key=79b65d7360cbd17286f595ddb94f5452&time=678fcb56",
+      "l": "https://kuasark.com/files/stations-logos/ningbo-economics-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Ningbo Traffic Radio",
+      "s": "https://ytcast.radio.cn/65/radios/20918/index_20918.m3u8?type=1&key=45711c3bcd7fd3ffdb2de39a770c9b15&time=678fcaa1",
+      "l": "https://kuasark.com/files/stations-logos/ningbo-traffic-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Beijing Story",
+      "s": "http://lhttp.qingting.fm/live/337/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/beijing-story.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "CGTN French",
+      "s": "http://livefr.cgtn.com/200f/prog_index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/cgtn-french-8048.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sian News Radio",
+      "s": "http://stream3.xiancity.cn/1/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default3.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "CGTN Russian",
+      "s": "http://liveru.cgtn.com/200r/prog_index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/cgtn-russian-8101.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sian Traffic Radio",
+      "s": "http://stream3.xiancity.cn/5/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default2.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sian Music Radio",
+      "s": "http://stream3.xiancity.cn/4/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default4.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "CGTN Documentary",
+      "s": "http://livedoc.cgtn.com/200d/prog_index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/cgtn-documentary-8562.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "CGTN Arabic",
+      "s": "http://livear.cgtn.com/200a/prog_index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/cgtn-arabic-8569.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "CGTN Spanish",
+      "s": "http://livees.cgtn.com/200e/prog_index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/cgtn-spanish-8573.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sian Info Radio",
+      "s": "http://stream3.xiancity.cn/2/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default2.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "CRI News Plus AM1008",
+      "s": "http://sk.cri.cn/am1008.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/cri-news-plus-am1008.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Shangyu News TV",
+      "s": "http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/shangyu-news-tv.jpg",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Yurao News TV",
+      "s": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default1.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Shangyu TV Series TV",
+      "s": "http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/shangyu-tv-series-tv.jpg",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Wuhan TV-1 News",
+      "s": "http://live.appwuhan.com/1tzb/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default2.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Loonyan News TV",
+      "s": "http://stream.lytv.net.cn/2/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default1.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Wuhan TV-3 Tech Life",
+      "s": "http://live.appwuhan.com/3tzb/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default3.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Wuhan TV-7 Children",
+      "s": "http://live.appwuhan.com/7tzb/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default4.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sian TV-1 News",
+      "s": "http://stream2.xiancity.cn/xatv1/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/sian-tv-1-news.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Shangyu People Radio",
+      "s": "http://l.cztvcloud.com/channels/lantian/SXshangyuaud/128k.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/shangyu-people-radio.jpg",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Changchow TV-1 News",
+      "s": "http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default2.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sian TV-3 Info",
+      "s": "http://stream2.xiancity.cn/xatv3/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/sian-tv-3-info.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Wuhan TV-4 Economics",
+      "s": "http://live.appwuhan.com/4tzb/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default1.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Shangyu New Commercial City TV",
+      "s": "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/shangyu-new-commercial-city-tv.jpg",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Wuhan Educational TV",
+      "s": "http://live.appwuhan.com/jyzb/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/wuhan-educational-tv.jpg",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Wuhan TV-6 Foreign Language",
+      "s": "http://live.appwuhan.com/6tzb/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/wuhan-tv-6-foreign-language.jpg",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sian TV-4 Movies",
+      "s": "http://stream2.xiancity.cn/xatv4/sd/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/sian-tv-4-movies.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sinchang News TV",
+      "s": "http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default4.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Yurao Culture TV",
+      "s": "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/yurao-culture-tv-9146.ico",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Shensi News Radio",
+      "s": "http://radio.snrtv.com/audio/city/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/shensi-news-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "90.7mixfm",
+      "s": "https://lhttp.qingting.fm/live/15318146/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/907mixfm.",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Shensi Auto Radio",
+      "s": "http://radio.snrtv.com/audio/encnomy/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/shensi-auto-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sichuan News 四川综合广播FM98.1",
+      "s": "https://lhttp.qingting.fm/live/4906/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sichuan-news-si-chuan-zong-he-guang-bofm981-9329.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "CGTN English",
+      "s": "http://live.cgtn.com/200/prog_index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default3.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RTHK Radio 1",
+      "s": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rthk-radio-1-hk-19978.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "RTHK Radio 2",
+      "s": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rthk-radio-2-hk-20203.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTHK Radio 3",
+      "s": "https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rthk-radio-3-hk-27479.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RTHK Radio 4",
+      "s": "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rthk-radio-4-hk-75502.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Digital Radio",
+      "s": "http://ice.digitalradiohk.net:8000/drhk",
+      "l": "https://kuasark.com/files/stations-logos/digital-radio-hk.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Apple-FM",
+      "s": "http://sc7b.apple-fm.net:8188/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/apple-fm-hk-13497.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "RTHK Radio 5",
+      "s": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rthk-radio-5-hk-64972.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RTHK Radio Putonghua",
+      "s": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rthk-radio-putonghua.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "CRHK 881",
+      "s": "https://www.881903.com/live/881",
+      "l": "https://kuasark.com/files/stations-logos/crhk-881.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "HK Latino Radio",
+      "s": "https://stream-068.zeno.fm/rvd3ef4x2tzuv?zs=IKfeFgJtQjS8GgkRyQ3yRg",
+      "l": "https://kuasark.com/files/stations-logos/hk-latino-radio.png",
+      "g": [
+        "Classical",
+        "Reggae",
+        "Latin",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "RTHK Radio 6",
+      "s": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rthk-radio-6.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Lovehkradio.com",
+      "s": "https://streaming.radio.co/s6f4c5734d/listen",
+      "l": "https://kuasark.com/files/stations-logos/lovehkradiocom.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "AXR Hong Kong",
+      "s": "https://hongkongstreammp3.axr.online",
+      "l": "https://kuasark.com/files/stations-logos/axr-hong-kong.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "La French Radio Honk-Kong et Macao",
+      "s": "https://listen.radioking.com/radio/333865/stream/382282",
+      "l": "https://kuasark.com/files/stations-logos/la-french-radio-honk-kong-et-macao.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "CRHK 903",
+      "s": "https://event.881903.com/hktbaudioplayer/player_token.php?ch=hd903",
+      "l": "https://kuasark.com/files/stations-logos/crhk-903.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sunny's Music Show",
+      "s": "http://procyon.shoutca.st:8492/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sunnys-music-show.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fauve Radio",
+      "s": "https://streamer.radio.co/sde68d7e6b/listen",
+      "l": "https://kuasark.com/files/stations-logos/fauve-radio.png",
+      "g": [
+        "New Age",
+        "Electronic",
+        "R&B and Urban",
+        "Classical",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fing Radio",
+      "s": "https://bluesfan.stream.laut.fm/bluesfan?t302=2023-04-25_19-37-58&uuid=aced51cf-85ee-424b-ae49-c59404fbea05",
+      "l": "https://kuasark.com/files/stations-logos/fing-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "CRHK AM 864",
+      "s": "https://www.881903.com/live/864",
+      "l": "https://kuasark.com/files/stations-logos/crhk-am-864.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Originalradio.org",
+      "s": "https://stream-148.zeno.fm/rzwzgu0dd8zuv?zs=K4MqJF55SN251s7_tc3pGg",
+      "l": "https://kuasark.com/files/stations-logos/originalradioorg.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Lantau",
+      "s": "https://radio.dripfeed.net/listen/radiolantau/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-lantau.png",
+      "g": [
+        "R&B and Urban",
+        "Jazz",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Holy Vision Radio",
+      "s": "http://live.itechnepal.com:8236/radio",
+      "l": "https://kuasark.com/files/stations-logos/holy-vision-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "101.1 BIG HEART FM",
+      "s": "https://eu8.fastcast4u.com/proxy/jovie?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/1011-big-heart-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTHK Radio-4",
+      "s": "http://stm.rthk.hk/radio4",
+      "l": "https://kuasark.com/files/stations-logos/rthk-radio-4-hk-8325.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RTHK Radio-1",
+      "s": "http://stm.rthk.hk/radio1",
+      "l": "https://kuasark.com/files/stations-logos/rthk-radio-1-hk-8333.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RTHK Putonghua Channel",
+      "s": "http://stm.rthk.hk/radiopth",
+      "l": "https://kuasark.com/files/stations-logos/rthk-putonghua-channel.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RTHK Radio-3",
+      "s": "http://stm.rthk.hk/radio3",
+      "l": "https://kuasark.com/files/stations-logos/rthk-radio-3-hk-8496.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Hong Kong Fantastic TV",
+      "s": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/hong-kong-fantastic-tv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "講台talkonly",
+      "s": "http://103.11.102.62:8000/talkonly.mp3",
+      "l": "https://kuasark.com/files/stations-logos/jiang-taitalkonly.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Apple FM",
+      "s": "http://sc.apple-fm.net:9020/;",
+      "l": "https://kuasark.com/files/stations-logos/apple-fm-hk-16591.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "AsiaFM亚洲天空台",
+      "s": "https://lhttp.qingting.fm/live/20071/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/asiafm-ya-zhou-tian-kong-tai.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "AsiaFM高清音乐台",
+      "s": "https://lhttp.qingting.fm/live/5022405/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/asiafm-gao-qing-yin-le-tai.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "AsiaFM亚洲经典台",
+      "s": "https://lhttp.qingting.fm/live/5021912/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/asiafm-ya-zhou-jing-dian-tai.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "AsiaFM亚洲音乐台",
+      "s": "https://lhttp.qingting.fm/live/4581/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/asiafm-ya-zhou-yin-le-tai.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "宗教_良友电台 第一台",
+      "s": "https://listen.729ly.net:8001/ly729_a",
+      "l": "https://kuasark.com/files/stations-logos/zong-jiaoliang-you-dian-tai-di-yi-tai.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Hong Kong Community Radio",
+      "s": "https://hkcr.live/audio/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/hong-kong-community-radio.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "Rap",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "面包台",
+      "s": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/mian-bao-tai.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "新城知訊台",
+      "s": "https://1931121536.rsc.cdn77.org/1931121536/tracks-a1/mono.m3u8?audio",
+      "l": "https://kuasark.com/files/stations-logos/xin-cheng-zhi-xun-tai.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "新城采訊台",
+      "s": "https://1435271937.rsc.cdn77.org/1435271937/tracks-a1/mono.m3u8?audio",
+      "l": "https://kuasark.com/files/stations-logos/xin-cheng-cai-xun-tai.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "新城財經台",
+      "s": "https://1295896862.rsc.cdn77.org/1295896862/tracks-a1/mono.m3u8?audio",
+      "l": "https://kuasark.com/files/stations-logos/xin-cheng-cai-jing-tai.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "恐怖在線（周一至周五23:11）",
+      "s": "https://acast01.kolorboxlab.com/radio/8010/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kong-bu-zai-xian-zhou-yi-zhi-zhou-wu2311.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RTHK Radio 8 央廣粵港澳大灣區之聲",
+      "s": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rthk-radio-8-yang-guang-yue-gang-ao-da-wan-qu-zhi-sheng.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "CMC加州音乐",
+      "s": "https://cmc-ono.amagi.tv/playlist720_p.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/cmc-jia-zhou-yin-le.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RTHK Radio 7 普通话台",
+      "s": "http://202.177.192.119/radiopth",
+      "l": "https://kuasark.com/files/stations-logos/rthk-radio-7-pu-tong-hua-tai.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3434 @@
+{
+  "stations": [
+    {
+      "t": "Akra FM",
+      "s": "https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/9596/b5h9597737c6bb7f0517601225_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "KRAL POP",
+      "s": "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/7374/buh8596fa10d4becd100971590_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Damar Türk FM",
+      "s": "https://live.radyositesihazir.com/7000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422528/7c4dfc40923a7286582403ba6105fbfb_130x130.webp",
+      "g": [
+        "International",
+        "Blues",
+        "Easy Listening",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Joy Türk FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/1705/u4lm597617b5e42ad435229827_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Power Türk FM",
+      "s": "https://live.powerapp.com.tr/powerturk/abr/powerturk/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/7371/f9dy595bc800d591b320132652_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rock FM",
+      "s": "https://rockfm.rockfm.com.tr:9450/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401734/chd359a9823402603208788743_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "TRT-FM",
+      "s": "https://nmicenotrt.mediatriple.net/trt_fm.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423555/7f537ee588f0215be06f68180b56d81c_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Diyanet Risalet Radyo",
+      "s": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428348/765e3106e36c2b0450f65c4ecba929be_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Süper FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9589/udj9595f33978cddf002069484_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Eksen",
+      "s": "https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8?listeningSessionID=63b73f748722d204_176424_qjNmlXvd__00000001bqs&downloadSessionID=0",
+      "l": "https://images.radiovolna.net/_files/images/stations/7377/zuwp59a9960bcd092417264429_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Diyanet Radyo",
+      "s": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423570/c1482c2ae11043168b32a4f2c9aebfe7_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Virgin Radio Türkiye",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIOAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/7410/x7sv5977368f5d30f780962198_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Kral FM",
+      "s": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/9590/jc6n597736259c746455046559_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "A Haber Radyo",
+      "s": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423552/4fb800bf76f6c9050b44b79dae8f0d96_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Joy FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FMAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/7407/rws8596f0b3718233527803653_130x130.webp",
+      "g": [
+        "Themes",
+        "Pop"
+      ]
+    },
+    {
+      "t": "TRT Türkü",
+      "s": "https://nmicenotrt.mediatriple.net/trt_turku.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423575/668463f6d9bcb6ccde2fab4711e22b60_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Expert FM",
+      "s": "https://node-30.zeno.fm/c1sphqvfhg0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/425532/f3606e2c7d9a8d7657946aab1c61151e_130x130.webp",
+      "g": [
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pal Doğa",
+      "s": "http://shoutcast.radyogrup.com:1040/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423578/d6e1f727e1bdba4cfa645a77e1eac0bc_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Metro FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM128AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/7381/7f67eea3c4f581ea5bc81dd044de2468_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mydonose",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC010_SO1AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/7386/ad4d0f18b86a4f3e636116e95917d58a_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Romantik Türk",
+      "s": "http://radyo.yayin.com.tr:6042/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/7425/xldi59d24e2271443640605557_130x130.webp",
+      "g": [
+        "International",
+        "Themes"
+      ]
+    },
+    {
+      "t": "NTV Radyo",
+      "s": "https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/7375/qvxu5a296f76f0e22140364728_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radyo Tatlıses",
+      "s": "https://sslyayin.radyoyayini.com:7009/default",
+      "l": "https://images.radiovolna.net/_files/images/stations/401747/1b89920445c1bd10455186ddf28690e8_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Dedemin Radyosu",
+      "s": "https://anadolu.liderhost.com.tr/9002/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421558/7601ae20c7ededd69f24b23ff287e9b0_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Aşk FM",
+      "s": "http://yayin.asymedya.com:8020/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401773/miy259aa6b370db31129158187_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "NTV Spor Radyo",
+      "s": "http://ntvsporwmp.radyotvonline.com:80/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7416/f6yk5a29a02ac813a209452550_130x130.webp",
+      "g": [
+        "Talk",
+        "News"
+      ]
+    },
+    {
+      "t": "Power Dance",
+      "s": "https://listen.powerapp.com.tr/powerdance/abr/powerdance/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/26584/bf8495b518f1feeead826b95ba8d2ef1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Semerkand Radyo",
+      "s": "https://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/Playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428351/91085d762bbdb1d30d7b2bc7f170ca55_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "TRT Radyo 1",
+      "s": "https://nmicenotrt.mediatriple.net/trt_1.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423565/2a608f9b9fa74b8acca8760b71d8db50_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Erkam Radyo",
+      "s": "https://raddyo.com/radio/8010/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428354/aab1c1693759c7ea79a39d9500da665e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radyo 7",
+      "s": "https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401749/4229ada4abf31e09320060c9e6f9c6f7_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Berat FM",
+      "s": "https://beratfm.80.yayin.com.tr/stream/1/?icy=http",
+      "l": "https://images.radiovolna.net/_files/images/stations/424201/1fdebd81c84e995913a11d92b6615f88_130x130.webp",
+      "g": [
+        "International",
+        "Inspirational",
+        "Folk",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Turk Rap FM",
+      "s": "http://95.173.188.166:9984/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7418/tjqj597c511431b7e699740006_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "TRT Nağme",
+      "s": "https://nmicenotrt.mediatriple.net/trt_nagme.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423572/e3d2034200a5dd3c3e12a05888559988_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Power FM",
+      "s": "https://live.powerapp.com.tr/powerfm/abr/powerfm/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/7414/ve25595cd58eb383d845744545_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "İstanbul'un Sesi Radyosu",
+      "s": "http://shoutcast.gostream.nl:8110/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401728/ujro59a97d2f447ed599658909_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Arabesk Efsane Fm",
+      "s": "https://stream.zeno.fm/vm4ywfyy9nhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426816/7bb6efdecece5c0e0b9fb4f5befff3f3_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Arkista",
+      "s": "http://andromeda.shoutca.st:8357/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/424037/972c51c74104c3632e8235f1c5aa58f5_130x130.webp",
+      "g": [
+        "Easy Listening",
+        "Themes",
+        "R&B and Urban",
+        "Electronic",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "24Arabesk",
+      "s": "https://24arabesk.80.yayin.com.tr/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421413/8e726934606fcf45e9a27b6a34fe15a6_130x130.webp",
+      "g": [
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Radio Ava",
+      "s": "http://radioava.radyotvonline.net/Stream9",
+      "l": "https://images.radiovolna.net/_files/images/stations/428352/78ed612f596e0e3041028742f36b4180_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Best FM",
+      "s": "http://46.20.7.125/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401741/n52s59a998d4daa61404424426_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "06 Fm",
+      "s": "http://95.173.179.154:9968/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/425987/8a65b7fe9c2e888e5a2778f66cbbc695_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Dost FM",
+      "s": "http://yayin.dostfm.com:8920/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401754/fvbw59aa5b39932c1742083846_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Ulusal Radyo",
+      "s": "http://162.254.207.45:9302/;audio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/21055/0634d120549ce4eb18a19b4e980a0d6e_130x130.webp",
+      "g": [
+        "Pop",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Spor",
+      "s": "http://46.20.7.103:8040/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27617/e09730acf0d73eb8f0608f8a8390a4fc_130x130.webp",
+      "g": [
+        "Pop",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mio Radio",
+      "s": "http://s2.myradiostream.com:13662/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7379/bdv05a29676907e94350697094_130x130.webp",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Number 1 Türk",
+      "s": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/410450/rgc85c053485c9bbf852350213_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bu",
+      "s": "https://stream.rcast.net/200347",
+      "l": "https://images.radiovolna.net/_files/images/stations/401780/dyes59aab99314d1f163091722_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Power XL",
+      "s": "https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/7372/dvxz595cd4c5058d6609244615_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Slow Time",
+      "s": "http://46.20.7.104/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401727/tvc059a97c5463d6f692920042_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Show Radyo",
+      "s": "http://windows.showradyo.com.tr/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/7397/btix597736e612ca7652226056_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mega",
+      "s": "http://radyomega.ozelip.com:8210/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420315/2642ae60e1954b731d9a6578d058bff7_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Alaturka",
+      "s": "https://yayin.jumboserver.net:9100/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401726/qiwx59a97bf6466ee071218578_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Gençlik",
+      "s": "https://stream.rcast.net/66709",
+      "l": "https://images.radiovolna.net/_files/images/stations/423608/dadde6cb5bebf7c73c99d7e05963cc25_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Voyage",
+      "s": "https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/7376/w0oc595bc62481cbf588371603_130x130.webp",
+      "g": [
+        "International",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Hayal FM",
+      "s": "http://yayin.radyohayalfm.net:8050/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7405/nkdc59773658f04fa683027184_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "ST Endüstri Radyo",
+      "s": "http://45.32.154.169:9898/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423580/8b95315496b94a95cccd1b017bda12cd_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tulu",
+      "s": "http://yayin1.canliyayin.org:8248/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423591/8a05fc3cd69c8ef6b461c7ea87cf76e2_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Retro Turk",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK128AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/24780/b5e7c4d749172b8aa469ad62cc0a32b2_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Joy Türk Akustik",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC004_SO1AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/7380/li1d59747fff76885176168738_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "CNN Türk Radyo",
+      "s": "https://radyo.duhnet.tv/cnnturk",
+      "l": "https://images.radiovolna.net/_files/images/stations/401729/xy3o59a97defdbdb0945209892_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radyo Mucizem",
+      "s": "https://live.radyositesihazir.com/8036/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426321/ca165c81c319290c3390255a398fc069_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Küpe FM",
+      "s": "https://icecast.netmedya.net/kupefm",
+      "l": "https://images.radiovolna.net/_files/images/stations/423604/1cfaf969ee106b65532724302e8b2c7c_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Pal FM",
+      "s": "http://shoutcast.radyogrup.com:1030/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401743/g07s59a99a0322d9f752942372_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Slow Türk FM",
+      "s": "https://radyo.duhnet.tv/slowturk",
+      "l": "https://images.radiovolna.net/_files/images/stations/401736/avu459a9836b02e8e062865479_130x130.webp",
+      "g": [
+        "International",
+        "Themes"
+      ]
+    },
+    {
+      "t": "TGRT FM",
+      "s": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/9594/a5n1599c28721537e544596104_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Alem FM",
+      "s": "http://scturkmedya.radyotvonline.com/stream/80/",
+      "l": "https://images.radiovolna.net/_files/images/stations/401724/v86x59a9799bc3256696575422_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Karadeniz Türk",
+      "s": "https://radyo.yayin.com.tr:6134/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/427210/9badf9101d8cfa3437b4f9a291a9cfbf_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "HATAY RADYO MELODİ",
+      "s": "https://radyomelodi.80.yayin.com.tr/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/426421/223a9d9d5c4d5692844ae072157dab09_130x130.webp",
+      "g": [
+        "International",
+        "Folk",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radyo Turan",
+      "s": "http://yayin.liderhost.net:9444/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/401824/zqon59ad6cdb5fa1f463646647_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Kardelen FM",
+      "s": "http://dinle.kardelenfm.com:2000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/1658/lk0d597868a517888476072608_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Ostim Radyo",
+      "s": "https://stream.netradyom.com/radio/8010/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401765/pmsf59aa674a69afa952664187_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "İmaj Pop Radyo",
+      "s": "https://stream.netradyom.com/listen/imajpop/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401770/98e11594d9740dcfcb75fbcdcbb9be74_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo S",
+      "s": "https://icecast.netmedya.net/radyos",
+      "l": "https://images.radiovolna.net/_files/images/stations/401781/cxhg59aab9e48a101726269021_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Akdeniz",
+      "s": "http://yayin.radyoakdeniz.com:9470/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401801/qrrn59abc98bb1c80526792261_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Kuzey FM",
+      "s": "http://yayin1.yayindakiler.com:3028/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423616/8811eb59f3023f3ef2d8c2a2d6a77be0_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Venüs",
+      "s": "https://yayin.bursaradyovenus.com/3416/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401785/8f1390c0dde2e5b0a5eb371559450169_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Power Smooth Jazz",
+      "s": "https://listen.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401017/z2iz595cd895e83bd142908447_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Kiss FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_FM128AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/428341/a91d8167809a95c5695fc002b6b2326f_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Pal Station",
+      "s": "http://shoutcast.radyogrup.com:1020/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401752/g7na59a9a95a43e32900660684_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "ÇAGRI",
+      "s": "http://yayin1.canliyayin.org:8202/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/7424/nard5a29a1236c277294200677_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Çayeli FM",
+      "s": "http://radyo1.radyo-dinle.tc:8030/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/425526/3e26afeb1ee5698631ba815a516bf3ed_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "mobilRADYOM",
+      "s": "https://radyo.80.yayin.com.tr/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/419806/dff0e8eab88320343900d9f93e9f4e06_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "International",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Power Love",
+      "s": "https://listen.powerapp.com.tr/powerlove/abr/powerlove/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/7373/z7jn595cd53fb4732465302481_130x130.webp",
+      "g": [
+        "Themes",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radyo Nida",
+      "s": "https://anadolu.liderhost.com.tr:8106/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428373/5649235f1e794aa9a90b6fa274c583fd_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Trafik",
+      "s": "http://live4.radyotvonline.com:7075/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401753/cqfa59aa5ac5ab756910248168_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Ribat FM",
+      "s": "http://yayin1.canliyayin.org:7010/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423607/3835f6f7e7605302a0eff726725b31a2_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Lider FM",
+      "s": "https://wowza1.radyotvonline.com/shoutcast/liderfm.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428375/4846a85fd7e2597a8cbf05aaf7c29b23_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo EN",
+      "s": "http://yayin2.canliyayin.org:7222/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428378/c5c59c763a1dd395bd093b753c339919_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Bilim",
+      "s": "http://gitassi.com:8750/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423582/6464fec15bf4e3eac512690f7af8bfe1_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Power R&B Hip Hop",
+      "s": "https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401016/hj0f595cd846f39d5391927879_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radyo Taka FM",
+      "s": "http://dj.msteknoloji.com:8586/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428380/953b12493b80cb8617b5909fbded218a_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "ibrahim yavaş",
+      "s": "https://arabeskdamarfm.kesintisizyayin.com/9306/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420412/0044a94b334e707d4ec2853d6323dc48_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Yıldız FM",
+      "s": "http://live.radyotvonline.com:8150/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401796/o58v59abb41fcb71e367917596_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Nokta Radyo",
+      "s": "https://noktarad.80.yayin.com.tr/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423125/9584d75a4f1e0ec51bb69757f37fe5d9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dümensiz Radyo",
+      "s": "https://live.sinirsizhost.com:8030/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/430263/ed1cc37963224e15de85362dec93b5d1_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Tiryaki FM",
+      "s": "http://yayin.turkhosted.com:6056/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/423611/d3ac3b5f9bc5910b41b6ab934eaecd00_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Bloomberg HT Radyo",
+      "s": "https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428343/6b71a93ee34ae9a62b3d5a6cfed98f76_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radyo Deva",
+      "s": "https://radyo.yayindakiler.com:3040/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428368/698b9a33b1f92b7a1e2a34a7dfb297ab_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Pause",
+      "s": "http://live5.radyotvonline.com:8010/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401797/l2pz59abb47f1d712609718588_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Başkent",
+      "s": "http://212.174.58.161:8000/1042",
+      "l": "https://images.radiovolna.net/_files/images/stations/428365/14401809ff8ffdb42da2d476429c16fd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "PowerTürk Taptaze",
+      "s": "https://listen.powerapp.com.tr/powerturktaptaze/abr/powerturktaptaze/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/27723/74edc5024d75084605bd27fb6199989d_130x130.webp",
+      "g": [
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "Lig Radyo",
+      "s": "https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/28052/73946361e052a6ad77fc654b54166d99_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tayfun Soydemir",
+      "s": "https://radyoankara.ozelip.net:8152/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429794/03755c7027f49bfc2d6379b893d17861_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Ege FM",
+      "s": "http://sunucu.radyodinle.com:2024/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401793/a7ja59abaf1139f50602267599_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Hayat",
+      "s": "http://live4.radyotvonline.com:9450/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401817/va1y59ad6241db124486359950_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Selam",
+      "s": "http://yayin1.canliyayin.org:7066/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428377/f262537eae734f5b8ea519efe4619b6b_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Dilara",
+      "s": "http://yayin1.canliyayin.org:7878/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401802/ggx359abc9d694616207124289_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Arabeskinsesi FM",
+      "s": "http://www.arabeskinsesi.net:9958/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/7390/o6zk5a296ca1ccf9d076528458_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Tutkal",
+      "s": "https://live.radyositesihazir.com/8034/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/425872/ddb556ade44f6678653b971db895d7ae_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Karadeniz FM",
+      "s": "http://37.247.100.101:8080/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401740/srie59a99877dd586068391576_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Ses",
+      "s": "http://31.6.86.17:8005/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401760/hasa59aa650e26003227545327_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Ekin",
+      "s": "http://yayin.turkhosted.com:6006/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401733/mv4j59a981da6e184570975268_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Vokal",
+      "s": "http://37.247.98.8:80/stream/35/",
+      "l": "https://images.radiovolna.net/_files/images/stations/401730/myli59a97eae8aae1376508497_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "RADYO 42 FM MEDYA KONYA PR MUSIC TÜRKİYE",
+      "s": "https://a8.asurahosting.com/hls/radyo_42_fm_medya_konya_pr_music/live.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/431529/215a4ee78ce542cf7e582e854934e967_130x130.webp",
+      "g": [
+        "International",
+        "Rock",
+        "Soundtracks",
+        "Rap",
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gebze FM",
+      "s": "http://gebzefm.radyotvyayini.com:9530/;type=mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424090/a08fa7779544e25bf5237512858dbd13_130x130.webp",
+      "g": [
+        "Folk",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radyo Karadeniz",
+      "s": "https://radyo1.radyo-dinle.tc/8138/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428364/9ef707d7d52516e6bbb8fe073664c42f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mevlana",
+      "s": "http://radyo.radyomevlana.com:9786/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7404/qxf85a296fbe2fbb1734234799_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "On",
+      "s": "http://yayin.asymedya.com:8040/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401771/cll159aa6a1ac0823093387745_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Romantik Ses Isparta",
+      "s": "http://dinle.romantikses.com:9306/;/;type=mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424086/8cb8562dd509328836a4847700db5018_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Sancak FM",
+      "s": "http://radyo.yayin.com.tr:5916/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401774/ffdi59aab636e7545191618528_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Duble",
+      "s": "http://radyo.yayin.com.tr:6030/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428344/7527a11d9dea06e26fc9384d0ac17d96_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Misk FM",
+      "s": "http://95.173.184.17:9958/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423564/4c0a71bee94916a5d9c9d64867927e50_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mesaj FM",
+      "s": "https://yayin2.canliyayin.org/8036/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401827/rkii59ad79c6109fd498821547_130x130.webp",
+      "g": [
+        "Inspirational",
+        "International"
+      ]
+    },
+    {
+      "t": "Gimsa Radyo",
+      "s": "http://yayin.canliyayin.org:9482/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401755/w98n59aa5b951ce71512565664_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Bilkent",
+      "s": "https://ip132.ozelip.com/8038/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401766/fl9h59aa67a33c31a652212355_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Günebakan",
+      "s": "http://193.255.140.62:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428374/9617e2b5b6e16f116cd75307c4569529_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ASLAN FM",
+      "s": "https://ip231.ozelip.com:8038/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/430082/7538066e9e8003f850f1b1ecdd59c798_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Bilim",
+      "s": "http://178.63.16.148:8750//stream?icy=http",
+      "l": "https://images.radiovolna.net/_files/images/stations/401732/2310498c426dab1112762f28254761fd_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Denge",
+      "s": "http://yayin1.canliyayin.org:8278/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401759/qs5759aa64bcee943068981630_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "DT NOSTALJİ",
+      "s": "https://canli.dtnostalji.com.tr/9999/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430267/9d54025659138de3a2e800a2afc8401b_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "International",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Power Deep",
+      "s": "https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401020/85481e85273d9b3237b0dfeca9ad0b65_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Harman Radyo",
+      "s": "http://37.247.100.101/stream/66/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428366/4a982dc35d97d52a3996d0ddc94024c4_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Meşk FM",
+      "s": "http://sunucu2.radyolarburada.com:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401818/g5w659ad63a455282184571196_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Light",
+      "s": "https://yayin.radiolight.net:8005/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/401746/ghg159a9a26e91657423318540_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Barış",
+      "s": "http://yayin2.canliyayin.org:9350/;stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423585/a1069ba100a7b5ee2c838004a136fba3_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Lounge FM",
+      "s": "https://sc.vargonen.net:5003/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401737/u28959a983f9d6785740740635_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Joy Jazz",
+      "s": "https://17773.live.streamtheworld.com/JOY_JAZZ.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7413/ibww5a296c5bbc830438676711_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radyo Talya",
+      "s": "https://ip157.ozelip.com/8012/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428372/5fee19e8ea9adfa5b82514b127c18ca5_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Serin fm",
+      "s": "https://ssl.radyohosting.net.tr:3434/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/426615/ea240907b1e66b2d5bfdf3fa52886bfa_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Koray Baştürk",
+      "s": "https://ip169.ozelip.com/8210/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426484/9843f1c60a3e770c05400f39f09ad134_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Seyhan",
+      "s": "http://yayin2.yayindakiler.com:4000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423584/296e35d3edd3f7d39c64501457f493dd_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Kordelya",
+      "s": "http://38.96.148.39:8488/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401788/kihz59aac4ed33925637367836_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Adana FM",
+      "s": "http://radyo.yayin.com.tr:5904/stream/1/?icy=http",
+      "l": "https://images.radiovolna.net/_files/images/stations/423583/d704a503ca02d4dc603e3a62a5d02ee9_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo 04",
+      "s": "https://ssl.radyohosting.net.tr:4040/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/426616/6016186986e91de6e57f565dca4546d4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bozkurt",
+      "s": "http://radyobozkurt.kesintisizyayin.com:9938/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/418231/595eb95bac8b9e46740a18bca5521285_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Shema",
+      "s": "http://shoutcast.shemamedia.com:9030/shema",
+      "l": "https://images.radiovolna.net/_files/images/stations/401768/ljz659aa689a630f3866904885_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Bursa FM",
+      "s": "http://yayin.bursafm.com.tr:1055/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401786/8660526cb528ec98bf9e55fe11f13f21_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Tutku",
+      "s": "http://yayin.netyayin.net:2635/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/424092/688be905b74fa09dc141b7045a425b63_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "reyhanifm",
+      "s": "https://radio.radyotescil.net/8058/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/424061/753d08626742c3335cde1d1fd5a1b794_130x130.webp",
+      "g": [
+        "Inspirational",
+        "Classical"
+      ]
+    },
+    {
+      "t": "RİZE FM",
+      "s": "https://radyo.medyahost.com.tr:8036/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/431507/7e6832726cb156b4c135d7c2b8bdf2a6_130x130.webp",
+      "g": [
+        "International",
+        "Decades",
+        "Pop",
+        "Country"
+      ]
+    },
+    {
+      "t": "Nikomedya",
+      "s": "https://sslyayin.radyoyayini.com:7091/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424088/5959743a2773e1a45c125340ed8444cd_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Başkent",
+      "s": "http://212.174.58.161:8000/adana",
+      "l": "https://images.radiovolna.net/_files/images/stations/401813/lnyt59ad10afd8769352982959_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mega FM",
+      "s": "http://46.105.35.48:9346/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/424204/4db9a5a9a20f48e2b5e9eb5d7eefd330_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock",
+        "International"
+      ]
+    },
+    {
+      "t": "Gri Balkon",
+      "s": "http://37.59.28.208:8762/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/31219/95b2f06e6d0694bf5394a220482e134f_130x130.webp",
+      "g": [
+        "Folk",
+        "Electronic",
+        "Pop",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Güney",
+      "s": "http://sunucu2.radyolarburada.com:8250/;stream/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/401822/uw9559ad653fc9289727975609_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Akustik Türküler",
+      "s": "http://46.20.4.54:8020/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/426707/ffa4dcee7f93b75491ff118af14e3d47_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RadyoK - Karadenizin Sesi Radyosu",
+      "s": "http://yayin1.canliyayin.org:8200/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401731/v4ue59a97f1c8b9e7186643973_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Bursa'da Bugün",
+      "s": "https://radyo.bursadabugun.com/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423593/2ffe330e055b35673ec32797d4ed4add_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kent FM",
+      "s": "http://46.20.7.101/stream/267/&type=mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401720/wogp59a97543df012104783776_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Bizim",
+      "s": "https://ip132.ozelip.com:7017/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423577/87f73c82f6fef4fc12d80b8ac469c893_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mega",
+      "s": "http://radyo.yayin.com.tr:4052/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401744/n3uy59a99d0b5c4cd910558944_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Erkan",
+      "s": "http://sunucu2.radyolarburada.com:8095/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401815/kj3q59ad115bdef09343922508_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Rize Türk",
+      "s": "https://radyo.yayin.com.tr:4168/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429639/a8068ef1e65d0d8d671eec004cddb08d_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Aktif",
+      "s": "http://sr1.netmedya.org:9220/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401778/uixw59aab8b95cce3521734112_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Şirin",
+      "s": "http://yayin.radyosirin.com:9570/mp3/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/424091/13b907dd88506a24ad66a23ee1189ae8_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock",
+        "International",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Beyaz",
+      "s": "http://radyo.normyazilim.com:8010/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401762/tpsd59aa65d385de3118543491_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radyo Vadi",
+      "s": "http://yayin.vadiradyo.com:8038/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/426232/f4ac7ef8ad7cce99271093759b9bbb3b_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Karadeniz Akustik",
+      "s": "https://karadenizakustik.radyotvonline.net/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/426868/1e5bcbd305f249091431b01c07faac5b_130x130.webp",
+      "g": [
+        "International",
+        "Folk",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Radyo C",
+      "s": "http://yayin.radyoc.com:8091/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7427/pplj5a296797ef2fe509180629_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Karma Türk Radyo",
+      "s": "https://yayin.radyomadyo.com:8006/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428349/33d8634895b4e7e56686ae348174ed93_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Romantik Ses Dinar",
+      "s": "http://dinle.romantikses.com:3030/;/;type=mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424084/873c77a9fab5d624693baa5f7494ae74_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock",
+        "International"
+      ]
+    },
+    {
+      "t": "Baba Radyo",
+      "s": "http://46.20.7.116/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401751/qqvk59a9a8dab6643609680180_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Max FM",
+      "s": "http://live.radyotvonline.com:8090/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401764/bsx059aa66bca5dad246200814_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Moda",
+      "s": "http://yayin.radyomoda.com.tr/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/32581/428fcd905e1edaf8e7adefdd58318062_130x130.webp",
+      "g": [
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "ilef",
+      "s": "http://radyo.cc.ankara.edu.tr:8089/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401756/ehls59aa634401de1659866073_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sakarya Romantik Ses",
+      "s": "http://dinle.romantikses.com:5959/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/424087/e4cdceb18684e74350fc80eeda4ba2da_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock",
+        "International"
+      ]
+    },
+    {
+      "t": "Ak",
+      "s": "http://radyoak.canliyayinda.com:8026/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401826/i68o59ad793f92acb812107898_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "FG 93.8",
+      "s": "https://sc.vargonen.net:5001/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428346/f256d0d8008ae6d02453242be532c78d_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "ART FM",
+      "s": "http://yayin.liderhost.net:9338/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423592/a3eb0423bdc774af979fa4e6ae531180_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Kaçkar Haber Radyo",
+      "s": "https://kackartv.ozelip.com:3898/stream/play.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430048/41a164bd53a5581eea9dc8191ebb4350_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Vizyon",
+      "s": "http://park.netradyom.com:9300/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401761/svut59aa6570d097d216791791_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Üniversite",
+      "s": "http://radyo.cu.edu.tr/Stream1",
+      "l": "https://images.radiovolna.net/_files/images/stations/428369/589966f18919f041bf3753d39a8b1e7e_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Metropol FM",
+      "s": "https://sslyayin.netyayin.net/8002/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428367/c6350e32f09c53cb9d563a3db4233bcc_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Hedef Radyo",
+      "s": "http://wowza.radyogrup.com:4010/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401758/t8sx59aa644a13fbd845664281_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Karaman Radyo",
+      "s": "https://radio.radyotescil.net/8026/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423524/ecba9fcdf33e784b60a1c6a205023bd8_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "Folk",
+        "International"
+      ]
+    },
+    {
+      "t": "Arabesk Radyo",
+      "s": "https://dinle.arabeskradyo.biz/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/7392/r8i6597736be955a0908704446_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo 34",
+      "s": "https://radyo34.radyotvonline.net/radyo34",
+      "l": "https://images.radiovolna.net/_files/images/stations/401721/w31559a97601e4b8f682381994_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Batı Radyo",
+      "s": "https://sslyayin.netyayin.net:10902/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428376/5e6f7416532197638b04e2fa6ad889a6_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Üniversite FM",
+      "s": "https://s2.radiolize.com/radio/8020/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428371/3fe44897fb74bb8378ea34e93dcaa29d_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Nor Radyo",
+      "s": "https://www.norradyo.com/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/31779/fe2eb3b359ff7cbe73f6448fb50aaa52_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Genç Radyo",
+      "s": "http://yayin.turkhosted.com:6030/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423614/f678326b921c464b55f27ed6687c0895_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Milli Gençlik Radyo",
+      "s": "https://sp.radyotescil.com/8012/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/425833/b270e3493b036e2afe67a8833d8923c0_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Pal Orient",
+      "s": "http://shoutcast.radyogrup.com:1050/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423581/d38fc85f7b92edcef19443a825c5e1f6_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "İstanbul FM",
+      "s": "http://45.32.154.169:9300/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401723/deuz59a976c68497f233780438_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Olay Radyo",
+      "s": "http://shoutcast.shemamedia.com:9030/olayfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/423590/5a547446f58a57f77b75fbfdc67c28e8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radyo Net",
+      "s": "http://yayin2.yayindakiler.com:4032/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423615/7a6df812f6273c3618ea431ccd84d8ed_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo 16",
+      "s": "https://radyo.yayin.com.tr:6038/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423594/6da635771adba38c962aaf3b77b7f9d1_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Ege",
+      "s": "https://edge1.socialsmart.tv/radyoege/bant1/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/401791/tfaj59abad9a4b5b9093476064_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Efkar",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC008_SO1AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/7412/w45l5a296f11988bb902429601_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Power Smooth",
+      "s": "https://listen.powerapp.com.tr/powersmooth/abr/powersmooth/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401025/bd16a9a2d5423f529ac1d9d90f4bc408_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radyo Gol",
+      "s": "https://moondigitaledge.radyotvonline.net/radyogol/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428342/eaf18461c70b6aad5633b44d242ed6b8_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "PowerTürk Akustik",
+      "s": "https://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/7423/qyc3595cd5c757af8074034852_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo K.İ.",
+      "s": "http://radyoki.kocaeli.edu.tr:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424089/7d8ba4672830ae03305613f55e53f0b5_130x130.webp",
+      "g": [
+        "Pop",
+        "International",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Power Greece",
+      "s": "https://listen.powerapp.com.tr/powergreece/abr/powergreece/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401022/hn39595cda1e1e0ac256810341_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "İmbat FM",
+      "s": "http://38.96.148.39:8788/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401790/xfzm59abad2ceff66661132126_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Power Gold",
+      "s": "https://live.powerapp.com.tr/powergold/abr/powergold/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401023/ryio595cdb62e2c40806526050_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Derya",
+      "s": "http://yayin.turkhosted.com:6032/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423606/22228e1c7cdd1fc0986c1e6260eaff9e_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Doruk",
+      "s": "https://radyodoruk.ozelip.com/8108/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428370/4d1faee14020db0c83b2b28fc6d6a688_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Star Artı",
+      "s": "http://yayin.morkarinca.com:8282/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401742/rgow59a9996f92b45664373679_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mercan",
+      "s": "http://yayin1.canliyayin.org:8400/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/401798/s5ax59abc509414d7297012018_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Esas Radyo",
+      "s": "http://yayin.turkhosted.com:6034/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428379/55db6bd82c613e959dce84cab72919bb_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Fıtrat",
+      "s": "https://shaincast.caster.fm:22344/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423573/4f456facc552937ee2abb76089fe8a7d_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Seymen",
+      "s": "https://yayin.radyoseymen.com.tr:1070/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/416347/g6fp5c1a12701d5dc888524069_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Gözyaşı FM",
+      "s": "http://yayin1.canliyayin.org:8700/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423613/d85f24eefad67838aa8f853d5a55da46_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Lider FM",
+      "s": "http://yayin1.yayindakiler.com:3046/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401816/dzkk59ad6204a0e1e004075141_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Kordon FM",
+      "s": "http://38.96.148.39:8588/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401794/nip359abb0e3f0306987967980_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Bayram FM",
+      "s": "http://sunucu.radyodinle.com:3442/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423566/d67e7abe3bd9a3944b47013d3d841334_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Özel FM",
+      "s": "https://ozelfm.80.yayin.com.tr/;stream/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/7394/i5rq59a9a0c6155d1324413995_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Yön Radyo",
+      "s": "https://stream.radyolarburada.com/radio/8020/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401739/brv159a997300ba90078181384_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Raks FM",
+      "s": "https://sslyayin.radyoyayini.com:7092/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424093/0a0cd70f398b7c48c7cf6bc04fc91e9c_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "RADYO DEVA",
+      "s": "https://ssl123.ozelip.com/8108/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426859/5c255ee4f72e422d7dff5364f346a4ba_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radyo 35",
+      "s": "https://yayinonline.com.tr/stream/radyo35",
+      "l": "https://images.radiovolna.net/_files/images/stations/401789/v18t59abacc062a0d637808360_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Kafa Radyo",
+      "s": "https://hlsnginx.kafaradyo.com/radyoland/kafaradyo.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401725/968dad97606e91430643be997c235b40_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Türk",
+      "s": "https://stream.rcast.net/200346",
+      "l": "https://images.radiovolna.net/_files/images/stations/401779/q01w59aab93863b84353910457_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Eşme fm",
+      "s": "http://178.32.4.127:8358/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423951/67bfd37a2a3c533e0de6f3248b4eac37_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fenerbahçe",
+      "s": "http://91.232.174.18:8000/Stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423567/736f008a7a638be2b8669e758ff1d428_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Park FM",
+      "s": "http://yayin.netradyom.com:8050/PARKFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/401767/sl2q59aa6838ccf84646173483_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "PowerTürk Slow",
+      "s": "https://listen.powerapp.com.tr/powerturkslow/abr/powerturkslow/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401030/41a1f378887ed1e4e39756592febffe5_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radyo44",
+      "s": "https://radyo44.80.yayin.com.tr/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/425900/8de0e24fcf076db5cb25468040b3eda0_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "PowerTürk En İyiler",
+      "s": "https://listen.powerapp.com.tr/powerturkeniyiler/abr/powerturkeniyiler/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401029/2a5a9f0e0c9278609dba607228f9d967_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Ball FM",
+      "s": "http://balfm.kesintisizyayin.com:9966/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/417596/a4nx5d05d958ee1e6818747774_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "PowerTürk Dans",
+      "s": "https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/256/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401028/4ad73573f80d935f9848faa3725e6894_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bordo Mavi",
+      "s": "https://ip169.ozelip.com:10975/;stream.nsv&type=mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423620/ac0c1e340369478c992998d0b69927e6_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Trafik İstanbul",
+      "s": "http://37.247.100.118/stream/157/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423576/139fb45a46ac22ce3cbdf30ce63ee9b9_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "45'lik",
+      "s": "https://stream.radyo45lik.com:4545/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/9592/nyyk59a97a08108e4626354134_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "KTÜ",
+      "s": "http://194.27.90.170:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423621/2c2d7b13b0c316814e6acaefb628d8bd_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "CRI Türk FM",
+      "s": "https://stream.guventechnology.com:2020/stream/criturkradyo/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423553/397fa21eb7b19996b59b890f7f148ad0_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Habertürk Radyo",
+      "s": "https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423554/29bb75d55c30e29485aa6c943c81b754_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "CEM Radyo",
+      "s": "https://cemradyo.radyotvonline.net/cemradyo",
+      "l": "https://images.radiovolna.net/_files/images/stations/401738/zuu359a996c7ab42e723092922_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Fenomen",
+      "s": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-fenomen.png",
+      "g": [
+        "Pop",
+        "Rap",
+        "Other"
+      ]
+    },
+    {
+      "t": "Power FM",
+      "s": "https://live.powerapp.com.tr/powerfm/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/power-fm-13449.png",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Virgin Radio",
+      "s": "https://22603.live.streamtheworld.com:443/VIRGIN_RADIOAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/virgin-radio-tr.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Slow Türk",
+      "s": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+      "l": "https://kuasark.com/files/stations-logos/slow-turk.png",
+      "g": [
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Metro FM",
+      "s": "https://22603.live.streamtheworld.com:443/METRO_FM128AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/metro-fm-tr.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "PashPash Radio",
+      "s": "https://hits.pashpashradio.com:7000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/pashpash-radio.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Joy Turk",
+      "s": "https://22183.live.streamtheworld.com:443/JOY_TURKAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/joy-turk.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Joy FM",
+      "s": "https://22193.live.streamtheworld.com:443/JOY_FMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/joy-fm-tr-92379.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Number1 Deep House",
+      "s": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e35cb55bf5_1/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/number1-deep-house.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Süper Fm",
+      "s": "https://radyo.yayindakiler.com:4002/stream",
+      "l": "https://kuasark.com/files/stations-logos/super-fm-tr-14402.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Number 1 FM",
+      "s": "https://n10101m.mediatriple.net/numberone",
+      "l": "https://kuasark.com/files/stations-logos/number-1-fm.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Istanbul Fm",
+      "s": "https://yayin.istanbulfm.com.tr/istanbulfm",
+      "l": "https://kuasark.com/files/stations-logos/istanbul-fm.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "STAR ARTI",
+      "s": "http://77.223.134.54:8282/;",
+      "l": "https://kuasark.com/files/stations-logos/star-arti.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radyo MYDONOSE",
+      "s": "https://25533.live.streamtheworld.com:443/SC010_SO1AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radyo-mydonose.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Lounge 96",
+      "s": "http://37.1.145.21:9003/;",
+      "l": "https://kuasark.com/files/stations-logos/lounge-96.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "R&B and Urban",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radyo 2000",
+      "s": "http://stream.taksimbilisim.com:8004/;",
+      "l": "https://kuasark.com/files/stations-logos/radyo-2000.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radyo Voyage",
+      "s": "http://voyagewmp.radyotvonline.com/;",
+      "l": "https://kuasark.com/files/stations-logos/radyo-voyage-tr.png",
+      "g": [
+        "New Age",
+        "Classical",
+        "Easy Listening",
+        "Folk",
+        "Jazz",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radyo Nostaljinin Sesi",
+      "s": "https://stream-159.zeno.fm/q7zxyx2qsfhvv?zs=wf25aFGXQtWdaEyLeq77SQ",
+      "l": "https://kuasark.com/files/stations-logos/radyo-nostaljinin-sesi.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Baba Radyo",
+      "s": "http://37.247.98.7/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/baba-radyo-tr-93375.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radyo Genclik",
+      "s": "https://free.rcast.net/66709",
+      "l": "https://kuasark.com/files/stations-logos/radyo-genclik.png",
+      "g": [
+        "Folk",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Adana FM",
+      "s": "https://host.onlineradyotv.net:2020/stream/adanafm",
+      "l": "https://kuasark.com/files/stations-logos/adana-fm.png",
+      "g": [
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Islami Radyo Nebi",
+      "s": "http://95.173.188.154:8012/;",
+      "l": "https://kuasark.com/files/stations-logos/islami-radyo-nebi.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "FG 93.7",
+      "s": "http://37.1.145.21:9001/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fg-937.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Vav Radyo",
+      "s": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vav-radyo.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radyo Tulu",
+      "s": "http://yayin2.canliyayin.org:8248/;*.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radyo-tulu.png",
+      "g": [
+        "Folk",
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Power Deep",
+      "s": "https://listen.powerapp.com.tr/powerdeep/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/power-deep.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radyo Hayat",
+      "s": "https://wowza1.radyotvonline.com/shoutcast/radyohayat.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-hayat-tr-114122.png",
+      "g": [
+        "Other",
+        "News",
+        "International"
+      ]
+    },
+    {
+      "t": "Zenland",
+      "s": "https://moondigitaledge.radyotvonline.net/zenland/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/zenland.png",
+      "g": [
+        "Easy Listening",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Radyo Eksen",
+      "s": "https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-eksen.png",
+      "g": [
+        "Alternative",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radyo Pal FM",
+      "s": "http://shoutcast.radyogrup.com:1030/;stream",
+      "l": "https://kuasark.com/files/stations-logos/radyo-pal-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Lalegül FM",
+      "s": "https://icecast.netmedya.net/lalegulfm",
+      "l": "https://kuasark.com/files/stations-logos/lalegul-fm.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radyo Gül",
+      "s": "http://yayin2.canliyayin.org:8866/;*.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radyo-gul.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Greatest Hits of All Time",
+      "s": "https://22193.live.streamtheworld.com:443/SC030_SO1AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/greatest-hits-of-all-time.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radyo Pal Station",
+      "s": "http://shoutcast.radyogrup.com:1020/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/radyo-pal-station.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Power Dance",
+      "s": "https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/power-dance.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Türkçe Rap HipHop Radyo",
+      "s": "https://free.rcast.net/62128",
+      "l": "https://kuasark.com/files/stations-logos/turkce-rap-hiphop-radyo.png",
+      "g": [
+        "Rap",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Pal Nostalji",
+      "s": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-pal-nostalji.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ribat FM",
+      "s": "http://yayin1.canliyayin.org:7010/;",
+      "l": "https://kuasark.com/files/stations-logos/ribat-fm.png",
+      "g": [
+        "Folk",
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Loops Radio",
+      "s": "http://95.173.162.187:7670/stream",
+      "l": "https://kuasark.com/files/stations-logos/loops-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Power Love",
+      "s": "https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/power-love.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radyo Fenomen Turk",
+      "s": "https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-fenomen-turk.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Show Radyo",
+      "s": "http://46.20.3.229/;",
+      "l": "https://kuasark.com/files/stations-logos/show-radyo.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Enderun FM",
+      "s": "http://yayin2.canliyayin.org:7052/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/enderun-fm.png",
+      "g": [
+        "Folk",
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dinamo FM Deep",
+      "s": "https://channels.dinamo.fm/deep-mp3",
+      "l": "https://kuasark.com/files/stations-logos/dinamo-fm-deep.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Alem FM",
+      "s": "https://turkmedya.radyotvonline.net/alemfmaac",
+      "l": "https://kuasark.com/files/stations-logos/alem-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radyo ODTÜ",
+      "s": "https://stream.radyoodtu.com.tr/canli",
+      "l": "https://kuasark.com/files/stations-logos/radyo-odtu.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Gönül Türküleri",
+      "s": "https://22673.live.streamtheworld.com:443/SC020_SO1AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/gonul-turkuleri.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Slow Time",
+      "s": "http://46.20.7.103:8030/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/slow-time.png",
+      "g": [
+        "Blues",
+        "Easy Listening",
+        "Jazz",
+        "Pop",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Turk Rap FM",
+      "s": "http://95.173.188.166:9984/;",
+      "l": "https://kuasark.com/files/stations-logos/turk-rap-fm.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Radyo Viva",
+      "s": "https://radyoviva.radyotvonline.net/radyovivaaac",
+      "l": "https://kuasark.com/files/stations-logos/radyo-viva.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Retro Türk",
+      "s": "https://27953.live.streamtheworld.com/RETROTURK128AAC.aac?ttag=vehicle&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=6864020e-be8d-4671-fd36-d6e32978a07a",
+      "l": "https://kuasark.com/files/stations-logos/retro-turk.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Hedef Radyo",
+      "s": "http://stream.radyogrup.com:4010/;",
+      "l": "https://kuasark.com/files/stations-logos/hedef-radyo.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "CNN Türk Radyo",
+      "s": "https://radyo.duhnet.tv/ak_dtvh_cnnturk",
+      "l": "https://kuasark.com/files/stations-logos/cnn-turk-radyo.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Power XL",
+      "s": "https://listen.powerapp.com.tr/powerextralounge/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/power-xl.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Houseland",
+      "s": "https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/houseland.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Kafa Radyo",
+      "s": "https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/kafa-radyo.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Aşk FM",
+      "s": "https://stream.netradyom.com/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ask-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radyo Denge",
+      "s": "http://yayin1.canliyayin.org:8278/;",
+      "l": "https://kuasark.com/files/stations-logos/radyo-denge.png",
+      "g": [
+        "Folk",
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Turku FM Radyo",
+      "s": "http://radyo.turkuradyo.net:4591/;",
+      "l": "https://kuasark.com/files/stations-logos/turku-fm-radyo.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Karadeniz FM",
+      "s": "https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/karadeniz-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Süper 2 Fm",
+      "s": "https://27823.live.streamtheworld.com/SUPER2128AAC.aac?ttag=vehicle&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=d67e497c-0ea1-40fc-ef9e-59d261ce4992",
+      "l": "https://kuasark.com/files/stations-logos/super-2-fm.png",
+      "g": [
+        "Decades",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Birlik FM Radyo",
+      "s": "http://yayin2.canliyayin.org:7082/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/birlik-fm-radyo.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Isra FM",
+      "s": "http://yayin1.canliyayin.org:8210/;",
+      "l": "https://kuasark.com/files/stations-logos/isra-fm.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radyo Hevi",
+      "s": "https://anadolu.liderhost.com.tr:10939/;?1648035949562",
+      "l": "https://kuasark.com/files/stations-logos/radyo-hevi.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "TRT FM",
+      "s": "https://trt.radyotvonline.net/trt_fm.aac",
+      "l": "https://kuasark.com/files/stations-logos/trt-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Sari Tramvay",
+      "s": "https://moondigitaledge.radyotvonline.net/saritramvay/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/sari-tramvay.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Power Smooth Jazz",
+      "s": "https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/power-smooth-jazz.png",
+      "g": [
+        "Blues",
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Özgür Radyo",
+      "s": "http://95.173.188.170:9898/;",
+      "l": "https://kuasark.com/files/stations-logos/ozgur-radyo.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Discoland",
+      "s": "https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/discoland.png",
+      "g": [
+        "R&B and Urban",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Acik Radyo",
+      "s": "https://stream.34bit.net/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/acik-radyo-tr.png",
+      "g": [
+        "Classical",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "HAYATMiX",
+      "s": "http://hayatmix.net/;yayin.mp3/;",
+      "l": "https://kuasark.com/files/stations-logos/hayatmix.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radyo Mercan",
+      "s": "http://yayin2.canliyayin.org:8400/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radyo-mercan.png",
+      "g": [
+        "Folk",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Pop90",
+      "s": "https://22603.live.streamtheworld.com:443/POP90128AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/pop90.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Dinamo FM",
+      "s": "https://channels.dinamo.fm/legacy-mp3",
+      "l": "https://kuasark.com/files/stations-logos/dinamo-fm.png",
+      "g": [
+        "Easy Listening",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Radyo D",
+      "s": "https://radyo.duhnet.tv/ak_dtvh_radyod",
+      "l": "https://kuasark.com/files/stations-logos/radyo-d.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Arabeskland",
+      "s": "https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/arabeskland.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radyo Ihya",
+      "s": "https://radyo.yayin.com.tr:2727/stream",
+      "l": "https://kuasark.com/files/stations-logos/radyo-ihya.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mydonose Türk",
+      "s": "https://25453.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/mydonose-turk.png",
+      "g": [
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Genclik FM",
+      "s": "http://radyogenclik.com:9900/;stream.mp3/;type=mp3",
+      "l": "https://kuasark.com/files/stations-logos/genclik-fm.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Damar Türk FM",
+      "s": "https://live.radyositesihazir.com:10997/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/damar-turk-fm.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Kent fm Kirsehir",
+      "s": "https://radyo1.radyo-dinle.tc/8122/stream",
+      "l": "https://kuasark.com/files/stations-logos/kent-fm-kirsehir.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radyo Fenomen Karışık",
+      "s": "https://live.radyofenomen.com/fenomenkarisik/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-fenomen-karisik.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Max FM",
+      "s": "http://live.radyotvonline.com:8090/;",
+      "l": "https://kuasark.com/files/stations-logos/max-fm-tr.png",
+      "g": [
+        "Country",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Yön Radyo",
+      "s": "https://stream.radyolarburada.com/radio/8020/yonradyo",
+      "l": "https://kuasark.com/files/stations-logos/yon-radyo.png",
+      "g": [
+        "Classical",
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Çeşme viking radio",
+      "s": "https://ip169.ozelip.com/8432/stream",
+      "l": "https://kuasark.com/files/stations-logos/cesme-viking-radio.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Fenomen Pop",
+      "s": "https://live.radyofenomen.com/fenomenpop/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-fenomen-pop.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "JoyTurk Akustik",
+      "s": "https://22193.live.streamtheworld.com:443/SC004_SO1AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/joyturk-akustik.png",
+      "g": [
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Rock Station",
+      "s": "https://22673.live.streamtheworld.com:443/SC017_SO1AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/rock-station-tr.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Power POP",
+      "s": "https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/power-pop.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kent FM",
+      "s": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/kent-fm-tr-22210.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radyo Pop",
+      "s": "http://80.radyopop.com/;",
+      "l": "https://kuasark.com/files/stations-logos/radyo-pop.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vuslat FM",
+      "s": "http://yayin1.canliyayin.org:8282/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/vuslat-fm.png",
+      "g": [
+        "Folk",
+        "News",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Karadeniz",
+      "s": "https://22673.live.streamtheworld.com:443/SC005_SO1AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-karadeniz.png",
+      "g": [
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo gold",
+      "s": "https://ssl120.radyotelekom.com.tr/8340/stream",
+      "l": "https://kuasark.com/files/stations-logos/radyo-gold.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Fenomen Clubbin'",
+      "s": "https://live.radyofenomen.com/fenomenclubbin/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-fenomen-clubbin.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "TRT Radyo 3",
+      "s": "https://nmicenotrt.mediatriple.net/trt_3.aac",
+      "l": "https://kuasark.com/files/stations-logos/trt-radyo-3.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "PowerTürk En İyiler",
+      "s": "https://listen.powerapp.com.tr/powerturkeniyiler/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/powerturk-en-iyiler.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TRT Radyo Haber",
+      "s": "https://nmicenotrt.mediatriple.net/trt_haber.aac",
+      "l": "https://kuasark.com/files/stations-logos/trt-radyo-haber.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radyo Dejavu",
+      "s": "http://radyodejavu.canliyayinda.com:8054/;",
+      "l": "https://kuasark.com/files/stations-logos/radyo-dejavu-tr.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Balkan",
+      "s": "http://sesle.radyobalkan.com:8050/stream",
+      "l": "https://kuasark.com/files/stations-logos/radyo-balkan.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Viva Italo Disco",
+      "s": "http://us2freenew.listen2myradio.com:27904/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/viva-italo-disco.png",
+      "g": [
+        "Classical",
+        "R&B and Urban",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "PashPash 90s Station",
+      "s": "https://90s.pashpashradio.com:7001/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/pashpash-90s-station.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Power Greece",
+      "s": "https://listen.powerapp.com.tr/powergreece/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/power-greece.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Number1 Dance",
+      "s": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e33b514f52_1/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/number1-dance.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Popland",
+      "s": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/popland.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Arabesk Radyo -Türkiye'nin En Koyu Arabesk Radyosu",
+      "s": "https://dinle.arabeskradyo.biz/stream?type=http&nocache=5113",
+      "l": "https://kuasark.com/files/stations-logos/arabesk-radyo-turkiyenin-en-koyu-arabesk-radyosu.png",
+      "g": [
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Clubbin",
+      "s": "https://radioclu.80.yayin.com.tr/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-clubbin.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Number1 Türk 90’lar",
+      "s": "https://n10101m.mediatriple.net/numberone90s",
+      "l": "https://kuasark.com/files/stations-logos/number1-turk-90lar.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Borusan Klasik",
+      "s": "https://25483.live.streamtheworld.com:443/BORUSAN_KLASIK128AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/borusan-klasik.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radyo Izmir FM",
+      "s": "http://usa4.fastcast4u.com:5414/mp3stream/;?hash=0.1920135512543366",
+      "l": "https://kuasark.com/files/stations-logos/radyo-izmir-fm.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radyo Pal Orient",
+      "s": "http://shoutcast.radyogrup.com:1050/stream/1;",
+      "l": "https://kuasark.com/files/stations-logos/radyo-pal-orient.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Tutak FM",
+      "s": "https://radyo1.radyo-dinle.tc/8078/stream",
+      "l": "https://kuasark.com/files/stations-logos/tutak-fm.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Number1 Slow",
+      "s": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3a53317d4_1/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/number1-slow.png",
+      "g": [
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Number1 Türk Fm",
+      "s": "https://n10101m.mediatriple.net/numberoneturk",
+      "l": "https://kuasark.com/files/stations-logos/number1-turk-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radyo Spor",
+      "s": "http://46.20.7.103:8040/;stream.nsv/;",
+      "l": "https://kuasark.com/files/stations-logos/radyo-spor-tr-222.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "AÇS Radyosu",
+      "s": "https://ip169.ozelip.com:10838/stream",
+      "l": "https://kuasark.com/files/stations-logos/acs-radyosu.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Number1 Türk Slow",
+      "s": "https://n10101m.mediatriple.net/numberoneturkslow",
+      "l": "https://kuasark.com/files/stations-logos/number1-turk-slow.png",
+      "g": [
+        "Easy Listening",
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "PowerTürk Akustik",
+      "s": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/powerturk-akustik.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radyo Fenomen Rap",
+      "s": "https://live.radyofenomen.com/fenomenrap/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-fenomen-rap.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radyo Fenomen Akustik",
+      "s": "https://live.radyofenomen.com/fenomenakustik/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-fenomen-akustik.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radyo Fenomen Oriental",
+      "s": "https://live.radyofenomen.com/fenomenoriental/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-fenomen-oriental.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "POLİS RADYOSU",
+      "s": "https://m.egm.gov.tr:8093//;",
+      "l": "https://kuasark.com/files/stations-logos/polis-radyosu.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Damla FM",
+      "s": "http://yayin.rtmp.org:8750/;",
+      "l": "https://kuasark.com/files/stations-logos/damla-fm.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Dinamo FM Locodyno",
+      "s": "https://channels.dinamo.fm/locodyno-mp3",
+      "l": "https://kuasark.com/files/stations-logos/dinamo-fm-locodyno.png",
+      "g": [
+        "Electronic",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radyo Fenomen Türkçe Rap",
+      "s": "https://live.radyofenomen.com/fenomenturkrap/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-fenomen-turkce-rap.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Doksanlar",
+      "s": "https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/doksanlar.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radyo Fenomen Dans",
+      "s": "https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-fenomen-dans.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Mio Radio",
+      "s": "http://s2.myradiostream.com:13662/;",
+      "l": "https://kuasark.com/files/stations-logos/mio-radio.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Pop",
+        "Rock",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Davet Radyo",
+      "s": "https://stream-061.zeno.fm/xzuwreqpfg0uv?zs=VfcPkJ0NSj6-c9uFOH-EAg",
+      "l": "https://kuasark.com/files/stations-logos/davet-radyo.png",
+      "g": [
+        "Folk",
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "PowerTürk Taptaze",
+      "s": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/powerturk-taptaze.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Romantik Ses",
+      "s": "https://radyo.romantikses.com/romantiksessakary/stream/;type=mp3",
+      "l": "https://kuasark.com/files/stations-logos/romantik-ses.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "JoyTurk Rock",
+      "s": "https://23613.live.streamtheworld.com:443/JOYTURK_ROCK128AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/joyturk-rock.png",
+      "g": [
+        "Rock",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Dinamo FM Cafee",
+      "s": "https://channels.dinamo.fm/caffe-mp3",
+      "l": "https://kuasark.com/files/stations-logos/dinamo-fm-cafee.png",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Number1 Disco",
+      "s": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e41c778cb0_1/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/number1-disco.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Number1 Lounge",
+      "s": "https://n10101m.mediatriple.net/lounge",
+      "l": "https://kuasark.com/files/stations-logos/number1-lounge.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Arabesk Turk",
+      "s": "http://yayin.arabeskturk.com:8000/stream?icy=http",
+      "l": "https://kuasark.com/files/stations-logos/arabesk-turk.png",
+      "g": [
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Pal DOĞA",
+      "s": "http://shoutcast.radyogrup.com:1040/stream/1;",
+      "l": "https://kuasark.com/files/stations-logos/radyo-pal-doga.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radyo Pal Alaturka",
+      "s": "http://shoutcast.radyogrup.com:3050/stream/1;",
+      "l": "https://kuasark.com/files/stations-logos/radyo-pal-alaturka.png",
+      "g": [
+        "Other",
+        "Inspirational",
+        "International"
+      ]
+    },
+    {
+      "t": "Danceland",
+      "s": "https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/danceland.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Baska",
+      "s": "https://22183.live.streamtheworld.com:443/BASKA128AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/baska.png",
+      "g": [
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Radyo Home - 90’lar",
+      "s": "https://ssl4.radyotvonline.com/radyohome/90lar.stream_aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-home-90lar.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "İTÜ Radyosu Klasik",
+      "s": "http://160.75.86.29:8097/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/itu-radyosu-klasik.png",
+      "g": [
+        "Classical",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Can Radyo",
+      "s": "http://yayin1.yayindakiler.com:3124/;",
+      "l": "https://kuasark.com/files/stations-logos/can-radyo-tr-93246.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Yeni Radyo \" Her An Yeni \"",
+      "s": "https://radyo.yayin.com.tr:6191/stream",
+      "l": "https://kuasark.com/files/stations-logos/yeni-radyo-her-an-yeni-.png",
+      "g": [
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Karadeniz Sesi Fm",
+      "s": "https://radyo3.okeylisans.com/karadenizsesifm/stream",
+      "l": "https://kuasark.com/files/stations-logos/karadeniz-sesi-fm.png",
+      "g": [
+        "Classical",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "İTÜ Radyosu Caz/Blues",
+      "s": "http://160.75.86.29:8090/;",
+      "l": "https://kuasark.com/files/stations-logos/itu-radyosu-caz-blues.png",
+      "g": [
+        "Blues",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radyo Banko",
+      "s": "http://yayin.netradyom.com:9910/RADYOBANKO",
+      "l": "https://kuasark.com/files/stations-logos/radyo-banko.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Hoş Mix",
+      "s": "https://anadolu.liderhost.com.tr:10871/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/hos-mix.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Datça OnAir",
+      "s": "http://185.126.217.8:9358/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/datca-onair.png",
+      "g": [
+        "Country",
+        "Electronic",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radyo Home - Altın Şarkılar",
+      "s": "https://ssl4.radyotvonline.com/radyohome/altinsarkilar.stream_aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radyo-home-altin-sarkilar.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radyo Akdeniz",
+      "s": "https://yayin.radyoakdeniz.com/9470/stream",
+      "l": "https://kuasark.com/files/stations-logos/radyo-akdeniz.png",
+      "g": [
+        "Folk"
+      ]
+    }
+  ]
+}

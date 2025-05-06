@@ -1,0 +1,20 @@
+{
+  "stations": [
+    {
+      "t": "Tzgospel (Palau island)",
+      "s": "https://stream-158.zeno.fm/hfwt090mffhvv?zs=e4FEm0rvSpO13z1SwXFqCA",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-palau-island.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Station Beta",
+      "s": "https://stream-151.zeno.fm/bukxown5lsotv?zs=ZmLrlCd-SG-ePTd9Znv7UQ",
+      "l": "https://kuasark.com/files/stations-logos/station-beta-124863.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

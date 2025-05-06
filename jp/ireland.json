@@ -1,0 +1,2034 @@
+{
+  "stations": [
+    {
+      "t": "Gem Radio New Wave",
+      "s": "https://gemradionw.radioca.st/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3692/tqye5952c78102ce9678603923_130x130.webp",
+      "g": [
+        "Decades",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Birdhill Radio",
+      "s": "http://abacus.hostingenergy.com:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3684/nsah5959e83a7f0a8207420508_130x130.webp",
+      "g": [
+        "Country",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Live Ireland Radio",
+      "s": "http://192.111.140.11:8058/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3697/jb2559763f1c5faf0361705020_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Irish Pub Radio",
+      "s": "https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/3695/xl0459763f6e868f5932161306_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "REALRADIO Ireland",
+      "s": "https://stream.zeno.fm/6g19fr9psnhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426756/53335ae37212707bbac39f0e163aab09_130x130.webp",
+      "g": [
+        "Decades",
+        "Country",
+        "Themes"
+      ]
+    },
+    {
+      "t": "TrancePulse FM",
+      "s": "https://stream.trance.ie/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/3735/h1gv597a3a39d685d231804534_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Q102",
+      "s": "https://wg.cdn.tibus.net/q102MP3128",
+      "l": "https://images.radiovolna.net/_files/images/stations/3714/b3kz5952c7f5c2f25287475835_130x130.webp",
+      "g": [
+        "Rock",
+        "R&B and Urban",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Spin South West",
+      "s": "https://stream.audioxi.com/SW",
+      "l": "https://images.radiovolna.net/_files/images/stations/3678/s81s5a2443badc175998187374_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ireland's Classic Hits Radio",
+      "s": "https://edge.audioxi.com/CLASSIC",
+      "l": "https://images.radiovolna.net/_files/images/stations/401322/9551ab91bfa9f56fc4213a33f976421e_130x130.webp",
+      "g": [
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Cork's 96 FM",
+      "s": "https://wg.cdn.tibus.net/96fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/3686/o68u596d1eca9bc08347024936_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTÉ Radio 1",
+      "s": "https://rdstrm.com/rte-radio-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3723/rmig595f6b4ae2dfd690265797_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Today FM",
+      "s": "https://stream.audioxi.com/TD",
+      "l": "https://images.radiovolna.net/_files/images/stations/3733/n5h059a13a28d52e3192354210_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Nova",
+      "s": "https://stream.audioxi.com/NOVAAAC",
+      "l": "https://images.radiovolna.net/_files/images/stations/3717/g85y5974ba97eb51c443347904_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Sunshine",
+      "s": "http://sirius.shoutca.st:8291/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/3731/w19s5959fef687340069014004_130x130.webp",
+      "g": [
+        "Country",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Gem Radio Gold",
+      "s": "https://gemradio.radioca.st/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/26169/dbbaf83dee66000808b504ac6df53456_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "KCLR 96FM",
+      "s": "http://216.119.152.213:8007/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/3696/sgdy5a24422024cfa880956589_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "RTÉ 2fm",
+      "s": "http://icecast2.rte.ie/2fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/3725/lk5z595f6bbbede5a433328765_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Heartbeat FM",
+      "s": "http://176.9.184.196:8010/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/3693/x2r8596f09a8b1aae218594903_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Ocean FM",
+      "s": "http://213.175.217.198:8000/sligo",
+      "l": "https://images.radiovolna.net/_files/images/stations/3711/xsvz5a2442e47d471885530907_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "FM104",
+      "s": "https://gbradio.cdn.tibus.net/fm104AAC64",
+      "l": "https://images.radiovolna.net/_files/images/stations/3691/r7dg5971de2ad9836466314155_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Spirit Radio",
+      "s": "http://st2.webradioworld.net:8036/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401318/e8pt59a145cfbc508591932664_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Classix.ie",
+      "s": "http://classix.bitcast.eu:8000/classix",
+      "l": "https://images.radiovolna.net/_files/images/stations/25962/d18a336c6b14d279b1a7527f96b3d99a_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Dundalk FM",
+      "s": "http://80.249.249.245:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/22221/4f1ab97b291d629b492a939a5fef699c_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Loveradio.ie",
+      "s": "https://stream.btsstream.com:8092/loveradio.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423896/0d406c70f518847213c812b13bab15d2_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "RTÉ 2XM",
+      "s": "http://icecast2.rte.ie/2xm",
+      "l": "https://images.radiovolna.net/_files/images/stations/3718/eu9i595f6a60ed0fa554461380_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Flirt FM",
+      "s": "http://audio-edge-cmc51.fra.h.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900",
+      "l": "https://images.radiovolna.net/_files/images/stations/3690/uuyn5a2443710ea93975639866_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Midlands 103",
+      "s": "https://icy-e-05.sharp-stream.com:80/midlands103.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/24712/1465639233_s80566q_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Clare FM",
+      "s": "https://edge.audioxi.com/CLAREFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/21392/71f991ce4653261947a04498fd972d7a_130x130.webp",
+      "g": [
+        "Decades",
+        "News",
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hitz Radio Dublin",
+      "s": "https://live.hitzireland.com:8170/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/429757/2b24ef0a5cd36aaec1d7169d5c16741e_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "True 80s Radio",
+      "s": "http://50.97.94.44:8800/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/21084/fc17c1a8da7084ced2615bcca9f5c955_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tipp FM",
+      "s": "https://edge.audioxi.com/TIPPFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/3732/twon5a24432532a28406194630_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "8Radio",
+      "s": "https://securestreams.autopo.st:1035/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3680/tok9597709d1ce346046988871_130x130.webp",
+      "g": [
+        "Alternative",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Room 101",
+      "s": "https://room101.out.airtime.pro/room101_b",
+      "l": "https://images.radiovolna.net/_files/images/stations/26993/661a33652f4d5dc95c5b8338bc1da407_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Dublin's 98FM",
+      "s": "https://stream.audioxi.com/98",
+      "l": "https://images.radiovolna.net/_files/images/stations/401327/rmz259a149b90f5dc627929730_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Raidió na Life",
+      "s": "http://beryl.streamguys.com:5010/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/401330/yxm959a14ba74b798355913901_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Raidió Rí-Rá",
+      "s": "http://185.80.220.12:8166/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401331/hdz959a14c1a593e8050189146_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "South East Radio",
+      "s": "http://31.14.40.241:9726/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3729/ob5p5a2446d0d8c01583986215_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "UCB Radio",
+      "s": "http://31.14.40.241:18095/ucbireland",
+      "l": "https://images.radiovolna.net/_files/images/stations/421694/b103fc7a44e7329ba27c9de1b77806ad_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dublin South FM",
+      "s": "http://pollux.shoutca.st:8853/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/401321/fpda59a146f48d58f507657846_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Saint Ita's Hospital Radio",
+      "s": "http://uk2.streamingpulse.com:8042/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401317/rk1759a1457ae6932653234913_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Near",
+      "s": "http://proxima.shoutca.st:8114/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401319/ppoj59a14629166b0429126791_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Wired FM",
+      "s": "https://s2.radio.co/sf0986595a/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/421695/dad1b52d1e1fa69f364dc9c9e894f112_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Juice FM",
+      "s": "https://stream.rcs.revma.com/a8mqrmhcyy8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/421692/112614c5583260bf3e079292ebaec19a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kerry",
+      "s": "https://edge.audioxi.com/KERRY",
+      "l": "https://images.radiovolna.net/_files/images/stations/3716/qxxi5a2442960dae4896167267_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTÉ Radio 1 Extra",
+      "s": "http://icecast2.rte.ie/radio1extra",
+      "l": "https://images.radiovolna.net/_files/images/stations/3724/cgmk595f6b78b15c5645925569_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "iZZ Radio",
+      "s": "http://radio4.citrus3.com:8256/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430189/d34ceee0e6a94846731d35c32edf9fe2_130x130.webp",
+      "g": [
+        "Decades",
+        "Country",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Deep House Radio",
+      "s": "http://37.187.93.104:8589/deep",
+      "l": "https://images.radiovolna.net/_files/images/stations/25210/1268f457876fb33f66c15a6509e72b85_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Cork Campus Radio / UCC",
+      "s": "http://31.14.40.241:18080/983FM",
+      "l": "https://images.radiovolna.net/_files/images/stations/421693/408d6a1496f2b8442d4f09110fa30b9d_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "RTÉ Pulse",
+      "s": "http://icecast1.rte.ie/pulse",
+      "l": "https://images.radiovolna.net/_files/images/stations/3722/rmy4595f6b04589b6019121500_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Northern Sound",
+      "s": "https://edge.audioxi.com/NORTHERNSOUND",
+      "l": "https://images.radiovolna.net/_files/images/stations/3701/asql5a24450cd0c02945980496_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Midwestradio",
+      "s": "https://direct.sharp-stream.com/midwestfmie.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/30582/e759b8aa21d95e20d36abccfada76955_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "News Talk",
+      "s": "https://stream.audioxi.com/NT",
+      "l": "https://images.radiovolna.net/_files/images/stations/401329/j8w159a14b43d8b47340506950_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "East Coast FM",
+      "s": "http://sirius.shoutca.st:8673/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401324/pm8k59a1487e91c20011340755_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "RTÉ Gold",
+      "s": "http://icecast2.rte.ie/gold",
+      "l": "https://images.radiovolna.net/_files/images/stations/3720/m6fc595f6aa33b30a038801379_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Deep House Radio",
+      "s": "https://deephouseradio.radioca.st/;",
+      "l": "https://kuasark.com/files/stations-logos/deep-house-radio-ie.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Turbo80s.com",
+      "s": "https://transmitter.turbo80s.com:8443/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/turbo80scom.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "RTÉjr Radio",
+      "s": "https://www.rte.ie/radio/rtejrradio/",
+      "l": "https://kuasark.com/files/stations-logos/rtejr-radio.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Irish Country Music Radio",
+      "s": "http://46.28.49.164:7502/",
+      "l": "https://kuasark.com/files/stations-logos/irish-country-music-radio.png",
+      "g": [
+        "Country",
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "RTÉ Gold",
+      "s": "https://www.rte.ie/radio/gold/",
+      "l": "https://kuasark.com/files/stations-logos/rte-gold.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "RTÉ 2fm",
+      "s": "https://www.rte.ie/radio/2fm/",
+      "l": "https://kuasark.com/files/stations-logos/rte-2fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Classic Hits 4FM",
+      "s": "https://stream.audioxi.com/CLASSIC",
+      "l": "https://kuasark.com/files/stations-logos/classic-hits-4fm.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTÉ Lyric FM",
+      "s": "https://www.rte.ie/radio/lyricfm/",
+      "l": "https://kuasark.com/files/stations-logos/rte-lyric-fm.png",
+      "g": [
+        "Classical",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Irish Country Radio",
+      "s": "http://stream13.shoutcastsolutions.com:8020/stream",
+      "l": "https://kuasark.com/files/stations-logos/irish-country-radio.png",
+      "g": [
+        "Country",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Sunshine 106.8",
+      "s": "https://edge.audioxi.com/SUN",
+      "l": "https://kuasark.com/files/stations-logos/sunshine-1068.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "RTÉ Raidió na Gaeltachta",
+      "s": "https://www.rte.ie/radio/rnag/",
+      "l": "https://kuasark.com/files/stations-logos/rte-raidio-na-gaeltachta.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RTÉ Radio 1 Extra",
+      "s": "https://www.rte.ie/radio/rte-radio1-extra/",
+      "l": "https://kuasark.com/files/stations-logos/rte-radio-1-extra.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "All 80s",
+      "s": "https://securestreams7.autopo.st/?uri=https://all80s.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/all-80s.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Midwest Radio",
+      "s": "http://edge-audio-05-gos2.sharp-stream.com/midwestfmie2.aac",
+      "l": "https://kuasark.com/files/stations-logos/midwest-radio.png",
+      "g": [
+        "Country",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "RTÉ 2XM",
+      "s": "https://www.rte.ie/radio/2xm/",
+      "l": "https://kuasark.com/files/stations-logos/rte-2xm.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "TrancePulse Dublin",
+      "s": "https://stream.trance.ie:8443/stream",
+      "l": "https://kuasark.com/files/stations-logos/trancepulse-dublin.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "RTÉ Pulse",
+      "s": "https://www.rte.ie/radio/pulse/",
+      "l": "https://kuasark.com/files/stations-logos/rte-pulse.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Today FM",
+      "s": "https://edge.audioxi.com/TDAAC",
+      "l": "https://kuasark.com/files/stations-logos/today-fm-ie.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Christmas FM",
+      "s": "https://christmasfm.cdnstream1.com/2547_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/christmas-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Absolute Irish Radio",
+      "s": "https://stream.audioxi.com/IRISHAAC",
+      "l": "https://kuasark.com/files/stations-logos/absolute-irish-radio.png",
+      "g": [
+        "Country",
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "ABC 50's",
+      "s": "http://cast1.torontocast.com:2270/stream",
+      "l": "https://kuasark.com/files/stations-logos/abc-50s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Dublin's Q102",
+      "s": "https://gbradio.cdn.tibus.net/q102MP3128",
+      "l": "https://kuasark.com/files/stations-logos/dublins-q102.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Nova",
+      "s": "https://stream.audioxi.com/NOVA",
+      "l": "https://kuasark.com/files/stations-logos/radio-nova-ie.png",
+      "g": [
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Heartbeat FM",
+      "s": "https://cast5.magicstreams.gr:8010/stream",
+      "l": "https://kuasark.com/files/stations-logos/heartbeat-fm.png",
+      "g": [
+        "Easy Listening",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Minimal & Techno on MixLive.ie",
+      "s": "https://strw1.openstream.co/940?aw_0_1st.collectionid%3D6521%26stationId%3D6521%26publisherId%3D964%26k%3D1682446696",
+      "l": "https://kuasark.com/files/stations-logos/minimal-techno-on-mixliveie.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "All Gold",
+      "s": "http://centova1.cheapshoutcast.com:8252/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/all-gold.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "KISS Country",
+      "s": "https://cast1.torontocast.com:2105/stream",
+      "l": "https://kuasark.com/files/stations-logos/kiss-country.png",
+      "g": [
+        "Country",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Zenith Classic Rock",
+      "s": "http://91.189.64.188:3644/zenith64",
+      "l": "https://kuasark.com/files/stations-logos/zenith-classic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "ABC 80's",
+      "s": "https://kathy.torontocast.com:4365/stream",
+      "l": "https://kuasark.com/files/stations-logos/abc-80s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "FM104 Radio",
+      "s": "https://wg.cdn.tibus.net/fm104MP3128",
+      "l": "https://kuasark.com/files/stations-logos/fm104-radio.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Sunshine Soul",
+      "s": "https://live-bauerie.sharp-stream.com/SSOUL",
+      "l": "https://kuasark.com/files/stations-logos/sunshine-soul.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Highland Radio",
+      "s": "https://edge.audioxi.com/HIGHLAND",
+      "l": "https://kuasark.com/files/stations-logos/highland-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Trance Illusion on MixLive.ie",
+      "s": "https://strw1.openstream.co/941?aw_0_1st.collectionid%3D6522%26stationId%3D6522%26publisherId%3D965%26k%3D1682446696%26aw_0_azn.pcountry%3D%5B%22IE%22%5D%26aw_0_azn.planguage%3D%5B%22en%22%5D%26aw_0_azn.pgenre%3D%5B%22Electronic%22%2C%22Music%22%2C%22Technology%22%5D",
+      "l": "https://kuasark.com/files/stations-logos/trance-illusion-on-mixliveie.png",
+      "g": [
+        "Electronic",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Country Hits",
+      "s": "https://c15.radioboss.fm:18549/stream",
+      "l": "https://kuasark.com/files/stations-logos/country-hits-ie.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "DDM Radio",
+      "s": "http://46.7.51.110:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/ddm-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Galway Bay FM",
+      "s": "https://wg.cdn.tibus.net/galwaybay.mp3",
+      "l": "https://kuasark.com/files/stations-logos/galway-bay-fm.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "KISS Classical",
+      "s": "https://cast1.torontocast.com:2085/stream",
+      "l": "https://kuasark.com/files/stations-logos/kiss-classical.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Classic Dance Hitz",
+      "s": "https://streams.radio.co/s7a933605c/listen",
+      "l": "https://kuasark.com/files/stations-logos/classic-dance-hitz.png",
+      "g": [
+        "Electronic",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Cork's Red FM",
+      "s": "https://edge.audioxi.com/RED",
+      "l": "https://kuasark.com/files/stations-logos/corks-red-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Progressive & Tech-house on MixLive.ie",
+      "s": "https://strw1.openstream.co/939?aw_0_1st.collectionid%3D6520%26stationId%3D6520%26publisherId%3D963%26k%3D1682446696%26aw_0_azn.pcountry%3D%5B%22IE%22%5D%26aw_0_azn.planguage%3D%5B%22en%22%5D%26aw_0_azn.pgenre%3D%5B%22Electronic%22%2C%22Music%22%2C%22Technology%22%5D",
+      "l": "https://kuasark.com/files/stations-logos/progressive-tech-house-on-mixliveie.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Beat 102-103 FM",
+      "s": "https://stream.audioxi.com/BEATAAC",
+      "l": "https://kuasark.com/files/stations-logos/beat-102-103-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ignoreradio Shoegaze",
+      "s": "https://uk7.internet-radio.com/proxy/ignoreland?mp=/stream;",
+      "l": "https://kuasark.com/files/stations-logos/ignoreradio-shoegaze.png",
+      "g": [
+        "New Age",
+        "Electronic",
+        "Pop",
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "IFusion Radio",
+      "s": "https://listen.radioking.com/radio/523747/stream/582004",
+      "l": "https://kuasark.com/files/stations-logos/ifusion-radio.png",
+      "g": [
+        "Jazz",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Gem Radio Gold",
+      "s": "https://gemradio.radioca.st/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/gem-radio-gold.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Reggae Ireland Radio",
+      "s": "https://stream-061.zeno.fm/be0nv32qychvv?zs=ho6KA9eeTySKjM48B-9TPw",
+      "l": "https://kuasark.com/files/stations-logos/reggae-ireland-radio.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Deep Planet on MixLive.ie",
+      "s": "https://strw1.openstream.co/947?aw_0_1st.collectionid%3D6524%26stationId%3D6524%26publisherId%3D971%26k%3D1682446696",
+      "l": "https://kuasark.com/files/stations-logos/deep-planet-on-mixliveie.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Ocean FM",
+      "s": "https://securestreams.autopo.st:1209/sligo",
+      "l": "https://kuasark.com/files/stations-logos/ocean-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Birdhill Radio",
+      "s": "http://abacus.hostingenergy.com:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/birdhill-radio.png",
+      "g": [
+        "Country",
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tipperary Mid West Radio",
+      "s": "http://184.154.145.114:8007/stream",
+      "l": "https://kuasark.com/files/stations-logos/tipperary-mid-west-radio.png",
+      "g": [
+        "Country",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "WLR FM",
+      "s": "https://stream.audioxi.com/WLRAAC",
+      "l": "https://kuasark.com/files/stations-logos/wlr-fm.png",
+      "g": [
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Storm North East",
+      "s": "http://80.249.249.243:8050/;",
+      "l": "https://kuasark.com/files/stations-logos/storm-north-east.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "SPIN 1038",
+      "s": "https://stream.audioxi.com/SP",
+      "l": "https://kuasark.com/files/stations-logos/spin-1038.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "The 90s Network",
+      "s": "http://uk1.streamingpulse.com:7020/stream",
+      "l": "https://kuasark.com/files/stations-logos/the-90s-network.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Non-Stop 90's",
+      "s": "https://stream.btsstream.com:8042/nonstop90s.mp3",
+      "l": "https://kuasark.com/files/stations-logos/non-stop-90s.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Funky Ass Tunes",
+      "s": "http://185.80.220.12:7046/funkyasstunes",
+      "l": "https://kuasark.com/files/stations-logos/funky-ass-tunes.png",
+      "g": [
+        "Easy Listening",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Dublin City FM",
+      "s": "https://stream.btsstream.com:8012/dcfm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dublin-city-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "TrancePulse Mixes",
+      "s": "https://stream.trancepulse.eu/tpmixes",
+      "l": "https://kuasark.com/files/stations-logos/trancepulse-mixes.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "JazzÉIRE",
+      "s": "http://visual.shoutca.st:8096/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/jazzeire.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "IRadio Northeast & Midlands",
+      "s": "https://stream.audioxi.com/IRADNW",
+      "l": "https://kuasark.com/files/stations-logos/iradio-northeast-midlands.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kiss 90s",
+      "s": "https://quincy.torontocast.com:3315/stream",
+      "l": "https://kuasark.com/files/stations-logos/kiss-90s.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Christmas FM Classics",
+      "s": "https://christmasfm.cdnstream1.com/2550_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/christmas-fm-classics.png",
+      "g": [
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "EAST COAST FM",
+      "s": "https://edge.audioxi.com/EASTCOAST",
+      "l": "https://kuasark.com/files/stations-logos/east-coast-fm-ie.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Redrock Radio",
+      "s": "https://stream-153.zeno.fm/6wkae5vugtzuv?zs=uqUUaHD0S86pAJ5ooSo6MQ",
+      "l": "https://kuasark.com/files/stations-logos/redrock-radio.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "98FM Dance",
+      "s": "https://edge.audioxi.com/98DANCE",
+      "l": "https://kuasark.com/files/stations-logos/98fm-dance.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Psybient Sunset on MixLive.ie",
+      "s": "https://strw1.openstream.co/932?aw_0_1st.collectionid%3D6517%26stationId%3D6517%26publisherId%3D956%26k%3D1682444410%26aw_0_azn.pcountry%3D%5B%22IE%22%5D%26aw_0_azn.planguage%3D%5B%22en%22%5D%26aw_0_azn.pgenre%3D%5B%22Electronic%22%2C%22Easy+Listening%22%2C%22Music%22%5D",
+      "l": "https://kuasark.com/files/stations-logos/psybient-sunset-on-mixliveie.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Dublin South",
+      "s": "https://dublinsouthfm.radioca.st/live",
+      "l": "https://kuasark.com/files/stations-logos/dublin-south.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "C103 (North)",
+      "s": "https://wg.cdn.tibus.net/C103",
+      "l": "https://kuasark.com/files/stations-logos/c103-north.png",
+      "g": [
+        "Country",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bass Station DnB on MixLive.ie",
+      "s": "https://strw1.openstream.co/933?aw_0_1st.collectionid%3D6518%26stationId%3D6518%26publisherId%3D957%26k%3D1682446695%26aw_0_azn.pcountry%3D%5B%22IE%22%5D%26aw_0_azn.planguage%3D%5B%22en%22%5D%26aw_0_azn.pgenre%3D%5B%22Electronic%22%2C%22Easy+Listening%22%2C%22Music%22%5D",
+      "l": "https://kuasark.com/files/stations-logos/bass-station-dnb-on-mixliveie.png",
+      "g": [
+        "Electronic",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Halloween FM",
+      "s": "https://christmasfm.cdnstream1.com/2552_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/halloween-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gem Radio New Wave",
+      "s": "https://gemradionw.radioca.st/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/gem-radio-new-wave.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "ShannonSide FM",
+      "s": "https://edge.audioxi.com/SHANNONSIDE",
+      "l": "https://kuasark.com/files/stations-logos/shannonside-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Sound of Ireland",
+      "s": "https://christmasfm.cdnstream1.com/2548_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/the-sound-of-ireland.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Harmony",
+      "s": "http://173.208.177.90:13410/;",
+      "l": "https://kuasark.com/files/stations-logos/harmony-ie.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Ambient Lounge on MixLive.ie",
+      "s": "https://strw1.openstream.co/2348?aw_0_1st.collectionid%3D6273%26stationId%3D6273%26publisherId%3D2372%26k%3D1682446695%26aw_0_azn.pcountry%3D%5B%22IE%22%5D%26aw_0_azn.planguage%3D%5B%22en%22%5D%26aw_0_azn.pgenre%3D%5B%22Easy+Listening%22%2C%22Music%22%2C%22Electronic%22%5D",
+      "l": "https://kuasark.com/files/stations-logos/ambient-lounge-on-mixliveie.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Symphony Radio",
+      "s": "https://christmasfm.cdnstream1.com/2551_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/symphony-radio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "REALRADIO Ireland",
+      "s": "https://stream-150.zeno.fm/6g19fr9psnhvv?zs=Rt8pBf3IS3OVaG6XSKUL2w",
+      "l": "https://kuasark.com/files/stations-logos/realradio-ireland.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Dundalk FM",
+      "s": "http://80.249.249.245:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/dundalk-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Midlands 103",
+      "s": "https://n21a-eu.rcs.revma.com/tq45ca1vftzuv?rj-ttl=5&rj-tok=AAABiLQD61QAQ0BR2civZsHV1Q",
+      "l": "https://kuasark.com/files/stations-logos/midlands-103.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "House & Techno Classics on MixLive.ie",
+      "s": "https://strw1.openstream.co/938?aw_0_1st.collectionid%3D6519%26stationId%3D6519%26publisherId%3D962%26k%3D1682446695%26aw_0_azn.pcountry%3D%5B%22IE%22%5D%26aw_0_azn.planguage%3D%5B%22en%22%5D%26aw_0_azn.pgenre%3D%5B%22Electronic%22%2C%22Easy+Listening%22%2C%22Music%22%5D",
+      "l": "https://kuasark.com/files/stations-logos/house-techno-classics-on-mixliveie.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Live 95FM",
+      "s": "https://wg.cdn.tibus.net/Live95fm",
+      "l": "https://kuasark.com/files/stations-logos/live-95fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Themes",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Global Irish Radio",
+      "s": "https://s3.radio.co:80/s05b500bb8/listen",
+      "l": "https://kuasark.com/files/stations-logos/global-irish-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "KCLR",
+      "s": "https://live-bauerie.sharp-stream.com/KCLRCAR",
+      "l": "https://kuasark.com/files/stations-logos/kclr.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "UCB Ireland",
+      "s": "https://stream.btsstream.com:8022/ucbireland",
+      "l": "https://kuasark.com/files/stations-logos/ucb-ireland.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Chillout Essentials on MixLive.ie",
+      "s": "https://strw1.openstream.co/931?aw_0_1st.collectionid%3D6516%26stationId%3D6516%26publisherId%3D955%26k%3D1682446695",
+      "l": "https://kuasark.com/files/stations-logos/chillout-essentials-on-mixliveie.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "PlanetRadio.ie - Classic Hits",
+      "s": "https://media.planetradio.ie/radio/8000/OnAir",
+      "l": "https://kuasark.com/files/stations-logos/planetradioie-classic-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "South East Radio",
+      "s": "https://edge4.audioxi.com/SOUTHEAST",
+      "l": "https://kuasark.com/files/stations-logos/south-east-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Charityradio.ie",
+      "s": "https://securestreams7.autopo.st/?uri=http://andromeda.shoutca.st:8640/stream",
+      "l": "https://kuasark.com/files/stations-logos/charityradioie.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Garden County Radio",
+      "s": "http://uk6.internet-radio.com:8267/;",
+      "l": "https://kuasark.com/files/stations-logos/garden-county-radio.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Phoenix FM",
+      "s": "https://audio-edge-ey5nr.ams.s.radiomast.io/cfee4afe-9f7e-4902-84bd-807f6b5d1c02",
+      "l": "https://kuasark.com/files/stations-logos/phoenix-fm-ie.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Spirit Radio",
+      "s": "https://radio.securenetsystems.net/cwa/index.cfm?stationCallSign=SPIRITIE",
+      "l": "https://kuasark.com/files/stations-logos/spirit-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nearfm",
+      "s": "http://stream11.shoutcastsolutions.com:8114/;",
+      "l": "https://kuasark.com/files/stations-logos/nearfm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kfm Radio",
+      "s": "http://sirius.shoutca.st:9307/stream",
+      "l": "https://kuasark.com/files/stations-logos/kfm-radio-ie.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Connemara Community Radio",
+      "s": "https://audio-edge-ey5nr.ams.s.radiomast.io/5008371a-b8fd-4745-a5a3-e17837dad90c",
+      "l": "https://kuasark.com/files/stations-logos/connemara-community-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "BCRFM",
+      "s": "https://pj1019.radioca.st/streams/128kbps",
+      "l": "https://kuasark.com/files/stations-logos/bcrfm.png",
+      "g": [
+        "Classical",
+        "Country",
+        "Folk",
+        "Pop",
+        "Rock",
+        "R&B and Urban",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Total Country Inchicore",
+      "s": "http://sirius.shoutca.st:8180/stream",
+      "l": "https://kuasark.com/files/stations-logos/total-country-inchicore.png",
+      "g": [
+        "Country",
+        "Folk"
+      ]
+    },
+    {
+      "t": "UDMI",
+      "s": "http://142.4.215.64:8008/stream",
+      "l": "https://kuasark.com/files/stations-logos/udmi.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Freedom FM",
+      "s": "https://edge3.audioxi.com/FREEDOMFM",
+      "l": "https://kuasark.com/files/stations-logos/freedom-fm-ie.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Trax Dublin",
+      "s": "https://stream.bitcast.eu/trax",
+      "l": "https://kuasark.com/files/stations-logos/trax-dublin.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Easy Radio Ireland",
+      "s": "https://easyradio.radioca.st/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/easy-radio-ireland.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Today FM 80's",
+      "s": "https://edge3.audioxi.com/T80",
+      "l": "https://kuasark.com/files/stations-logos/today-fm-80s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Open Your Mind Radio",
+      "s": "http://eu3.fastcast4u.com:5624/;",
+      "l": "https://kuasark.com/files/stations-logos/open-your-mind-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Life FM",
+      "s": "http://79.170.198.170:8000/radio",
+      "l": "https://kuasark.com/files/stations-logos/life-fm-ie.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "OpenTempo FM",
+      "s": "https://eu7.fastcast4u.com/proxy/opentemp?mp=/;",
+      "l": "https://kuasark.com/files/stations-logos/opentempo-fm.png",
+      "g": [
+        "Themes",
+        "Electronic",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Loughrea Community Radio",
+      "s": "https://stream1.hippynet.co.uk/stream/loughrea",
+      "l": "https://kuasark.com/files/stations-logos/loughrea-community-radio.png",
+      "g": [
+        "Country",
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Limerick City Community Radio",
+      "s": "https://internal.lccr.ie:9669/stream",
+      "l": "https://kuasark.com/files/stations-logos/limerick-city-community-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Community Radio Youghal",
+      "s": "https://cry104fmtech.radioca.st/stream?1586882797189",
+      "l": "https://kuasark.com/files/stations-logos/community-radio-youghal.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hope Radio Ireland",
+      "s": "http://salt-lake-server.myautodj.com:8110/stream",
+      "l": "https://kuasark.com/files/stations-logos/hope-radio-ireland.png",
+      "g": [
+        "Classical",
+        "Rock",
+        "Inspirational",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Wmr Radio Online",
+      "s": "https://c2.radioboss.fm:18291/stream",
+      "l": "https://kuasark.com/files/stations-logos/wmr-radio-online.png",
+      "g": [
+        "Classical",
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chill FM Dublin",
+      "s": "http://161.97.144.188:4062/;",
+      "l": "https://kuasark.com/files/stations-logos/chill-fm-dublin.png",
+      "g": [
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Christmas FM UK",
+      "s": "https://streamdb8web.securenetsystems.net/ce/index.cfm?stationCallSign=XMASUK2",
+      "l": "https://kuasark.com/files/stations-logos/christmas-fm-uk.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Solid Gold Radio Ireland",
+      "s": "https://az11.yesstreaming.net:8020/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/solid-gold-radio-ireland-83035.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Mix Pulse FM",
+      "s": "https://stream-149.zeno.fm/zh3zvrzszwzuv?zs=Icy9qInzSGymJfHObFTAmA",
+      "l": "https://kuasark.com/files/stations-logos/mix-pulse-fm.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Other"
+      ]
+    },
+    {
+      "t": "Today FM 90's",
+      "s": "https://edge7.audioxi.com/T90",
+      "l": "https://kuasark.com/files/stations-logos/today-fm-90s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Studio 15 - Stradbally",
+      "s": "https://stream-149.zeno.fm/ny52cgqpdg8uv?zs=Mvu6ZxOOTHOLWgvtz_exaQ",
+      "l": "https://kuasark.com/files/stations-logos/studio-15-stradbally.png",
+      "g": [
+        "Country",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Classic Hits 80s",
+      "s": "https://edge7.audioxi.com/HITSBITS",
+      "l": "https://kuasark.com/files/stations-logos/classic-hits-80s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Dublin Digital Radio",
+      "s": "https://dublindigitalradio.out.airtime.pro/dublindigitalradio_a",
+      "l": "https://kuasark.com/files/stations-logos/dublin-digital-radio.png",
+      "g": [
+        "Alternative",
+        "New Age",
+        "Electronic",
+        "Rap",
+        "Jazz",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "UCC",
+      "s": "https://stream.btsstream.com:8062/ucc.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ucc.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "It's All Mixed Up!",
+      "s": "https://ec1.yesstreaming.net:1975/stream",
+      "l": "https://kuasark.com/files/stations-logos/its-all-mixed-up.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Timewarp Ireland",
+      "s": "https://stream1.themediasite.co.uk:7024/stream",
+      "l": "https://kuasark.com/files/stations-logos/timewarp-ireland.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "FM104's HitMix",
+      "s": "https://gbradio.cdn.tibus.net/TA",
+      "l": "https://kuasark.com/files/stations-logos/fm104s-hitmix.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "CRC FM",
+      "s": "https://ascella.streamerr.co/radio/8310/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/crc-fm-ie.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Smooth Gold Radio Ireland",
+      "s": "https://az10.yesstreaming.net:8250/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/smooth-gold-radio-ireland.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "https://dreamsiteradiocp2.com/proxy/rmirlanda2?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-ie.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Copper Coast Radio",
+      "s": "http://84.16.232.202:7302/stream",
+      "l": "https://kuasark.com/files/stations-logos/copper-coast-radio.png",
+      "g": [
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Athlone Community Radio",
+      "s": "http://79.97.44.255:88/broadwave.mp3",
+      "l": "https://kuasark.com/files/stations-logos/athlone-community-radio.png",
+      "g": [
+        "Alternative",
+        "Other"
+      ]
+    },
+    {
+      "t": "Downda Road Radio",
+      "s": "https://downdaroad.out.airtime.pro/downdaroad_b",
+      "l": "https://kuasark.com/files/stations-logos/downda-road-radio.png",
+      "g": [
+        "Country",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Cruize Radio Online",
+      "s": "http://centauri.shoutca.st:8965/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/cruize-radio-online.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "SuperYacht Radio",
+      "s": "https://stream.radio.co/s9be1fd909/listen",
+      "l": "https://kuasark.com/files/stations-logos/superyacht-radio.png",
+      "g": [
+        "Easy Listening",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Up The Jive Radio",
+      "s": "https://cast1.asurahosting.com/proxy/jchayesl/stream",
+      "l": "https://kuasark.com/files/stations-logos/up-the-jive-radio.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Minimal & Deep-tech on MixLive.ie",
+      "s": "https://strw1.openstream.co/574?aw_0_1st.collectionid%3D7031%26stationId%3D7031%26publisherId%3D598%26k%3D1682447640%26aw_0_azn.pcountry%3D%5B%22IE%22%5D%26aw_0_azn.planguage%3D%5B%22en%22%5D%26aw_0_azn.pgenre%3D%5B%22Electronic%22%2C%22Music%22%2C%22Easy+Listening%22%5D",
+      "l": "https://kuasark.com/files/stations-logos/minimal-deep-tech-on-mixliveie.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "C103 (West)",
+      "s": "https://wg.cdn.tibus.net/C103West",
+      "l": "https://kuasark.com/files/stations-logos/c103-west.png",
+      "g": [
+        "Country",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Solid Gold Radio Ireland",
+      "s": "https://az10.yesstreaming.net:8150/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/solid-gold-radio-ireland-103367.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Liffey Sound FM",
+      "s": "http://95.45.227.175:8000/listen.pls.mp3",
+      "l": "https://kuasark.com/files/stations-logos/liffey-sound-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Corca Baiscinn",
+      "s": "http://178.33.135.245:3074/stream?1586883419361",
+      "l": "https://kuasark.com/files/stations-logos/radio-corca-baiscinn.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dundalk Bay and North Dublin Bay Marine",
+      "s": "https://broadcastify.cdnstream1.com/34883",
+      "l": "https://kuasark.com/files/stations-logos/dundalk-bay-and-north-dublin-bay-marine.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Limerick Online",
+      "s": "http://streaming.radionomy.com:80/JamendoLounge",
+      "l": "https://kuasark.com/files/stations-logos/radio-limerick-online.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Lockdown Live Radio",
+      "s": "https://stream-068.zeno.fm/pmtwqwm4czzuv?zs=CwTyqk03Sq-0ld0lcr30_w",
+      "l": "https://kuasark.com/files/stations-logos/lockdown-live-radio.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "FM104 Radio FitMix",
+      "s": "https://gbradio.cdn.tibus.net/104FitMix",
+      "l": "https://kuasark.com/files/stations-logos/fm104-radio-fitmix.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "RadioWave",
+      "s": "https://1.radiowave.eu/listen/radiowave/radio.aac",
+      "l": "https://kuasark.com/files/stations-logos/radiowave.png",
+      "g": [
+        "Alternative",
+        "Classical",
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Open Stage Project on MixLive.ie",
+      "s": "https://strw1.openstream.co/957?aw_0_1st.collectionid%3D6525%26stationId%3D6525%26publisherId%3D981%26k%3D1682446697",
+      "l": "https://kuasark.com/files/stations-logos/open-stage-project-on-mixliveie.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "UCB I Worship",
+      "s": "https://stream.btsstream.com/stream/iworship",
+      "l": "https://kuasark.com/files/stations-logos/ucb-i-worship.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Today fm Block Rockin' Beats",
+      "s": "https://stream.audioxi.com/XMAAC",
+      "l": "https://kuasark.com/files/stations-logos/today-fm-block-rockin-beats.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радіо АУРІ",
+      "s": "https://stream.globalic.com.ua:1650/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-auri.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Event FM",
+      "s": "http://uk6.internet-radio.com:8085/;",
+      "l": "https://kuasark.com/files/stations-logos/event-fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Submit Promo on MixLive.ie",
+      "s": "https://strw1.openstream.co/944?aw_0_1st.collectionid%3D6523%26stationId%3D6523%26publisherId%3D968%26k%3D1682446696",
+      "l": "https://kuasark.com/files/stations-logos/submit-promo-on-mixliveie.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Dance Nation Radio",
+      "s": "https://uksoutha.streaming.broadcast.radio/dancenationradio",
+      "l": "https://kuasark.com/files/stations-logos/dance-nation-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Lofi Chill Zone on MixLive.ie",
+      "s": "http://2.58.194.54:9192/;",
+      "l": "https://kuasark.com/files/stations-logos/lofi-chill-zone-on-mixliveie.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Vibe FM",
+      "s": "https://uk2.internet-radio.com/proxy/vibefm?mp=/live",
+      "l": "https://kuasark.com/files/stations-logos/vibe-fm-ie.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Noughty Beats",
+      "s": "https://stream.audioxi.com/NBEATSAAC",
+      "l": "https://kuasark.com/files/stations-logos/noughty-beats.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Q102 80s",
+      "s": "https://wg.cdn.tibus.net/Q10280s",
+      "l": "https://kuasark.com/files/stations-logos/q102-80s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Avondale Radio",
+      "s": "https://playoutonestreaming.com/proxy/avon?mp=/stream;",
+      "l": "https://kuasark.com/files/stations-logos/avondale-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Emerald Isle Radio",
+      "s": "https://az10.yesstreaming.net:8360/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/emerald-isle-radio.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Carlowfm",
+      "s": "https://s21.myradiostream.com/:14706/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/carlowfm.png",
+      "g": [
+        "Country",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "The Cool Music",
+      "s": "https://studio25.radiolize.com/radio/8110/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/the-cool-music.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Solid Gold Radio Ireland 2",
+      "s": "https://a4.asurahosting.com:6650/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/solid-gold-radio-ireland-2.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Solid Gold Ireland's Radio Network",
+      "s": "https://a4.asurahosting.com:6640/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/solid-gold-irelands-radio-network.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Waves Mediia",
+      "s": "https://fast.citrus3.com:8390/stream",
+      "l": "https://kuasark.com/files/stations-logos/waves-mediia.png",
+      "g": [
+        "Country",
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "FitMusic",
+      "s": "https://uk3.internet-radio.com/proxy/fitmusicradio/stream",
+      "l": "https://kuasark.com/files/stations-logos/fitmusic.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Energy Ratoath",
+      "s": "https://igor.torontocast.com:2335/stream",
+      "l": "https://kuasark.com/files/stations-logos/energy-ratoath.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "NRO Naas Radio Online",
+      "s": "https://s4.radio.co:80/s14db2b3c0/listen",
+      "l": "https://kuasark.com/files/stations-logos/nro-naas-radio-online.png",
+      "g": [
+        "Country",
+        "Rock",
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tzgospel swahili (Ireland)",
+      "s": "https://stream-150.zeno.fm/getn6q0h0hhvv?zs=g7fDx021TMaqwVjzywAxGg",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-swahili-ireland.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Solid Gold Radio Ireland 3",
+      "s": "https://az10.yesstreaming.net:8300/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/solid-gold-radio-ireland-3.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Rock",
+        "Themes",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Smooth Gold Hits Radio Ireland",
+      "s": "https://a4.asurahosting.com:6620/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/smooth-gold-hits-radio-ireland.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "MPB Radio 2",
+      "s": "https://live.one-tv.co.uk/listen/radio2/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mpb-radio-2.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Midwest Radio [MP3]",
+      "s": "http://direct.sharp-stream.com/midwestfmie.mp3",
+      "l": "https://kuasark.com/files/stations-logos/midwest-radio-mp3.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

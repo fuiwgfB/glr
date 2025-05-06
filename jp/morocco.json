@@ -1,0 +1,1230 @@
+{
+  "stations": [
+    {
+      "t": "Hit Radio",
+      "s": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4429/woe7595e2474a36d0689638818_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Medina FM",
+      "s": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4431/mtxo596ded75237af669687743_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Med Radio",
+      "s": "https://streamer.eagrpservices.com/audio/medradio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/27125/cd4df9c9fc40ca3d0878cae7cb4f0857_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Chada FM",
+      "s": "http://streamer-007.eagrpservices.com:8001/chadafm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4427/laax59762131d69be281892393_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "2M Radio",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_2m/radio_hls_ts_hy217612tge1f21j83/radio_2m-mp4a_130400_qad=1.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/422977/9bd3ebf95bce07fadfc9f2db2da482e8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Yabiladi",
+      "s": "http://media.yabiladi.com:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/28471/a292cf61ded773ea0d013361d467877b_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "RADIOMARS",
+      "s": "HTTP://icepe5.infomaniak.ch:80/radiomars-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4435/zw37597b1f7e1275c433672871_130x130.webp",
+      "g": [
+        "Folk",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radiohabayiib",
+      "s": "http://85.214.110.29:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26281/ac6a57d180cad78fd31eb494ab7be8dd_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Sawa",
+      "s": "https://mbn-channel-04.akacast.akamaistream.net/7/26/233453/v1/ibb.akacast.akamaistream.net/mbn_channel_04",
+      "l": "https://images.radiovolna.net/_files/images/stations/405313/le335a43829848271647626287_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "IDAA AL WATANIA",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429302/e260035f78f931739a8e48e19ed44f28_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Aswat",
+      "s": "https://aswat.ice.infomaniak.ch/aswat-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/28467/d617dabd0dc663eecda03df7295f3c55_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Medi 1",
+      "s": "http://live.medi1.com/medi1",
+      "l": "https://images.radiovolna.net/_files/images/stations/4430/hi0l597470990364b988941583_130x130.webp",
+      "g": [
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "IDAA MOHAMMED ASSADISS",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429303/ca3d6a515118b4059b79bec6c9551771_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cap Radio",
+      "s": "https://streamer.eagrpservices.com/audio/capradio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422979/9b015cf6505bdbbf2a66654c5b59c35a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "U Radio",
+      "s": "https://uradio-aac.ice.infomaniak.ch/uradio.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/429299/abb7ad83dc3a6fd275400b8817acb06b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "IDAA AL AMAZIGHIA",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429301/106c6d2affe9b2d54aab4ea981447864_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Atlantic",
+      "s": "https://stream2.atlanticradio.ma:9300/index.htm",
+      "l": "https://images.radiovolna.net/_files/images/stations/4433/xb9g5a437f1f47210901095034_130x130.webp",
+      "g": [
+        "Themes",
+        "International"
+      ]
+    },
+    {
+      "t": "Star maroc",
+      "s": "https://a2.asurahosting.com:6100/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426719/6c1e6b5c303fac0498fb129b152cc955_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "MFM Radio",
+      "s": "https://streamer.eagrpservices.com/audio/mfmradio.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/422978/ab610b23f7001e359a5bf112954dda15_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "SNRT Radio Casablanca",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_casa/hls_snrt_radio/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429304/c3850452dffa62fd75c2a0b8d7165867_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Zine Bladi",
+      "s": "https://asmaki.ma:8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/zine-bladi.png",
+      "g": [
+        "Other",
+        "News",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Medi 1 Radio",
+      "s": "https://live.medi1.com/medi1",
+      "l": "https://kuasark.com/files/stations-logos/medi-1-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Aswat",
+      "s": "http://aswat.ice.infomaniak.ch/aswat-high.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-aswat.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Mars",
+      "s": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-mars-ma.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio 2M",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_2m/radio_hls_ts_hy217612tge1f21j83/radio_2m.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-2m.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Atbir",
+      "s": "https://stream-043.zeno.fm/bqdbb6hd0neuv?zs=BbeSUBLtQp6bl7TbTV8Fhg",
+      "l": "https://kuasark.com/files/stations-logos/radio-atbir.png",
+      "g": [
+        "Folk",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Yabiladi",
+      "s": "https://radio.yabiladi.com:8002/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-yabiladi.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Atlantic Radio",
+      "s": "https://stream2.atlanticradio.ma:9300/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/atlantic-radio-ma.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Monte Carlo Doualiya",
+      "s": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-monte-carlo-doualiya.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Soleil",
+      "s": "https://radiosoleil.ice.infomaniak.ch/radiosoleil-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-soleil-ma.png",
+      "g": [
+        "Folk",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Skyrock Casablanca",
+      "s": "https://icecast.skyrock.net/s/casa_aac_64k",
+      "l": "https://kuasark.com/files/stations-logos/skyrock-casablanca.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Hit Radio - 100% M'Gharba",
+      "s": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hit-radio-100-mgharba.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tarab Radio",
+      "s": "http://streaming2.rimradio.ma:8000/livetarab",
+      "l": "https://kuasark.com/files/stations-logos/tarab-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Hits 1 Maroc",
+      "s": "https://radio7.pro-fhi.net/live/Hits1radio",
+      "l": "https://kuasark.com/files/stations-logos/hits-1-maroc.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Izlan.Fr",
+      "s": "https://izlan.fr/radios/atlas/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-izlanfr.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Adwaafm 1",
+      "s": "https://stream-037.zeno.fm/5bxh2nh0x1zuv?zs=a3MUZ76USkuL1ygBuoXX3g",
+      "l": "https://kuasark.com/files/stations-logos/adwaafm-1.png",
+      "g": [
+        "Country",
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ness Radio",
+      "s": "http://radio.nessradio.net:8000/nessradio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ness-radio.png",
+      "g": [
+        "Electronic",
+        "Jazz",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Sawt Ouarzazate",
+      "s": "http://www.quran-radio.org:8002/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-sawt-ouarzazate.png",
+      "g": [
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Star Maroc",
+      "s": "https://manager8.streamradio.fr:1775/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-star-maroc.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Manarat",
+      "s": "https://listen.radioking.com/radio/252934/stream/297385",
+      "l": "https://kuasark.com/files/stations-logos/radio-manarat.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Idaa Al Watania",
+      "s": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/idaa-al-watania.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Habayiib",
+      "s": "http://85.214.110.29:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-habayiib.png",
+      "g": [
+        "Country",
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RadioWeb",
+      "s": "http://185.52.127.168/fr/30601/mp3_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radioweb.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Idaa Mohammed Assadiss",
+      "s": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/idaa-mohammed-assadiss.png",
+      "g": [
+        "Folk",
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Yan Plus Radio راديو يان بلوس",
+      "s": "https://stream-033.zeno.fm/7nqu31p6xg0uv?zs=zg13v9EQTlS8HKkhGfMzzw",
+      "l": "https://kuasark.com/files/stations-logos/yan-plus-radio-radyw-yan-blws.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Adwaafm 3",
+      "s": "https://stream-157.zeno.fm/x4451xh0x1zuv?zs=61PXk4NMQq2OoHqNZ7F3SQ",
+      "l": "https://kuasark.com/files/stations-logos/adwaafm-3.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Inspirational",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RIM",
+      "s": "https://streaming.rimradio.ma/live",
+      "l": "https://kuasark.com/files/stations-logos/rim.png",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Oum Kalthoum",
+      "s": "https://streaming2.rimradio.ma/oumkalthoum",
+      "l": "https://kuasark.com/files/stations-logos/radio-oum-kalthoum.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Maloulou",
+      "s": "https://streaming2.rimradio.ma/livemaloulou",
+      "l": "https://kuasark.com/files/stations-logos/radio-maloulou.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sawtlmoustahlik",
+      "s": "http://37.187.146.76:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/sawtlmoustahlik.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Medi 1 Radio Classique",
+      "s": "https://live.medi1.com/Classique",
+      "l": "https://kuasark.com/files/stations-logos/medi-1-radio-classique.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Adwaafm 2",
+      "s": "https://stream-162.zeno.fm/vrrtqsh0x1zuv?zs=BS9KUlKWQxCP26ppC_7NyQ",
+      "l": "https://kuasark.com/files/stations-logos/adwaafm-2.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Inspirational",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio des Andalousies",
+      "s": "https://streaming2.rimradio.ma/liveandalousies",
+      "l": "https://kuasark.com/files/stations-logos/radio-des-andalousies.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Hit Radio - 100% Urban",
+      "s": "https://rnb.ice.infomaniak.ch/rnb-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hit-radio-100-urban.png",
+      "g": [
+        "Blues",
+        "Inspirational",
+        "Jazz",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Chaine Inter",
+      "s": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-chaine-inter.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Quintay",
+      "s": "http://200.24.229.253:8270/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-quintay.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hexagone FM",
+      "s": "http://radio.ready2play.fr:1700/stream",
+      "l": "https://kuasark.com/files/stations-logos/hexagone-fm.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "World of Aita",
+      "s": "http://streaming2.rimradio.ma:8000/liveworldofaita",
+      "l": "https://kuasark.com/files/stations-logos/world-of-aita.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Hit Radio  - 100% Party",
+      "s": "https://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hit-radio-100-party.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Medi 1 Radio Acoustic",
+      "s": "https://live.medi1.com/Acoustic",
+      "l": "https://kuasark.com/files/stations-logos/medi-1-radio-acoustic.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Medi 1 Radio Nayda",
+      "s": "https://live.medi1.com/Nayda",
+      "l": "https://kuasark.com/files/stations-logos/medi-1-radio-nayda.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Samaa",
+      "s": "http://streaming2.rimradio.ma:8000/samaa",
+      "l": "https://kuasark.com/files/stations-logos/radio-samaa.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Hal",
+      "s": "https://streaming2.rimradio.ma/hal",
+      "l": "https://kuasark.com/files/stations-logos/radio-hal.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Hit Radio - 100% TikTok",
+      "s": "https://buzz.ice.infomaniak.ch/buzz-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hit-radio-100-tiktok.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Adwaafm 4",
+      "s": "https://stream-162.zeno.fm/8wrs2bh0x1zuv?zs=72-9tRCpQ9m3HyvqDy5g0g",
+      "l": "https://kuasark.com/files/stations-logos/adwaafm-4.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Malhouniates",
+      "s": "https://streaming2.rimradio.ma/malhouniates",
+      "l": "https://kuasark.com/files/stations-logos/radio-malhouniates.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "DIB Radio",
+      "s": "https://streaming2.rimradio.ma/dibradio",
+      "l": "https://kuasark.com/files/stations-logos/dib-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Hassanie",
+      "s": "https://streaming2.rimradio.ma/hassani",
+      "l": "https://kuasark.com/files/stations-logos/radio-hassanie.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Morocco English Radio",
+      "s": "https://streamer.radio.co/s6cba51492/listen",
+      "l": "https://kuasark.com/files/stations-logos/morocco-english-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hit Radio - 100% Classique",
+      "s": "https://gold.ice.infomaniak.ch/gold-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hit-radio-100-classique.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio24",
+      "s": "http://hyades.shoutca.st:8008/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio24-ma.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "RMN-Radio Maroc News",
+      "s": "https://stream-148.zeno.fm/nefhp3q9fc9uv?zs=TUscyp8sQ3aSTo9BBLd3RQ",
+      "l": "https://kuasark.com/files/stations-logos/rmn-radio-maroc-news.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Tamazgha",
+      "s": "https://streaming2.rimradio.ma/liveamazighe",
+      "l": "https://kuasark.com/files/stations-logos/radio-tamazgha.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Adwaafm 5",
+      "s": "https://stream-162.zeno.fm/ezxx195gq2zuv?zs=YJAflYU7QoOh6sxgkCjC5w",
+      "l": "https://kuasark.com/files/stations-logos/adwaafm-5.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Fréquence Routière",
+      "s": "https://stream-151.zeno.fm/jastextdkvquv?zs=oQIPSwH6SUOHJxoIm9_BSg",
+      "l": "https://kuasark.com/files/stations-logos/radio-frequence-routiere.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Azrou",
+      "s": "http://centova.radios.pt:8485/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-azrou.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Samaoui, Gnaoua Radio",
+      "s": "https://streaming2.rimradio.ma/livegnaoua",
+      "l": "https://kuasark.com/files/stations-logos/samaoui-gnaoua-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Medi 1 Radio Francaise",
+      "s": "https://live.medi1.com/Francaise",
+      "l": "https://kuasark.com/files/stations-logos/medi-1-radio-francaise.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "TDM",
+      "s": "http://radiocampus.ice.infomaniak.ch/radiocampus-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/tdm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radju Marija",
+      "s": "http://dreamsiteradiocp.com:8102/;",
+      "l": "https://kuasark.com/files/stations-logos/radju-marija.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Yanplus Foukaha",
+      "s": "https://stream-157.zeno.fm/evagqtehrdjuv?zs=ZH2J2TWER3SEhl3qIoJhIw",
+      "l": "https://kuasark.com/files/stations-logos/radio-yanplus-foukaha.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Smart Z Radio",
+      "s": "https://listen.radioking.com/radio/510784/stream/568573",
+      "l": "https://kuasark.com/files/stations-logos/smart-z-radio.png",
+      "g": [
+        "Blues",
+        "Country",
+        "Rock"
+      ]
+    },
+    {
+      "t": "L'ODJ Radio",
+      "s": "https://listen.radioking.com/radio/330070/stream/390475",
+      "l": "https://kuasark.com/files/stations-logos/lodj-radio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Medi 1 Radio Andalouse",
+      "s": "http://live.medi1.com/Andalouse",
+      "l": "https://kuasark.com/files/stations-logos/medi-1-radio-andalouse.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Medi 1",
+      "s": "http://live.medi1.com/medi1?.mp3",
+      "l": "https://kuasark.com/files/stations-logos/medi-1.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Media 1 Radio - Lounge",
+      "s": "http://live.medi1.com/Lounge",
+      "l": "https://kuasark.com/files/stations-logos/media-1-radio-lounge.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Hit radio buzz",
+      "s": "http://buzz.ice.infomaniak.ch/buzz-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hit-radio-buzz.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mefi1 tarab",
+      "s": "http://live.medi1.com/Tarab",
+      "l": "https://kuasark.com/files/stations-logos/mefi1-tarab.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Hit radio mgharba",
+      "s": "http://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hit-radio-mgharba.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Medi1 dj",
+      "s": "http://live.medi1.com/Dj",
+      "l": "https://kuasark.com/files/stations-logos/medi1-dj.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Hit radio Rnb",
+      "s": "http://rnb.ice.infomaniak.ch/rnb-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hit-radio-rnb.png",
+      "g": [
+        "R&B and Urban",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Medi1 latino",
+      "s": "http://live.medi1.com/Latino",
+      "l": "https://kuasark.com/files/stations-logos/medi1-latino.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Medi 1 Classique",
+      "s": "http://live.medi1.com/Classique",
+      "l": "https://kuasark.com/files/stations-logos/medi-1-classique.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Medi 1 Nayda",
+      "s": "http://live.medi1.com/Nayda",
+      "l": "https://kuasark.com/files/stations-logos/medi-1-nayda.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Medi 1 Jazz",
+      "s": "http://live.medi1.com/Jazz",
+      "l": "https://kuasark.com/files/stations-logos/medi-1-jazz.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "al hossima",
+      "s": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_el_hoceima/hls_snrt_radio/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/al-hossima.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "bldi",
+      "s": "http://beldifm.hf.ma/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/bldi.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Medi1 Afrique",
+      "s": "http://live.medi1.com/medi3?s=1410541768",
+      "l": "https://kuasark.com/files/stations-logos/medi1-afrique.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Medi 1 Acoustic",
+      "s": "http://live.medi1.com/Acoustic",
+      "l": "https://kuasark.com/files/stations-logos/medi-1-acoustic.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Medi 1 Soufi",
+      "s": "http://live.medi1.com/Soufi",
+      "l": "https://kuasark.com/files/stations-logos/medi-1-soufi.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Chaouen",
+      "s": "http://streaming.radionomy.com/JamendoLounge?.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-chaouen.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Tanger Med",
+      "s": "http://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-tanger-med.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Chada FM",
+      "s": "https://streamer.eagrpservices.com/audio/chadafm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/chada-fm-ma-79857.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Aita",
+      "s": "https://streaming2.rimradio.ma/liveworldofaita",
+      "l": "https://kuasark.com/files/stations-logos/aita.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "قرآن كريم للمقرئ المغربي عبد الرحمن بنموسى",
+      "s": "http://ia804708.us.archive.org/32/items/A_B_M_SO_2/001.mp3",
+      "l": "https://kuasark.com/files/stations-logos/qran-krym-llmqry-almghrby-bd-alrhmn-bnmwsy.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Beldi FM",
+      "s": "https://beldifm.hf.ma/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/beldi-fm.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "U Radio",
+      "s": "http://uradio-aac.ice.infomaniak.ch/uradio.aac",
+      "l": "https://kuasark.com/files/stations-logos/u-radio-ma.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Fayroz",
+      "s": "https://stream-068.zeno.fm/zv3e5wykprhvv?zs=sdKHwRqtThyiJnglu9QO8w",
+      "l": "https://kuasark.com/files/stations-logos/fayroz.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "صدقة جارية",
+      "s": "https://stream-149.zeno.fm/xzxaqh2w5rhvv?zs=fZvDqrcAQ7KW_nVhgI6fOA",
+      "l": "https://kuasark.com/files/stations-logos/sdqt-jaryt.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "MA:-Hego oo",
+      "s": "https://stream-149.zeno.fm/n6bqf89sduhvv?zs=LMnAYJLaTM2h979DE0kMAA",
+      "l": "https://kuasark.com/files/stations-logos/ma-hego-oo.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "MA:-Hicham-Mallouli",
+      "s": "https://stream-050.zeno.fm/gec4u31qcuhvv?zs=W6qKN9MZTHKlPsMAiQuf3w",
+      "l": "https://kuasark.com/files/stations-logos/ma-hicham-mallouli.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "MA:-Hit Radio Maroc",
+      "s": "https://stream-150.zeno.fm/une3a02mb?zs=UIRdQqi3Rd-VPth4M2zW2A",
+      "l": "https://kuasark.com/files/stations-logos/ma-hit-radio-maroc.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "MA:-Music DIP RADIO",
+      "s": "http://streaming2.rimradio.ma:8000/dibradio",
+      "l": "https://kuasark.com/files/stations-logos/ma-music-dip-radio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "MA:-Radio Aljalia",
+      "s": "https://stream-156.zeno.fm/tr9cahm7z5quv?zs=c269fEpLTJavd3r1XIhBUw",
+      "l": "https://kuasark.com/files/stations-logos/ma-radio-aljalia.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MA:-RADIO HiCham",
+      "s": "https://stream-150.zeno.fm/2ynew92t8k0uv?zs=A-mv0yVkRsuDB81tONJTFg",
+      "l": "https://kuasark.com/files/stations-logos/ma-radio-hicham.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "MA:-Music Habibti",
+      "s": "http://37.187.146.76:8100/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ma-music-habibti.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MA:-Yabiladi Chaabi",
+      "s": "http://media.yabiladi.com:8100/;",
+      "l": "https://kuasark.com/files/stations-logos/ma-yabiladi-chaabi.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MA:-ZAKARIA",
+      "s": "https://stream-150.zeno.fm/xvkwqparbphvv?zs=vKAWI5M7T5uwL4i74EgnHw",
+      "l": "https://kuasark.com/files/stations-logos/ma-zakaria.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MRC:-Flex Next FM\tRadio Music",
+      "s": "https://stream-149.zeno.fm/1dsv23cpvuquv?zs=gBcRsLXcT46qHW_Yf-YY6w",
+      "l": "https://kuasark.com/files/stations-logos/mrc-flex-next-fm-radio-music.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MRC:-Radio 5aFaYa \tRadio Music",
+      "s": "https://stream-058.zeno.fm/5cn1szmb31zuv?zs=_bS8BJ3wS3mwamoyeZgIBA",
+      "l": "https://kuasark.com/files/stations-logos/mrc-radio-5afaya-radio-music.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MRC:-Hip Hop Soul Radio \tRadio Music",
+      "s": "https://stream-149.zeno.fm/k7cdrm450s8uv?zs=9Ko4_qgoRfmrT6sxD20D1g",
+      "l": "https://kuasark.com/files/stations-logos/mrc-hip-hop-soul-radio-radio-music.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "اذاعة محمد السادس للقرآن الكريم",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/radio_mohammed_6-mp4a_130400_qad=1.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/adhat-mhmd-alsads-llqran-alkrym.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "MRC:-Music Maghreb",
+      "s": "https://stream-052.zeno.fm/nmxhd448gfhvv?zs=prIVwGsjTf-Yd69voCVJZQ",
+      "l": "https://kuasark.com/files/stations-logos/mrc-music-maghreb.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MRC:-Aswata Lweb Casablanca",
+      "s": "https://stream-150.zeno.fm/wfu6dm8w1qruv?zs=C3gCczzqS0mJFhdQJ-mvtA",
+      "l": "https://kuasark.com/files/stations-logos/mrc-aswata-lweb-casablanca.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MRC:-Radio Adwaa Music KhaliJiY 6",
+      "s": "http://whsh4u-panel.com:14119/stream",
+      "l": "https://kuasark.com/files/stations-logos/mrc-radio-adwaa-music-khalijiy-6.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MRC:-Radio Adwaa MaZika 5",
+      "s": "https://stream-020.zeno.fm/ezxx195gq2zuv?zs=PRpYPkkVSLy30UZHPx9SOw",
+      "l": "https://kuasark.com/files/stations-logos/mrc-radio-adwaa-mazika-5.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MRC:-Radio Adwaa ATFAL 4",
+      "s": "https://stream-020.zeno.fm/8wrs2bh0x1zuv?zs=JykPc6u-SgO8V6-NS9krKA",
+      "l": "https://kuasark.com/files/stations-logos/mrc-radio-adwaa-atfal-4.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MRC:-Radio Adwaa Music 3",
+      "s": "https://stream-047.zeno.fm/x4451xh0x1zuv?zs=U6qRuqC0S6qIjlXoHtj6dA",
+      "l": "https://kuasark.com/files/stations-logos/mrc-radio-adwaa-music-3.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MRC:-HIT Maroc",
+      "s": "https://hitradio-maroc.ice.infomaniak.ch:80/hitradio-maroc-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mrc-hit-maroc.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MRC:-Sawt Al Amal",
+      "s": "https://stream-067.zeno.fm/qgw73bqh5qruv?zs=SkoMCkKySg-WV7mhqBSSeg",
+      "l": "https://kuasark.com/files/stations-logos/mrc-sawt-al-amal.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Radio Tanger",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tanger/hls_snrt_radio/radio_tanger-mp4a_130400_qad=1.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-tanger.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Marrakech SNRT",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_marrakech/hls_snrt_radio/radio_marrakech-mp4a_130400_qad=1.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-marrakech-snrt.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Al Aoula TV",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/al-aoula-tv.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Assadissa TV",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/assadissa-tv.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Maghribya TV",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/maghribya-tv.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Arryadia TV",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/arryadia-tv.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Islam Sobhi",
+      "s": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/026.mp3",
+      "l": "https://kuasark.com/files/stations-logos/islam-sobhi.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Azawan",
+      "s": "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-azawan.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "المنشاوي - مرتل",
+      "s": "https://qurango.net/radio/mohammed_siddiq_alminshawi_morattal",
+      "l": "https://kuasark.com/files/stations-logos/almnshawy-mrtl.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio EDC",
+      "s": "https://stream-150.zeno.fm/ti24gpk4qm9vv?zs=pjNeVYGyTNCVzqHRgfIkmA",
+      "l": "https://kuasark.com/files/stations-logos/radio-edc.png",
+      "g": [
+        "Inspirational",
+        "Pop"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "stations": [
+    {
+      "t": "Classic 263",
+      "s": "https://mainradiostreaming.zbc.co.zw:8030/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429488/910197e793e8909e1bd7edcc615b6aea_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "National FM",
+      "s": "https://mainradiostreaming.zbc.co.zw:8020/national.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429492/ffaa40e9f6412f587e723af403b0b47f_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "ZiFM Stereo",
+      "s": "https://edge.iono.fm/xice/134_medium.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/405343/o0iy5a43a5423a9a9786865446_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Power FM",
+      "s": "https://backupradiostreaming.zbc.co.zw:8000/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429490/16b61c682532aa4587226dd5e79db9b0_130x130.webp",
+      "g": [
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "98.4 Midlands",
+      "s": "https://shaincast.caster.fm:22056/listen.mp3?authnc8c7df09e35fc14bd0f0f5c41052ed39",
+      "l": "https://images.radiovolna.net/_files/images/stations/426306/98acf49dfd81e727320a433a16f384cf_130x130.webp",
+      "g": [
+        "International",
+        "Folk",
+        "Rap",
+        "Electronic",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Zimbabwe",
+      "s": "http://41.220.21.70:88/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429489/0e2ca916f2acef3aa8dd777588798dd2_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Capitalk FM",
+      "s": "https://edge.iono.fm/xice/162_medium.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/429491/628d01b02f93d1ffe4daa75e92b376e0_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Star FM",
+      "s": "http://51.255.235.165:5200/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405342/rulj5a43a4a1267b8693345997_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Diamond FM Zim",
+      "s": "https://edge.iono.fm/xice/160_medium.aac",
+      "l": "https://kuasark.com/files/stations-logos/diamond-fm-zim.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "R&B and Urban",
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Skyz Metro FM",
+      "s": "https://stream-159.zeno.fm/2634b6n4qy8uv?zs=t9CoYJ5TRk-XbF2NZe8tzg",
+      "l": "https://kuasark.com/files/stations-logos/skyz-metro-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nehanda Radio",
+      "s": "https://eu4.fastcast4u.com/proxy/lancguma?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/nehanda-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "zim NET radio",
+      "s": "https://zimnetradio.com/mainstream/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/zim-net-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "YAFM",
+      "s": "http://173.212.241.223:8000/;stream.mp3?ver=165254",
+      "l": "https://kuasark.com/files/stations-logos/yafm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Station Beta Africa",
+      "s": "https://stream-149.zeno.fm/ugicjp7isuqvv?zs=ghg_LSzWQuOD8UktXqIAfg",
+      "l": "https://kuasark.com/files/stations-logos/station-beta-africa-125175.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tzgospel (Zimbabwe)",
+      "s": "https://stream-151.zeno.fm/u1w1zre1uchvv?zs=2MDDjY5OTA-B04lEbhtjCA",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-zimbabwe.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Khulumani FM",
+      "s": "http://197.221.250.170:88/broadwavehigh.mp3",
+      "l": "https://kuasark.com/files/stations-logos/khulumani-fm.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "International",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Zimbabwe Khulumani Radio",
+      "s": "http://197.221.250.170:88/broadwavehigh.mp3?src=1",
+      "l": "https://kuasark.com/files/stations-logos/zimbabwe-khulumani-radio.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

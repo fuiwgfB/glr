@@ -1,0 +1,81 @@
+{
+  "stations": [
+    {
+      "t": "ZBVI",
+      "s": "https://streams.radio.co/s39d621120/listen",
+      "l": "https://kuasark.com/files/stations-logos/zbvi.png",
+      "g": [
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Ol' Skool Rockabilly Radio",
+      "s": "http://freeuk21.listen2myradio.com:17774/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/ol-skool-rockabilly-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Joy Gospel Radio FM/ZJoy VI",
+      "s": "https://stream-150.zeno.fm/a631ca3mb?zs=bfpO8GCKT_K944kIYWeANg",
+      "l": "https://kuasark.com/files/stations-logos/joy-gospel-radio-fm-zjoy-vi.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Soggy Dollar Radio",
+      "s": "https://13683.live.streamtheworld.com:443/SAM06AAC287_SC",
+      "l": "https://kuasark.com/files/stations-logos/soggy-dollar-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Signal 284 Radio",
+      "s": "https://s1.voscast.com:11655/stream",
+      "l": "https://kuasark.com/files/stations-logos/the-signal-284-radio.png",
+      "g": [
+        "Inspirational",
+        "Pop",
+        "Rap",
+        "Reggae",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tola Radio Vi",
+      "s": "http://sc2.spacialnet.com:34792/;",
+      "l": "https://kuasark.com/files/stations-logos/tola-radio-vi.png",
+      "g": [
+        "Inspirational",
+        "Rap",
+        "Reggae",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Ol' Skool Blues Radio",
+      "s": "http://freeuk22.listen2myradio.com:21617/;",
+      "l": "https://kuasark.com/files/stations-logos/ol-skool-blues-radio.png",
+      "g": [
+        "Blues"
+      ]
+    },
+    {
+      "t": "Kool FM 1000",
+      "s": "https://eu47-sonic.instainternet.com/8202/stream",
+      "l": "https://kuasark.com/files/stations-logos/kool-fm-1000.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

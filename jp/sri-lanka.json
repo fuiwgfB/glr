@@ -1,0 +1,1795 @@
+{
+  "stations": [
+    {
+      "t": "Punnagai Fm",
+      "s": "https://onair.punnagairadio.com/8146/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422434/e543f7d912b65ef9c885d39a30ca4cb8_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Lakviru Radio",
+      "s": "https://cp11.serverse.com/proxy/kqxjpewq?mp=/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428463/5b0fa4deefb64f7a7215ce2247a1ecaa_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Youth one radio",
+      "s": "https://stream.zeno.fm/lv1egsq3wejvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429974/6f59e83fc3ed33f8e69931604ee6053d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sooriyan FM",
+      "s": "http://209.133.216.3:7071/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405503/ds4j5a47a40abd896353987383_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Vasantham FM",
+      "s": "https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405502/xbhg5a47a3a82453b181229607_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "HITZ fm 24",
+      "s": "https://stream.zeno.fm/uyx7eqengijtv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430041/a47ee79be672860693c5aff2fd693061_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Tharu FM",
+      "s": "https://ec3.yesstreaming.net:2655/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429838/9f59c8089f2d13bcd3409147237044da_130x130.webp",
+      "g": [
+        "News",
+        "Talk",
+        "Jazz",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Star FM",
+      "s": "https://ec3.yesstreaming.net:1905/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429836/4839051a53edfccc64c0c1728f2a6308_130x130.webp",
+      "g": [
+        "Decades",
+        "International",
+        "Talk",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Muslim Vanoli",
+      "s": "https://ec3.yesstreaming.net:2475/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429919/4efbaa95998a80d7d1326bdefcfe07c5_130x130.webp",
+      "g": [
+        "Inspirational",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Freefm",
+      "s": "https://stream.zenolive.com/z7q96fbw7rquv",
+      "l": "https://images.radiovolna.net/_files/images/stations/417367/o0735c559c3b968b5084042985_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Hudha FM",
+      "s": "https://ec3.yesstreaming.net:2615/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429917/129f9bfff8be0ea8e94d3266e2fe1901_130x130.webp",
+      "g": [
+        "Inspirational",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Real Radio",
+      "s": "http://s3.voscast.com:8406/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423775/265a22a0db8d4b6a426a517c33001455_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Hela Nada Radio",
+      "s": "https://stream.zeno.fm/9ndoyrsujwpvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430947/190f3aeca957058e442be035ef63a1b9_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "SLBC Radio Sri Lanka",
+      "s": "http://220.247.227.20:8000/RSLstream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428456/c6c32bc3d49c2d0a33e4a8b3d00e3b8e_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sky Radio",
+      "s": "https://cp11.serverse.com/proxy/skyradio/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430025/c5b039bc621c1303e4fc3e4b04231d3a_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "SLBC City FM",
+      "s": "http://220.247.227.20:8000/citystream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405487/p3785a478a22e5820025273024_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Lite FM",
+      "s": "http://live.tnlrn.com:8020/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405485/v49u5a47870c9be52549513766_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Shree FM",
+      "s": "http://207.148.74.192:7860/stream2.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423776/a74a15eddbbac284e82d583f76b7e62c_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "ABC Gold FM",
+      "s": "http://209.133.216.3:7048/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405492/tgy25a479e0f59b9b746491420_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rangiri Sri Lanka",
+      "s": "http://tachyon.shoutca.st:8827/index",
+      "l": "https://images.radiovolna.net/_files/images/stations/405505/wbmk5a47a4b04d187201744147_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rasa FM",
+      "s": "https://shaincast.caster.fm:47814/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428458/fb28d77e4b090fa93c94dda6d313a210_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Seth FM",
+      "s": "https://listen.radioking.com/radio/384487/stream/435781",
+      "l": "https://images.radiovolna.net/_files/images/stations/428461/9c49bb926b38fd5735669ae6e11287ac_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "LiveFM",
+      "s": "https://cp11.serverse.com/proxy/livefm/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426792/abc93a37cc6d620ccd42162ea1b17e94_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "WoW Radio",
+      "s": "https://cp11.serverse.com/proxy/wowradio/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430022/8135168f1794b448ae8db14f884384ff_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "ABC Hiru FM",
+      "s": "http://209.133.216.3:7018/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405494/zzbs5a479f46349f5991269558_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "E FM",
+      "s": "http://207.148.74.192:7860/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423773/d34c0052c98cf2c533fe75043f89fd57_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Kiss",
+      "s": "http://s3.voscast.com:8404/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405496/kjp25a479fe0a8abd052269734_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TNL Radio",
+      "s": "http://live.tnlrn.com:8010/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405500/bujg5a47a199a9489658347886_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Siyatha FM",
+      "s": "https://s9.voscast.com:9393/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/405498/wc725a47a0e285944920153101_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Shakthi FM",
+      "s": "http://live.trusl.com:1160/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405504/ksna5a47a44c7f993602235439_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "FM Derana",
+      "s": "https://cp12.serverse.com/proxy/fmderana/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423774/8357815264b8aea61119e6a7aa68abd1_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Sitha FM",
+      "s": "https://shaincast.caster.fm:48148/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405486/tv5o5a4787964158c551702549_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Tamil Star FM",
+      "s": "https://s1.voscast.com:8735/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/28483/6aeef5b4bd65d8ef6c575f05eefd339a_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Y FM",
+      "s": "http://live.trusl.com:1180/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405491/rgik5a479d8380b2e062666312_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NETH FM",
+      "s": "http://69.46.24.226:7669/stream",
+      "l": "https://kuasark.com/files/stations-logos/neth-fm.png",
+      "g": [
+        "Themes",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "ළමා කතා Lama Katha",
+      "s": "https://stream-148.zeno.fm/297unpdnnd0uv?zs=bBUOXtVgSNKRWs73JL3t4Q",
+      "l": "https://kuasark.com/files/stations-logos/-lama-katha.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Sooriyan FM",
+      "s": "https://radio.lotustechnologieslk.net:8006/;",
+      "l": "https://kuasark.com/files/stations-logos/sooriyan-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Shakthi FM",
+      "s": "https://ssl.shoutcaststreaming.us:8077/index.html/stream",
+      "l": "https://kuasark.com/files/stations-logos/shakthi-fm.png",
+      "g": [
+        "Soundtracks",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radioeka",
+      "s": "https://stream-148.zeno.fm/euehqhkhje9vv?zs=8NXFfrzKS9iwKkzro8aTfQ",
+      "l": "https://kuasark.com/files/stations-logos/radioeka.png",
+      "g": [
+        "Themes",
+        "News"
+      ]
+    },
+    {
+      "t": "Indusara Radio",
+      "s": "https://stream-148.zeno.fm/n86me57rzv8uv?zs=q58_UFXSRoiARfhyGSZeCQ",
+      "l": "https://kuasark.com/files/stations-logos/indusara-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Yaka Radio",
+      "s": "https://stream-148.zeno.fm/48bz2c5zkc9uv?zs=xW7yY2QESZ2mBlE8MliaiQ",
+      "l": "https://kuasark.com/files/stations-logos/yaka-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Gold FM",
+      "s": "https://radio.lotustechnologieslk.net:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/gold-fm-lk.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sun FM",
+      "s": "https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden",
+      "l": "https://kuasark.com/files/stations-logos/sun-fm-lk.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Kiss FM",
+      "s": "https://srv02.onlineradio.voaplus.com/kissfm",
+      "l": "https://kuasark.com/files/stations-logos/kiss-fm-31754.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ABC Shaa",
+      "s": "https://radio.lotustechnologieslk.net:2020/stream/shaafmgarden",
+      "l": "https://kuasark.com/files/stations-logos/abc-shaa.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Islam24 FM",
+      "s": "http://s1.voscast.com:8778/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/islam24-fm.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "freefm.lk - Sri Lanka Sinhala Radio",
+      "s": "https://stream-157.zeno.fm/jwm8nars09tvv?zs=bGiqRn-PQLGWEfeprkh8Bg",
+      "l": "https://kuasark.com/files/stations-logos/freefmlk-sri-lanka-sinhala-radio.png",
+      "g": [
+        "Classical",
+        "Rap",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Legends 96.6 FM",
+      "s": "http://live.trusl.com:1190/;",
+      "l": "https://kuasark.com/files/stations-logos/legends-966-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sirasa",
+      "s": "http://live.trusl.com:1170/;",
+      "l": "https://kuasark.com/files/stations-logos/sirasa.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Yes FM",
+      "s": "http://live.trusl.com:1150/;",
+      "l": "https://kuasark.com/files/stations-logos/yes-fm-lk.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bathusha Radio",
+      "s": "http://eu10.fastcast4u.com:14550/stream",
+      "l": "https://kuasark.com/files/stations-logos/bathusha-radio.png",
+      "g": [
+        "Other",
+        "Inspirational",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fox FM",
+      "s": "https://cp11.serverse.com/proxy/foxfm/stream/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fox-fm.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Classic Radio Online",
+      "s": "https://cp11.serverse.com/proxy/classic?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/classic-radio-online.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vaanam FM",
+      "s": "http://europa.shoutca.st:8106/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/vaanam-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "VFM",
+      "s": "https://eu2-centova.serverse.com/proxy/fmlanka/stream",
+      "l": "https://kuasark.com/files/stations-logos/vfm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "தமிழ் Tamil Clubhouse Radio",
+      "s": "https://stream-153.zeno.fm/u8nt64f6sfeuv?zs=gT2HQqjOQ0e83A8tohwiJQ",
+      "l": "https://kuasark.com/files/stations-logos/tamil-tamil-clubhouse-radio.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Swadeshiya Sevaya Live",
+      "s": "https://stream-149.zeno.fm/yrmzpgy33d0uv?zs=T70PyKyFQ0qJH0Ucp3sCvQ",
+      "l": "https://kuasark.com/files/stations-logos/swadeshiya-sevaya-live.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Tamil National Service",
+      "s": "http://220.247.227.6:8000/Tnsstream",
+      "l": "https://kuasark.com/files/stations-logos/tamil-national-service.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Imai fm",
+      "s": "http://91.121.82.33:8658/;",
+      "l": "https://kuasark.com/files/stations-logos/imai-fm.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Cool Radio Live",
+      "s": "https://stream-046.zeno.fm/kvaey7nq5tzuv?zs=aXMyo6fdTPSK0P0LO1HckQ",
+      "l": "https://kuasark.com/files/stations-logos/cool-radio-live.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Lion FM",
+      "s": "https://stream-148.zeno.fm/zq6tn92g8yzuv?zs=EvcyioZcR9qVQZ8P7xLfnA",
+      "l": "https://kuasark.com/files/stations-logos/lion-fm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Thendral FM",
+      "s": "http://220.247.227.20:8000/Threndralstream",
+      "l": "https://kuasark.com/files/stations-logos/thendral-fm-lk.png",
+      "g": [
+        "Decades",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rajarata Sevaya Live",
+      "s": "http://220.247.227.20:8000/rajaratastream",
+      "l": "https://kuasark.com/files/stations-logos/rajarata-sevaya-live.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Lion Psytrance Radio",
+      "s": "https://stream-149.zeno.fm/ehx6r6edbm8uv?zs=BE0vdUwURHStDFSiD1bn_w",
+      "l": "https://kuasark.com/files/stations-logos/lion-psytrance-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Asimithu Web",
+      "s": "https://s3.voscast.com:8855/stream",
+      "l": "https://kuasark.com/files/stations-logos/asimithu-web.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sky Radio",
+      "s": "http://69.46.24.226:7390/stream",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-101033.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "GTBC Radio",
+      "s": "http://38.96.148.140:6150/;",
+      "l": "https://kuasark.com/files/stations-logos/gtbc-radio.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sitha FM",
+      "s": "http://shaincast.caster.fm:48148/listen.mp3?authn96afb3b88a5c1390b35452db59ce4d82",
+      "l": "https://kuasark.com/files/stations-logos/sitha-fm.png",
+      "g": [
+        "Classical",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "PS Online Radio",
+      "s": "https://stream-149.zeno.fm/x1qckpv7bxhvv?zs=visI33SFR2-fj931ocSnGg",
+      "l": "https://kuasark.com/files/stations-logos/ps-online-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Tamils Flash FM",
+      "s": "https://stream-058.zeno.fm/4su4xk97gwzuv?zs=8p3ECLd-SIydIFFhsKZyyw",
+      "l": "https://kuasark.com/files/stations-logos/tamils-flash-fm.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "FM Heart",
+      "s": "https://cast3.my-control-panel.com/proxy/fmheartn/stream",
+      "l": "https://kuasark.com/files/stations-logos/fm-heart.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Thirai FM",
+      "s": "https://stream-046.zeno.fm/nwmuzqy4ya0uv?zs=Y5zVWyJLRWim4Y6wxtbCUQ",
+      "l": "https://kuasark.com/files/stations-logos/thirai-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Lord Radio",
+      "s": "https://lordsradio.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/lord-radio.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bathiya and Santhush",
+      "s": "https://stream-048.zeno.fm/0vakfqwhwtzuv?zs=1xbd_JcyRH-PX4JvnHze5g",
+      "l": "https://kuasark.com/files/stations-logos/bathiya-and-santhush.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Muslim Vanoli",
+      "s": "https://s2.voscast.com:9357/stream",
+      "l": "https://kuasark.com/files/stations-logos/muslim-vanoli.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Arnuka Global Radio",
+      "s": "https://arnuka-global-radio.stream.laut.fm/arnuka-global-radio",
+      "l": "https://kuasark.com/files/stations-logos/arnuka-global-radio.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Isai FM",
+      "s": "https://stream-149.zeno.fm/7b78sdv2x1zuv?zs=YGlM-TohR32LmzcyNFBlwA",
+      "l": "https://kuasark.com/files/stations-logos/isai-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sirilaka Radio",
+      "s": "https://servidor14.brlogic.com:8456/live",
+      "l": "https://kuasark.com/files/stations-logos/sirilaka-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Red Rose Fm",
+      "s": "https://onair.punnagairadio.com/8146/stream;;",
+      "l": "https://kuasark.com/files/stations-logos/red-rose-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "T M Jayarathna",
+      "s": "https://stream-058.zeno.fm/91ku1wrhwtzuv?zs=eOdPgb6gTcaVc3bJ186nOg",
+      "l": "https://kuasark.com/files/stations-logos/t-m-jayarathna.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Pirith",
+      "s": "https://stream-061.zeno.fm/7ex6ft05ztzuv?zs=gz0HrX1YRhyVnCwDAMQcvA",
+      "l": "https://kuasark.com/files/stations-logos/pirith.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "ගෝල්ඩන් මේපල් වෙබ් රේඩියෝ",
+      "s": "http://s46.myradiostream.com:11156/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/golden-maple-web-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "தமிழீழ வானொலி (North East Radio)",
+      "s": "https://stream-057.zeno.fm/y26tykxsn18uv?zs=qHN1x-MTSheqmMl_A9DlRw",
+      "l": "https://kuasark.com/files/stations-logos/tamilila-vanoli-north-east-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Jaya Sri",
+      "s": "https://stream-154.zeno.fm/aaz4d10y2tzuv?zs=aNvVQnLDTb6znXATF53p1g",
+      "l": "https://kuasark.com/files/stations-logos/jaya-sri.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Athavan Radio",
+      "s": "https://stream-155.zeno.fm/e4k5enu6g18uv?zs=EQeM4fqrQg-BSr3plbNl9A",
+      "l": "https://kuasark.com/files/stations-logos/athavan-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Malaiyahan FM",
+      "s": "https://stream-153.zeno.fm/wep34grhqd0uv?zs=HlSARlyMSTK4Nf0OdjTN9g",
+      "l": "https://kuasark.com/files/stations-logos/malaiyahan-fm.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Daham Gagana",
+      "s": "https://cp12.serverse.com/proxy/fdcpgwaf?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/daham-gagana.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sunil Edirisinghe",
+      "s": "https://stream-040.zeno.fm/48u8qcesvtzuv?zs=H79_IcFDSryVQAHCjDGINg",
+      "l": "https://kuasark.com/files/stations-logos/sunil-edirisinghe.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Dayarathna Ranathunga",
+      "s": "https://stream-043.zeno.fm/e1xureksvtzuv?zs=c88jP8QMRQ6sOfNfV2_IIg",
+      "l": "https://kuasark.com/files/stations-logos/dayarathna-ranathunga.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Somathilaka Jayamaha",
+      "s": "https://stream-148.zeno.fm/eq8g2tshwtzuv?zs=6YwVcNopSzWuFtAmos2M1w",
+      "l": "https://kuasark.com/files/stations-logos/somathilaka-jayamaha.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "t-Radio by Dilmah",
+      "s": "https://everlasting.datacenter.lk/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/t-radio-by-dilmah.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "APayy Radio Hitz",
+      "s": "https://cp11.serverse.com/proxy/dinamina?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/apayy-radio-hitz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Colombo",
+      "s": "https://stream-148.zeno.fm/brxx04y4srhvv?zs=oE89fwTWQBaToRvpNmhqTQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-colombo.png",
+      "g": [
+        "Alternative",
+        "Country",
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sun Tamil Radio",
+      "s": "https://stream-148.zeno.fm/sn0sd672exhvv?zs=8P9RNeFISie-2Br8E2h4kA",
+      "l": "https://kuasark.com/files/stations-logos/sun-tamil-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "DAM SABA GUWAN HANDA",
+      "s": "http://s6.voscast.com:8112/;",
+      "l": "https://kuasark.com/files/stations-logos/dam-saba-guwan-handa.png",
+      "g": [
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Karunarathna Divulgane",
+      "s": "https://stream-057.zeno.fm/x4xd3c9qvtzuv?zs=Y4_yECOKQWShNaxhBX0C1A",
+      "l": "https://kuasark.com/files/stations-logos/karunarathna-divulgane.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Edward Jayakody",
+      "s": "https://stream-046.zeno.fm/p6f82uesvtzuv?zs=hcJwaBANQO2dG2lP7Rj9_Q",
+      "l": "https://kuasark.com/files/stations-logos/edward-jayakody.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Centigradz",
+      "s": "https://stream-148.zeno.fm/45qy30511tzuv?zs=-jPWKYF3RVSLQP_kuizScQ",
+      "l": "https://kuasark.com/files/stations-logos/centigradz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Moon FM",
+      "s": "https://stream-058.zeno.fm/7wbtm27c9mzuv?zs=tGset9izR5WiTnK0lNxRgg",
+      "l": "https://kuasark.com/files/stations-logos/moon-fm-lk.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Fm Tech Deiyo",
+      "s": "https://stream-050.zeno.fm/w736rp8dz38uv?zs=wZ8I5EbQR3K06CWsXOZVkg",
+      "l": "https://kuasark.com/files/stations-logos/fm-tech-deiyo.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Lionfm Classic",
+      "s": "https://stream-151.zeno.fm/6zsxafd2pnhvv?zs=a6sKBXF-SimtBywEe_v_Lw",
+      "l": "https://kuasark.com/files/stations-logos/lionfm-classic.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Lion Tamil Radio",
+      "s": "https://stream-151.zeno.fm/dgx6fnkgeq8uv?zs=Z7XSjypQRGSAhX-NpQo3hg",
+      "l": "https://kuasark.com/files/stations-logos/lion-tamil-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sinhala Commercial Service",
+      "s": "http://220.247.227.6:8000/Scomstream",
+      "l": "https://kuasark.com/files/stations-logos/sinhala-commercial-service.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Yaal Fm",
+      "s": "http://220.247.227.6:8000/Yaalstream",
+      "l": "https://kuasark.com/files/stations-logos/yaal-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Priya Suriyasena",
+      "s": "https://stream-052.zeno.fm/z2v2uh8qvtzuv?zs=218Legu-Rh2ej2FJuyxRsw",
+      "l": "https://kuasark.com/files/stations-logos/priya-suriyasena.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kasun Kalhara",
+      "s": "https://stream-067.zeno.fm/8fnr291nwtzuv?zs=CFSkCrtFTGyCT6lgkUpFUg",
+      "l": "https://kuasark.com/files/stations-logos/kasun-kalhara.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Athula Sri Gamage",
+      "s": "https://stream-058.zeno.fm/104zsf0nwtzuv?zs=6jWY_gkDQomlXDsO90Uh_Q",
+      "l": "https://kuasark.com/files/stations-logos/athula-sri-gamage.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Deepika Priyadharshani",
+      "s": "https://stream-148.zeno.fm/ymzdp8201tzuv?zs=4RzSHRCzSMSfglYaV8sT7g",
+      "l": "https://kuasark.com/files/stations-logos/deepika-priyadharshani.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Chamara Ranawaka",
+      "s": "https://stream-023.zeno.fm/e5fma0r01tzuv?zs=V1pUr9UOQ-mmEqq5frcZtg",
+      "l": "https://kuasark.com/files/stations-logos/chamara-ranawaka.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Pulmoddai Radio",
+      "s": "https://stream-040.zeno.fm/0k3c1ta2kg8uv?zs=5Nl64n5pQRKI9Obq7mEJtg",
+      "l": "https://kuasark.com/files/stations-logos/pulmoddai-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Agaram FM",
+      "s": "https://stream-034.zeno.fm/ynuoddjfosluv?zs=SJ5lhWcbR8WnO1g5kZLK6Q",
+      "l": "https://kuasark.com/files/stations-logos/agaram-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Susanda Radio",
+      "s": "https://susandamedia.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/susanda-radio.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Malani Bulathsinhala",
+      "s": "https://stream-157.zeno.fm/3zhq504hwtzuv?zs=8IMRjlA7Rn2g-Y24VGSDrA",
+      "l": "https://kuasark.com/files/stations-logos/malani-bulathsinhala.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Gumnada",
+      "s": "https://stream-160.zeno.fm/e7ztn80wttzuv?zs=TwFWvi_GQ1e8EEKV8XWQXQ",
+      "l": "https://kuasark.com/files/stations-logos/gumnada.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Jagath Wickramasinghe",
+      "s": "https://stream-153.zeno.fm/sr3hskay2tzuv?zs=v-cQMqGHS8-OV8XybTl8Fg",
+      "l": "https://kuasark.com/files/stations-logos/jagath-wickramasinghe.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Uva Radio",
+      "s": "https://stream-156.zeno.fm/5v44mtdrxrhvv?zs=HmxDCun9QcS0nOK07Crx0Q",
+      "l": "https://kuasark.com/files/stations-logos/uva-radio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Athma Liyanage",
+      "s": "https://stream-067.zeno.fm/n9qa8g0sutzuv?zs=yreZv-uaRbqsizsDfy6-gg",
+      "l": "https://kuasark.com/files/stations-logos/athma-liyanage.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "H R Jothipala",
+      "s": "https://stream-150.zeno.fm/mfycm4mpvtzuv?zs=kJTNV4yeR7KtTkBMxJBttQ",
+      "l": "https://kuasark.com/files/stations-logos/h-r-jothipala.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Victor Rathnayake",
+      "s": "https://stream-148.zeno.fm/2dtg902qvtzuv?zs=a3J5evs4QY-shECJOC9hyw",
+      "l": "https://kuasark.com/files/stations-logos/victor-rathnayake.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Amarasiri Peiris",
+      "s": "https://stream-156.zeno.fm/dzepva2qvtzuv?zs=V0sv5X4dQ_yMAcSLzxgItg",
+      "l": "https://kuasark.com/files/stations-logos/amarasiri-peiris.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "W.D.Amaradewa",
+      "s": "https://stream-149.zeno.fm/nzmyrhzqvtzuv?zs=xJoM2frYRMKnryu1Ss_4gA",
+      "l": "https://kuasark.com/files/stations-logos/wdamaradewa.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Ruwan Hettiarachchi",
+      "s": "https://stream-060.zeno.fm/qv4p785rvtzuv?zs=lIewSkn2QhiLlIkD4Eqzgw",
+      "l": "https://kuasark.com/files/stations-logos/ruwan-hettiarachchi.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Chamara Weerasinghe",
+      "s": "https://stream-060.zeno.fm/zhga2fgsvtzuv?zs=BcVN5t14Tu6jQh5J6bORBg",
+      "l": "https://kuasark.com/files/stations-logos/chamara-weerasinghe.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Shashika Nisansala",
+      "s": "https://stream-150.zeno.fm/0wmnz9thwtzuv?zs=r11_8HmgRD-eOhEwwbsS5A",
+      "l": "https://kuasark.com/files/stations-logos/shashika-nisansala.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Asanka Priyamantha Peiris",
+      "s": "https://stream-150.zeno.fm/k5ar0huhwtzuv?zs=n2aBt10ERqSOL_Esv2UbEg",
+      "l": "https://kuasark.com/files/stations-logos/asanka-priyamantha-peiris.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Chandana Liyanaarachchi",
+      "s": "https://stream-068.zeno.fm/mbeegz1nwtzuv?zs=YiDrO3sYSqqd5-vvAnWmcw",
+      "l": "https://kuasark.com/files/stations-logos/chandana-liyanaarachchi.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Amal Perera",
+      "s": "https://stream-023.zeno.fm/8r26u456ztzuv?zs=V9KgLym3R5-b6KRjWCw6-Q",
+      "l": "https://kuasark.com/files/stations-logos/amal-perera.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Amila Perera",
+      "s": "https://stream-156.zeno.fm/uz7ya5n50tzuv?zs=2MXdJckXRXSgEPc-kuPOIg",
+      "l": "https://kuasark.com/files/stations-logos/amila-perera.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Jolly Seeya",
+      "s": "https://stream-149.zeno.fm/tzwy656y2tzuv?zs=JtiPjmuWQmiY3_ffi_cg4g",
+      "l": "https://kuasark.com/files/stations-logos/jolly-seeya.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Dj Shifan Sc",
+      "s": "https://stream-020.zeno.fm/8vw9hec3kwzuv?zs=04KNfzqkRx6ex7GfYohMsQ",
+      "l": "https://kuasark.com/files/stations-logos/dj-shifan-sc.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nidahas FM",
+      "s": "https://stream-150.zeno.fm/q7u07dmk9k8uv?zs=YrZikOlZQS-dvZH7YtqR9Q",
+      "l": "https://kuasark.com/files/stations-logos/nidahas-fm.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MDN Radio Sri Lanka",
+      "s": "https://eu2.fastcast4u.com/proxy/mapere00?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/mdn-radio-sri-lanka.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Youngstars FM",
+      "s": "https://s1.voscast.com:10589/stream",
+      "l": "https://kuasark.com/files/stations-logos/youngstars-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Aggra Live Show",
+      "s": "https://stream-148.zeno.fm/ww3udznpachvv?zs=TdBjfH4_TeyfmBE9qrtxCQ",
+      "l": "https://kuasark.com/files/stations-logos/aggra-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Nuwara Eliya Radio",
+      "s": "https://stream-052.zeno.fm/uq4d7e9r7hhvv?zs=ZRSd1JceR9SMsYTX7df90w",
+      "l": "https://kuasark.com/files/stations-logos/nuwara-eliya-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Athugala Radio",
+      "s": "https://stream-148.zeno.fm/72e48vnezrhvv?zs=fTXFTIoGS1qpu40PddenRQ",
+      "l": "https://kuasark.com/files/stations-logos/athugala-radio.png",
+      "g": [
+        "Classical",
+        "Rap",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ultra FM",
+      "s": "https://stream-058.zeno.fm/f2560wp9dchvv?zs=Sq0aFwtkRC68MIg7ldo50Q",
+      "l": "https://kuasark.com/files/stations-logos/ultra-fm-lk.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Amen FM",
+      "s": "https://stream-150.zeno.fm/lhrhfqasphwuv?zs=zVusXHymTZqpbewbOTbQfg",
+      "l": "https://kuasark.com/files/stations-logos/amen-fm-lk.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Prime Radio Hd",
+      "s": "https://stream-150.zeno.fm/oksfm5djcfxvv?zs=iTj6ZI8YRHKJirDlRV5_yQ",
+      "l": "https://kuasark.com/files/stations-logos/prime-radio-hd.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Muditha FM",
+      "s": "https://stream-058.zeno.fm/az2ir3hatzjuv?zs=6WovZfF_QjCfwOzvounSTg",
+      "l": "https://kuasark.com/files/stations-logos/muditha-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Upali Kannangara",
+      "s": "https://stream-153.zeno.fm/05pqhhbgxtzuv?zs=MIENA-TPQfKk2Lkkaq83GA",
+      "l": "https://kuasark.com/files/stations-logos/upali-kannangara.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Vijaya Kumaranatunga",
+      "s": "https://stream-149.zeno.fm/p7kp187nwtzuv?zs=C82PxmA-SWCHwPYHWO6gUw",
+      "l": "https://kuasark.com/files/stations-logos/vijaya-kumaranatunga.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Champa Kalhari",
+      "s": "https://stream-163.zeno.fm/neftnmc21tzuv?zs=3T_I0bBUQ_CBkLWs3fo3GQ",
+      "l": "https://kuasark.com/files/stations-logos/champa-kalhari.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bee Fm",
+      "s": "https://stream-152.zeno.fm/xwueh52exy8uv?zs=Win5KUeHR4CSHgm9FifD8A",
+      "l": "https://kuasark.com/files/stations-logos/bee-fm-104793.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ahungalla Flamingoes Live Show",
+      "s": "https://stream-150.zeno.fm/77ax3wwpachvv?zs=zllyKxMQQWO5-I6MU3ZAfQ",
+      "l": "https://kuasark.com/files/stations-logos/ahungalla-flamingoes-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Purple Range Live Show",
+      "s": "https://stream-153.zeno.fm/t24rcykpachvv?zs=jfOfqXlLRXqDiwvO0Xx5jQ",
+      "l": "https://kuasark.com/files/stations-logos/purple-range-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Sunflower Live Show",
+      "s": "https://stream-149.zeno.fm/nm9vq41dbchvv?zs=OVHiTcEzRe-PpJdRWeYFnA",
+      "l": "https://kuasark.com/files/stations-logos/sunflower-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Kandy Back to Back Live Show",
+      "s": "https://stream-151.zeno.fm/y3hy7gpebchvv?zs=t11YDi0_RHK8lrPlxc8l6A",
+      "l": "https://kuasark.com/files/stations-logos/kandy-back-to-back-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Kurunegala Beji Live Show",
+      "s": "https://stream-151.zeno.fm/unex3v5hbchvv?zs=5lpYBmRpShK7Yc0L-Fl8BQ",
+      "l": "https://kuasark.com/files/stations-logos/kurunegala-beji-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Live Show Sri Lanka",
+      "s": "https://stream-150.zeno.fm/45kn3upzuhhvv?zs=wFoIFyEfRoytMovOUTzmGg",
+      "l": "https://kuasark.com/files/stations-logos/live-show-sri-lanka.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae",
+        "News"
+      ]
+    },
+    {
+      "t": "Sinhala National Service",
+      "s": "http://220.247.227.6:8000/Snsstream",
+      "l": "https://kuasark.com/files/stations-logos/sinhala-national-service.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Alai FM",
+      "s": "https://stream-149.zeno.fm/teokcbwphtevv?zs=9DCAXEecRn-QFyNz2EPphg",
+      "l": "https://kuasark.com/files/stations-logos/alai-fm.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ajith Ariyarathna",
+      "s": "https://stream-050.zeno.fm/w7f5kuh0wwzuv?zs=1nVrlmNDSqWJO5NruzjwJg",
+      "l": "https://kuasark.com/files/stations-logos/ajith-ariyarathna.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Abeywardana Balasooriya",
+      "s": "https://stream-149.zeno.fm/99xmszg0wwzuv?zs=fykAiqkqS7W1btXVDfBIaQ",
+      "l": "https://kuasark.com/files/stations-logos/abeywardana-balasooriya.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Viraj Perera",
+      "s": "https://stream-150.zeno.fm/9r7ke3brvtzuv?zs=W__s3e3fT--LiMuyuPa1OA",
+      "l": "https://kuasark.com/files/stations-logos/viraj-perera.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Jude Rogans",
+      "s": "https://stream-046.zeno.fm/1n6b87rsvtzuv?zs=jv0telbzQ9CRviLj4XE0ag",
+      "l": "https://kuasark.com/files/stations-logos/jude-rogans.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Indrani Perera",
+      "s": "https://stream-037.zeno.fm/38k27q4hwtzuv?zs=1_8nb_NdSoGemyGEeLJciA",
+      "l": "https://kuasark.com/files/stations-logos/indrani-perera.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Nirosha Virajini",
+      "s": "https://stream-058.zeno.fm/2reu72thwtzuv?zs=5Ksk_iKIRY6d9AbOZuA8qA",
+      "l": "https://kuasark.com/files/stations-logos/nirosha-virajini.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Chandra Kumara Kandanarachchi",
+      "s": "https://stream-052.zeno.fm/c86v62bgxtzuv?zs=t6Kkf6uvQJiThznbsUWFtg",
+      "l": "https://kuasark.com/files/stations-logos/chandra-kumara-kandanarachchi.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Somasiri Madagedara",
+      "s": "https://stream-148.zeno.fm/guwnbdrbztzuv?zs=f92scdp5TL-kLb1MDx1PAw",
+      "l": "https://kuasark.com/files/stations-logos/somasiri-madagedara.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Damith Asanka",
+      "s": "https://stream-068.zeno.fm/7zmk1rc9ytzuv?zs=AnkMPOfVRKm9L1Vv3Q6OZw",
+      "l": "https://kuasark.com/files/stations-logos/damith-asanka.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Deepal Silva",
+      "s": "https://stream-150.zeno.fm/9yr0mwkcztzuv?zs=y-bmStLwQguTp2mWXsPsJg",
+      "l": "https://kuasark.com/files/stations-logos/deepal-silva.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Dimanka Wellalage",
+      "s": "https://stream-047.zeno.fm/bgt7zdacztzuv?zs=QPNb2EUySXKggnIC-iolQg",
+      "l": "https://kuasark.com/files/stations-logos/dimanka-wellalage.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bandara Athauda",
+      "s": "https://stream-148.zeno.fm/wgpyur8bztzuv?zs=Hct_99M4SnKnd4T_2eA5CA",
+      "l": "https://kuasark.com/files/stations-logos/bandara-athauda.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Surendra Perera",
+      "s": "https://stream-150.zeno.fm/1938nr58ztzuv?zs=gVb9qUNiQbCA8Nf2oho87Q",
+      "l": "https://kuasark.com/files/stations-logos/surendra-perera.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rupa Indumathi",
+      "s": "https://stream-068.zeno.fm/cdme6eu60tzuv?zs=jSYjVrP3Q-SQYXogKg5weQ",
+      "l": "https://kuasark.com/files/stations-logos/rupa-indumathi.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Anton Rodrigo",
+      "s": "https://stream-150.zeno.fm/z2wx3ax50tzuv?zs=aMsLBZcVQN6-pAQ-kXLc5g",
+      "l": "https://kuasark.com/files/stations-logos/anton-rodrigo.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Angeline Gunathilake",
+      "s": "https://stream-154.zeno.fm/e6vfx0q50tzuv?zs=hN2fJMp7ScOUi-WAX1Mkvg",
+      "l": "https://kuasark.com/files/stations-logos/angeline-gunathilake.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Amith Walpola",
+      "s": "https://stream-150.zeno.fm/n21w8vp50tzuv?zs=XPMhg1OmRkymE5VIGWC5Pw",
+      "l": "https://kuasark.com/files/stations-logos/amith-walpola.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Felix Anton",
+      "s": "https://stream-068.zeno.fm/bb79p6a11tzuv?zs=Wp-V83Q1S3mZi3Kp6I3JyA",
+      "l": "https://kuasark.com/files/stations-logos/felix-anton.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Dayarathna Perera",
+      "s": "https://stream-150.zeno.fm/dfxng2t01tzuv?zs=tdQ9EEEzREuX_7uTtkr_YA",
+      "l": "https://kuasark.com/files/stations-logos/dayarathna-perera.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Ajith Perera",
+      "s": "https://stream-149.zeno.fm/k57r6cq01tzuv?zs=EMIp1y30SoG3zAHbgwxvBw",
+      "l": "https://kuasark.com/files/stations-logos/ajith-perera.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Jaliya Ranathunga",
+      "s": "https://stream-048.zeno.fm/am3mrafy2tzuv?zs=q6lN8CEcT7irJJrbpHLDlQ",
+      "l": "https://kuasark.com/files/stations-logos/jaliya-ranathunga.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Indrani Bogoda",
+      "s": "https://stream-149.zeno.fm/hyrxdh3x2tzuv?zs=ZiL1TB0iTdSiqzBb8PEcLQ",
+      "l": "https://kuasark.com/files/stations-logos/indrani-bogoda.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Clarence Wijewardena",
+      "s": "https://stream-033.zeno.fm/stzw665w2tzuv?zs=YHJT4OQ-Sa6opk_K8wc3Ng",
+      "l": "https://kuasark.com/files/stations-logos/clarence-wijewardena.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mathaya Radio",
+      "s": "https://stream-150.zeno.fm/p2vp54eg8tzuv?zs=9v8YK-BGTl-yRMUOwJSqmw",
+      "l": "https://kuasark.com/files/stations-logos/mathaya-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Siyane Radio",
+      "s": "https://stream-150.zeno.fm/ct2mbna8azzuv?zs=6CixCqjBTxqKjVMK8D1e4A",
+      "l": "https://kuasark.com/files/stations-logos/siyane-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Idikada",
+      "s": "https://stream-148.zeno.fm/t4ubc90kmy8uv?zs=D73tnqJtQz-xXN3b0ilv5A",
+      "l": "https://kuasark.com/files/stations-logos/idikada.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "zain online fm",
+      "s": "https://stream-148.zeno.fm/kregdewc5nhvv?zs=U8vSq177TTmRR807Qbvy6A",
+      "l": "https://kuasark.com/files/stations-logos/zain-online-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Saru FM",
+      "s": "https://live.sarufm.com:8443/listen/saru_fm/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/saru-fm.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Ransara Radio",
+      "s": "https://stream-150.zeno.fm/gb419u722yzuv?zs=OO1h7OanRf-5FvdKiJbN7Q",
+      "l": "https://kuasark.com/files/stations-logos/ransara-radio.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chandralekha Perera",
+      "s": "https://stream-153.zeno.fm/9r6u5uthwtzuv?zs=B2Tg7o8CRk-u84-TO80l3A",
+      "l": "https://kuasark.com/files/stations-logos/chandralekha-perera.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Guwanata Gee",
+      "s": "https://stream-150.zeno.fm/nb21k3uaztzuv?zs=40UESQj1Td2U7fIm5ugOfA",
+      "l": "https://kuasark.com/files/stations-logos/guwanata-gee.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Gratien Ananda",
+      "s": "https://stream-160.zeno.fm/0k511d831tzuv?zs=wuI5BSwRS2ONYysUDbdnfg",
+      "l": "https://kuasark.com/files/stations-logos/gratien-ananda.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sinhala Commercial Service Live",
+      "s": "https://stream-152.zeno.fm/7m8bnvc43d0uv?zs=dwN6THJjQpeMeuTh8Z6wng",
+      "l": "https://kuasark.com/files/stations-logos/sinhala-commercial-service-live.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "All Right Live Show",
+      "s": "https://stream-152.zeno.fm/28vs2nmpachvv?zs=zQjMyjiPRSCUWeiZKZW0Rg",
+      "l": "https://kuasark.com/files/stations-logos/all-right-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Sanidapa Live Show",
+      "s": "https://stream-150.zeno.fm/zudfrfnpachvv?zs=Ag52GKL_QAq6EPThPSpZBw",
+      "l": "https://kuasark.com/files/stations-logos/sanidapa-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Arrow Star Live Show",
+      "s": "https://stream-150.zeno.fm/hrv176mpachvv?zs=O5BIU9vASZCDnJuBrAaleg",
+      "l": "https://kuasark.com/files/stations-logos/arrow-star-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Baththaramulla Sunrice Live Show",
+      "s": "https://stream-150.zeno.fm/912a9gxpachvv?zs=yowL-NGnRmyXOR23qE-7Tg",
+      "l": "https://kuasark.com/files/stations-logos/baththaramulla-sunrice-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Dickwella Heros Live Show",
+      "s": "https://stream-151.zeno.fm/pefsrs3pachvv?zs=RsVpiROFR_aDnj_NOWs8xw",
+      "l": "https://kuasark.com/files/stations-logos/dickwella-heros-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Embilipitiya Delighted Live Show",
+      "s": "https://stream-153.zeno.fm/hy8mp53pachvv?zs=9uKoVHDFRHaFXg3GiKFw9Q",
+      "l": "https://kuasark.com/files/stations-logos/embilipitiya-delighted-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Feed Back Live Show",
+      "s": "https://stream-151.zeno.fm/yt4b6a5pachvv?zs=5X4QYcnEQf-T4cT3hLclwQ",
+      "l": "https://kuasark.com/files/stations-logos/feed-back-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Flashback Live Show",
+      "s": "https://stream-149.zeno.fm/n4t85bzgachvv?zs=yoFWxVEUSNaYN6iVmV5oYQ",
+      "l": "https://kuasark.com/files/stations-logos/flashback-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Maharagama Water Live Show",
+      "s": "https://stream-151.zeno.fm/n3ce032pachvv?zs=E2Sq48ZqSbCKWFtY1WgzbQ",
+      "l": "https://kuasark.com/files/stations-logos/maharagama-water-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Oxygen Live Show",
+      "s": "https://stream-150.zeno.fm/kbfaea9dbchvv?zs=_0QH72NMQQKcogIY8LmHiA",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Sahara Flash Live Show",
+      "s": "https://stream-149.zeno.fm/y3evb03dbchvv?zs=buw2Rc46T-Cat8Osx9bseg",
+      "l": "https://kuasark.com/files/stations-logos/sahara-flash-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Homagama Backup Live Show",
+      "s": "https://stream-150.zeno.fm/3umfgamebchvv?zs=XXOH6XSZRRWq0OfctZgo4Q",
+      "l": "https://kuasark.com/files/stations-logos/homagama-backup-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Chilaw Ciao Live Show",
+      "s": "https://stream-152.zeno.fm/9n95wvmebchvv?zs=aRt8_13yQUKBPU28ot-FPA",
+      "l": "https://kuasark.com/files/stations-logos/chilaw-ciao-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Super Friends Live Show",
+      "s": "https://stream-151.zeno.fm/8f42h5dkbchvv?zs=GhkaDYPrQhSaHpgeRWu6Dg",
+      "l": "https://kuasark.com/files/stations-logos/super-friends-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Super Angels Live Show",
+      "s": "https://stream-152.zeno.fm/w00bhkdkbchvv?zs=v8y-qr4aQuqfcv4hps3RdA",
+      "l": "https://kuasark.com/files/stations-logos/super-angels-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Seeduwa Bravo Live Show",
+      "s": "https://stream-152.zeno.fm/egz9e9bkbchvv?zs=VGUSlTUoSaKxhXOvlQADXg",
+      "l": "https://kuasark.com/files/stations-logos/seeduwa-bravo-live-show.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Bee FM",
+      "s": "https://stream-151.zeno.fm/b5z4bwe91rhvv?zs=jAHqgTDPRMG9_Jn1SSSYog",
+      "l": "https://kuasark.com/files/stations-logos/bee-fm-116183.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Your Radio",
+      "s": "https://stream-153.zeno.fm/smbyj6zbnigvv?zs=zNXjA1I_SomjCDXx8VWQ9g",
+      "l": "https://kuasark.com/files/stations-logos/your-radio.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Api Dubai",
+      "s": "https://stream-153.zeno.fm/bzatbm3txhhvv?zs=GKoMGf-3S0aa6OCr-eADhA",
+      "l": "https://kuasark.com/files/stations-logos/api-dubai.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "ABC - Hiru FM",
+      "s": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden",
+      "l": "https://kuasark.com/files/stations-logos/abc-hiru-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    }
+  ]
+}

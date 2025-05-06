@@ -1,0 +1,430 @@
+{
+  "stations": [
+    {
+      "t": "Dukagjini",
+      "s": "http://s6.voscast.com:8824/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4147/nitn59ae6da66079d084944272_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "RTK Radio Kosova",
+      "s": "http://82.114.72.2:8088/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/4145/dgmq597b4f67ba43a529567183_130x130.webp",
+      "g": [
+        "Themes",
+        "News"
+      ]
+    },
+    {
+      "t": "Glam Radio",
+      "s": "https://stream.glamradio.fm:8443/glamradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/428280/fa93faf8ed735afd43ac465d23b0b17b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hits Radio",
+      "s": "https://ec3.yesstreaming.net:1070/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/431547/98f8db9d3aab37caa64ef4900520ad8c_130x130.webp",
+      "g": [
+        "Decades",
+        "International",
+        "Rap",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Llapi",
+      "s": "http://radio.1dhe1.com:8555/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/30327/4fac6ac8ae96cac634af346688dfdbad_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Club FM",
+      "s": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428282/7d1a6d08760ca795f66e35753c1cc518_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Prishtina",
+      "s": "https://stream.radio.co/sbe73908d2/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/428281/92a366b74eb1e9d8eb00d7ae7b7f5114_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Klan Kosova FM",
+      "s": "https://s4.radio.co/sd1d1904dc/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422838/82c5f0c0d56649e86170fa2d5df72649_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "RadioKosova.Net",
+      "s": "http://ns5.albaservers.com:8010/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/4148/g09t5976203f8a87d774746131_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio KFOR 90.2 Shqip",
+      "s": "http://fm.radiokfor.com:8080/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401831/3d4bc4851d25acbeb5a66102e6baa3eb_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Maria (Kosovë)",
+      "s": "http://dreamsiteradiocp.com:8110/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422841/22c5966d26e6b831d929c41ec560e9ec_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Oxa FM Radio",
+      "s": "http://198.15.94.34:8006/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/23285/0e002c94cb55b857ee70cdfce5b4680a_130x130.webp",
+      "g": [
+        "International",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "RTK Radio Kosova 2 - Blue Sky",
+      "s": "http://82.114.72.2:8098/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4144/gdof599c416995789281989828_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio 10",
+      "s": "https://s1.voscast.com:11709/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428283/2234085c9b4222ddc835c023aa5013ec_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Plus",
+      "s": "http://82.114.72.178:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4146/26bc02e87ad2ac30449fc27d54cd16b3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kosova e Lirë",
+      "s": "http://quasar.shoutca.st:8018/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401832/hcyh59ae6ca447c69628120950_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio 7",
+      "s": "http://cp1.sednastream.com:8028/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/422840/f85943f97634c2a687f1df99154c66d0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vizioni",
+      "s": "http://live.rcast.net:8570/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422827/7f18c9a8979ededba836116972317288_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Vala Rinore",
+      "s": "http://ca3.rcast.net:8024/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26354/4ac6bb1b6908d813b5fd740c283daf46_130x130.webp",
+      "g": [
+        "Pop",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Грачаница",
+      "s": "http://188.40.95.74:8012/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422829/b0c89ef43c8e3aa73b9b6f2285bba644_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Dukagini",
+      "s": "http://s6.voscast.com:8824/;stream.mp3/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-dukagini.png",
+      "g": [
+        "Rock",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio SHARRI",
+      "s": "http://live.radio-sharri.info:8020/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-sharri.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Fontana",
+      "s": "https://live.radiostreaming.al:8010/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-fontana-xk.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Kosova e Lirë 94.2 FM",
+      "s": "https://radiokos.radioca.st/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-kosova-e-lire-942-fm.png",
+      "g": [
+        "Folk",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Vala Rinore",
+      "s": "http://ca3.rcast.net:8024/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-vala-rinore.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Ilirida",
+      "s": "http://eu1.reliastream.com:7172/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-ilirida-xk.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "92.1 Capital FM",
+      "s": "https://cfm.albaservers.com:8012/live.m4a",
+      "l": "https://kuasark.com/files/stations-logos/921-capital-fm.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "RetroSonic Mix",
+      "s": "http://rsra.net:8000/mixhd.mp3",
+      "l": "https://kuasark.com/files/stations-logos/retrosonic-mix.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Reggae",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Zëri",
+      "s": "https://radiozeri.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-zeri-xk.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Studio Rejan",
+      "s": "http://streaming.jusahost.com:9988/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/studio-rejan.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RTK - Radio Kosova 2",
+      "s": "http://82.114.72.2:8098/;stream.mp3/;",
+      "l": "https://kuasark.com/files/stations-logos/rtk-radio-kosova-2.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Peja",
+      "s": "http://ns5.albaservers.com:8020/;?1516996701669.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-peja.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Alba",
+      "s": "http://server.radioalba.eu:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-alba-xk.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Opus Classical",
+      "s": "http://rsra.net:8020/rohd.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-opus-classical.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Vizioni",
+      "s": "http://live.rcast.net:8864/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-vizioni.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rock Fans Kosova",
+      "s": "https://stream-150.zeno.fm/ybwz7k5gzchvv?zs=jCdo0bEuRyy_t4uF4-O8tA",
+      "l": "https://kuasark.com/files/stations-logos/rock-fans-kosova.png",
+      "g": [
+        "Blues",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Omega 3 Prizren",
+      "s": "http://95.154.196.37:28071/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-omega-3-prizren.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 1",
+      "s": "https://ec3.yesstreaming.net/radio1",
+      "l": "https://kuasark.com/files/stations-logos/radio-1-xk.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "https://dreamsiteradiocp2.com/proxy/rmkosovo2?mp=/stream?ver=858628",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-xk.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RadioGora Dragaš",
+      "s": "http://uzivo.radiogora.org:8117/stream",
+      "l": "https://kuasark.com/files/stations-logos/radiogora-dragas.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "RADIO MUZIKA",
+      "s": "https://cast3.asurahosting.com/proxy/mrika/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-muzika-xk.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Andromeda Rradio",
+      "s": "https://stream-150.zeno.fm/wk5fvctgqjpvv?zs=kI1m4wOWQbCGribbXVs_Pw",
+      "l": "https://kuasark.com/files/stations-logos/andromeda-rradio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Burimi",
+      "s": "https://stream-153.zeno.fm/vzp9uf0u3ehvv?zs=ZxWIxUjuQVix1NpFWD-TFg",
+      "l": "https://kuasark.com/files/stations-logos/radio-burimi.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tillt Radio",
+      "s": "https://tillt-geckohost.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/tillt-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "RTK Radio Kosova 1",
+      "s": "http://82.114.72.2:8088/;.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rtk-radio-kosova-1-xk-2751.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Kosova 2",
+      "s": "http://82.114.72.2:8098/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-kosova-2.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "KLAN Kosova FM",
+      "s": "http://s4.radio.co:80/sd1d1904dc/listen",
+      "l": "https://kuasark.com/files/stations-logos/klan-kosova-fm.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Zeri i Shtimes",
+      "s": "http://radio.1dhe1.com:8090/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-zeri-i-shtimes.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    }
+  ]
+}

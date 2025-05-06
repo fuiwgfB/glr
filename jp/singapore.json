@@ -1,0 +1,573 @@
+{
+  "stations": [
+    {
+      "t": "Class 95",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405565/m9gm5a4e00fb4cd85612141313_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "987",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FM.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405570/xy8l5a4e02612dd52062678191_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Power 98 Love Songs",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405569/0f66cc3da5a24681dd35f1d3cbbb0fd6_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "883 Jia FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405557/dv4j5a4dfe44eda4f541859935_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "One FM",
+      "s": "http://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/405560/c1gw5a4dff3b797ef876836824_130x130.webp",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kiss92",
+      "s": "http://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/405561/izv05a4dffa014503893795771_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Love FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/405568/zwh25a4e01d2e0a49338255645_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "CNA 938",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405563/c9d260b89bc5dd0d0a75d68fc3246bbd_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ria FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/405558/s3fw5a4dfe974086e305471139_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Y.E.S.",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7009/soks5976195b42dce235551009_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "UFM",
+      "s": "http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405571/xx8f5a4e02b613a22248530843_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "973FM: Blasts That Last",
+      "s": "http://c16.radioboss.fm:8115/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/9256/27ae5768ac8ae8bf84e805ff83c096df_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Capital FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405566/uuqw5a4e014368cfd549840883_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Gold 905 FM",
+      "s": "http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405559/nim35a4dfeeaaa96e043731885_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "AXR - Asia Expat Radio",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXRAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422051/9ccdf41b63057d82daf6e61988df1f89_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "HAO FM / 好FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422049/1bf9ea0cdec67e2aad8e0978a7953427_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Money FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422048/7dc3753bf5ca7aeb3b7ab01cca94200b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Warna FM",
+      "s": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405564/xebq5a4e00957313f622924625_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "88.3JIA Web hits",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422047/ad4e2c943b0d79a44f540250fc4fec25_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Desi Dance",
+      "s": "http://usa6.fastcast4u.com:5029/autodj",
+      "l": "https://images.radiovolna.net/_files/images/stations/9260/g1ro59760e2f67863942228817_130x130.webp",
+      "g": [
+        "International",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Class 95 FM",
+      "s": "https://22893.live.streamtheworld.com:443/CLASS95AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/class-95-fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "987 FM",
+      "s": "https://22403.live.streamtheworld.com:443/987FMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/987-fm.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "CNA938",
+      "s": "https://22893.live.streamtheworld.com:443/938NOWAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/cna938.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "GOLD 905",
+      "s": "https://22393.live.streamtheworld.com:443/GOLD905AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/gold-905-sg-10094.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "YES 933",
+      "s": "https://14033.live.streamtheworld.com:443/YES933AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/yes-933-sg-10315.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "96.3好FM",
+      "s": "https://22243.live.streamtheworld.com:443/HAO_963AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/963haofm.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Power 98 Love Songs",
+      "s": "https://23683.live.streamtheworld.com:443/POWER98_LOVESONGS.mp3",
+      "l": "https://kuasark.com/files/stations-logos/power-98-love-songs.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Symphony 924",
+      "s": "https://14033.live.streamtheworld.com:443/SYMPHONY924AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/symphony-924.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Love 972",
+      "s": "https://22903.live.streamtheworld.com:443/LOVE972FMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/love-972.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Kiss92",
+      "s": "https://23743.live.streamtheworld.com:443/KISS_92AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/kiss92.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "88.3JIA",
+      "s": "https://23683.live.streamtheworld.com:443/883JIAAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/883jia.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Capital 958",
+      "s": "https://23253.live.streamtheworld.com:443/CAPITAL958FMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/capital-958.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "One FM",
+      "s": "https://23683.live.streamtheworld.com:443/ONE_FM_913AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/one-fm.png",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "UFM100.3",
+      "s": "https://22243.live.streamtheworld.com:443/UFM_1003AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/ufm1003.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Money FM 89.3",
+      "s": "https://23683.live.streamtheworld.com:443/MONEY_893AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/money-fm-893.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ria 897",
+      "s": "https://22893.live.streamtheworld.com:443/RIA897FMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/ria-897-sg-11227.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "973FM: Blasts That Last",
+      "s": "https://c16.radioboss.fm:18115/stream",
+      "l": "https://kuasark.com/files/stations-logos/973fm-blasts-that-last.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Warna 942",
+      "s": "https://22283.live.streamtheworld.com:443/WARNA942FMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/warna-942.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Oli 968",
+      "s": "https://14033.live.streamtheworld.com:443/OLI968FMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/oli-968.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Hitz.FM Singapore",
+      "s": "http://everestcast.shoutcastservices.com:1640/stream",
+      "l": "https://kuasark.com/files/stations-logos/hitzfm-singapore.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "AXR Singapore",
+      "s": "https://singaporestreammp3.axr.online",
+      "l": "https://kuasark.com/files/stations-logos/axr-singapore.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Melody with Brother Bjorn",
+      "s": "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1682315500057",
+      "l": "https://kuasark.com/files/stations-logos/radio-melody-with-brother-bjorn.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Naga FM",
+      "s": "https://rdopanel.cobrasoftwares.org:1065/stream",
+      "l": "https://kuasark.com/files/stations-logos/naga-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Thitsarparami Dhamma Society",
+      "s": "https://edge.mixlr.com/channel/nmtev",
+      "l": "https://kuasark.com/files/stations-logos/thitsarparami-dhamma-society.png",
+      "g": [
+        "Easy Listening",
+        "Inspirational",
+        "New Age"
+      ]
+    },
+    {
+      "t": "XRadio",
+      "s": "http://xradio.zone:9420/stream",
+      "l": "https://kuasark.com/files/stations-logos/xradio-sg.png",
+      "g": [
+        "Rap",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Vintage Radio SG",
+      "s": "https://listen.vintageradio.sg/?v=2&d=0",
+      "l": "https://kuasark.com/files/stations-logos/vintage-radio-sg.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Mixx Music Radio",
+      "s": "https://sonic.mediacp.eu/8020/stream",
+      "l": "https://kuasark.com/files/stations-logos/mixx-music-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Pozhil FM",
+      "s": "https://stream-150.zeno.fm/k8uw9ya44d0uv?zs=HXrW92xCQcmyT9AMiij0aA",
+      "l": "https://kuasark.com/files/stations-logos/pozhil-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Indiego",
+      "s": "https://22233.mc.tritondigital.com:443/OMNY_TESTDEMO_P/media-session/3c9e256b-939c-4635-ae8c-83183c3aae6b/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/216a4118-2176-4cc4-bfd4-a80e009dc9f7/75d30f62-444f-491a-8b25-ad7f0029329b/audio/direct/t1633952873/Geoblock_replacement_audio.mp3?t=1633952873",
+      "l": "https://kuasark.com/files/stations-logos/indiego.png",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Power 98 Lo-Fi",
+      "s": "https://22243.live.streamtheworld.com:443/LOFI_S01.mp3",
+      "l": "https://kuasark.com/files/stations-logos/power-98-lo-fi.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Power 98 Chill",
+      "s": "https://22243.live.streamtheworld.com:443/CHILLSTREAM_S01.mp3",
+      "l": "https://kuasark.com/files/stations-logos/power-98-chill.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Power 98 Smooth Jazz",
+      "s": "https://23743.live.streamtheworld.com:443/SMOOTHJAZZ_S01.mp3",
+      "l": "https://kuasark.com/files/stations-logos/power-98-smooth-jazz.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "GOJOY-SG",
+      "s": "https://sg.gojoy.org/audio/stream",
+      "l": "https://kuasark.com/files/stations-logos/gojoy-sg.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Adeline Yeo General Entertainment Radio",
+      "s": "https://stream-149.zeno.fm/wydy0bhmnrhvv?zs=rC7w1UMfTYCpAftaIUF7sw",
+      "l": "https://kuasark.com/files/stations-logos/adeline-yeo-general-entertainment-radio.png",
+      "g": [
+        "Easy Listening",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Barakath Radio",
+      "s": "https://n10a-eu.rcs.revma.com/cy0s94xf268uv?rj-ttl=5&rj-tok=AAABiLQanfIAykByLAn4rEZZ4Q",
+      "l": "https://kuasark.com/files/stations-logos/barakath-radio.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Oli 968 Radio",
+      "s": "http://22903.live.streamtheworld.com:80/OLI968FMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/oli-968-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Channel News Asia TV",
+      "s": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/channel-news-asia-tv.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "CNA 938 Live Singapore",
+      "s": "http://14033.live.streamtheworld.com:80/938NOW_PREM_SC",
+      "l": "https://kuasark.com/files/stations-logos/cna-938-live-singapore.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Yes 933",
+      "s": "https://19183.live.streamtheworld.com:443/YES933AAC_SC",
+      "l": "https://kuasark.com/files/stations-logos/yes-933-sg-65225.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "987FM",
+      "s": "https://22393.live.streamtheworld.com/987FM_PREM.aac",
+      "l": "https://kuasark.com/files/stations-logos/987fm.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "RIA 897",
+      "s": "https://22393.live.streamtheworld.com/RIA897FM_SC",
+      "l": "https://kuasark.com/files/stations-logos/ria-897-sg-82724.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "987",
+      "s": "https://14033.live.streamtheworld.com/987FM_SC",
+      "l": "https://kuasark.com/files/stations-logos/987.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "963 Hao FM",
+      "s": "https://23683.live.streamtheworld.com/HAO_963_SC",
+      "l": "https://kuasark.com/files/stations-logos/963-hao-fm.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "CNA 938",
+      "s": "https://22893.live.streamtheworld.com/938NOW_SC",
+      "l": "https://kuasark.com/files/stations-logos/cna-938.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "GOLD 905",
+      "s": "https://22403.live.streamtheworld.com/GOLD905_SC",
+      "l": "https://kuasark.com/files/stations-logos/gold-905-sg-82736.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "AXR Manila",
+      "s": "https://22243.live.streamtheworld.com:443/AXR_MANILA.mp3",
+      "l": "https://kuasark.com/files/stations-logos/axr-manila-sg.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

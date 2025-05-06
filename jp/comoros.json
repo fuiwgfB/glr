@@ -1,0 +1,131 @@
+{
+  "stations": [
+    {
+      "t": "CASM FM",
+      "s": "https://casmfm.ice.infomaniak.ch/casmfm-32.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422823/29cb7282ec625a96eca522f19e20b13f_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Domoni Inter",
+      "s": "http://www.domoni-inter.org:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/28169/ucm15975ac7ca5c51918612658_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTMC",
+      "s": "https://rtmc.ice.infomaniak.ch/rtmc-32.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422825/d962a9a6635bf7693b5dfd826b12da0b_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "RCM13",
+      "s": "http://sv1.vestaradio.com/rcm13",
+      "l": "https://images.radiovolna.net/_files/images/stations/422826/ca63667800fdfabb094d414e6e315d0a_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Océan Indien",
+      "s": "https://stream.vestaradio.com/RadioMRV",
+      "l": "https://images.radiovolna.net/_files/images/stations/422824/6fc579410877f7941b71f78ca811aa7d_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Moidja Paris FM",
+      "s": "http://94.23.221.158:9094/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-moidja-paris-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "midayi fm",
+      "s": "https://radio2.pro-fhi.net:19015/stream",
+      "l": "https://kuasark.com/files/stations-logos/midayi-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Domoni Inter",
+      "s": "http://domoni-inter.org:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-domoni-inter.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Dounia Web",
+      "s": "https://listen.radioking.com/radio/274636/stream/320209",
+      "l": "https://kuasark.com/files/stations-logos/radio-dounia-web.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Star Fm Radio",
+      "s": "https://stream-149.zeno.fm/typ6d8uxfnruv?zs=rQVJAwYHRFKBuebBO8zn_g",
+      "l": "https://kuasark.com/files/stations-logos/star-fm-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Malezi FM",
+      "s": "http://37.187.77.45:9185/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-malezi-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Star-FM",
+      "s": "http://stream-149.zeno.fm/typ6d8uxfnruv?zs=V95_l6kLQjiRBpWLzxTpVw",
+      "l": "https://kuasark.com/files/stations-logos/star-fm-km.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Canal Anjouan",
+      "s": "http://stream-148.zeno.fm/9zhvcmu5uwzuv?zs=Hg6q2t13RNSa11El93GCBA",
+      "l": "https://kuasark.com/files/stations-logos/canal-anjouan.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "M'Radio Mutsamudu",
+      "s": "http://stream-058.zeno.fm/gzsfna8zxqzuv?zs=mg4zFhCJR222aVSFAXj1Rg",
+      "l": "https://kuasark.com/files/stations-logos/mradio-mutsamudu.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Era Environnement",
+      "s": "https://listen.radioking.com/radio/260476/stream/305215",
+      "l": "https://kuasark.com/files/stations-logos/era-environnement.png",
+      "g": [
+        "News"
+      ]
+    }
+  ]
+}

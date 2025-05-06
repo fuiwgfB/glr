@@ -1,0 +1,418 @@
+{
+  "stations": [
+    {
+      "t": "Lav Radio",
+      "s": "https://eu.stream4cast.com/proxy/lavradio/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/7348/c16204d8c030a295217809eba45653ba_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Lav Radio Mix",
+      "s": "https://eu.stream4cast.com/proxy/lavradiomix/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/7349/491586cea7f6bc2bccddd3dd7825f090_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "XFM Radio",
+      "s": "https://eu.stream4cast.com/proxy/xfmradio/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428387/79eab650fc88119a23a06553dcb7c80d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MFM Music Radio",
+      "s": "https://eu.stream4cast.com/proxy/mfmradio/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/400837/1488450028_unnamed_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ван",
+      "s": "http://media.radiovan.am:8000/64_stereo",
+      "l": "https://images.radiovolna.net/_files/images/stations/5732/gb2x596f9b099e143451004437_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Energy",
+      "s": "https://eu.stream4cast.com/proxy/energyfm/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428386/d6f88b0f2f478f9674066b6102a675cb_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jan",
+      "s": "http://s7.voscast.com:10258/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/7355/a72w596f97e076d88349459389_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Аврора",
+      "s": "https://am.radioaurora.am/al.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/417/jemr596f934155986406517252_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "AR Radio Intercontinental",
+      "s": "http://217.182.133.119:8160/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/1939/ojpa59d20161f2973472862158_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Hay",
+      "s": "http://14678.cloudrad.io:9440/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/535/692aa0dd3fdfecdd087f2fd0c47184ac_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "AYK",
+      "s": "http://64.150.176.42:8117/;listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7350/qa3p5a22989b09e17859586856_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Lratvakan Radio",
+      "s": "http://212.34.233.78:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/7361/f2vx597b362c432cf433783908_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Public radio of Armenia",
+      "s": "http://178.160.193.131:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/7344/b0y7597b3787e9e74351299754_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "IMusic.am-classic",
+      "s": "https://radio.imusic.am/classic.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400748/1486293519_10325144_10152993216287305_7681263115144426638_n.jpg-700700_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Jazz FM",
+      "s": "https://am.radioaurora.am/jz",
+      "l": "https://images.radiovolna.net/_files/images/stations/405732/xbdj5ab212507e40d500978072_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Yeraz",
+      "s": "http://149.255.60.194:8008/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/400752/1486294280_radioyeraz.com_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Yerevan FM",
+      "s": "https://eu1.stream4cast.com/proxy/arradioi/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/406095/wbs25bee95518a8cf563924503_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "YAN",
+      "s": "http://83.169.36.75:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/400754/ksi5599c4642afa8d135063236_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Fama",
+      "s": "http://eu.stream4cast.com:8036/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/31169/c7jr59917de0018c2669493506_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "AZALIA",
+      "s": "https://stream.zeno.fm/s865660v7hhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430653/c61031a5228ae7933bcc74e311e9b419_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Jan",
+      "s": "http://vps782549.ovh.net:10255/RadioJan",
+      "l": "https://kuasark.com/files/stations-logos/radio-jan.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Шансон Армения",
+      "s": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-sanson-armenia.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Общественное радио Армении",
+      "s": "http://178.160.193.131:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/obsestvennoe-radio-armenii.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Van",
+      "s": "https://stream.radiovan.fm:8000/96_stereo",
+      "l": "https://kuasark.com/files/stations-logos/radio-van.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "FM 105.5",
+      "s": "http://14842.cloudrad.io:9536/live?ver=658784",
+      "l": "https://kuasark.com/files/stations-logos/fm-1055.png",
+      "g": [
+        "Folk",
+        "Jazz",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Mariam",
+      "s": "https://live.radiomariam.am/RadioMariam",
+      "l": "https://kuasark.com/files/stations-logos/radio-mariam.png",
+      "g": [
+        "Inspirational",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Vem Radio",
+      "s": "https://eu1.stream4cast.com/proxy/vemradio/stream",
+      "l": "https://kuasark.com/files/stations-logos/vem-radio.png",
+      "g": [
+        "Classical",
+        "Inspirational",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "100% Радио",
+      "s": "https://s05.volnorez.com/live-app/721682",
+      "l": "https://kuasark.com/files/stations-logos/100-radio-ar.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Сити-ФМ",
+      "s": "https://icecast-rian.cdnvideo.ru/voicearm1",
+      "l": "https://kuasark.com/files/stations-logos/siti-fm.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Hay",
+      "s": "http://14678.cloudrad.io:9440/live?ver=684682",
+      "l": "https://kuasark.com/files/stations-logos/radio-hay.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kiss FM Armenia",
+      "s": "https://am.radioaurora.am/kiss",
+      "l": "https://kuasark.com/files/stations-logos/kiss-fm-armenia.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Русское Радио Армения",
+      "s": "https://stream.radiovan.fm/radio/tracks-a1/mono.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/russkoe-radio-armenia.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "РАДИО \"Ереванские ночи\"",
+      "s": "http://icecast.yerevannights.com/YerevanNights",
+      "l": "https://kuasark.com/files/stations-logos/radio-erevanskie-noci.png",
+      "g": [
+        "Country",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Миг ФМ",
+      "s": "http://mix.am:8000/mig",
+      "l": "https://kuasark.com/files/stations-logos/mig-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Radio YAN",
+      "s": "http://83.169.36.75:8000/stream?1573722895304",
+      "l": "https://kuasark.com/files/stations-logos/radio-yan.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио России - Армения",
+      "s": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps",
+      "l": "https://kuasark.com/files/stations-logos/-radio-rossii-.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nor Radyo",
+      "s": "http://www.norradyo.com:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/nor-radyo.png",
+      "g": [
+        "Classical",
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Marshall",
+      "s": "https://eu.stream4cast.com/proxy/marshallfm/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-marshall.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Armenian Christian Radio - Bashde Radio",
+      "s": "https://streams.radio.co/sa0bf8ec29/listen",
+      "l": "https://kuasark.com/files/stations-logos/armenian-christian-radio-bashde-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Azalia",
+      "s": "https://stream-152.zeno.fm/s865660v7hhvv?zs=ax6As9Z3Qpym_sXM7RVKOQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-azalia.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Mariam Armenia",
+      "s": "http://dreamsiteradiocp.com:8056/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-mariam-armenia.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Aurora yc2",
+      "s": "http://am.radioaurora.am:8010/yc",
+      "l": "https://kuasark.com/files/stations-logos/radio-aurora-yc2.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Armenia One TV",
+      "s": "http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/armenia-one-tv.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Luys TV Western Armenian TV",
+      "s": "http://luyse.mediatriple.net/luystv/luystv.smil/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/luys-tv-western-armenian-tv.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Armenian Gospel Radio",
+      "s": "https://s8.myradiostream.com:15554/listen.mp3?nocache=1682446347",
+      "l": "https://kuasark.com/files/stations-logos/armenian-gospel-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Happy New Cat",
+      "s": "http://s01.radio-tochka.com:4560/stream",
+      "l": "https://kuasark.com/files/stations-logos/happy-new-cat.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1695 @@
+{
+  "stations": [
+    {
+      "t": "Radio Kiss",
+      "s": "https://icecast4.play.cz/kiss128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-kiss-cz.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Evropa 2",
+      "s": "https://23543.live.streamtheworld.com:443/EVROPA2AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/evropa-2.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rock Radio",
+      "s": "https://ice.abradio.cz/rockradio128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rock-radio-cz.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Country Radio",
+      "s": "https://icecast2.play.cz/country64.mp3",
+      "l": "https://kuasark.com/files/stations-logos/country-radio-cz-4430.png",
+      "g": [
+        "Country",
+        "Folk",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio BEAT",
+      "s": "https://n05a-eu.rcs.revma.com/3d47nqvb938uv?rj-ttl=5&rj-tok=AAABiLPvjZUAzxRKWVAmHJ2Rvw",
+      "l": "https://kuasark.com/files/stations-logos/radio-beat-cz.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Radio Blanik",
+      "s": "https://ice.abradio.cz/blanikfm128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-blanik-cz-5599.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Impuls",
+      "s": "https://icecast1.play.cz/impuls128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-impuls-cz.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Dance Radio",
+      "s": "https://20863.live.streamtheworld.com:443/DANCEAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/dance-radio-cz-cz-11388.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Pohádka",
+      "s": "https://ice3.abradio.cz/pohadka128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-pohadka.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Frekvence 1",
+      "s": "https://22533.live.streamtheworld.com:443/FREKVENCE1AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/frekvence-1.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Povídka",
+      "s": "https://ice3.abradio.cz/povidka128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-povidka-cz-14820.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Oldies Radio",
+      "s": "https://ice.abradio.cz/oldiesradio128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/oldies-radio-cz.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radiožurnál",
+      "s": "https://rozhlas.stream/radiozurnal_aac_128.aac",
+      "l": "https://kuasark.com/files/stations-logos/radiozurnal.png",
+      "g": [
+        "Folk",
+        "Rock",
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Fajn Radio",
+      "s": "https://23623.live.streamtheworld.com:443/FAJN_RADIO_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fajn-radio.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Metal Heart Radio",
+      "s": "http://fr.radio-streamhosting.com:8000/metalheartradio128mp3",
+      "l": "https://kuasark.com/files/stations-logos/metal-heart-radio.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Hitrádio North Music",
+      "s": "https://ice.abradio.cz/hitradiofm128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-north-music.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Cesky Impuls",
+      "s": "https://icecast6.play.cz/cesky-impuls.mp3",
+      "l": "https://kuasark.com/files/stations-logos/cesky-impuls.png",
+      "g": [
+        "Country",
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio Krokodýl FM",
+      "s": "https://icecast4.play.cz/krokodyl128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-krokodyl-fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Svobodný vysílač CS",
+      "s": "http://stream.svobodny-vysilac.cz:8000/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/svobodny-vysilac-cs.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Svobodné Rádio",
+      "s": "http://svobodneradio.radioca.st:8859/stream",
+      "l": "https://kuasark.com/files/stations-logos/svobodne-radio-cz.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Český rozhlas Dvojka",
+      "s": "https://rozhlas.stream/dvojka_high.aac",
+      "l": "https://kuasark.com/files/stations-logos/cesky-rozhlas-dvojka.png",
+      "g": [
+        "Folk",
+        "Classical",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "RockZone",
+      "s": "https://icecast2.play.cz/rockzone128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rockzone-cz.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Metalomanie",
+      "s": "https://ice.abradio.cz/metalomanie128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/metalomanie.png",
+      "g": [
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Helax",
+      "s": "https://ice.abradio.cz/helax128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/helax.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Český rozhlas Plus",
+      "s": "https://rozhlas.stream/plus_high.aac",
+      "l": "https://kuasark.com/files/stations-logos/cesky-rozhlas-plus.png",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Dechovka",
+      "s": "http://37.46.208.57:8000/stream-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-dechovka.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Čas Rock",
+      "s": "https://icecast6.play.cz/casrock128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-cas-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Hitrádio City 93.7 FM",
+      "s": "https://20853.live.streamtheworld.com:443/HITRADIO_CITY_PRAHA_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-city-937-fm-cz-9304.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Themes",
+        "News"
+      ]
+    },
+    {
+      "t": "RADIO BEST OF ROCK",
+      "s": "https://ice4.abradio.cz/bestofrock128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-best-of-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Domino",
+      "s": "http://mp3stream4.abradio.cz/domino128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-domino-cz.png",
+      "g": [
+        "Pop",
+        "Themes",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Spin Radio",
+      "s": "https://icecast4.play.cz/spin128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/spin-radio.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Classic Praha",
+      "s": "https://icecast8.play.cz/classic128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/classic-praha.png",
+      "g": [
+        "Classical",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Free Radio",
+      "s": "https://icecast6.play.cz/freeradio64.mp3",
+      "l": "https://kuasark.com/files/stations-logos/free-radio-cz.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "ABradio Depeche Mode",
+      "s": "https://ice4.abradio.cz/depeche128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/abradio-depeche-mode.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ostravské Radio Čas",
+      "s": "https://icecast6.play.cz/casradio128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ostravske-radio-cas.png",
+      "g": [
+        "Country",
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio HEY",
+      "s": "https://icecast3.play.cz/hey-radio128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-hey.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Oldies Rock",
+      "s": "https://ice4.abradio.cz/oldiesrock128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-oldies-rock-cz.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Folk",
+      "s": "https://ice3.abradio.cz/folk128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-folk-cz.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Signal Radio",
+      "s": "https://icecast1.play.cz/signal128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/signal-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Český rozhlas Vltava",
+      "s": "https://rozhlas.stream/vltava_aac_128.aac",
+      "l": "https://kuasark.com/files/stations-logos/cesky-rozhlas-vltava.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Rocková Zábava",
+      "s": "https://ice.abradio.cz/rockzabava128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rockova-zabava.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Dance Club Radio",
+      "s": "https://ice4.abradio.cz/dance128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dance-club-radio-cz.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Pigy Pohádky",
+      "s": "https://ice.actve.net/web-pg-pohadky",
+      "l": "https://kuasark.com/files/stations-logos/radio-pigy-pohadky.png",
+      "g": [
+        "Electronic",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Freerave.cz - Tekno Radio",
+      "s": "http://164.68.122.137:8061/;",
+      "l": "https://kuasark.com/files/stations-logos/freeravecz-tekno-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Známka Punku",
+      "s": "https://ice.abradio.cz/znamkapunku128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/znamka-punku.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio 1",
+      "s": "https://icecast6.play.cz/radio1-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-1-cz.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Český rozhlas Region - Praha a střední Čechy",
+      "s": "https://rozhlas.stream/region_mp3_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/cesky-rozhlas-region-praha-a-stredni-cechy.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Shadowbox",
+      "s": "https://ice3.abradio.cz/shadowbox128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-shadowbox.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Český rozhlas Jazz",
+      "s": "https://rozhlas.stream/jazz_high.aac",
+      "l": "https://kuasark.com/files/stations-logos/cesky-rozhlas-jazz.png",
+      "g": [
+        "Blues",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Český rozhlas D-dur",
+      "s": "https://rozhlas.stream/ddur_high.aac",
+      "l": "https://kuasark.com/files/stations-logos/cesky-rozhlas-d-dur.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "SeeJay Radio",
+      "s": "https://live.seejay.cz/seejay128.aac",
+      "l": "https://kuasark.com/files/stations-logos/seejay-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Hip Hop Vibes Radio",
+      "s": "https://ice4.abradio.cz/hiphopvibes128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hip-hop-vibes-radio.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Radio Blanik CZ",
+      "s": "https://ice.abradio.cz/blanikcz128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-blanik-cz.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Club Radio",
+      "s": "http://sc.ipip.cz:7996/;stream",
+      "l": "https://kuasark.com/files/stations-logos/club-radio-cz.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio G6 / Gipsy Radio",
+      "s": "https://mpc1.mediacp.eu/stream/radiog6",
+      "l": "https://kuasark.com/files/stations-logos/radio-g6-gipsy-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Pigy - Pisnicky",
+      "s": "https://ice.actve.net/web-pg-pisnicky",
+      "l": "https://kuasark.com/files/stations-logos/radio-pigy-pisnicky.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Comedy Club R@dio Diana",
+      "s": "https://westradio.cz/radio/8010/radio.mp3?1607941293",
+      "l": "https://kuasark.com/files/stations-logos/comedy-club-rdio-diana.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Pigy - Disko Trysko",
+      "s": "https://ice.actve.net/web-pg-disko",
+      "l": "https://kuasark.com/files/stations-logos/radio-pigy-disko-trysko.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "COLOR Music Radio",
+      "s": "https://icecast8.play.cz/color128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/color-music-radio.png",
+      "g": [
+        "R&B and Urban",
+        "Rap",
+        "Pop",
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Jih - Rádio jižní Moravy",
+      "s": "https://icecast6.play.cz/jih128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-jih-radio-jizni-moravy.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Click & Country",
+      "s": "https://www.clickandcountry.com/#rozhlas",
+      "l": "https://kuasark.com/files/stations-logos/radio-click-country.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Rádio 4U",
+      "s": "https://mpc1.mediacp.eu/stream/radio4u/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-4u.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Wave",
+      "s": "https://rozhlas.stream/wave_aac_128.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-wave-17863.png",
+      "g": [
+        "Electronic",
+        "Alternative",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 66",
+      "s": "https://ice3.abradio.cz/route128.mp3?type=mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-66.png",
+      "g": [
+        "Country",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Hitrádio North Music - Devadesátka",
+      "s": "https://ice.abradio.cz/hit90128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-north-music-devadesatka.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Český rozhlas sport",
+      "s": "https://rozhlas.stream/sport_aac_128.aac",
+      "l": "https://kuasark.com/files/stations-logos/cesky-rozhlas-sport.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Hitrádio City Osmdesátka",
+      "s": "https://20073.live.streamtheworld.com:443/HITRADIO_OSMDESATKA.aac",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-city-osmdesatka.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Relax",
+      "s": "https://icecast7.play.cz/relax128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-relax-cz.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Samson",
+      "s": "https://icecast8.play.cz/samsonfm128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-samson.png",
+      "g": [
+        "Country",
+        "Folk",
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Hitrádio City Devadesátka",
+      "s": "https://ice2.abradio.cz/hit90128.aac",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-city-devadesatka.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Hitrádio North Music - Osmdesátka",
+      "s": "https://ice.abradio.cz/hit80128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-north-music-osmdesatka.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Hitrádio Zlín",
+      "s": "https://ice.abradio.cz/radiozlin128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-zlin.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Junior",
+      "s": "https://rozhlas.stream/juniormaxi_mp3_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-junior.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Expres",
+      "s": "https://icecast5.play.cz/expres128mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-expres-cz.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Chillout",
+      "s": "https://ice4.abradio.cz/chillout128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-chillout.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio Haná",
+      "s": "https://icecast8.play.cz/hana128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-hana.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Český rozhlas Pohoda",
+      "s": "https://rozhlas.stream/pohoda_aac_128.aac",
+      "l": "https://kuasark.com/files/stations-logos/cesky-rozhlas-pohoda.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "We House Radio",
+      "s": "https://icecast9.play.cz/zun192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/we-house-radio.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Evropa 2 - Československé hity",
+      "s": "https://ice.actve.net/web-e2-csweb",
+      "l": "https://kuasark.com/files/stations-logos/evropa-2-ceskoslovenske-hity.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Praha International",
+      "s": "https://icecast1.play.cz/cro7-32.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-praha-international.png",
+      "g": [
+        "Classical",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Pelik",
+      "s": "https://mpc1.mediacp.eu/stream/radiopelik",
+      "l": "https://kuasark.com/files/stations-logos/radio-pelik.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Proglas",
+      "s": "https://icecast2.play.cz/proglas128",
+      "l": "https://kuasark.com/files/stations-logos/radio-proglas.png",
+      "g": [
+        "Folk",
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Evropa 2 - Top 40",
+      "s": "https://ice.actve.net/web-e2-top40",
+      "l": "https://kuasark.com/files/stations-logos/evropa-2-top-40.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ALTERNATIVE TIMES RADIO",
+      "s": "https://ice3.abradio.cz/alternative128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/alternative-times-radio.png",
+      "g": [
+        "Alternative",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Life TRANCE FM",
+      "s": "http://cast1.asurahosting.com:7709/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-life-trance-fm.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "E-RÁDIO JAZZINEC",
+      "s": "https://ice3.abradio.cz/jazzinec128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/e-radio-jazzinec.png",
+      "g": [
+        "Blues",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Hitrádio North Music - Zóna lásky",
+      "s": "https://ice.abradio.cz/hitzl128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-north-music-zona-lasky.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Hády",
+      "s": "http://46.36.36.149:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-hady.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Evropa 2 - Flashback",
+      "s": "https://ice.actve.net/web-e2-flashback",
+      "l": "https://kuasark.com/files/stations-logos/evropa-2-flashback.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Dixie",
+      "s": "https://icecast3.play.cz/radiodixie128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-dixie.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Busradio",
+      "s": "http://mpc1.mediacp.eu:8064/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/busradio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Metal Heart Radio - Soft Channel",
+      "s": "https://cz.radio-streamhosting.com:8443/metalheartradio128mp3",
+      "l": "https://kuasark.com/files/stations-logos/metal-heart-radio-soft-channel.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Funkstar Radio",
+      "s": "https://funkstar.radioca.st/stream?ver=153586",
+      "l": "https://kuasark.com/files/stations-logos/funkstar-radio.png",
+      "g": [
+        "R&B and Urban",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Hitrádio North Music - Milénium",
+      "s": "https://ice.abradio.cz/hitmi128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-north-music-milenium.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Chat Rádio",
+      "s": "https://radio.chatujme.cz:8000/chatradio",
+      "l": "https://kuasark.com/files/stations-logos/chat-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Be iN Radio Network - Listen To Rock",
+      "s": "https://stream-150.zeno.fm/4h8asfrwetzuv?zs=raqPWKHoQ1qeF0l_2WboPQ",
+      "l": "https://kuasark.com/files/stations-logos/be-in-radio-network-listen-to-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Hitrádio North Music - PopRock",
+      "s": "https://ice.abradio.cz/hitpoprock128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-north-music-poprock.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Svit",
+      "s": "http://stream1.goq.cz:8001/radio-svit-zlin-192k",
+      "l": "https://kuasark.com/files/stations-logos/radio-svit.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Relaxace - Zpěv ptáků",
+      "s": "https://ice6.abradio.cz/relax-morning-birds128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/relaxace-zpev-ptaku.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Hitrádio City Zóna lásky",
+      "s": "https://ice2.abradio.cz/hitzl128.aac",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-city-zona-lasky.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Blaník Morava a Slezsko",
+      "s": "https://ice.abradio.cz/blanikmorava128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-blanik-morava-a-slezsko.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DAT Radio",
+      "s": "https://stream-150.zeno.fm/324n33e5wp8uv?zs=Nhvp5T1YRGiEtKfqr7Mxng",
+      "l": "https://kuasark.com/files/stations-logos/dat-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Czechoslovak Metal Channel",
+      "s": "http://fr.radio-streamhosting.com:8000/metalheartradioczsk128mp3",
+      "l": "https://kuasark.com/files/stations-logos/czechoslovak-metal-channel.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "666 FM",
+      "s": "https://cz.radio-streamhosting.com:8443/metalheartradio666fm128mp3",
+      "l": "https://kuasark.com/files/stations-logos/666-fm.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio MB",
+      "s": "https://ice3.abradio.cz/radiomb128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-mb.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Hitrádio City  Milénium",
+      "s": "https://ice2.radia.cz/hitmi128.aac",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-city-milenium.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Jih – Cimbálka",
+      "s": "https://icecast6.play.cz/jihcimbalka128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-jih-cimbalka.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Fajn Radio Life",
+      "s": "https://ice.abradio.cz/fajnlife128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fajn-radio-life.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Evropa 2 - Movin",
+      "s": "https://ice.actve.net/web-e2-movin",
+      "l": "https://kuasark.com/files/stations-logos/evropa-2-movin.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Netro Life Radio",
+      "s": "https://icecast9.play.cz/netro-life-radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/netro-life-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Zoner Underground Network",
+      "s": "https://stream.zunradio.cz/zun3.mp3",
+      "l": "https://kuasark.com/files/stations-logos/zoner-underground-network.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "DAB Plus Top 40",
+      "s": "http://icecast6.play.cz/dabplus-top40.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dab-plus-top-40.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Evropa 2 - Hot",
+      "s": "https://ice.actve.net/web-e2-hot",
+      "l": "https://kuasark.com/files/stations-logos/evropa-2-hot.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Haná - SkyRock",
+      "s": "https://icecast8.play.cz/skyrock128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-hana-skyrock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Relaxace - Jedoucí Vlak",
+      "s": "https://ice6.abradio.cz/relax-train128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/relaxace-jedouci-vlak.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Radio Bohemia",
+      "s": "https://stream-radiobohemia.cz:8443/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-bohemia.png",
+      "g": [
+        "Other",
+        "News",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Merkur",
+      "s": "https://ice4.abradio.cz/merkur-casino128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-merkur.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "COOP TIP Radio",
+      "s": "https://ice4.abradio.cz/coop128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/coop-tip-radio.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Fajn Radio Agara",
+      "s": "https://ice.abradio.cz/fajnagara128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fajn-radio-agara.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "str8radio",
+      "s": "http://titan.shoutca.st:8176/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/str8radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "radio 7",
+      "s": "https://icecast8.play.cz/radio7-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-7-cz.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Fresh radio",
+      "s": "https://icecast.beatzone.cz/radio/8000/128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fresh-radio-cz.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Freedom Radio",
+      "s": "https://stream.radiofreedom.cz/airtime_128",
+      "l": "https://kuasark.com/files/stations-logos/freedom-radio-cz.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Fajn Radio Fresh",
+      "s": "https://ice.abradio.cz/fajnfresh128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fajn-radio-fresh.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Orlicko",
+      "s": "http://server.radioorlicko.cz/stream64.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-orlicko.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Undergroundradio",
+      "s": "http://icecast2.play.cz/Underground128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/undergroundradio.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Kromeríz",
+      "s": "http://icecast6.play.cz/radio-kromeriz128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-kromeriz.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bikers Radio Doupě",
+      "s": "http://icecast7.play.cz/bikersradiodoupe128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/bikers-radio-doupe.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Relaxace - Letní bourka",
+      "s": "https://ice6.abradio.cz/relax-thunder-rain128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/relaxace-letni-bourka.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Rádio Expert",
+      "s": "http://mp3stream3.abradio.cz/expert-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-expert-cz.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fajn Radio Hity",
+      "s": "https://ice.abradio.cz/fajnhity128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fajn-radio-hity.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Jihlava",
+      "s": "https://icecast3.play.cz/radiojihlava128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-jihlava.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio Pelhřimov",
+      "s": "https://quincy.torontocast.com:1715/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-pelhrimov.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Retro Club ",
+      "s": "https://westradio.cz/radio/8000/radio.mp3?1607941728",
+      "l": "https://kuasark.com/files/stations-logos/retro-club-.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rádio Cyp",
+      "s": "http://radio.radiocyp.cz:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-cyp.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "World Rádio",
+      "s": "https://worldradio100.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/world-radio-cz.png",
+      "g": [
+        "R&B and Urban",
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hitradio Oldies",
+      "s": "https://hitradiooldies.stream.laut.fm/hitradiooldies?t302=2023-09-19_12-39-04&uuid=03bdceb5-f6fe-4a73-9794-d16d87fd0288",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-oldies.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Fajn Party",
+      "s": "https://25583.live.streamtheworld.com:443/FAJN_RADIO.aac",
+      "l": "https://kuasark.com/files/stations-logos/fajn-party.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hlas Prahy",
+      "s": "http://sc.ipip.cz:8222/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/hlas-prahy.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "bassbase. fm",
+      "s": "https://bass-base.stream.laut.fm/bass-base?t302=2023-04-25_20-31-52&uuid=a091da69-e984-40f9-9f73-6b14a30f5bc9",
+      "l": "https://kuasark.com/files/stations-logos/bassbase-fm.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Tropic Vibes Radio",
+      "s": "https://tropicvibesradio.stream.laut.fm/tropicvibesradio?t302=2023-04-25_20-32-02&uuid=cc4bb466-0194-4157-a4ba-4213e8580ce4",
+      "l": "https://kuasark.com/files/stations-logos/tropic-vibes-radio.png",
+      "g": [
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Relaxace - More",
+      "s": "https://ice6.abradio.cz/relax-sea128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/relaxace-more.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "WebRádio Epigon",
+      "s": "https://ice3.abradio.cz/epigon128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/webradio-epigon.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Patriot",
+      "s": "http://s28.myradiostream.com:17086/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-patriot-cz.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nekonečný Šum",
+      "s": "https://evcast.mediacp.eu:1925/stream",
+      "l": "https://kuasark.com/files/stations-logos/nekonecny-sum.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Atma FM - Channel 1",
+      "s": "http://144.91.73.167:7778/channel1-128k",
+      "l": "https://kuasark.com/files/stations-logos/atma-fm-channel-1.png",
+      "g": [
+        "New Age",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio R",
+      "s": "http://radior.video.muni.cz:8000/FSS_mp3-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-r-cz.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Géčko",
+      "s": "https://listen.radioking.com/radio/389995/stream/441559",
+      "l": "https://kuasark.com/files/stations-logos/radio-gecko.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Applaus",
+      "s": "http://mp3stream3.abradio.cz:8000/applaus64.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-applaus.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Trojka",
+      "s": "http://12901.cloudrad.io:9306/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-trojka.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ostra Luka",
+      "s": "http://144.76.172.23:8001/stream",
+      "l": "https://kuasark.com/files/stations-logos/ostra-luka.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Benešov City",
+      "s": "https://ice6.abradio.cz/benesov128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-benesov-city.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Ponte Records",
+      "s": "https://ice3.abradio.cz/ponterec128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-ponte-records.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "FRED FILM RADIO",
+      "s": "https://s10.webradio-hosting.com/proxy/fredradiocz/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/fred-film-radio-46832.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Muflon",
+      "s": "https://stream-150.zeno.fm/k2t743bx1f9uv?zs=3AxFPwG1R96uCtVgBuViLw",
+      "l": "https://kuasark.com/files/stations-logos/radio-muflon.png",
+      "g": [
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Fajn Rock Music",
+      "s": "http://icecast1.play.cz/fajnrock128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-fajn-rock-music.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Alexandr",
+      "s": "https://stream-150.zeno.fm/6gdrswywm18uv?zs=VTHHljOtQqiirNvguDDGSg",
+      "l": "https://kuasark.com/files/stations-logos/radio-alexandr.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kostka Rádio",
+      "s": "https://ice6.abradio.cz/kostka128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kostka-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "České rádio pasov",
+      "s": "https://ceske-radio-pasov.stream.laut.fm/ceske-radio-pasov?t302=2023-04-25_20-24-48&uuid=54d51ca1-631e-42ce-9d62-0f157b69da4b",
+      "l": "https://kuasark.com/files/stations-logos/ceske-radio-pasov.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Tloskov",
+      "s": "https://ice3.abradio.cz/tloskov128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-tloskov.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dance Club ",
+      "s": "https://westradio.cz/radio/8020/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dance-club-.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Max Radio Online",
+      "s": "http://ice5.abradio.cz:8000/maxradio128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/max-radio-online.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Relaxace - Ohen v krbu",
+      "s": "https://ice6.abradio.cz/relax-fire128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/relaxace-ohen-v-krbu.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Flash Radio",
+      "s": "http://185.47.222.75:8750/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/flash-radio-cz.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "The Roses Radio",
+      "s": "https://stream-052.zeno.fm/qzka18vpkoztv?zs=pdvtAr3CTsukbIWg3OBztA",
+      "l": "https://kuasark.com/files/stations-logos/the-roses-radio.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Halloradio Hultschin",
+      "s": "http://live.halloradiohultschin.cz:8000/halloradio.mp3?type=mp3",
+      "l": "https://kuasark.com/files/stations-logos/halloradio-hultschin.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Atma FM - Channel 2",
+      "s": "http://144.91.73.167:7778/channel2-128k",
+      "l": "https://kuasark.com/files/stations-logos/atma-fm-channel-2.png",
+      "g": [
+        "New Age",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio CABLE",
+      "s": "http://89.221.210.76:7994/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-cable.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Vratislavice",
+      "s": "https://ice2.abradio.cz/vratislavice64.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-vratislavice.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Cherry80",
+      "s": "http://sc.ipip.cz:8062/;stream",
+      "l": "https://kuasark.com/files/stations-logos/cherry80.png",
+      "g": [
+        "Country",
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rock rádio – Alternative Rock",
+      "s": "https://ice2.radia.cz/znamkapunku128.aac",
+      "l": "https://kuasark.com/files/stations-logos/rock-radio-alternative-rock.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio VAMBI",
+      "s": "https://stream-150.zeno.fm/msns22zabxhvv?zs=GZxmSmcUQTq13OGTOdZevg",
+      "l": "https://kuasark.com/files/stations-logos/radio-vambi.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Exkluzive",
+      "s": "http://mpc1.mediacp.eu:8034/;type=mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-exkluzive.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio One",
+      "s": "http://87.236.196.34:8374/;stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-one-113669.png",
+      "g": [
+        "Folk",
+        "Rock",
+        "Pop",
+        "Electronic",
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio O 106",
+      "s": "https://listen.radioking.com/radio/442799/stream/497147",
+      "l": "https://kuasark.com/files/stations-logos/radio-o-106.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Kašpar",
+      "s": "https://ice6.abradio.cz/kasparlive128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-kaspar.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "hyperpop.fm",
+      "s": "https://hyperpop.stream.laut.fm/hyperpop?t302=2023-04-25_20-35-08&uuid=cec79d2c-19ec-4b06-8795-c403107289c8",
+      "l": "https://kuasark.com/files/stations-logos/hyperpopfm.png",
+      "g": [
+        "Rap",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nekonečný Šum - Pop Hits",
+      "s": "https://evcast.mediacp.eu:1155/stream",
+      "l": "https://kuasark.com/files/stations-logos/nekonecny-sum-pop-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nekonečný Šum - Hits",
+      "s": "https://evcast.mediacp.eu:1455/stream",
+      "l": "https://kuasark.com/files/stations-logos/nekonecny-sum-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fed's Trap Radio",
+      "s": "http://backend.fedstrapradio.com:8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/feds-trap-radio.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

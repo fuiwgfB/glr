@@ -1,0 +1,48 @@
+{
+  "stations": [
+    {
+      "t": "Guernsey Community Radio",
+      "s": "https://clare.shoutca.st/listen/guernsey_community_radio/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/guernsey-community-radio.png",
+      "g": [
+        "Easy Listening",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "GNetRadio",
+      "s": "https://s2.radio.co/s3508e02d2/listen",
+      "l": "https://kuasark.com/files/stations-logos/gnetradio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tzgospel ( Guernsey)",
+      "s": "https://stream-150.zeno.fm/51yfbm7u2ehvv?zs=x9Bo6cufR4igZcDL3JSMiQ",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-guernsey.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "QUAY-FM",
+      "s": "http://quayfm.ci-servers.gg:1071/live",
+      "l": "https://kuasark.com/files/stations-logos/quay-fm-gg.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "BBC Radio Guernsey",
+      "s": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_guernsey",
+      "l": "https://kuasark.com/files/stations-logos/bbc-radio-guernsey-gg-22740.png",
+      "g": [
+        "News"
+      ]
+    }
+  ]
+}

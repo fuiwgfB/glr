@@ -1,0 +1,312 @@
+{
+  "stations": [
+    {
+      "t": "LGB",
+      "s": "https://radiolgb.ice.infomaniak.ch/radiolgb-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423394/3e1310a85c42f5e9db3cbd821a9843d0_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RSL Radio",
+      "s": "https://rslradio.ice.infomaniak.ch/rslradio-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405348/e34o5a43b1c7cd84a793838634_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exo FM",
+      "s": "https://exofm.ice.infomaniak.ch/exofm-64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423402/245900f8296913e51f70e9c15564f9c2_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Kréol FM",
+      "s": "https://kreolfm.ice.infomaniak.ch/kreolfm-96.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423399/653d0b8ef1699f05a8654c7d2d6b9e76_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Frequence-tropicale",
+      "s": "https://radio6.pro-fhi.net/flux-dybyxuwk/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/425767/fa9bb2293df8d06eac5e9cf07eaf5ed0_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "RTL",
+      "s": "https://rtlreunion.ice.infomaniak.ch/rtlreunion-64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423403/e5a254320d3d35cae777da2c0b2505e5_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "TOP FM (ile de la Réunion)",
+      "s": "http://91.121.67.95:9070/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/418221/40cfc81e49269ef4f3d18dc68c90ad91_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRJ Réunion",
+      "s": "http://185.52.127.170/fr_re/55759/mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423398/c4a8599324b61a26ff18387afe08d18a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RER - Radio Est Réunion",
+      "s": "http://icepe1.infomaniak.ch:80/rerreunion-64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423395/8e348695ac5fb2c0086785b3e6a7b3f8_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Fun Radio",
+      "s": "https://stric6.streamakaci.com/funradio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405350/t3bm5a43b2b721546313261625_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Free Dom",
+      "s": "https://freedomice.streamakaci.com/freedom.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423397/862cca1244da14d2de20fe3da30fef1e_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "R.i.L FM",
+      "s": "http://91.121.29.128:8068/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423396/9c4f597a2ae04f1eff1a9de4aed0e331_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Capital FM Réunion",
+      "s": "https://capitalfmreunion.ice.infomaniak.ch/capitalfmreunion.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/23804/87b78669f25b6e2d7b12692cb4425c4e_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Chérie FM",
+      "s": "https://scdn.nrjaudio.fm/adwz1/fr_re/55731/mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423400/40d3e747ab9dc8b3a86d3485f7ba39f2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Réunion 1ère",
+      "s": "https://reunion.ice.infomaniak.ch/reunion-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405347/tsbj5a43b1072b948330725125_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Free Dom 2",
+      "s": "https://freedomice.streamakaci.com/freedom2.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/21024/b59182b03a734bad096c5ff9da303571_130x130.webp",
+      "g": [
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "OPTIMUM FM 974",
+      "s": "https://stream.zeno.fm/drcepsym8whvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427126/2b7879b6c23f16dd07d9a4bb1635e83a_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Trace FM",
+      "s": "https://n01-as.rcs.revma.com/wvx3tf5q54zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423393/c9d74e4b21b2b1762aa530bdd7fbbcf2_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Fréquence Sud Réunion",
+      "s": "http://ecmanager5.pro-fhi.net:2060/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429610/5306d647a4474de6c544c928021a7866_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Fréquence Oasis",
+      "s": "http://frequenceoasis.ice.infomaniak.ch/frequenceoasis-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429636/6bcdddc686648ec1a9fe910be026bc57_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Azot Radio",
+      "s": "https://azotradio1.ice.infomaniak.ch/azotradio1-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/azot-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hit FM Reunion",
+      "s": "https://hitfm.ice.infomaniak.ch/hitfm-192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-reunion.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Reunion Mix",
+      "s": "http://radio13.pro-fhi.net:9067/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-reunion-mix.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TOP FM (ile de la Réunion)",
+      "s": "https://radio6.pro-fhi.net/radio/9070/stream",
+      "l": "https://kuasark.com/files/stations-logos/top-fm-ile-de-la-reunion.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Des Makes",
+      "s": "https://ecmanager2.pro-fhi.net/radiodesmakes",
+      "l": "https://kuasark.com/files/stations-logos/radio-des-makes.png",
+      "g": [
+        "R&B and Urban",
+        "Decades"
+      ]
+    },
+    {
+      "t": "KIF Réunion",
+      "s": "https://radio10.pro-fhi.net/flux-xtpkbazl/stream?ver=571280",
+      "l": "https://kuasark.com/files/stations-logos/kif-reunion.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hits 1 Réunion",
+      "s": "https://radio7.pro-fhi.net/listen/xqahcorv/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hits-1-reunion.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tzgospel Swahili (Reunion)",
+      "s": "https://stream-149.zeno.fm/uk96v331nfhvv?zs=spLfJEZaQ8i_wM308rosqA",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-swahili-reunion.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Konect Radio",
+      "s": "https://listen.radioking.com/radio/129973/stream/169819",
+      "l": "https://kuasark.com/files/stations-logos/konect-radio.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Rap",
+        "Jazz",
+        "Reggae",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio MiAmigo",
+      "s": "http://129.122.92.10:88/broadwave.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-miamigo.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Cheriefm Réunion 974",
+      "s": "http://185.52.127.131/fr_re/55731/mp3_128.mp3?adws_out_a2&access_token=96a93e62a823483c839ae68e40951f1a",
+      "l": "https://kuasark.com/files/stations-logos/cheriefm-reunion-974.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RER Sport",
+      "s": "http://rerreunion.ice.infomaniak.ch/rerreunion-64.aac",
+      "l": "https://kuasark.com/files/stations-logos/rer-sport.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio NSS low",
+      "s": "http://aska.ru-hoster.com:8096/low",
+      "l": "https://kuasark.com/files/stations-logos/radio-nss-low.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Babouk",
+      "s": "https://listen.radioking.com/radio/244351/stream/288496",
+      "l": "https://kuasark.com/files/stations-logos/radio-babouk.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRJ Réunion 100,0 FM",
+      "s": "http://185.52.127.131/fr_re/55759/mp3_128.mp3?adws_out_a2&access_token=66270a015345492c9306edc37801270d",
+      "l": "https://kuasark.com/files/stations-logos/nrj-reunion-1000-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sunlight FM",
+      "s": "https://listen.radioking.com/radio/355933/stream/405250",
+      "l": "https://kuasark.com/files/stations-logos/sunlight-fm.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

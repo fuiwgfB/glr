@@ -1,0 +1,520 @@
+{
+  "stations": [
+    {
+      "t": "Zodiac Broadcasting Station",
+      "s": "https://ice31.securenetsystems.net/0079",
+      "l": "https://images.radiovolna.net/_files/images/stations/429496/74ea37ceaa6f03ea56c58e73b9d39c0a_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rhema Radio FM",
+      "s": "https://zeno.fm/radio/rhema-radio-fm-lkl8/",
+      "l": "https://images.radiovolna.net/_files/images/stations/431418/2f9742d9d3eb556ac59d585b9ede2e44_130x130.webp",
+      "g": [
+        "Pop",
+        "Country",
+        "Inspirational",
+        "R&B and Urban",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "MBC Radio 2",
+      "s": "http://154.66.125.13:86/broadwavehigh.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429495/1ba28b34ed37a52ae58bbd4f1e5512d5_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Islam",
+      "s": "http://178.obj.netromedia.net:8028/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429494/d6a5c6e06eddae90d1508a7c250cde88_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Alinafe",
+      "s": "https://play.streamafrica.net/alinafe",
+      "l": "https://images.radiovolna.net/_files/images/stations/429501/929645fdd17d5ed13e1d01f1137cc0c4_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Capital FM",
+      "s": "https://node.stream-africa.com:8443/CapitalFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/429503/7e3bf76dadf36b2d3eea47af3537c4ea_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "https://dreamsiteradiocp2.com/proxy/rmmalawi2?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429499/5604f5ec47959c14b0a6e7e7a263eadc_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Mzati FM",
+      "s": "https://play.streamafrica.net/mzati",
+      "l": "https://images.radiovolna.net/_files/images/stations/429493/9d100c3eddb3d95f09d120a0ec2ca1cd_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "MBC Radio 1",
+      "s": "http://154.66.125.13:88/broadwavehigh.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429498/c289291321fdc5bb868f646192211698_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Channel for All Nations Radio",
+      "s": "https://stream.zeno.fm/u2hg313v0nhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429502/da757386de1d408769be29874bd20be0_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Times Radio",
+      "s": "https://ice31.securenetsystems.net/TIMESFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/429500/577dcda18c8871b0ed3443939dd4cda8_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Angaliba FM",
+      "s": "https://play.streamafrica.net/angaliba",
+      "l": "https://images.radiovolna.net/_files/images/stations/429497/ae4c393befff41dd1a765acf450835d7_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Timveni Online",
+      "s": "https://stream-148.zeno.fm/vdvr182atsxvv?zs=T1pz6oZsSzGDAPi7L6zl5Q",
+      "l": "https://kuasark.com/files/stations-logos/timveni-online.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Story Club FM",
+      "s": "https://s3.joeycast.com:1640/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/story-club-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "TWR Malawi",
+      "s": "https://s3.joeycast.com:1700/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/twr-malawi.png",
+      "g": [
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Chisomo Radio Station",
+      "s": "https://s3.joeycast.com:1750/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/chisomo-radio-station.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Angaliba FM (AFM)",
+      "s": "https://stream-150.zeno.fm/rgjlx2jse1tvv?zs=qLHgwcmPQhCWIJVdJY46Zw",
+      "l": "https://kuasark.com/files/stations-logos/angaliba-fm-afm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "http://dreamsiteradiocp.com:8040/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-mw.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tzgospel Radio (Malawi)",
+      "s": "https://stream-153.zeno.fm/77d0z2c6schvv?zs=TCh3I8PqTw6QA9iqwcxRSg",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-radio-malawi.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Beyond FM Malawi",
+      "s": "https://s3.joeycast.com:1770/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/beyond-fm-malawi.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Umunthu FM",
+      "s": "https://s3.joeycast.com:1800/umunthu.mp3",
+      "l": "https://kuasark.com/files/stations-logos/umunthu-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mlimi Radio",
+      "s": "https://s3.joeycast.com:1660/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mlimi-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Mlatho Radio",
+      "s": "http://s33.myradiostream.com:15154/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mlatho-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "EI Radio",
+      "s": "https://s3.joeycast.com:1780/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ei-radio.png",
+      "g": [
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Tigabane",
+      "s": "https://s3.joeycast.com:1790/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-tigabane.png",
+      "g": [
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "MIJ FM Malawi Institute of Journalism",
+      "s": "https://stream-162.zeno.fm/k6q1xwxm4ehvv?zs=izQ1NZDJQDykLxv6I8qT4Q",
+      "l": "https://kuasark.com/files/stations-logos/mij-fm-malawi-institute-of-journalism.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kasupe Radio",
+      "s": "https://s3.joeycast.com:1620/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kasupe-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Mudziwathu Radio",
+      "s": "https://s3.joeycast.com:1710/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mudziwathu-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mzati Radio",
+      "s": "https://s3.joeycast.com:1760/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mzati-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Blantyre Synod Radio",
+      "s": "https://s3.joeycast.com:1610/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/blantyre-synod-radio.png",
+      "g": [
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Voice of Livingstonia (VoL)",
+      "s": "https://s3.joeycast.com:1690/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/voice-of-livingstonia-vol.png",
+      "g": [
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kuwala FM",
+      "s": "https://s3.joeycast.com:1670/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kuwala-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Bembeke FM",
+      "s": "https://s3.joeycast.com:1730/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-bembeke-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mibawa FM",
+      "s": "https://stream-152.zeno.fm/oqsnwusrmuyvv?zs=Bk0Rnh3qTw2ovfsOjDP6vw",
+      "l": "https://kuasark.com/files/stations-logos/mibawa-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Alinafe Archdiocese Of Lilongwe",
+      "s": "https://s3.joeycast.com:1650/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-alinafe-archdiocese-of-lilongwe.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "PLFM Radio",
+      "s": "https://s3.joeycast.com:1400/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/plfm-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Linga FM",
+      "s": "http://r109.netradio.pro:2000/main",
+      "l": "https://kuasark.com/files/stations-logos/linga-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Police Fm",
+      "s": "http://c20.radioboss.fm:8493/stream",
+      "l": "https://kuasark.com/files/stations-logos/police-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kokoliliko FM",
+      "s": "https://s3.joeycast.com:1370/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kokoliliko-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Eagle FM",
+      "s": "https://eagle1.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/eagle-fm-mw.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Tuntufye Radio Fm",
+      "s": "https://stream-152.zeno.fm/3t1zqqftz1zuv?zs=_u0NQ5vdQv-5u-O9Sm2fZQ",
+      "l": "https://kuasark.com/files/stations-logos/tuntufye-radio-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Khutcha Online Radio",
+      "s": "https://stream-152.zeno.fm/gk73zefscuhvv?zs=44SchUHNTsG3FE_s15s6Pg",
+      "l": "https://kuasark.com/files/stations-logos/khutcha-online-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Dzimwe Community Radio",
+      "s": "https://ifastekpanel.com:1965/stream",
+      "l": "https://kuasark.com/files/stations-logos/dzimwe-community-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mlatho Hot Hits",
+      "s": "http://5.135.191.40:8000/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/mlatho-hot-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dj's on Mlatho Radio",
+      "s": "https://streams.radio.co/sd1bcd1376/listen",
+      "l": "https://kuasark.com/files/stations-logos/djs-on-mlatho-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Calvary Family Radio",
+      "s": "http://opportunity.shoutca.st:8106/stream",
+      "l": "https://kuasark.com/files/stations-logos/calvary-family-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Hosanna FM",
+      "s": "https://s3.joeycast.com:1630/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hosanna-fm.png",
+      "g": [
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "CAN Radio Malawi",
+      "s": "http://us1freenew.listen2myradio.com:38460/;",
+      "l": "https://kuasark.com/files/stations-logos/can-radio-malawi.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "classic fm",
+      "s": "https://stream-151.zeno.fm/yqnv3hdsjdhvv?zs=biJd4TdUQ7mwA271tWIzkQ",
+      "l": "https://kuasark.com/files/stations-logos/classic-fm-127142.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "LWC radio",
+      "s": "https://lwcfm.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/lwc-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Malawi Voices",
+      "s": "https://stream-148.zeno.fm/o4ycgg6wgrfvv?zs=zF-oMd45S4SpsgSFiZ4U6w",
+      "l": "https://kuasark.com/files/stations-logos/malawi-voices.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "EBS Radio",
+      "s": "http://c14.radioboss.fm:8285/stream",
+      "l": "https://kuasark.com/files/stations-logos/ebs-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Hope Education Radio",
+      "s": "https://s3.joeycast.com:1600/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hope-education-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mdubs Entertainment",
+      "s": "https://stream-150.zeno.fm/ogxfqt7gumguv?zs=zK2GUV79RVCV-WwYuMYv9A",
+      "l": "https://kuasark.com/files/stations-logos/mdubs-entertainment.png",
+      "g": [
+        "Inspirational",
+        "Rap",
+        "Reggae",
+        "Other",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Nyungwe FM",
+      "s": "https://s3.joeycast.com:1440/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nyungwe-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Nthambi online radio",
+      "s": "https://stream-151.zeno.fm/mfasmqbaxehtv?zs=DCjhUztER-6DnJpku6TQ0g",
+      "l": "https://kuasark.com/files/stations-logos/nthambi-online-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "LUSO LIWALE",
+      "s": "http://stream-068.zeno.fm/b2zgf5fd6ehvv?zs=qN1P3GNtTmKe9PfPDWRJoA",
+      "l": "https://kuasark.com/files/stations-logos/luso-liwale.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "stations": [
+    {
+      "t": "МЕФФ",
+      "s": "http://s32.myradiostream.com:16040/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422943/40d435442d541b802e01e178ba97e5dd_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "STIL MKD NARODNA",
+      "s": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/3/",
+      "l": "https://images.radiovolna.net/_files/images/stations/426588/6370e2e884ad19888c31a68e30ea4c9d_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "STIL EX YU POP",
+      "s": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/2/",
+      "l": "https://images.radiovolna.net/_files/images/stations/426589/a630047f47aed05a954771c9536bc99b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Star Radio",
+      "s": "https://eu10.fastcast4u.com/staronline",
+      "l": "https://images.radiovolna.net/_files/images/stations/20698/c8091ed441c7104f7deb9ebc285ae588_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Vmro Makedonija",
+      "s": "https://radio.shoutcast.mk:7011/slusaj.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429741/b8dc22543cae0b06b054d56a2634fac2_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "ZONA M1",
+      "s": "http://89.205.86.241:8000/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/401698/kmr459a84c8b0ca7e014590501_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "STIL RADIO",
+      "s": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/426587/ee924698da0afc292ead3bf692d43eac_130x130.webp",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Спортско Радио",
+      "s": "https://stream.zemi.mk:8080/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/401691/kbet59a847dab10b1002148169_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "STIL EX YU TRAP",
+      "s": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/4/",
+      "l": "https://images.radiovolna.net/_files/images/stations/426590/a8efcf26b906da4cc02b0207100c2ebd_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Sky Radio",
+      "s": "https://s1.skyradio.com.mk/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/4206/kel359a84ba566078796934486_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Wave Smooth Jazz",
+      "s": "http://ams-2.1radio.mk/1radio_smoothjazz_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/415536/nkkm5c0d7c0204a9e821673085_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Радио Лидер",
+      "s": "https://liderfm.ipradio.mk/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/4203/1def5dda8bf969bb95a20506f85a5ccc_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Kanal 103",
+      "s": "http://radiostream.neotel.mk/kanal103",
+      "l": "https://images.radiovolna.net/_files/images/stations/4208/v0n159a84b7920d18393336445_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Fortuna",
+      "s": "https://radiofortuna.ipradio.mk/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401694/z4x059a84a1b7b169264250482_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Metropolis Radio Network",
+      "s": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/401696/d8u559a84b3bc04f1966696348_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Super Radio",
+      "s": "https://stream.zeno.fm/muzq097d2c9uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422946/c596d4a110ddadda75c79eef62ada806_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Холидеј",
+      "s": "https://stream.zeno.fm/3mdkkf9hgg0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422944/23a77c1e5c1c04ad477b15dc71f8a9cf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "GORA RADIO",
+      "s": "https://stilradio.com/stream/goraradio.php",
+      "l": "https://images.radiovolna.net/_files/images/stations/431077/1ef4bd17651f46e32c615661d429d389_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "STIL BALKAN",
+      "s": "https://stilradio.com/stream/stilbalkan.php",
+      "l": "https://images.radiovolna.net/_files/images/stations/431076/ab71a6f33b050742c0c0bc0e6bf1a8a0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Комета",
+      "s": "http://78.129.193.82:11482/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422949/e7143fa63324c7612e9d6906fb16a383_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Urban FM",
+      "s": "https://streamingv2.shoutcast.com/urban-fm-908-skopje",
+      "l": "https://images.radiovolna.net/_files/images/stations/422941/43b8d6419e8cb016a643d7e3ac0575b8_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "stations": [
+    {
+      "t": "Letio Tonga",
+      "s": "https://stream-021.zeno.fm/z6qsbhs48a0uv?zs=xak-yBroQDSDd2h5_N2RLA",
+      "l": "https://kuasark.com/files/stations-logos/letio-tonga.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Tonga",
+      "s": "https://stream-057.zeno.fm/ynh3ncdrqy5tv?zs=B2fRcpRTTFWnHQc0kKc61w",
+      "l": "https://kuasark.com/files/stations-logos/radio-tonga.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tzgospel Radio (Tonga)",
+      "s": "https://stream-151.zeno.fm/0e1xr3cnffhvv?zs=ACJnXSs2RHOfL_UOctY8sA",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-radio-tonga.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Station Beta",
+      "s": "https://stream-151.zeno.fm/pwvztgpogh1vv?zs=JnmSxcF2Sm-YpVdYipEHkQ",
+      "l": "https://kuasark.com/files/stations-logos/station-beta-124873.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Tonga 101.7 Nuku'alofa",
+      "s": "http://tbcletio.serverroom.us:8142/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-tonga-1017-nukualofa.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Tama-Ohi FM87.7 (Tonga)",
+      "s": "http://stream-154.zeno.fm/y4xnq17q068uv?zs=TKP6F0FMSdC9IbQtEaZTQQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-tama-ohi-fm877-tonga.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    }
+  ]
+}

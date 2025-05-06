@@ -1,0 +1,996 @@
+{
+  "stations": [
+    {
+      "t": "Rock FM (Paphos)",
+      "s": "http://live3.istoikona.net:8278/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422714/98e79e19c93ea03fdf19f86dec327a14_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "ΡΙΚ Classic",
+      "s": "https://r1.cloudskep.com/cybcr/cybc4/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/422678/88c46388830d599f3b1fc6a10ad8cd5a_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "http://eco.onestreaming.com:8127/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26359/e37bf6764d564c0faf3a963cfc26f9f4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "All Time 70s 80s Greatest",
+      "s": "http://5.189.142.165:8032/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/9355/pw9b59529bed81023314103641_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Vatan",
+      "s": "http://95.0.173.195:9002/vatan",
+      "l": "https://images.radiovolna.net/_files/images/stations/401348/psqo59a16cbb1bfd0421844825_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Dromos FM",
+      "s": "https://dromoscyprus.live24.gr/dromoscyprus",
+      "l": "https://images.radiovolna.net/_files/images/stations/422694/7d141ca43164c8ffa6c0c997d5afc50e_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Rock FM",
+      "s": "http://cdn.istoikona.com/RockFm/limassol/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/422707/5311ba62033b5c2fdc8733cd70281aed_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Σπορ FM",
+      "s": "https://eradio.networksolutions.com.cy:1943/SportFM/SportFM.stream/chunklist_w800411694.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428334/578b0e8bcd2f3ba552039291ef89ac10_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "ΡΙΚ Τρίτο Πρόγραμμα",
+      "s": "https://r1.cloudskep.com/cybcr/cybc3/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/422683/8315f03d4127504e124dc5bed112cc79_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Play FM",
+      "s": "http://live.playfm.com.tr:9050/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/7429/xla45991a61d2936c728172634_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Super Sport FM",
+      "s": "https://sportfm-cyprus.live24.gr/sportfm-cyprus",
+      "l": "https://images.radiovolna.net/_files/images/stations/401367/bth759a17b233889c040651232_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Star FM",
+      "s": "http://s6.myradiostream.com:11056/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/8916/p6k25a2c23cadd7d8963841643_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ράδιο Άγ. Δημήτριος",
+      "s": "http://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/428333/672006902711b4f6a0eb86ba3dbaf473_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "OLA FM",
+      "s": "http://live3.istoikona.com:8164/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422712/dce901427c82929cb6dde824b19c8b8c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Русское Радио",
+      "s": "https://n03.radiojar.com/wy42n4wvdf9uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/401800/7516c69efafa1b2eec9e78cb6e99da02_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ΡΙΚ Πρώτο Πρόγραμμα",
+      "s": "https://r1.cloudskep.com/cybcr/cybc1/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/422681/7d8a8ffaf2c2f17d2a5e91984ce2b8f5_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Diesi / Δίεση 101,1",
+      "s": "https://r1.cloudskep.com/radio/diesi/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/422695/7d190bbe6a6b61b19b72ababf95ff68e_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Juke",
+      "s": "https://stream.netradyom.com/radio/9990/radio.mp3/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401353/ko9v59a17119c2509567685325_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Dance FM",
+      "s": "http://scserv.nrgplay.com/stream/1/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401358/6f48fc4cb8e9d59074a490367865de5e_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Habits Radio",
+      "s": "https://stream.veblot.net/proxy/habitsradio/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/431525/fd2cc08d351613507e30f840200371c3_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "NRJ",
+      "s": "http://broadcaster.iteam4media.com/ke923q0hhf9uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422691/d73728bf845e3af60bb46fcbc434fb53_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Πάφος",
+      "s": "http://live.iteam4media.com:1818/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422689/5c24734ddb9e139d5c62a9544b0ac27b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Active Radio",
+      "s": "http://eco.onestreaming.com:8175/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422698/3394cfb5d77d9ef752ee586682def936_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Love FM",
+      "s": "http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428335/d78f0cf98673a785b9b3b742e9616238_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cut-Radio",
+      "s": "https://stream.radiojar.com/cut-radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428340/4165394ba914460a9ad91e6906f1f3fd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRG TürkSlow",
+      "s": "https://scserv.nrgplay.com/stream/4/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422697/35b037d64d587cfd20912448945e5b67_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Disc FM",
+      "s": "http://yayin3.canlitv.com:4020/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422716/7bb8585f9e778cd9b5fec69867b0684e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Choice FM",
+      "s": "http://live3.istoikona.net:8364/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401371/srdu59a17dbe8c625502223342_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TBB",
+      "s": "http://79.98.108.170:8121/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/400718/1486122582_logoorange.png-220169_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Kıbrıs FM",
+      "s": "https://play.kibrisfm.com/hls/radio.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428337/a876b15e97f13c28b54d8fa6ee320f58_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "EF-EM / 99 FM",
+      "s": "https://live3.istoikona.net:9104/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422713/05bd3a992cd28e94971859627cc0b2a5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRG Lemar",
+      "s": "http://88.99.254.110/stream/10/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422705/b920bbbc5c19ce8a33aaacdfe4eb5908_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vatan Türkü",
+      "s": "http://95.0.173.195:9000/turku",
+      "l": "https://images.radiovolna.net/_files/images/stations/422696/529e699e26aac5c44a0f9a218b8bd799_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "LAMP Stream Radio",
+      "s": "http://lamp.stream/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405793/iati5af3f609d645e459140663_130x130.webp",
+      "g": [
+        "Electronic",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "NRG Michael Jackson",
+      "s": "http://88.99.254.110/stream/123/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422702/3d2fe48f63bda84942949f9e2cb97129_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRG Radio",
+      "s": "http://scserv.nrgplay.com/stream/4/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422692/4399884178963290ffee17acc17e6393_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radyo Havadis",
+      "s": "https://live.radyositesihazir.com/8012/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428338/86208e10feb42aaf6d89d8c0ba386066_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Greek Choice",
+      "s": "http://eco.onestreaming.com:8207/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422708/72d696be7ebb302bd39589b902c8a24c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kiss FM",
+      "s": "http://phileradio.com:8193/89FM",
+      "l": "https://images.radiovolna.net/_files/images/stations/401350/ccky59a16f78af069321052057_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRG Slow",
+      "s": "http://88.99.254.110/stream/3/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422699/76a090bcec19044710e605db06c15eb6_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "NRG Sezen Aksu",
+      "s": "http://88.99.254.110/stream/222/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422703/c934bfb91f3a366e1801a001bff0a84a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cool Radio",
+      "s": "http://cdn.istoikona.com/collradio/live/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/428339/e687fcd6cf68e183a9c1ddca6345a64a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Πρώτο / Proto",
+      "s": "https://live3.istoikona.net:18191/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401351/4647652c28e6f96f32bf20e725081719_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Vatan Nihavent",
+      "s": "http://95.0.173.195:9001/nihavent",
+      "l": "https://images.radiovolna.net/_files/images/stations/422693/6645b5b6da50278a62660484cf790257_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Bayrak Türk Müzigi",
+      "s": "http://sc.brtk.net:8010/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/30345/27be3eba746160e0ab5182a0efc02aca_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "NRG Türk",
+      "s": "https://scserv.nrgplay.com/stream/2/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422682/85306bc4fe8932fd27052f825c72e429_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Capital Türk",
+      "s": "https://radyo1.radyo-dinle.tc/8210/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422690/a0562f4e1a735627a2e79a1ee082aff3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Astra FM",
+      "s": "http://radio.dialogos.com.cy:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401368/ys0x59a17bcff1cf9874032129_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Bayrak International",
+      "s": "http://sc.brtk.net:8004/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/30362/a838d73cd88ff6e5b8119860d1675d24_130x130.webp",
+      "g": [
+        "International",
+        "News"
+      ]
+    },
+    {
+      "t": "IM Lemesou / ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΛΕΜΕΣΟΥ",
+      "s": "http://194.154.128.242:9090/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422710/2db90471057a71919cce2c4fbf1971f0_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Capital Radio",
+      "s": "https://live.webhosting4u.gr/capitalradiocy",
+      "l": "https://images.radiovolna.net/_files/images/stations/428336/85c5e96dccdf4faa85fe03f358bed788_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mayis",
+      "s": "http://108.163.223.242:8247/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401360/vrdq59a1754570776802274419_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Bayrak Klasik",
+      "s": "http://sc.brtk.net:8006/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/25065/7ede0f9cda6fb358e4b7cf2f76838eab_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "NRG Arabia",
+      "s": "http://88.99.254.110/stream/137/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422706/17060f226e097deced159c4126cfeda5_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Zenith FM",
+      "s": "https://live3.istoikona.net:9836/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401361/4c862e03e48e3e758d7889d5b690d868_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Κανάλι 7",
+      "s": "http://live.kanali7.com:4012/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422687/48c4cee05cfb6bc9890a3113d4bf7fe5_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bayrak FM",
+      "s": "http://sc.brtk.net:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/26971/7d5552bdd588f4f4c1fc1ee3e477f434_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "UCY Voice",
+      "s": "http://108.163.223.242:8340/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401357/zl2359a17439e0737819635318_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Πολίτης 107.6 FM",
+      "s": "http://live3.istoikona.com:8199/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422686/c877a8cca9a8adb95fabe52046ceb57c_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bayrak Radyosu",
+      "s": "http://sc.brtk.net:8002/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27408/9325ecc098561be27d0f1afdd7dd647c_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Bayrak Radyo Haber",
+      "s": "http://sc.brtk.net:8008/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/31094/7fbe34a9b6263a21d47199cadaf7ba15_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sim Radyo",
+      "s": "http://88.255.211.12:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422688/c0c85493f691ffe117c6d780e5fe18c2_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Cosmos",
+      "s": "http://server.webradioserver.gr:9249/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422715/e4d3a8200ef6495ffd99897a6768e750_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sfera",
+      "s": "http://phileradio.com:8193/sfera",
+      "l": "https://images.radiovolna.net/_files/images/stations/401362/qpxl59a176a3e492f561043651_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Super FM",
+      "s": "http://eco.onestreaming.com:8175/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401359/gq4m59a174f9b8758307921309_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ant1 Radio",
+      "s": "https://r1.cloudskep.com/radio2/ant1fm/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/ant1-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Zenith",
+      "s": "http://live3.istoikona.net:8023/;audio.mp3?hash=1465047625436",
+      "l": "https://kuasark.com/files/stations-logos/zenith-cy.png",
+      "g": [
+        "Inspirational",
+        "Pop",
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radio Sfera",
+      "s": "https://netradio.live24.gr/sfera4132",
+      "l": "https://kuasark.com/files/stations-logos/radio-sfera-cy.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Mix Greek",
+      "s": "http://eco.onestreaming.com:8644/;",
+      "l": "https://kuasark.com/files/stations-logos/mix-greek.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "KISS",
+      "s": "https://securestreams3.autopo.st:1417/89FM",
+      "l": "https://kuasark.com/files/stations-logos/kiss.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "BFBS Cyprus",
+      "s": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac",
+      "l": "https://kuasark.com/files/stations-logos/bfbs-cyprus.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Klik FM",
+      "s": "http://eco.onestreaming.com:8310/;",
+      "l": "https://kuasark.com/files/stations-logos/klik-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "RockFM 89.2",
+      "s": "https://cdn.istoikona.com/RockFm/limassol/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/rockfm-892.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Super Sport FM",
+      "s": "https://r1.cloudskep.com/radio3/supersportfm/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/super-sport-fm.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Studio64",
+      "s": "https://whsh4u-clients.com/proxy/gdmewnaz?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/studio64.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Choice FM",
+      "s": "https://live3.istoikona.net:18364/stream",
+      "l": "https://kuasark.com/files/stations-logos/choice-fm-cy.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kanali 6",
+      "s": "http://live3.istoikona.net:8372/stream/2/Title1=Kanali",
+      "l": "https://kuasark.com/files/stations-logos/kanali-6.png",
+      "g": [
+        "Classical",
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Super Rad 104.8",
+      "s": "https://live3.istoikona.net:18826/stream",
+      "l": "https://kuasark.com/files/stations-logos/super-rad-1048.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Πολίτης",
+      "s": "https://cdn.istoikona.com/politis/live/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/radio-polites.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bayrak International",
+      "s": "http://sc.brtk.net:8004/;",
+      "l": "https://kuasark.com/files/stations-logos/bayrak-international.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "CyprusFunkStation",
+      "s": "http://philae.shoutca.st:8201/stream",
+      "l": "https://kuasark.com/files/stations-logos/cyprusfunkstation.png",
+      "g": [
+        "R&B and Urban",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Capital Radio",
+      "s": "https://radyo1.radyo-dinle.tc/8256/stream",
+      "l": "https://kuasark.com/files/stations-logos/capital-radio-cy.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "artFM Radio",
+      "s": "https://cast.artfmradio.com/radio/8000/radio.mp3?1579455658",
+      "l": "https://kuasark.com/files/stations-logos/artfm-radio.png",
+      "g": [
+        "Easy Listening",
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bayrak Radyosu",
+      "s": "http://sc.brtk.net:8002/;*.mp3",
+      "l": "https://kuasark.com/files/stations-logos/bayrak-radyosu.png",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Melody Radio",
+      "s": "https://melodyradio1031.com/?page_id=382",
+      "l": "https://kuasark.com/files/stations-logos/melody-radio.png",
+      "g": [
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRG Türk",
+      "s": "https://live.nrgplay.com/stream/2/;",
+      "l": "https://kuasark.com/files/stations-logos/nrg-turk-cy.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Njoy 99.5",
+      "s": "http://shout.kalsedia.com:9950/njoy9950_128",
+      "l": "https://kuasark.com/files/stations-logos/njoy-995.png",
+      "g": [
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Work From Home radio",
+      "s": "http://cristim84.radi0.im:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/work-from-home-radio.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRG Türkçe Rap",
+      "s": "https://live.nrgplay.com/stream/turkcerap",
+      "l": "https://kuasark.com/files/stations-logos/nrg-turkce-rap.png",
+      "g": [
+        "Rap",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Ράδιο Ναυάγιο",
+      "s": "https://cast.loiz.org/radio/8000/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-nauagio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Butterfly Radio Cyprus",
+      "s": "https://stream-058.zeno.fm/5a5phs9qkkhvv?zs=lqrzeoaYQ0S1dV_sUwKFRA",
+      "l": "https://kuasark.com/files/stations-logos/butterfly-radio-cyprus.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Music Moments",
+      "s": "https://andreas.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/music-moments.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "ΔΕΥΤΕΡΟ LIVE",
+      "s": "https://r1.cloudskep.com/cybcr/cybc2/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/deutero-live.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bayrak Klasik",
+      "s": "http://sc.brtk.net:8006/;",
+      "l": "https://kuasark.com/files/stations-logos/bayrak-klasik.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Kibris FM",
+      "s": "https://play.kibrisfm.com/stream2/hls/stream.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/kibris-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Extacy Radio Κύπρου",
+      "s": "https://i8.streams.ovh:18079/stream",
+      "l": "https://kuasark.com/files/stations-logos/extacy-radio-kyprou.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "CCN Cyprus Chinese Radio",
+      "s": "https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/ccn-cyprus-chinese-radio.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Active Radio",
+      "s": "https://securestreams3.autopo.st:1417/active",
+      "l": "https://kuasark.com/files/stations-logos/active-radio-cy.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RadioSama",
+      "s": "https://radio.radiosama.org/sama_64",
+      "l": "https://kuasark.com/files/stations-logos/radiosama.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Guaba Radio",
+      "s": "https://eco.onestreaming.com/proxy/guaba/stream",
+      "l": "https://kuasark.com/files/stations-logos/guaba-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Habibi FM",
+      "s": "https://stream-163.zeno.fm/3mpx1mjmusctv?zs=C4ulSxHUS1esqX1O6_QjPw",
+      "l": "https://kuasark.com/files/stations-logos/habibi-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Super Club Radio",
+      "s": "https://mpc2.mediacp.eu:8320/stream",
+      "l": "https://kuasark.com/files/stations-logos/super-club-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Butterfy Radio Greek",
+      "s": "https://stream-068.zeno.fm/qq324f8k3uhvv?zs=2-NF3woMTQqyiNdTQ0W4TQ",
+      "l": "https://kuasark.com/files/stations-logos/butterfy-radio-greek.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bayrak Radyo Haber",
+      "s": "http://sc.brtk.net:8008/;",
+      "l": "https://kuasark.com/files/stations-logos/bayrak-radyo-haber.png",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radyo Juke",
+      "s": "http://yayin.netradyom.com:9990/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radyo-juke.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kanali6 (106.00 | 98.6 | 107.00 | 106.9) Lemesos Cyprus",
+      "s": "http://31.193.142.7:8012/stream",
+      "l": "https://kuasark.com/files/stations-logos/kanali6-10600-986-10700-1069-lemesos-cyprus.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Sport FM Cyprus",
+      "s": "http://sportfm-cyprus.live24.gr/sportfm-cyprus",
+      "l": "https://kuasark.com/files/stations-logos/sport-fm-cyprus.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Cosmos Radio 95,2 FM",
+      "s": "http://62.138.0.228:8130/;",
+      "l": "https://kuasark.com/files/stations-logos/cosmos-radio-952-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Ράδιο Άγιος Δημήτριος Ακροπόλεως - Κύπρος 93.3",
+      "s": "http://eco.onestreaming.com:8474/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-agios-demetrios-akropoleos-kypros-933.png",
+      "g": [
+        "Themes",
+        "Electronic",
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "PIK Sat TV",
+      "s": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/pik-sat-tv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "ZENITH FM",
+      "s": "http://eco.onestreaming.com:8023/;",
+      "l": "https://kuasark.com/files/stations-logos/zenith-fm-cy.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Σπορ FM 95.0",
+      "s": "http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/spor-fm-950.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Zucca Radio",
+      "s": "http://95.217.120.122/;",
+      "l": "https://kuasark.com/files/stations-logos/zucca-radio-cy.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "CloudCY Rock",
+      "s": "http://radio.cloudcy.org:8000/rock",
+      "l": "https://kuasark.com/files/stations-logos/cloudcy-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "塞浦路斯CCN欧洲中国平台",
+      "s": "https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/sai-pu-lu-siccn-ou-zhou-zhong-guo-ping-tai.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "AlexWebRadio",
+      "s": "https://listen.radioking.com/radio/372691/stream/422836",
+      "l": "https://kuasark.com/files/stations-logos/alexwebradio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    }
+  ]
+}

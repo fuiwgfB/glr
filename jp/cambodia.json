@@ -1,0 +1,268 @@
+{
+  "stations": [
+    {
+      "t": "Daun Penh EFM",
+      "s": "http://36.37.219.226:9051/dpnefmpp",
+      "l": "https://images.radiovolna.net/_files/images/stations/27598/2735b7e4d85bd17e9ac536c5f8e4c328_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "វិទ្យុ Star FM",
+      "s": "http://b8570c03cae1.sn.mynetname.net:8888/stream/2/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422420/16821632990430cf63bb5706dec5d5eb_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "National Radio of Kampuchea",
+      "s": "http://119.82.252.6:8080/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426210/3029a69adf329c747aa645924a06ed31_130x130.webp",
+      "g": [
+        "Country",
+        "Latin",
+        "Folk",
+        "News",
+        "Talk",
+        "International"
+      ]
+    },
+    {
+      "t": "Solida 101.3",
+      "s": "https://stream.zeno.fm/smmpsq3aaveuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428529/d1846c4a80202c7ba7fbdd534b4027df_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Family FM / វិទ្យុគ្រួសារ FM",
+      "s": "http://s14.myradiostream.com:10064/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422426/40df9024f814f7166d539de85a2b9ae9_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "SWEET FM - SIEM REAB (Siem Reap)",
+      "s": "http://radio99.servradio.com:9308/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/426209/28131a646a3675a28d6eca9f36258856_130x130.webp",
+      "g": [
+        "Latin",
+        "Folk",
+        "News",
+        "Talk",
+        "International"
+      ]
+    },
+    {
+      "t": "Un Deth",
+      "s": "https://stream.zeno.fm/eaupch4z8reuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428528/a8a09a98e2c02f28ec68717bb424a373_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kang Meas FM",
+      "s": "http://b8570c03cae1.sn.mynetname.net:8888/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422421/90f4ec0ad46647ee2cda7a5cb6ec294b_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Sarika FM",
+      "s": "http://202.79.26.170:5000/province1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428531/3ecfde565d19c07235f94b87f844da92_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sweet FM",
+      "s": "http://radio99.servradio.com:9296/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422419/5717911aab0209032c796dec6992f783_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Green Wave FM",
+      "s": "https://stream.zeno.fm/mg9ypbpb7a0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428527/26e8a9c37d3277922c17bd796c362f95_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Lotus Radio / វិទ្យុផ្កាឈូក FM",
+      "s": "http://136.228.129.13:8008/lotusradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/422427/e9c5af4ef358a5a3362e71d55e4535cd_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "វិទ្យុមេត្តា",
+      "s": "https://stream.zeno.fm/5qvqfawf4reuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428525/e92c00cd43d84d77fb1a924cde61a444_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "NRG FM",
+      "s": "https://node-19.zeno.fm/x05fre6fmpeuv.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422422/eb347eb797e387b2bba9f9c3b7bff20e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "វិទ្យុសំឡេងជនពិការភ្នែក",
+      "s": "https://stream.zeno.fm/p76amh27vreuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428524/c3298e68e14a08c705588029b81253b9_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "RHM FM",
+      "s": "http://111.92.240.134:90/broadwavehigh.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422424/81ffa4b378db6e461771401b3ecdfa5e_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Love FM",
+      "s": "http://radio99.servradio.com:9298/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422425/bf1e48c8c87f29bae7706082f3e46161_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "វិទ្យុហ្វ្រេស ​ ភ្នំពេញ / Fresh FM",
+      "s": "https://stream.zenolive.com/d1rf8wqvfpeuv.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422418/40488ac596bb7ec7955e25aa2329a28c_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "វិទ្យុគល់ទទឹង",
+      "s": "https://stream.zeno.fm/dfgvx1untf9uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428526/d274e87bc28a497cfe59687bb3042b32_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "វិទ្យុ ជាតិកម្ពុជា",
+      "s": "http://119.82.252.6:8181/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428530/895ea06e9ad88caa76c3f79fe8be3a23_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Love FM 97.5",
+      "s": "http://radio99.servradio.com:9298/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-love-fm-975.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Samleng Khemara",
+      "s": "http://148.251.92.113:8570/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-samleng-khemara.png",
+      "g": [
+        "Other",
+        "News",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Love FM Phnom Penh",
+      "s": "http://radio99.servradio.com:9298/;;",
+      "l": "https://kuasark.com/files/stations-logos/love-fm-phnom-penh.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "VAYO FM 105.5",
+      "s": "http://50.21.176.38:8010/vayofm/;",
+      "l": "https://kuasark.com/files/stations-logos/vayo-fm-1055.png",
+      "g": [
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "VOY Radio FM",
+      "s": "https://www.voyfm.caster.fm/",
+      "l": "https://kuasark.com/files/stations-logos/voy-radio-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Apsara TV",
+      "s": "http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/apsara-tv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bayon News TV",
+      "s": "http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/bayon-news-tv.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Bayon TV",
+      "s": "http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/bayon-tv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Southeast Asia TV",
+      "s": "http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/southeast-asia-tv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "National Television of Kampuchea",
+      "s": "http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/national-television-of-kampuchea.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "TV 5",
+      "s": "http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tv-5.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

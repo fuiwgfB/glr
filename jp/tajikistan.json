@@ -1,0 +1,239 @@
+{
+  "stations": [
+    {
+      "t": "Диёр",
+      "s": "https://c16.radioboss.fm:18234/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/6041/c8ed593fd643ba383505107814_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kand FM | Конибодом",
+      "s": "https://myradio24.org/tamish",
+      "l": "https://images.radiovolna.net/_files/images/stations/420343/17dbf46bd49953bbf15cb19a506a02e9_130x130.webp",
+      "g": [
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Азия Плюс",
+      "s": "https://radio.migrantnews.info/ap",
+      "l": "https://images.radiovolna.net/_files/images/stations/6040/p36e59786723038a0192843340_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Ховар",
+      "s": "https://radio.khovar.tj/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/7495/swtw59d21adee9f34882685773_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Пайванд",
+      "s": "https://c6.radioboss.fm/stream/234",
+      "l": "https://images.radiovolna.net/_files/images/stations/427834/e1a9b592a6b7e923abf4297e0b8051b7_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "News",
+        "Talk",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Европа Плюс",
+      "s": "https://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/418126/79dd0ccfe244e66905296c65ccc8c1e4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Новое Радио",
+      "s": "https://icecast-newradio.cdnvideo.ru/newradio3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420262/85288fd0dc0c23e11d1b4e0d1000cbf6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радио Садои Хучанд",
+      "s": "https://misato.ru-hoster.com:8038/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430434/1747514908fc7698b2cc95ae14f4fcc7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радиои Тоҷикистон",
+      "s": "http://185.121.1.27:8000/tojikiston",
+      "l": "https://images.radiovolna.net/_files/images/stations/428437/abfc1bbc99ed03ca59f40d4394533ca5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радиои Садои Душанбе",
+      "s": "http://185.121.1.27:8000/sdushanbe",
+      "l": "https://images.radiovolna.net/_files/images/stations/428436/9228b544f4c0f5e96b2dc20bace00a77_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Радиои Фарҳанг",
+      "s": "http://185.121.1.27:8000/farhang",
+      "l": "https://images.radiovolna.net/_files/images/stations/428439/1cdc029ae95cb03c68523edcb4d677d1_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Авторадио",
+      "s": "https://c22.radioboss.fm/stream/347",
+      "l": "https://images.radiovolna.net/_files/images/stations/419126/e21e131c6d5cdd13e621ec107f784695_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Спутник",
+      "s": "https://icecast-ruvr.cdnvideo.ru/rian.voicerus",
+      "l": "https://images.radiovolna.net/_files/images/stations/420263/fb51f8f3e529c0035825d8340041c3f5_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ватан",
+      "s": "http://217.11.177.201:8000/sr128",
+      "l": "https://images.radiovolna.net/_files/images/stations/405470/qudo5a47770c0121e462076012_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Радиои Овози тоҷик",
+      "s": "http://185.121.1.27:8000/otojik",
+      "l": "https://images.radiovolna.net/_files/images/stations/428438/14b05a93f241789e859828abf18d106a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радио Тироз",
+      "s": "https://eu1.fastcast4u.com/proxy/khusrav/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-tiroz.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Sputnik Таджикистан",
+      "s": "https://icecast-rian.cdnvideo.ru/voicerus",
+      "l": "https://kuasark.com/files/stations-logos/radio-sputnik-tadzikistan.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радиои Садои Душанбе",
+      "s": "http://online.radiotoj.tj:8000/sdushanbe",
+      "l": "https://kuasark.com/files/stations-logos/radioi-sadoi-dusanbe.png",
+      "g": [
+        "Pop",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Новое Радио Таджикистан",
+      "s": "https://c13.radioboss.fm:8549/stream",
+      "l": "https://kuasark.com/files/stations-logos/novoe-radio-tadzikistan.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Азия Плюс",
+      "s": "http://62.122.137.82:8020/ap",
+      "l": "https://kuasark.com/files/stations-logos/radio-azia-plus.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Радиои Фарҳанг",
+      "s": "http://online.radiotoj.tj:8000/farhang",
+      "l": "https://kuasark.com/files/stations-logos/radioi-farang.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радиои Тоҷикистон",
+      "s": "http://online.radiotoj.tj:8000/tojikiston",
+      "l": "https://kuasark.com/files/stations-logos/radioi-toikiston.png",
+      "g": [
+        "Folk",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радиои Овози тоҷик",
+      "s": "http://online.radiotoj.tj:8000/otojik",
+      "l": "https://kuasark.com/files/stations-logos/radioi-ovozi-toik.png",
+      "g": [
+        "Folk",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Love Radio",
+      "s": "https://c22.radioboss.fm:18077/stream",
+      "l": "https://kuasark.com/files/stations-logos/love-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "TRT EAST",
+      "s": "https://radio-trtvoteast.live.trt.com.tr/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/trt-east.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kand FM",
+      "s": "https://listen7.myradio24.com/tamish",
+      "l": "https://kuasark.com/files/stations-logos/kand-fm.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    }
+  ]
+}

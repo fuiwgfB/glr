@@ -1,0 +1,96 @@
+{
+  "stations": [
+    {
+      "t": "Bahrain Quran",
+      "s": "https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428427/a9078bb4c37feafe3b5f4caa385e0d7d_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Bahrain 93.3",
+      "s": "https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428423/affdd0a94231e607872287ec674dba12_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Bahrain",
+      "s": "https://5c7b683162943.streamlock.net/live/ngrp:radio-96-5_all/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428425/3a316156fdbccdd17c2a63d216b1332c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bahrain 95 / الشعبية",
+      "s": "https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428424/74770994c0c102b0b9a74786cb82191e_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Bahrain 102.3",
+      "s": "https://5c7b683162943.streamlock.net/live/ngrp:radio-102-3_all/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428426/90f8fc3487689b5da4623be96a67f554_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio The Voice of Ummah",
+      "s": "https://mediati.me/radio/8010/radio.mp3?1608014536",
+      "l": "https://kuasark.com/files/stations-logos/radio-the-voice-of-ummah.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Manna",
+      "s": "https://studio18.radiolize.com/radio/8170/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-manna.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "BMC Radio",
+      "s": "https://eu8.fastcast4u.com/proxy/rjrejin?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/bmc-radio.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "BFBS Bahrain",
+      "s": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac",
+      "l": "https://kuasark.com/files/stations-logos/bfbs-bahrain.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "AFN 360 Bahrain",
+      "s": "http://20853.live.streamtheworld.com:80/AFNE_BHN_SC",
+      "l": "https://kuasark.com/files/stations-logos/afn-360-bahrain.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Manama onlayn",
+      "s": "https://stream1.svrdedicado.org/8370/stream",
+      "l": "https://kuasark.com/files/stations-logos/manama-onlayn.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "stations": [
+    {
+      "t": "Evropa 2",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/534/bai4595d2fa86b70d275859978_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Čas Rock Radio",
+      "s": "http://icecast7.play.cz/casrock128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401381/vkw559a1b732b4c01538194229_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rock Radio",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427935/e8c894edc5dcb80ef80c8a55f43705ce_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rebel Radio Brod",
+      "s": "http://radio.ipip.cz:7988/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2884/pdc8597481ef6e6ec759482203_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Metalomanie",
+      "s": "http://mp3stream4.abradio.cz:80/metalomanie128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2894/zp97597483259904c530744671_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rock Radio Sumava",
+      "s": "https://ice.abradio.cz/sumava128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/21961/06e41ec717b4798c3734a5a311304b9b_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "ČRo Dvojka",
+      "s": "http://icecast7.play.cz:8000/cro2-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2849/hzfs595b941981eca121696115_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RockZone",
+      "s": "http://icecast5.play.cz:8000/rockzone128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2885/dutf59a1b3e74c1b3752374185_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Hitrádio City",
+      "s": "http://ice.abradio.cz/cityfm128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2869/krm2596da9d3ecdfb101303677_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Evropa 2 Top 40",
+      "s": "https://ice.actve.net/web-e2-top40",
+      "l": "https://images.radiovolna.net/_files/images/stations/2856/maib595d301c195b1718511932_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Impuls",
+      "s": "http://icecast5.play.cz/impuls128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2881/bii959a1b0d84dc19709121232_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Český rozhlas Radiožurnál",
+      "s": "http://icecast8.play.cz/cro1-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2848/if6g595b93a163651347212850_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Černá Hora",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_CERNAHORA_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31400/1472222889_rdio-ern-hora_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Country Radio",
+      "s": "http://icecast4.play.cz/country128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31473/qkyi59a1aa4d32b24008735503_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Evropa 2 Movin",
+      "s": "https://ice.actve.net/web-e2-movin",
+      "l": "https://images.radiovolna.net/_files/images/stations/2855/t50c595d3012d6e43126397056_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Abradio Depeche Mode",
+      "s": "http://mp3stream4.abradio.cz:80/depeche128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2870/qezi5952c8b9973b8187374785_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hitrádio City Devadesátka",
+      "s": "https://ice.abradio.cz/city90128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2865/u4e1596da91347956112818561_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hitrádio Orion",
+      "s": "http://ice.abradio.cz:8000/orion128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401380/qw6559a1b6c9ac0f4031173103_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Evropa 2 - Československé hity",
+      "s": "https://ice.actve.net/web-e2-csweb",
+      "l": "https://images.radiovolna.net/_files/images/stations/417699/9e1d07c1f21b1c4529411a50a9c373aa_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Bonton",
+      "s": "https://ice.actve.net/fm-bonton-128",
+      "l": "https://images.radiovolna.net/_files/images/stations/401377/jyyr59a1b224c922b504402802_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dálnice",
+      "s": "https://icecast8.play.cz/radiodalnice.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423719/8da8104ef487ae484c6c4c55b46a72e7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hitradio Dragon",
+      "s": "https://ice.abradio.cz/dragon128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31796/sq225a2ac0c17ce87644074984_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Český rozhlas Plzeň",
+      "s": "https://rozhlas.stream/plzen_mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423730/b79519a5dbce5da4eb9d3d7703a6c678_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Haná SkyRock",
+      "s": "https://icecast8.play.cz/skyrock128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31106/c7wm5a2ac14576501890140201_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hitrádio City",
+      "s": "https://ice.abradio.cz/citybrno128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31319/ea9b1745342239c019e2f72b15e24c58_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hitradio Crystal",
+      "s": "https://ice.abradio.cz/hitradiofm128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2861/b8rb597470ec14d9b611386034_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "CRo Jazz",
+      "s": "http://icecast2.play.cz/crojazz32.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/25445/3e064bf452b16c1dd2f1ec7e1233ef64_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Free Radio",
+      "s": "http://icecast8.play.cz/freeradio128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31795/jqgm59a1ba54136d0981869589_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Český rozhlas Karlovy Vary",
+      "s": "https://rozhlas.stream/kv_mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427937/f068f35c58ab917a0b8651f2853cc62c_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sazava / HEY",
+      "s": "https://icecast3.play.cz/hey-radio128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31140/qm465a2ac314bf817605175192_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "ABradio.cz Jazzinec",
+      "s": "https://ice3.abradio.cz/jazzinec64.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/25255/db7f29ec1146f8d5235b926cc423e9d1_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Rádio Music CZ",
+      "s": "http://31.31.73.75:14276/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/431068/63ad6b65a86d026ab4364b6f37210a1f_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Český rozhlas Pohoda",
+      "s": "https://rozhlas.stream/pohoda_mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427944/18be0cb1920d5705cc2cb7c3cb67cc39_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Český rozhlas Hradec Králové",
+      "s": "https://rozhlas.stream/hk_mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31655/ld2o595b957f9fef3958968615_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Abradio Best of Rock",
+      "s": "http://mp3stream4.abradio.cz:80/bestofrock128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2871/gnvx5952c8c5444e5429611904_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Abradio Madonna",
+      "s": "http://mp3stream4.abradio.cz:80/madonna128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2877/dea85952c952d4c42078561390_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Domino",
+      "s": "http://mp3stream4.abradio.cz:80/domino128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2887/eznk5a2abd7dede77358442315_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Classic FM",
+      "s": "http://icecast8.play.cz/classic128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/24160/bad559a1b176be473523407034_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Abradio Dance",
+      "s": "http://mp3stream4.abradio.cz:80/dance128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2875/clw25952c93b98c8d065642485_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "SeeJay Radio",
+      "s": "http://mp3stream.abradio.cz:8000/seejay128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2886/qtr35979e213dcc9f341661342_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Rockova Zabava",
+      "s": "http://mp3stream4.abradio.cz:80/rockzabava128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2895/e1405a2abf944b0ac880180416_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Funkstar Radio - We Play It For You!",
+      "s": "https://funkstar.radioca.st/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430382/1a3d471dc4e3779cfda84ce915838905_130x130.webp",
+      "g": [
+        "Decades",
+        "R&B and Urban",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Český Impuls",
+      "s": "http://icecast6.play.cz/cesky-impuls.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401378/xj5q59a1b46d82f88609570171_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "ČRo Plus",
+      "s": "https://rozhlas4.stream/plus_high.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2853/dbq9595b950548484393743939_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Frekvence 1",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2858/j02e59a1aeee4db5b286783464_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Proglas",
+      "s": "http://icecast2.play.cz/proglas128",
+      "l": "https://images.radiovolna.net/_files/images/stations/31157/xlzm5a2ac18a3f0d1993628363_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радіо Україна - Rádio Ukrajina",
+      "s": "https://uk.radia.cz/uk128.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/427938/c9716aa2fccfa138bb8dcaec590bc308_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hitrádio City Zóna lásky",
+      "s": "http://ice.abradio.cz:8000/cityzl128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2867/jsbe596da8c92f927801486676_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ČRo Rádio DAB Praha",
+      "s": "https://rozhlas.stream/regina_mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427943/fb74f9a0d1aff5536de750a10983c71d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fresh Radio",
+      "s": "https://icecast.beatzone.cz/radio/8000/128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427947/3f250ca6ce21a887461180ff07e8ff71_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ROCK MAX",
+      "s": "http://212.111.2.151:8000/rockmax_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2893/iov55a2abe9078ad4219993838_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pigy Rádio",
+      "s": "https://ice.actve.net/web-pg-pohadky",
+      "l": "https://images.radiovolna.net/_files/images/stations/423721/dcc56067e79679e4efe00b49268c8079_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Abradio Humor",
+      "s": "http://mp3stream4.abradio.cz:80/humor128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2876/ntvz5952c949ef223792910841_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Český rozhlas Jazz",
+      "s": "https://rozhlas.stream/jazz_mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2852/drg9595b94ceae9a9355806911_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio 1",
+      "s": "http://icecast6.play.cz/radio1-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2862/vyc659a1ad14e606d584758241_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jihlava",
+      "s": "http://icecast3.play.cz/radiojihlava128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31139/s2wm5a2ac2285106e776611500_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Český rozhlas České Budějovice",
+      "s": "https://rozhlas.stream/cb_mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427942/93ca7695eb2751d765b121b79789056c_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Abradio Country",
+      "s": "http://mp3stream4.abradio.cz:80/country128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2874/v77m5952c92ba6fa1974299352_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Rádio 7",
+      "s": "https://icecast1.play.cz/radio7cz32.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427936/fc243875aca08498ec49bb042b78ac57_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hitrádio City Milénium",
+      "s": "http://ice.abradio.cz:8000/citymi128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2868/gvyh596da997c0201192950221_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jih",
+      "s": "http://icecast8.play.cz/jih64.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401385/sd4k59a1ba03462c7229090574_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Frekvence 1 Legendy",
+      "s": "https://ice.actve.net/web-f1-legendy",
+      "l": "https://images.radiovolna.net/_files/images/stations/2860/pao15a2ac008468d1444603200_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "ZUN rádio",
+      "s": "https://stream.zunradio.cz/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/427940/a30755c00b30768475f1345883740a59_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Znamka Punku",
+      "s": "http://mp3stream4.abradio.cz:80/znamkapunku128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2896/yv575974c0cf48006597515144_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Český rozhlas Brno",
+      "s": "https://rozhlas.stream/brno_mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427945/830fbd8cb4c847129059d91fffbd4b22_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Český rozhlas Liberec",
+      "s": "https://rozhlas.stream/liberec_mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423728/80d607153437515390b09991bfeef519_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Signál Rádio",
+      "s": "http://icecast1.play.cz/signal128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401376/gr4v59a1b02bcb032865190448_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Abradio Clubbeat",
+      "s": "http://mp3stream4.abradio.cz:80/clubbeat128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2873/z5jm5952c9232dc25090050749_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Samson",
+      "s": "http://icecast8.play.cz/samsonfm128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401387/l3nu59a1be252124a280180924_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Český rozhlas Sever",
+      "s": "https://rozhlas.stream/sever_mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31656/dyhx595b95cadb8a7350631380_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DAB Plus Top 40",
+      "s": "https://icecast6.play.cz/dabplus-top40.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423720/c899ae894dae5a7ad3c2282b80ca92c0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Zet",
+      "s": "https://ice.actve.net/fm-zet-aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/427934/51d67a0d57353f66b7e6972944153321_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Color Music Rádio",
+      "s": "https://icecast8.play.cz/color128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401374/y8o459a1ac8988bfc700002584_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Hitrádio FM Plus",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_FMPLUS_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427948/df1dd4fe1b0021f4c1352641699278c0_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Český rozhlas Region",
+      "s": "https://rozhlas.stream/region_mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423718/f994f9a02f6314a3a2cb5d75cd0f633c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Evropa 2 - Hot",
+      "s": "https://ice.actve.net/web-e2-hot",
+      "l": "https://images.radiovolna.net/_files/images/stations/417697/a41d5ba9167048bc2c83921ff6ad4cc7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Abradio Pohadka",
+      "s": "https://ice3.abradio.cz/pohadka128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2879/ggjr5952c96e06fc8717002176_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Expres FM",
+      "s": "http://icecast5.play.cz:8000/expres128mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2857/rjhg59a1aac7db917280558536_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Abradio Oldies Rock",
+      "s": "http://mp3stream4.abradio.cz:80/oldiesrock128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2878/dtff5952c963c32dc971000479_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Český rozhlas Radiožurnál Sport",
+      "s": "https://rozhlas3.stream/sport_aac_128.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/427941/f55cacf3398b0e98abb246cd8a11ced7_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Evropa 2 - Flashback",
+      "s": "https://ice.actve.net/web-e2-flashback",
+      "l": "https://images.radiovolna.net/_files/images/stations/417698/7d121899d658e0b2ea97f4bbfa97db0c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

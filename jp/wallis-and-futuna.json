@@ -1,0 +1,34 @@
+{
+  "stations": [
+    {
+      "t": "Wallis et Futuna 1ère",
+      "s": "https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/wallis-et-futuna-1ere.png",
+      "g": [
+        "Folk",
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tzgospel Swahili (Wallis)",
+      "s": "https://stream-151.zeno.fm/1vh9ypdnffhvv?zs=Js7Hl3zESgiXaJM_VJNdRQ",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-swahili-wallis.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Station Beta",
+      "s": "https://stream-151.zeno.fm/mww0az1i30muv?zs=1yqEGQB1RBCVIjDGFPx0FQ",
+      "l": "https://kuasark.com/files/stations-logos/station-beta-124862.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

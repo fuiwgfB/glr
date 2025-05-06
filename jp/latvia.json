@@ -1,0 +1,1140 @@
+{
+  "stations": [
+    {
+      "t": "Ретро FM",
+      "s": "https://live.retrofm.lv/retrofmlatvia",
+      "l": "https://images.radiovolna.net/_files/images/stations/5285/a81570817e7ce2c754a156b4eb6d1c6d_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "SWH Rock",
+      "s": "https://live.radioswh.lv:8443/rockmp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4163/pnbr5a26b8d211a76519506076_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "EHR Русские Хиты",
+      "s": "https://stream.ehrhiti.lv:8000/khr.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/455/ei4s594a8aec42534559140244_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Alise Plus",
+      "s": "http://fm2inet.aliseplus.lv:8000/",
+      "l": "https://images.radiovolna.net/_files/images/stations/501/btya5986b974369cc273245252_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "РОКС",
+      "s": "https://live.relaxfm.lv/06",
+      "l": "https://images.radiovolna.net/_files/images/stations/5304/e4ba31c160cd16fa050907d19992a265_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Top Radio",
+      "s": "http://195.13.200.164:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4168/yugx597a4b0a60a3a668536734_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "SWH +",
+      "s": "https://live.radioswh.lv:8443/plusmp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/1253/1486904281_1200x630bf.jpg-1200630_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "EHR / European Hit Radio",
+      "s": "https://stream2.superfm.lv:8000/ehr.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4152/1486904405_unnamed_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Schlager time",
+      "s": "http://159.148.27.137:8760/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9108/ts1o5a26b96f64583699098865_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rēzekne",
+      "s": "http://195.13.164.134:8000/source.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405766/s3205acc7acc2c682265840875_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Авторадио",
+      "s": "https://live.relaxfm.lv/03",
+      "l": "https://images.radiovolna.net/_files/images/stations/405764/d40a4138c02fe6576498cb698f8c32f1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Lounge FM",
+      "s": "https://radio.mixnews.lv/995",
+      "l": "https://images.radiovolna.net/_files/images/stations/1264/odgi5acc76f71e8a7523850494_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Latvijas Radio 4 Домская площадь",
+      "s": "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr4a.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/4160/1401027623_6460_290_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Skonto Plus",
+      "s": "https://stream.radioskontoplus.lv:8443/st128",
+      "l": "https://images.radiovolna.net/_files/images/stations/400807/1486911760_lrfr407m_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Skonto",
+      "s": "http://skonto.datucentrs.eu/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/473/ni505a26b8ad5bd60486257354_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Балтком",
+      "s": "https://radio.mixnews.lv/baltkom",
+      "l": "https://images.radiovolna.net/_files/images/stations/1203/lmj25a26b8febdf15244681251_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Flash Sound radio ( LV )",
+      "s": "https://myradio24.org/65462",
+      "l": "https://images.radiovolna.net/_files/images/stations/426971/39c40a511ef87557fd260f737d7523fd_130x130.webp",
+      "g": [
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "EHR Top 40",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_27.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422886/b28ec097ac6449f9920a5ff2a35c33e5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Latvijas Radio 2",
+      "s": "http://lr2mp1.latvijasradio.lv:8002/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4158/q9lu5976574deaf8e222922883_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Pik",
+      "s": "http://91.90.255.85:8000/01",
+      "l": "https://images.radiovolna.net/_files/images/stations/4151/ddpv595d44529808d049931365_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TEV",
+      "s": "http://stream.radiotev.lv:8002/radiov",
+      "l": "https://images.radiovolna.net/_files/images/stations/31689/011c246995f978e8ecfcf5e5bd9e0fd8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "EHR Alternative",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_37.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422891/cc8ef70e56138f699a10ef0df7894a27_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "SWH",
+      "s": "https://live.radioswh.lv:8443/swhmp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/1266/fu1k5971091fccf62382882938_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "OMH",
+      "s": "http://omh.sytes.net:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429980/8c0b744c34e5abea45e47edc07de75a3_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Latvijas Radio 6 Radio Naba",
+      "s": "http://nabamp0.latvijasradio.lv:8016/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4162/ff4514ef58f588b51f501a8b0642dc5b_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Energy - Hit Music Radio",
+      "s": "http://www.radioenergy.lv:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/400813/1486912932_1978830_1605856176313317_3067386781586042525_n_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "EHR Summer Hits",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_34.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422882/6d1588e2cfd4ee5090ee8e1ad55169fc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "AUDIFan",
+      "s": "http://radio.audifan.club:9000/listen128",
+      "l": "https://images.radiovolna.net/_files/images/stations/420525/55b8629f9bf3270716e0d0206b29ac57_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Themes",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Kurzemes",
+      "s": "http://kurzemesradio.lv:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/9105/e73a8acf0cff0be0e0cd5b0de5ddd080_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Latviešu Hiti",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_22.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422885/b9ec3ddcbc81b5c5bcea02da6ba43eab_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "DANCE WORLD RADIO",
+      "s": "http://37.187.90.196:8857/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/31743/4df1ab89e335f6e62c1a30c9cd703dbb_130x130.webp",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "EHR Dance",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_24.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422892/e23b25b90f686e452a791ecf11a58504_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Pieci - Hiti",
+      "s": "https://live.pieci.lv/live17-hq.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31673/c025586338e29f4b2cc8fcb33e01db0b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pieci - Atklājumi",
+      "s": "https://live.pieci.lv/live5-hq.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31634/6d1ff39657bbad00f770ce4bd6469cb2_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Pieci - Latvieši",
+      "s": "https://live.pieci.lv/live7-hq.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31768/fb2b1b21a80b02679dee5a5d91b25a02_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Latvijas Kristigais Radio",
+      "s": "http://shoutcast.lkr.lv:7007/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4156/v2gc597aecdfbc501936779445_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "EHR Urban",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_11.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422894/86ceafeebbea244de5c68efdf2e0ff21_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "EHR Rītam",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_36.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422888/9900df434b3a7f676d130736a024a0f3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SWH Spin",
+      "s": "http://80.232.162.149:8000/spin96mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420272/10fb7960b52a7780854fb97c897e9da0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Your City Radio",
+      "s": "https://c34.radioboss.fm:8234/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/431505/93eab2091575c4b754679ef80cd3a4ed_130x130.webp",
+      "g": [
+        "Jazz",
+        "R&B and Urban",
+        "Easy Listening",
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "https://radio.mixnews.lv/MixFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/1067/bdpt597a33ca398ec356153017_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Latgales Radio",
+      "s": "http://www.radiolg.lv:8000/128_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422897/e0c7c4e4f046c74c32954260bad9f44b_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "EHR Darbam",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_23.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422887/5c9ef4734948ac57529f8ef4b39800d5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "EHR Acoustic",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_26.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422890/8cefd3f33e6e9a5ae867a6f7b453ba46_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 9",
+      "s": "https://online.radio9.lv/",
+      "l": "https://images.radiovolna.net/_files/images/stations/428022/8d556c873d03a095a882f0e7f3ecbf7e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pieci - Rīti",
+      "s": "https://live.pieci.lv/live11-hq.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31632/7911666695c50e4ddbd5011789e5dd29_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Relax FM",
+      "s": "https://live.relaxfm.lv/01",
+      "l": "https://images.radiovolna.net/_files/images/stations/4154/857b21ae7dfeab70246b429a14d9a09a_130x130.webp",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Nordic Chillout Radio",
+      "s": "https://play.radioking.io/nordic-chillout-radio/736489",
+      "l": "https://images.radiovolna.net/_files/images/stations/431051/adc5a8a18c6c215565a2c1bd8497010f_130x130.webp",
+      "g": [
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "7",
+      "s": "http://stream.radio7.lv:8024/Radio7",
+      "l": "https://images.radiovolna.net/_files/images/stations/422896/265100595ae8c0d5ea59df6529ce59d2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "EHR Top 40 RU",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_33.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422880/e1a753dedbed526e99c8faf95b75df8f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TOPradio",
+      "s": "http://195.13.200.164:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/topradio-lv.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "XO FM",
+      "s": "https://live.xo.fm/xofm128",
+      "l": "https://kuasark.com/files/stations-logos/xo-fm.png",
+      "g": [
+        "Blues",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "European Hit Radio",
+      "s": "https://stream2.superfm.lv:8000/ehr.aac",
+      "l": "https://kuasark.com/files/stations-logos/european-hit-radio-lv.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Relax FM Latvija",
+      "s": "https://live.relaxfm.lv/02",
+      "l": "https://kuasark.com/files/stations-logos/relax-fm-latvija.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Skonto",
+      "s": "http://stream.radioskonto.lv:8002/stereo",
+      "l": "https://kuasark.com/files/stations-logos/radio-skonto.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Latvijas Radio - LR2",
+      "s": "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr2a.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/latvijas-radio-lr2.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Energy - Russian Radio",
+      "s": "http://radioenergy.lv:9000/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-energy-russian-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Latvijas Radio - LR1",
+      "s": "https://60766ff53d5e6.streamlock.net/liveALR1/mp4:LR1/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/latvijas-radio-lr1.png",
+      "g": [
+        "Folk",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Xradio",
+      "s": "http://185.8.60.5:8000/mp3",
+      "l": "https://kuasark.com/files/stations-logos/xradio-lv.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Яхт Радио - Театр",
+      "s": "https://yacht-radio.lv:8245/stream",
+      "l": "https://kuasark.com/files/stations-logos/aht-radio-teatr.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Latvijas Radio - LR3",
+      "s": "https://60766ff53d5e6.streamlock.net/liveALR3/mp4:klasika/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/latvijas-radio-lr3.png",
+      "g": [
+        "Classical",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Latvijas Radio - LR6 Naba",
+      "s": "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:naba.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/latvijas-radio-lr6-naba.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Jazz",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Latvijas Radio - LR5",
+      "s": "https://5a44e5b800a41.streamlock.net/pieci/mp4:k2/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/latvijas-radio-lr5.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "EHR - Remixes RU",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_35.aac",
+      "l": "https://kuasark.com/files/stations-logos/ehr-remixes-ru.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "New Dance Radio",
+      "s": "https://stream.newdanceradio.ru/",
+      "l": "https://kuasark.com/files/stations-logos/new-dance-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Яхт Радио",
+      "s": "https://yacht-radio.lv:8025/radio",
+      "l": "https://kuasark.com/files/stations-logos/aht-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "EHR - Remix",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_32.aac",
+      "l": "https://kuasark.com/files/stations-logos/ehr-remix.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Яхт Радио - Blues&Jazz",
+      "s": "https://yacht-radio.lv:8140/stream",
+      "l": "https://kuasark.com/files/stations-logos/aht-radio-bluesjazz.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Energy - Hit Music Radio",
+      "s": "http://radioenergy.lv:8000/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-energy-hit-music-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "European Hit Radio - Superhits",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_21.aac",
+      "l": "https://kuasark.com/files/stations-logos/european-hit-radio-superhits.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "EHR - European Hit Radio",
+      "s": "https://stream.ehrhiti.lv:8000/ehr.aac",
+      "l": "https://kuasark.com/files/stations-logos/ehr-european-hit-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "EHR - Fitness",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_14.aac",
+      "l": "https://kuasark.com/files/stations-logos/ehr-fitness.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Яхт Радио - Классика",
+      "s": "https://yacht-radio.lv:8150/stream",
+      "l": "https://kuasark.com/files/stations-logos/aht-radio-klassika.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "EHR - Love Songs",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_28.aac",
+      "l": "https://kuasark.com/files/stations-logos/ehr-love-songs.png",
+      "g": [
+        "Pop",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "EHR - Urban",
+      "s": "https://stream2.superfm.lv:8000/Stream_11.aac",
+      "l": "https://kuasark.com/files/stations-logos/ehr-urban.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio SWH Gold",
+      "s": "https://live.radioswh.lv:8443/goldmp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-swh-gold.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Яхт Радио - Rock",
+      "s": "https://yacht-radio.lv:8185/stream",
+      "l": "https://kuasark.com/files/stations-logos/aht-radio-rock.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Power FM",
+      "s": "http://radio.powerfm.lv:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/power-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "European Hit Radio - Fresh",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_25.aac",
+      "l": "https://kuasark.com/files/stations-logos/european-hit-radio-fresh.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Nordic Chillout Radio",
+      "s": "http://nordicbeatradio.radioca.st:8023/stream",
+      "l": "https://kuasark.com/files/stations-logos/nordic-chillout-radio.png",
+      "g": [
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "OMH - Our Music History Since 1980",
+      "s": "https://free.rcast.net/63684",
+      "l": "https://kuasark.com/files/stations-logos/omh-our-music-history-since-1980.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "European Hit Radio - Party Service",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_12.aac",
+      "l": "https://kuasark.com/files/stations-logos/european-hit-radio-party-service.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Marija - Latvija",
+      "s": "http://195.122.25.178:8000/stream/3/",
+      "l": "https://kuasark.com/files/stations-logos/radio-marija-latvija.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Your City Radio",
+      "s": "https://c28.radioboss.fm:18234/stream",
+      "l": "https://kuasark.com/files/stations-logos/your-city-radio.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Alternative",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pieci -  Hiti",
+      "s": "https://5a44e5b800a41.streamlock.net/pieci/mp4:k3/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/pieci-hiti.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Latgolys Radeja",
+      "s": "http://195.13.253.51:8000/128_mp3",
+      "l": "https://kuasark.com/files/stations-logos/latgolys-radeja.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kurzemes Radio",
+      "s": "http://31.170.16.6:8000/;?type=http&nocache=457",
+      "l": "https://kuasark.com/files/stations-logos/kurzemes-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "EHR - Eurochart",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_31.aac",
+      "l": "https://kuasark.com/files/stations-logos/ehr-eurochart.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Pieci -  Latvieši",
+      "s": "https://5a44e5b800a41.streamlock.net/pieci/mp4:k6/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/pieci-latviesi.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "HMRadio",
+      "s": "https://stream-149.zeno.fm/wmf5tfmerxxuv?zs=yqvHEl5nRfy4q1oBcoBY9Q",
+      "l": "https://kuasark.com/files/stations-logos/hmradio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Просто Радио Лиепая",
+      "s": "http://89.254.163.122:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/prosto-radio-liepaa.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Pieci - Atklājumi",
+      "s": "https://5a44e5b800a41.streamlock.net/pieci/mp4:k1/chunklist_w1044979976.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/pieci-atklajumi.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pieci - Krimināli Ekselents Radio",
+      "s": "https://5a44e5b800a41.streamlock.net/pieci/mp4:k4/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/pieci-kriminali-ekselents-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "InsideFM Русское",
+      "s": "https://stream.insidefm.eu/listen/insidefm/nonstop",
+      "l": "https://kuasark.com/files/stations-logos/insidefm-russkoe.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Один Эф Эм",
+      "s": "https://stream-153.zeno.fm/uqcrbx2p6tzuv?zs=DGZ3ryptQDGaDVB24LpOQA",
+      "l": "https://kuasark.com/files/stations-logos/radio-odin-ef-em.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "FRED FILM RADIO",
+      "s": "https://s10.webradio-hosting.com/proxy/fredradiolv/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/fred-film-radio-46851.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Pieci -  Rīti",
+      "s": "https://5a44e5b800a41.streamlock.net/pieci/mp4:k8/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/pieci-riti.png",
+      "g": [
+        "Themes",
+        "Electronic",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Flash Sound (LV) radio",
+      "s": "https://listen7.myradio24.com/65462",
+      "l": "https://kuasark.com/files/stations-logos/flash-sound-lv-radio.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic",
+        "Rap",
+        "Other"
+      ]
+    },
+    {
+      "t": "InsideFM BassBoosted",
+      "s": "https://stream.insidefm.eu/listen/insidefm_bass/live",
+      "l": "https://kuasark.com/files/stations-logos/insidefm-bassboosted.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 9",
+      "s": "http://91.90.255.85:8000/02",
+      "l": "https://kuasark.com/files/stations-logos/radio-9-lv.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "European Hit Radio - SuperHits Gold",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/european-hit-radio-superhits-gold.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "LudzaFM",
+      "s": "https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=10151&type=s1",
+      "l": "https://kuasark.com/files/stations-logos/ludzafm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "InsideFM English",
+      "s": "https://stream.insidefm.eu/listen/insidefm_english/live",
+      "l": "https://kuasark.com/files/stations-logos/insidefm-english.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "European Hit Radio - Super klubu klasika",
+      "s": "https://stream.ehrhiti.lv:8000/Stream_67.aac",
+      "l": "https://kuasark.com/files/stations-logos/european-hit-radio-super-klubu-klasika.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Star Fm",
+      "s": "http://starfm.live.advailo.com/audio/mp3/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/star-fm-lv.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio SWH+",
+      "s": "http://80.232.162.149:8000/plus96mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-swh-.png",
+      "g": [
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Talsi Lounge Radio",
+      "s": "http://kuums.lv:5555/?type=http&nocache=170",
+      "l": "https://kuasark.com/files/stations-logos/talsi-lounge-radio.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio ENERGY.LV - Russian",
+      "s": "http://www.radioenergy.lv:9000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-energylv-russian.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Talsi Remix",
+      "s": "http://radio.kuums.lv:5555/;",
+      "l": "https://kuasark.com/files/stations-logos/talsi-remix.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio SWH Kurzeme",
+      "s": "http://87.110.219.34:8000/swhmp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-swh-kurzeme.png",
+      "g": [
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "European Hit Radio - Russkie Hiti",
+      "s": "http://stream.europeanhitradio.com:8000/khr.aac",
+      "l": "https://kuasark.com/files/stations-logos/european-hit-radio-russkie-hiti.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "European Hit Radio - Rock",
+      "s": "http://stream.europeanhitradio.com:8000/Stream_37.aac",
+      "l": "https://kuasark.com/files/stations-logos/european-hit-radio-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Latvijas Radio 3 - Klasika",
+      "s": "http://lr3mp0.latvijasradio.lv:8004/;",
+      "l": "https://kuasark.com/files/stations-logos/latvijas-radio-3-klasika.png",
+      "g": [
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Latvijas Radio 1",
+      "s": "http://lr1mp1.latvijasradio.lv:8012/;",
+      "l": "https://kuasark.com/files/stations-logos/latvijas-radio-1.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "European Hit Radio - RNB",
+      "s": "http://stream.europeanhitradio.com:8000/Stream_11.aac",
+      "l": "https://kuasark.com/files/stations-logos/european-hit-radio-rnb.png",
+      "g": [
+        "R&B and Urban",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Krimināli ekselents radio",
+      "s": "https://live.pieci.lv/live27-hq.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kriminali-ekselents-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Eiropas Hītu Radio",
+      "s": "http://stream.europeanhitradio.com:8000/ehr.mp3",
+      "l": "https://kuasark.com/files/stations-logos/eiropas-hitu-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Talsi",
+      "s": "http://radio.kuums.lv:6555/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-talsi.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "LRadio Baltija",
+      "s": "https://stream-150.zeno.fm/md25955xnuhvv?zs=LlHgNe4dRMSbXC1cnwnL2w",
+      "l": "https://kuasark.com/files/stations-logos/lradio-baltija.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio NABA",
+      "s": "http://nabamp0.latvijasradio.lv:8016/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-naba.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "PIECI FM",
+      "s": "https://live.pieci.lv/live19-hq.mp3",
+      "l": "https://kuasark.com/files/stations-logos/pieci-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Skonto Riga",
+      "s": "https://stream.radioskonto.lv:8443/mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-skonto-riga.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "LV Radio 2",
+      "s": "http://lr2mp1.latvijasradio.lv:8002/;",
+      "l": "https://kuasark.com/files/stations-logos/lv-radio-2.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "LV Radio 4",
+      "s": "http://lr4mp1.latvijasradio.lv:8020/;",
+      "l": "https://kuasark.com/files/stations-logos/lv-radio-4.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Skonto",
+      "s": "https://stream.radioskonto.lv:8443/stereo",
+      "l": "https://kuasark.com/files/stations-logos/skonto.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SWH",
+      "s": "http://80.232.162.149:8000/swh96mp3",
+      "l": "https://kuasark.com/files/stations-logos/swh.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Latvijas Kristīgais Radio",
+      "s": "https://radio.lkr.lv/;?type=http&nocache=40",
+      "l": "https://kuasark.com/files/stations-logos/latvijas-kristigais-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Latvijas Radio 5",
+      "s": "https://live.pieci.lv/live19-hq.aac",
+      "l": "https://kuasark.com/files/stations-logos/latvijas-radio-5.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "stations": [
+    {
+      "t": "Rádio Voz de Esperança",
+      "s": "https://hts07.kshost.com.br:10016/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/429398/b33a3b5fe3d4053f489dce4e9416e0ab_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Capital FM Rádio Notícias",
+      "s": "https://player.srvsh.com.br/proxy/6894",
+      "l": "https://images.radiovolna.net/_files/images/stations/429397/e433c3541559668755d3a78bff2cad90_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Sol Mansi",
+      "s": "https://stream4.xdevel.com/audio0s976407-1191/stream/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/429400/630fdad7f0918d0b86c64422f227987d_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Sensibilização",
+      "s": "https://bissau.radio/listen/4361",
+      "l": "https://images.radiovolna.net/_files/images/stations/429399/420255fb77ebd3ebd195903ef6127984_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Voz de Quelélé",
+      "s": "https://player.srvsh.com.br/proxy/6770",
+      "l": "https://images.radiovolna.net/_files/images/stations/429401/44a196000229b48c8bef1ed69dd578e2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Voz de Esperança Bissau",
+      "s": "https://stream-153.zeno.fm/c857sevbu18uv?zs=esASUlYKRwi7qJlxAYkGCQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-voz-de-esperanca-bissau.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Jovem",
+      "s": "https://ssl.srvsh.com.br:7118/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-jovem-gw.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

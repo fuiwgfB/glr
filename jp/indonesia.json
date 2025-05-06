@@ -1,0 +1,2485 @@
+{
+  "stations": [
+    {
+      "t": "1921 Bali Headbanger Online Radio",
+      "s": "https://stream.zeno.fm/vbyq86vnsp8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427220/9f8330fd135f086f622e750c710da33a_130x130.webp",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Radio Rona Mkb",
+      "s": "https://void.idserverhost.com/8036/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/425455/3161f9d7b075590ab3bd80026940a971_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ALTERNATIF RADIO JAKARTA",
+      "s": "https://void.idserverhost.com/8016/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428435/0519fe7be14f9794728059fe3394be9b_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "Jazz",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "RADIO JENG SRI FM 107.2",
+      "s": "https://c4.siar.us:8083/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/431067/6860205eee93346a533a0b02b4c71144_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Airmen Radio",
+      "s": "https://void.idserverhost.com:8024/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421645/b3473c6889eea4f4b09a1e1b80c97fd2_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "RDI / Dangdut Indonesia",
+      "s": "http://202.147.199.99:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3613/imeq5a4e52098343d969404988_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Cakra Bandung",
+      "s": "http://dengerin.radiocakrabandung.com:8905/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3528/xpd75a4e4fceb4b07797516162_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Hits Radio",
+      "s": "http://hits.unikom.ac.id:9996/;listen.pls?sid=1",
+      "l": "https://images.radiovolna.net/_files/images/stations/10319/1464092611_c175-15_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "X-Channel",
+      "s": "http://202.78.200.228:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/3623/20337bb11519c3bd347d49d62dec77fc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Delta FM",
+      "s": "https://stream.cloudmu.id/listen/delta/stream?icy=http",
+      "l": "https://images.radiovolna.net/_files/images/stations/405584/zhr45a4e9c8f9e8f7078328520_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RASfm",
+      "s": "http://i.klikhost.net:9006/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421631/c75507e18998d33b7e6fff481e6fde05_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "EL JOHN",
+      "s": "http://45.64.98.181:8075/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/31031/aee230d5bce8b49504e9cd155ba87a65_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rhema Radio",
+      "s": "http://streaming.rhemaradio.com:5757/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3638/gdxo5a4e51303408b156594348_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "MOST FM",
+      "s": "https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w1377262168.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/24398/ngg35a4e6232d9a1a215519257_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Syiar Tauhid Jakarta",
+      "s": "http://live.syiartauhid.info:8046/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3620/1397561765_t175_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Prambors FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3607/s84x5a4e4ee53a916112354683_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Brava",
+      "s": "https://stream.zeno.fm/5k7t0rq3bnzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405588/d52c5a4ea481c5dad544107600_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "FeMale Radio",
+      "s": "https://masima.rastream.com/masima-femaleradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/405582/hvyq5a4e9b3243488353924841_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Berita Klasik",
+      "s": "https://i.klikhost.com/9030/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428479/5fb80ce6b51a5ed226a78abbb51a12f3_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Elshinta",
+      "s": "http://202.137.4.147:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3614/cm1m5a4e5dc37e185668014211_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bahana FM",
+      "s": "https://stream.cloudmu.id/listen/bahana_fm/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405587/ff1a5a4ea39f4865d118715974_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Prima FM",
+      "s": "http://live.primafm958.com:8004/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3608/i6yo5a4e5fe4ce72c018723280_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Sonora FM",
+      "s": "https://cast3.asurahosting.com/proxy/radios25/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421676/38a7e3b83b5d6409230c8d5114e569ed_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Spirit Online",
+      "s": "https://streaming.classynetradio.com:8060/spirit_online",
+      "l": "https://images.radiovolna.net/_files/images/stations/421673/de13874d166e16d8fbb604c6e5125f1c_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hard Rock FM",
+      "s": "https://stream.radiojar.com/7csmg90fuqruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405573/ubp55a4e973c3ae57671975917_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RRI Pro 2",
+      "s": "http://streaming.rri.co.id:9018/web-rrisurabayapro2.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421672/6f9a6f69208ff348aed8942128acaa15_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Istakalisa Yogya",
+      "s": "http://jkt.jogjastreamers.com:8000/istakalistayk",
+      "l": "https://images.radiovolna.net/_files/images/stations/3574/w04r5a4e59595f6b7123282322_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sonora FM",
+      "s": "http://cast1.my-control-panel.com/proxy/radioso1/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405578/wlkz5a4e9946c6146598854644_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "DFM",
+      "s": "https://i.klikhost.com/9000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421637/598676282406f91f139152c9700ee7a7_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Attaqwa FM",
+      "s": "http://i.klikhost.com:8840/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421641/86fe61bbd5ac922553ebd0e646f867ba_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Streaming Music FM",
+      "s": "https://stream.zeno.fm/yvf78swnbd0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426513/1a1ca0e666072e09ced136da0cd6a1dc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RRI Pro 4",
+      "s": "http://streaming.rri.co.id:9011/web-rrimedanpro4.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421659/ca33f56295c6d4581c8a28c617611c45_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mustang FM",
+      "s": "https://wz.mari.co.id:1936/web_mustangfm/mustangfm/chunklist_w237224227.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/3604/ieq95a4e5171b8b6f705460113_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Muslim Jogja",
+      "s": "http://live.radiomuslim.com/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3588/r1sz5a4e59c54b17d967499848_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Elgangga",
+      "s": "http://103.28.148.18:8174/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421634/d8dbccce791a5302be5943346f57482f_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "M Radio FM",
+      "s": "http://s9.viastreaming.net:9055/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3600/pfww5a4e56635032a572420840_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Surya FM Ngantang",
+      "s": "http://sc.ipip.cz:8040/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/31644/603af2e418d62bf83a22d4c4a2e3b215_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Telstar",
+      "s": "http://telstarfm.indostreamserver.com:8174/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3647/usor596e2b53a0e03932927118_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Smooth",
+      "s": "https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421632/143f66516c02387f3e87a25f445c921a_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Ikadi",
+      "s": "http://live.radioikadi.com:8006/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421655/364b9de8810f97612ffd534e1c134210_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "KISI",
+      "s": "http://live.serverstreaming.net:9340/kisifm",
+      "l": "https://images.radiovolna.net/_files/images/stations/421629/478522b2dc34b4426caf43b03ad47860_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Smart FM",
+      "s": "https://cast2.my-control-panel.com/proxy/radioso3/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428478/dad89d9fd83270f954fecd758d18adbc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dreamers Radio",
+      "s": "http://live.dreamersradio.com:8500/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/21809/fc6498f3da872c9fe1895f1e95122c25_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTC UI FM",
+      "s": "http://caster-001.rtcui.tsun.moe:8000/stream.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/421648/4dc2ac6401c48f3d5f428ce0298db407_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "RRI Pro 1",
+      "s": "http://streaming.rri.co.id:9319/web-rribogorpro1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421657/0c0f9a0030dcf0624eec92af96488dc1_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "RRI Channel Lima",
+      "s": "http://streaming.rri.co.id:8941/web-chlima.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421649/ba23436ae202fe6ddbcd7ecc8dc4caf2_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "RRI Pro 2",
+      "s": "http://streaming.rri.co.id:9025/web-rrijakartapro2.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421639/299986e59a078770c81a34f01c46c03e_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dakta Radio",
+      "s": "http://175.103.56.9:9968/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421643/1ceb61eeea80ff6e88518c731689ec07_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RRI Pro 1",
+      "s": "http://streaming.rri.co.id:9025/web-rrijakartapro1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421624/7c41c2ddc0165d8dd2b209ad0933a311_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Star Radio",
+      "s": "http://listen.staradio1073fm.net:8070/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/31205/fe75cc916b8bc23af5b00b2acf414461_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Prambors Radio",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FMAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/421667/92888583d13ce53ad918bac77bd93c8e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bombers FM",
+      "s": "https://a2.siar.us/radio/8410/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427331/cb75f9be6214307474b87321e84daa2e_130x130.webp",
+      "g": [
+        "Alternative",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Strato FM",
+      "s": "http://streaming.stratofm.com:8300/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428481/befccb788c978d4fea330146e7728917_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Serumpun Radio",
+      "s": "http://a2.siar.us:8020/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3579/eh3u596e278be4416192593537_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Cosmopolitan FM",
+      "s": "https://stream.radiojar.com/u7d8heq3bnzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405576/fqq55a4e98a9968cc258640558_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "e100 Suara Suarabaya",
+      "s": "https://c5.siar.us/proxy/ssfm/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421679/f8c43c4ffeb0b3249726b96080f32f47_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Silaturahim",
+      "s": "http://bb.radiosilaturahim.com",
+      "l": "https://images.radiovolna.net/_files/images/stations/421651/4bf7f6d55d59f3759c177e97c84f6999_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Gen FM",
+      "s": "https://wz.mari.co.id:1936/web_genfm/genfm/chunklist_w1643616239.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/405583/cug75a4e9bbcbf33a245943062_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kota FM",
+      "s": "http://202.148.12.92:8020/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421665/e370e71481f5e679e8dce904cf74ee16_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Prambors Radio",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FMAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/421661/2b2f3c8bd141db2ab3e6bbc3d981a94e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Excellent",
+      "s": "https://streaming.classynetradio.com:8060/EXCELLENT",
+      "l": "https://images.radiovolna.net/_files/images/stations/429811/b0f0aea1b0b56f58e683589ffd1cc527_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Suara Edukasi",
+      "s": "http://118.98.221.84:8803/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421658/b9ae1c5a22260b4a4c639108de8b2221_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Nagaswara",
+      "s": "http://bogor.nagaswarafm.com:8088/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421625/add90c6da2775d7648de34c57823fc82_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "RRI Pro 4",
+      "s": "http://streaming.rri.co.id:9013/web-rripalembangpro4.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421664/4fc8e3ccb7f2e0e8b9242c54476c940c_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Elpas FM",
+      "s": "http://live.elpasfm.com:8072/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421635/5c6dc91ef6ff81275aa425bacc8f4ee9_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Aksi",
+      "s": "http://live.indostreamserver.com:8152/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421663/957e4f86ba19151a85264e49709e9a48_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Medan FM",
+      "s": "http://streaming.cityradio.id:8000/medanfm.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/428482/e94afda2d119f512c5f8571cb85133c2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Urban Radio Bandung",
+      "s": "http://radio.melsa.net.id:8050/urban",
+      "l": "https://images.radiovolna.net/_files/images/stations/3545/xjeu5a4e4f720f7c5964994983_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DJ FM",
+      "s": "http://202.148.12.92:8000/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421671/585bb7095c355e4bbdba26a3b6c1b862_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "DMS",
+      "s": "http://live2.indostreamserver.com:8130/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3555/lgzh5a4e5b0715a68925979396_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Oz Radio",
+      "s": "http://45.64.97.211:9080/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405577/j7wf5a4e98f47a14b444580973_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SAS FM",
+      "s": "http://u.klikhost.net:7102/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421684/d6fdac40f823f335b90818aecfe1631f_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "RRI Pro 1",
+      "s": "http://streaming.rri.co.id:9016/web-rrisemarangpro1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/29826/1e695a95679e5794f7e6dea99291331e_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Serambi FM",
+      "s": "https://live.serambifm.com/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27713/e176303608c4cf35afb33f6ec005eb40_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Unisi",
+      "s": "http://studio1.indostreamers.com:8002/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/3594/waav5a4e5f3edd07b945842980_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Muara",
+      "s": "http://live.radiomuara.com:8176/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405592/f75o5a4fb0707cf85430459102_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio MSK",
+      "s": "https://streaming.atasloteng.com:8443/msk",
+      "l": "https://images.radiovolna.net/_files/images/stations/428480/4a86cda2d9242d56562011fb8ef11064_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Suara Indonesia / Voice of Indonesia",
+      "s": "http://streaming.rri.co.id:9125/web-voi.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421650/bab2126fdf4732fc1cdc38c33dc8f47b_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "ARB FM JAKARTA",
+      "s": "https://void.idserverhost.com/8018/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428561/43db57f9be9b91942201a157030ebb39_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "Themes",
+        "Jazz",
+        "R&B and Urban",
+        "Rap",
+        "Alternative",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Bodeh26Fm",
+      "s": "http://scg.streamingmurah.com:9292/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/31144/umos5a4e644e8ed56139957174_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "X-Channel",
+      "s": "http://202.78.200.228:8004/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421680/4dcfac6c13923af0954f3ec1bf6f5da3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Motion Radio",
+      "s": "https://cast1.my-control-panel.com/proxy/radioso2/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405581/4bd333e839403408f7a4ce01e3e0d1f0_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Camajaya",
+      "s": "http://live.camajayafm.com:8220/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421636/43a5794f38c8afc7d9ed611af37c2246_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "MS Tri FM",
+      "s": "http://mstrifm.onlivestreaming.net:1042/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421638/aac97ce5cb96bd1af8142c7786ef6cbd_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Trax FM",
+      "s": "https://stream.radiojar.com/rrqf78p3bnzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405586/dl2t5a4e9ea76cb6c315580497_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Power FM",
+      "s": "https://pu.klikhost.com:8054/powerfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/421623/4cb0503b42bda3bb0174eb02b77fdca9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Elshinta",
+      "s": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+      "l": "https://images.radiovolna.net/_files/images/stations/421675/82af853eeecaebf7b648ac3be75cb826_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "RRI Pro 2",
+      "s": "http://streaming.rri.co.id:9011/web-rrimedanpro2.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421660/d2c7d1dee87f2ec9a73430f1d43714d9_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rodja",
+      "s": "http://live2.radiorodja.com:80/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421647/898c33e96023442acd806ecc0cad4b77_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "RRI Pro 1",
+      "s": "http://streaming.rri.co.id:9018/web-rrisurabayapro1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421678/2414dc7a5b78bfba6a3e7cd8c0b94ccd_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "REM SSK",
+      "s": "http://202.133.2.250:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/421646/d9a958e998d4928cdb769f82df096947_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Prestasi FM",
+      "s": "http://u.klikhost.com:7128/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405593/w2sm5a4fb0d09d08d507598020_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RRI Pro 4",
+      "s": "http://streaming.rri.co.id:9025/web-rrijakartapro4.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421626/100b512aba583774ea3799767db1cf18_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "New Hits Of Bollywood",
+      "s": "https://stream.zenolive.com/q9xkvxc2tfeuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405962/w4225b87cbfb45af0286807567_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "KIS FM",
+      "s": "https://wz.mari.co.id:1936/web_kisfm/kisfm/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428477/95473f08d954c6eab721ff581ae8a2bf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Indika FM",
+      "s": "https://s2.radio.co/sf58a82d7d/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/405574/naic5a4e97cc9866b043534647_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Sindo Trijaya",
+      "s": "http://202.147.199.101:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3619/uvi3596e2b8facb16458939502_130x130.webp",
+      "g": [
+        "Pop",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Mandarin Station",
+      "s": "http://live2.indostreamserver.com:8016/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3611/s48u5a4e5eef6c56e699844790_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "i-Radio FM",
+      "s": "https://stream.radiojar.com/4ywdgup3bnzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405575/oc635a4e986821612944532305_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "GES Radio",
+      "s": "http://i18.klikhost.com:9184/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421656/116ba3ce1943e496b2d5c8698b1397c1_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Prambors FM",
+      "s": "https://23683.live.streamtheworld.com:443/PRAMBORS_FMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/prambors-fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Slow Radio",
+      "s": "https://stream-067.zeno.fm/dpk2zq5np2zuv?zs=QSbBXItkQcmKRh_LAgW7ow",
+      "l": "https://kuasark.com/files/stations-logos/slow-radio-id.png",
+      "g": [
+        "Easy Listening",
+        "Folk",
+        "Jazz",
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Decades",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Big 90's",
+      "s": "https://stream-156.zeno.fm/qmqe8k5e74zuv?zs=LSTM8pAkQrGYAACzR172cA",
+      "l": "https://kuasark.com/files/stations-logos/big-90s.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Easy Listening",
+        "Rap",
+        "Jazz",
+        "Pop",
+        "R&B and Urban",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rock Rewind",
+      "s": "https://stream-048.zeno.fm/u18tuaphwzzuv?zs=LMlEJ6JqRkGh_V1lITdErQ",
+      "l": "https://kuasark.com/files/stations-logos/rock-rewind.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Metal",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kis Rock",
+      "s": "https://stream-067.zeno.fm/2nbxgbynb18uv?zs=Pjo9qzRVR720k_pXbuxMTg",
+      "l": "https://kuasark.com/files/stations-logos/kis-rock.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Metal",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rock Nation",
+      "s": "https://stream-154.zeno.fm/a5xadbvfd2zuv?zs=DHaKAWnXTKyKOOLp2T8QsA",
+      "l": "https://kuasark.com/files/stations-logos/rock-nation-id.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vice City FM",
+      "s": "https://stream-058.zeno.fm/5349gzgeyzzuv?zs=V0HByAX4QJmvY0dL9LlZlQ",
+      "l": "https://kuasark.com/files/stations-logos/vice-city-fm.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "R&B and Urban",
+        "Rock",
+        "Metal",
+        "Rap",
+        "Jazz",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Global Throwback Hits",
+      "s": "https://stream-154.zeno.fm/ehn9gybgqd0uv?zs=5HmHwvugQ3O7E7sGzjA5xw",
+      "l": "https://kuasark.com/files/stations-logos/global-throwback-hits.png",
+      "g": [
+        "Alternative",
+        "Rap",
+        "Rock",
+        "Pop",
+        "R&B and Urban",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Prambors Throwback",
+      "s": "https://stream-163.zeno.fm/8b8h880erwzuv?zs=tF_Z6dKvTbOS-UoPGwfAcg",
+      "l": "https://kuasark.com/files/stations-logos/prambors-throwback.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "GTA Radio",
+      "s": "https://stream-157.zeno.fm/qe1hrwvkg48uv?zs=GUBi1BKXTe2HHEx27MfmPQ",
+      "l": "https://kuasark.com/files/stations-logos/gta-radio.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Golden Memories",
+      "s": "https://stream-057.zeno.fm/xg7mcgf1bf9uv?zs=ONm35jt3S_av8Ta1Iy0eCA",
+      "l": "https://kuasark.com/files/stations-logos/golden-memories.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rock Ballads",
+      "s": "https://stream-060.zeno.fm/ynepvmy14bhvv?zs=g0LZHKYbToCahMSU52BynQ",
+      "l": "https://kuasark.com/files/stations-logos/rock-ballads-id.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Delta FM",
+      "s": "https://rust.mrngroup.co/listen/delta_fm/delta",
+      "l": "https://kuasark.com/files/stations-logos/delta-fm-id.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hard Rock FM",
+      "s": "https://stream-ssl.arenastreaming.com:8004/hardrock",
+      "l": "https://kuasark.com/files/stations-logos/hard-rock-fm.png",
+      "g": [
+        "Alternative",
+        "Jazz",
+        "Pop",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ninetysix Radio",
+      "s": "https://c4.siar.us:8950/stream",
+      "l": "https://kuasark.com/files/stations-logos/ninetysix-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jakarta Rock Radio",
+      "s": "https://stream-060.zeno.fm/cy0zetda9e9uv?zs=sW4eWH0HQhuxZITdt68GtA",
+      "l": "https://kuasark.com/files/stations-logos/jakarta-rock-radio.png",
+      "g": [
+        "Metal",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "MTV Indonesia",
+      "s": "https://stream-038.zeno.fm/pvvz3mrtsf9uv?zs=wEUChJL0R5Kjs9mnMqQdsA",
+      "l": "https://kuasark.com/files/stations-logos/mtv-indonesia.png",
+      "g": [
+        "Rap",
+        "Jazz",
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Decades",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bola Radio",
+      "s": "https://stream-045.zeno.fm/cpzckvnq8bhvv?zs=C5_nTGW9S1egViHDahPw5w",
+      "l": "https://kuasark.com/files/stations-logos/bola-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "FeMale Radio",
+      "s": "https://rust.mrngroup.co/listen/female/stream",
+      "l": "https://kuasark.com/files/stations-logos/female-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Niki FM",
+      "s": "https://stream-156.zeno.fm/u1mnu6ardfhvv?zs=o26Ulqc0Q5aLyQAeO-iZSA",
+      "l": "https://kuasark.com/files/stations-logos/niki-fm.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "MTV Asia",
+      "s": "https://stream-046.zeno.fm/undku6cbpkhvv?zs=1XQG3pXeReWPzcVKnomVbA",
+      "l": "https://kuasark.com/files/stations-logos/mtv-asia.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Box Office Movie",
+      "s": "https://stream-021.zeno.fm/9n4pc5s67nhvv?zs=dKJb-ZaUSAa4Y-Zz66v2Yw",
+      "l": "https://kuasark.com/files/stations-logos/box-office-movie.png",
+      "g": [
+        "Rap",
+        "Jazz",
+        "Rock",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Global Rock Radio",
+      "s": "https://stream-160.zeno.fm/k7wu89ee18quv?zs=WlPRzoBAQ8SxOeVPKZfjrg",
+      "l": "https://kuasark.com/files/stations-logos/global-rock-radio.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Metal",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bahana FM",
+      "s": "https://rust.mrngroup.co/listen/bahana/stream",
+      "l": "https://kuasark.com/files/stations-logos/bahana-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Getar Cinta",
+      "s": "https://stream-052.zeno.fm/wpbv42dgephvv?zs=1rwlVwNgS0-J6ZG9gO9npw",
+      "l": "https://kuasark.com/files/stations-logos/getar-cinta.png",
+      "g": [
+        "Jazz",
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "International",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Nadapa FM Pertambatan",
+      "s": "https://stream-150.zeno.fm/pusn29tkq7zuv?zs=ZBH0VOnETpSKsbgFpI43zA",
+      "l": "https://kuasark.com/files/stations-logos/nadapa-fm-pertambatan.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dengerin Musik",
+      "s": "http://stream.denger.in:8888/dmi",
+      "l": "https://kuasark.com/files/stations-logos/dengerin-musik.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "OZ RADIO BANDUNG",
+      "s": "http://45.64.97.211:1031/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/oz-radio-bandung.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jak 101 FM",
+      "s": "https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/jak-101-fm.png",
+      "g": [
+        "Alternative",
+        "Easy Listening",
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Muslim",
+      "s": "https://cp.phpmystream.com/radioSSLnew/s/75",
+      "l": "https://kuasark.com/files/stations-logos/radio-muslim.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Trans7",
+      "s": "https://stream-156.zeno.fm/zrk4yma2xuhvv?zs=7IvjOICDSe6LgZFNV1HSjw",
+      "l": "https://kuasark.com/files/stations-logos/trans7.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Metal",
+        "Other"
+      ]
+    },
+    {
+      "t": "MTV Rocks",
+      "s": "https://stream-040.zeno.fm/mqy5rybacxhvv?zs=SUVasd2rRFmTfY-wkLAIpg",
+      "l": "https://kuasark.com/files/stations-logos/mtv-rocks.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Metal",
+        "Other"
+      ]
+    },
+    {
+      "t": "Suara Giri",
+      "s": "http://streaming.girifm.com:8010/;",
+      "l": "https://kuasark.com/files/stations-logos/suara-giri.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NAGASWARA RADIOTEMEN Bogor",
+      "s": "https://live.nagaswarafm.com:9900/nagaswararadio",
+      "l": "https://kuasark.com/files/stations-logos/nagaswara-radiotemen-bogor.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ardan Radio",
+      "s": "https://n18a-eu.rcs.revma.com/1q762wy5a9hvv?rj-ttl=5&rj-tok=AAABiq3BED0AV5GLgrhE0nQ3Bw",
+      "l": "https://kuasark.com/files/stations-logos/ardan-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Global Metal",
+      "s": "https://stream-163.zeno.fm/mfuutjhc31quv?zs=txcIbJsaRhGkRvtRzibh8w",
+      "l": "https://kuasark.com/files/stations-logos/global-metal.png",
+      "g": [
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "El John FM Palembang",
+      "s": "http://103.28.149.117:8032/stream",
+      "l": "https://kuasark.com/files/stations-logos/el-john-fm-palembang.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sonora FM Jakarta",
+      "s": "https://cast1.my-control-panel.com/proxy/radioso1/live",
+      "l": "https://kuasark.com/files/stations-logos/sonora-fm-jakarta.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "IMI Radio",
+      "s": "https://live1.indostreamserver.com:8008/stream",
+      "l": "https://kuasark.com/files/stations-logos/imi-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dance Radio",
+      "s": "https://stream-040.zeno.fm/ryuy4q2ijxhtv?zs=7g1daJOwRryDRgVTNQoZCQ",
+      "l": "https://kuasark.com/files/stations-logos/dance-radio-id.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Wijaya FM",
+      "s": "http://wijayafm.onlivestreaming.net:9880/stream",
+      "l": "https://kuasark.com/files/stations-logos/wijaya-fm.png",
+      "g": [
+        "Electronic",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Ninetysix Radio Indo New Hits",
+      "s": "https://stream-152.zeno.fm/sy7rh3mwtxhvv?zs=LuzIh6vEQFisUNPR8Wkc_Q",
+      "l": "https://kuasark.com/files/stations-logos/ninetysix-radio-indo-new-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Imelda FM",
+      "s": "https://server.radioimeldafm.co.id:8030/imeldafm",
+      "l": "https://kuasark.com/files/stations-logos/radio-imelda-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Rodja Bogor",
+      "s": "https://radioislamindonesia.com/rodja.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-rodja-bogor.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Gajahmada FM",
+      "s": "https://server.radioimeldafm.co.id/radio/8020/gajahmadafm",
+      "l": "https://kuasark.com/files/stations-logos/gajahmada-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Global Radio Jakarta",
+      "s": "http://202.147.199.98/;",
+      "l": "https://kuasark.com/files/stations-logos/global-radio-jakarta.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RRI Pro 1",
+      "s": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rri-pro-1.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "OZ Rock",
+      "s": "https://stream-021.zeno.fm/e1xilj5hkibtv?zs=D_kxg9E2TFulxmHjTKNASw",
+      "l": "https://kuasark.com/files/stations-logos/oz-rock.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rama FM Bandung",
+      "s": "http://i.klikhost.com:8330/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/rama-fm-bandung.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Menara FM",
+      "s": "https://c1.siar.us:10280/menarafmbali",
+      "l": "https://kuasark.com/files/stations-logos/menara-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "SUARA GRATIA FM",
+      "s": "http://suaragratiafm.japanserver.info:8959/;",
+      "l": "https://kuasark.com/files/stations-logos/suara-gratia-fm.png",
+      "g": [
+        "Inspirational",
+        "Themes",
+        "News"
+      ]
+    },
+    {
+      "t": "Ninetysix Radio Lagu 2000an",
+      "s": "https://c4.siar.us:8032/stream",
+      "l": "https://kuasark.com/files/stations-logos/ninetysix-radio-lagu-2000an.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ninetysix Radio KPop Playlist",
+      "s": "https://stream-150.zeno.fm/tm3uqnyxgrhvv?zs=DlQ9kVLdQJir9sZM5VpyKg",
+      "l": "https://kuasark.com/files/stations-logos/ninetysix-radio-kpop-playlist.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Retjo Buntung FM",
+      "s": "https://ssg.streamingmurah.com:9940/stream",
+      "l": "https://kuasark.com/files/stations-logos/retjo-buntung-fm.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Prameswara FM",
+      "s": "http://prameswarafm.onlivestreaming.net:10390/live",
+      "l": "https://kuasark.com/files/stations-logos/prameswara-fm.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "80s Radio Hits",
+      "s": "https://stream-043.zeno.fm/05eu8medd3quv?zs=Oqujr6kGRKSFxA9qzXe0Mw",
+      "l": "https://kuasark.com/files/stations-logos/80s-radio-hits.png",
+      "g": [
+        "Alternative",
+        "Easy Listening",
+        "Electronic",
+        "Rock",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Trijaya FM Jakarta",
+      "s": "https://r.sindonews.tv/trijayafm/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/trijaya-fm-jakarta.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Suara Muslim Surabaya",
+      "s": "http://pu.klikhost.com:8052/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-suara-muslim-surabaya.png",
+      "g": [
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "GANDEWA RADIO",
+      "s": "http://45.64.97.82:8460/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/gandewa-radio.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Geronimo FM",
+      "s": "http://103.153.2.58:8004/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/geronimo-fm.png",
+      "g": [
+        "Reggae",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "RRI Pro 2",
+      "s": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rri-pro-2.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Dahlia",
+      "s": "https://svara-stream.radioddns.net:8443/bandung_dahliafm",
+      "l": "https://kuasark.com/files/stations-logos/radio-dahlia.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio online Tulungagung",
+      "s": "https://stream-038.zeno.fm/954yxsx00ehvv?zs=RKyncTgpSGGU5nRRDYZzWQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-online-tulungagung.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "V Radio Jakarta",
+      "s": "http://202.147.199.100:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/v-radio-jakarta.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Decades"
+      ]
+    },
+    {
+      "t": "KLCBS",
+      "s": "https://s3.vinhostmedia.com/1055/;stream",
+      "l": "https://kuasark.com/files/stations-logos/klcbs.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Urban Radio Bandung",
+      "s": "https://live.indostreamserver.com/8250/;",
+      "l": "https://kuasark.com/files/stations-logos/urban-radio-bandung.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MGT FM",
+      "s": "https://s1.gntr.net/listen/mgtradio/mgtradio",
+      "l": "https://kuasark.com/files/stations-logos/mgt-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Camajaya FM",
+      "s": "https://live.indostreamserver.com:8220/stream",
+      "l": "https://kuasark.com/files/stations-logos/camajaya-fm.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Most Radio 105.8 FM",
+      "s": "https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/most-radio-1058-fm.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Easy Listening",
+        "Electronic",
+        "Rap",
+        "Jazz",
+        "Pop",
+        "R&B and Urban",
+        "Decades",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ge FM Gabriel Madiun",
+      "s": "http://gefm.onlivestreaming.net:9520/live",
+      "l": "https://kuasark.com/files/stations-logos/ge-fm-gabriel-madiun.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Paramuda FM",
+      "s": "http://i.klikhost.com:8332/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/paramuda-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Classy NetRadio",
+      "s": "https://streaming.classynetradio.com/radio/8000/classyHD",
+      "l": "https://kuasark.com/files/stations-logos/classy-netradio.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kis FM Semarang",
+      "s": "http://i.klikhost.com:8070/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/kis-fm-semarang.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "GEN-DEWA POP",
+      "s": "http://45.64.97.82:8374/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/gen-dewa-pop.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mandarin Station 98.3 FM",
+      "s": "http://158.69.119.235:8016/;",
+      "l": "https://kuasark.com/files/stations-logos/mandarin-station-983-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kalimaya Bhaskara",
+      "s": "https://cast1.my-control-panel.com/proxy/radioso4/live",
+      "l": "https://kuasark.com/files/stations-logos/kalimaya-bhaskara.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "C Radio Semarang",
+      "s": "https://stream.cradio.co.id/cradio.aac",
+      "l": "https://kuasark.com/files/stations-logos/c-radio-semarang.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kasih",
+      "s": "http://188.165.240.90:8454/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-kasih.png",
+      "g": [
+        "Inspirational",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio MFM Malang 101.3 FM",
+      "s": "http://202.164.221.9:8222/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-mfm-malang-1013-fm.png",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Most FM Medan",
+      "s": "http://u.klikhost.net:7106/;",
+      "l": "https://kuasark.com/files/stations-logos/most-fm-medan.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ninetysix Radio Country Playlist",
+      "s": "https://stream-152.zeno.fm/d4xxfwcygrhvv?zs=vCIczOjaTQ-rtf9b-En_NA",
+      "l": "https://kuasark.com/files/stations-logos/ninetysix-radio-country-playlist.png",
+      "g": [
+        "Country",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Z 99.9 FM",
+      "s": "https://svara-stream.radioddns.net:8443/jakarta_z999fm_aac",
+      "l": "https://kuasark.com/files/stations-logos/z-999-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Simfoni FM",
+      "s": "http://i.klikhost.com:9160/;rojer.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-simfoni-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Prima FM",
+      "s": "http://live.primafm958.com:8004/;",
+      "l": "https://kuasark.com/files/stations-logos/prima-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RRI Pro 5 Makassar",
+      "s": "https://stream.streamaudio.de:8000/teststream3",
+      "l": "https://kuasark.com/files/stations-logos/rri-pro-5-makassar.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "MTV Rewind",
+      "s": "https://stream-156.zeno.fm/l8brto4lw3atv?zs=tcj9bah7RGihWE29voHQSA",
+      "l": "https://kuasark.com/files/stations-logos/mtv-rewind.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "90s Rock",
+      "s": "https://stream-046.zeno.fm/ti7cqx6fxb8vv?zs=0zmgiF3oQkaUj6pApfPUCg",
+      "l": "https://kuasark.com/files/stations-logos/90s-rock.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Metal",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Loker Musik Radio Indonesia",
+      "s": "https://stream.lokermusik.com:8420/lokermusik",
+      "l": "https://kuasark.com/files/stations-logos/loker-musik-radio-indonesia.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MTAFM",
+      "s": "http://radio.mtafm.com:1079/;",
+      "l": "https://kuasark.com/files/stations-logos/mtafm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Kotaperak",
+      "s": "http://203.30.236.2:9460/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-kotaperak.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Kharisma FM - Pare Kediri",
+      "s": "http://stream.kharismafm.com:9550/kharismafm",
+      "l": "https://kuasark.com/files/stations-logos/kharisma-fm-pare-kediri.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Merdeka 106.7 FM",
+      "s": "http://streaming.merdekafm.com:8020/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/merdeka-1067-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RRI Pro 4",
+      "s": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rri-pro-4.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Megah FM",
+      "s": "http://live2.indostreamserver.com:8064/;",
+      "l": "https://kuasark.com/files/stations-logos/megah-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bens Radio 106.2 FM",
+      "s": "https://www.bensradio.com/",
+      "l": "https://kuasark.com/files/stations-logos/bens-radio-1062-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MTV 00s",
+      "s": "https://stream-156.zeno.fm/c26kplsdxgttv?zs=-Km3Jc2cRM6XCEXJu7O3ZQ",
+      "l": "https://kuasark.com/files/stations-logos/mtv-00s.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Galuh",
+      "s": "https://stream.yaomilakbar.com/galuhfm",
+      "l": "https://kuasark.com/files/stations-logos/radio-galuh.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RRI Pro 3",
+      "s": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rri-pro-3.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Paduka FM",
+      "s": "http://paduka.myradio.web.id:8888/padukafm",
+      "l": "https://kuasark.com/files/stations-logos/paduka-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MTV Live",
+      "s": "https://stream-021.zeno.fm/oz5kamhz47yuv?zs=Z-diuR3iSrieOIyBEimEfA",
+      "l": "https://kuasark.com/files/stations-logos/mtv-live.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Pelita Kasih",
+      "s": "https://live.indostreamserver.com/8030/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-pelita-kasih.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rockwire",
+      "s": "https://stream-155.zeno.fm/gbtlvb8w7pqvv?zs=hEoJM4wfRRqV9GQjLHEwVg",
+      "l": "https://kuasark.com/files/stations-logos/rockwire.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Metal",
+        "Other"
+      ]
+    },
+    {
+      "t": "9020 FB FM Purwakarta",
+      "s": "https://ssg.streamingmurah.com:8434/stream",
+      "l": "https://kuasark.com/files/stations-logos/9020-fb-fm-purwakarta.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Metal Zone",
+      "s": "https://stream-047.zeno.fm/vmwdkkmva13uv?zs=ZQWgkYrBQYGMbluHS4_hsg",
+      "l": "https://kuasark.com/files/stations-logos/metal-zone-id.png",
+      "g": [
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Cosmo",
+      "s": "http://scg.streamingmurah.com:8074/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-cosmo.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio AR Bali",
+      "s": "https://live.radioarbali.com:8450/radioar",
+      "l": "https://kuasark.com/files/stations-logos/radio-ar-bali.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Ninetysix Radio Smooth Song",
+      "s": "https://stream-152.zeno.fm/1p7xwm841xhvv?zs=0opio9btQamJUf0tb6mEsA",
+      "l": "https://kuasark.com/files/stations-logos/ninetysix-radio-smooth-song.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Sangkakala",
+      "s": "http://radiosangkakala.alucio.net.id:7777/;",
+      "l": "https://kuasark.com/files/stations-logos/sangkakala.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio B",
+      "s": "http://listento.bradio956.fm:8956/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-b-id.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Kesehatan",
+      "s": "http://pu.klikhost.com:8202/radiokesehatan",
+      "l": "https://kuasark.com/files/stations-logos/radio-kesehatan.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Idola Semarang",
+      "s": "https://server.radioidola.com:8880/idolafm",
+      "l": "https://kuasark.com/files/stations-logos/radio-idola-semarang.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Rhema",
+      "s": "http://streaming.rhemaradio.com:5757/;file.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-rhema-id.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ninetysix Radio Asia Pop 40",
+      "s": "https://stream-152.zeno.fm/txeg47011xhvv?zs=ETxfJr31Qlekm4D76nnq8w",
+      "l": "https://kuasark.com/files/stations-logos/ninetysix-radio-asia-pop-40.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Phoenix Radio Bali",
+      "s": "https://live.phoenixradiobali.com:8250/phoenixradio",
+      "l": "https://kuasark.com/files/stations-logos/phoenix-radio-bali.png",
+      "g": [
+        "R&B and Urban",
+        "International",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio CMN",
+      "s": "https://stream.coolkas.com/radio/8160/radiocmn",
+      "l": "https://kuasark.com/files/stations-logos/radio-cmn-id.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Dreamers Radio",
+      "s": "https://live.dreamers.id:8443/live",
+      "l": "https://kuasark.com/files/stations-logos/dreamers-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ramapati Kota Pasuruan",
+      "s": "http://freeuk29.listen2myradio.com:14924/;",
+      "l": "https://kuasark.com/files/stations-logos/ramapati-kota-pasuruan.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "EBS 105.9 FM",
+      "s": "http://streaming.suzanafm.com:8100/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/ebs-1059-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Musik Indonesia",
+      "s": "https://stream-047.zeno.fm/727gv3qrt5quv?zs=xCYWGnkLSZWtJ3x1l2NE9g",
+      "l": "https://kuasark.com/files/stations-logos/radio-musik-indonesia.png",
+      "g": [
+        "Jazz",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "ARIVOICEOVER RADIO",
+      "s": "http://45.64.97.82:8374/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/arivoiceover-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Elgangga FM",
+      "s": "https://s1.gntr.net/radio/8010/elgangga",
+      "l": "https://kuasark.com/files/stations-logos/elgangga-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Batam FM",
+      "s": "http://live.indostreamserver.com:9070/batamfm",
+      "l": "https://kuasark.com/files/stations-logos/batam-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Baiturrahman FM",
+      "s": "https://s7.alhastream.com/radio/8060/radio",
+      "l": "https://kuasark.com/files/stations-logos/baiturrahman-fm.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Indie Mixtape",
+      "s": "https://stream-023.zeno.fm/xkadzupvrijuv?zs=M9i2VD1GREOceMVE6NA0cA",
+      "l": "https://kuasark.com/files/stations-logos/indie-mixtape.png",
+      "g": [
+        "Alternative",
+        "Rock"
+      ]
+    },
+    {
+      "t": "RADIO-QU",
+      "s": "https://ssg.streamingmurah.com:8034/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-qu.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Kosmonita",
+      "s": "http://202.58.200.26:1055/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-kosmonita.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kajian Islam",
+      "s": "https://stream-034.zeno.fm/ge2ekgd7f18uv?zs=Y-zymZQ5TWSbcwlnFUAOCg",
+      "l": "https://kuasark.com/files/stations-logos/radio-kajian-islam.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Swara Kenanga Jogja",
+      "s": "http://51.79.167.17:7002/airtime_128",
+      "l": "https://kuasark.com/files/stations-logos/radio-swara-kenanga-jogja.png",
+      "g": [
+        "Classical",
+        "Easy Listening",
+        "Decades",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nitnut Radio",
+      "s": "http://103.179.56.26:8000/radio.aac",
+      "l": "https://kuasark.com/files/stations-logos/nitnut-radio.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Jags Rock Music Radio",
+      "s": "https://stream-021.zeno.fm/q3mskdkgg6quv?zs=LSz9j7ZqTQKgto1wK71PSg",
+      "l": "https://kuasark.com/files/stations-logos/jags-rock-music-radio.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Metal",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "OZDISCOLAND RADIO",
+      "s": "http://45.64.97.211:9874/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/ozdiscoland-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Mandala FM Banyuwangi",
+      "s": "https://svara-stream.radioddns.net:8443/banyuwangi_mandalafm",
+      "l": "https://kuasark.com/files/stations-logos/mandala-fm-banyuwangi.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Telstar FM Makassar",
+      "s": "http://telstarfm.indostreamserver.com:8174/;",
+      "l": "https://kuasark.com/files/stations-logos/telstar-fm-makassar.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Attaqwa FM",
+      "s": "http://i.klikhost.net:8840/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/attaqwa-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Bintang Tenggara",
+      "s": "https://sv3.alhasmedia.com:8360/rbtfm",
+      "l": "https://kuasark.com/files/stations-logos/radio-bintang-tenggara.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "News"
+      ]
+    },
+    {
+      "t": "Hits Unikom Radio 103.9 FM",
+      "s": "http://103.112.189.100:9996/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/hits-unikom-radio-1039-fm.png",
+      "g": [
+        "Jazz",
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Poliyama Top FM",
+      "s": "https://live4.rs3fm.com:8001/poliyama",
+      "l": "https://kuasark.com/files/stations-logos/poliyama-top-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "OZ REWIND",
+      "s": "http://45.64.97.211:9868/;",
+      "l": "https://kuasark.com/files/stations-logos/oz-rewind.png",
+      "g": [
+        "Easy Listening",
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Elfara FM",
+      "s": "http://207.244.251.202:8300/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/elfara-fm.png",
+      "g": [
+        "Electronic",
+        "Folk",
+        "Alternative",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "El-Shaddai FM",
+      "s": "http://shaddai.onlivestreaming.net:9130/live",
+      "l": "https://kuasark.com/files/stations-logos/el-shaddai-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Swara Koncotani",
+      "s": "http://r5.siar.us:8711/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-swara-koncotani.png",
+      "g": [
+        "Classical",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sas Fm Surabaya",
+      "s": "http://u.klikhost.net:7102/stream",
+      "l": "https://kuasark.com/files/stations-logos/sas-fm-surabaya.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "https://dreamsiteradiocp2.com/proxy/rmindonesia2?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-id.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "ONIX RADIO",
+      "s": "http://u.klikhost.com:7062/;",
+      "l": "https://kuasark.com/files/stations-logos/onix-radio.png",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "PR FM",
+      "s": "https://radio.pikiran-rakyat.com/prfm",
+      "l": "https://kuasark.com/files/stations-logos/pr-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "VIS FM",
+      "s": "http://s4.vinhostmedia.com:8000/streamaac",
+      "l": "https://kuasark.com/files/stations-logos/vis-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Distorsi Jiwa Radio",
+      "s": "https://a6.siar.us:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/distorsi-jiwa-radio.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sudarmanto Radio",
+      "s": "http://scg.streamingmurah.com:8262/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sudarmanto-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "IBNULQOYYIM FM",
+      "s": "https://azuracast.iqbpn.com/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ibnulqoyyim-fm.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Trendakwah Purwakarta",
+      "s": "https://live.radioislam.xyz:7004/;",
+      "l": "https://kuasark.com/files/stations-logos/trendakwah-purwakarta.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RADIO ANDY",
+      "s": "https://stream-154.zeno.fm/9vasgtdvt4zuv?zs=lIrYLkFxSKmTX-VhvBaocQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-andy.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Damu FM",
+      "s": "http://e12440.cloudrad.io:8724/;",
+      "l": "https://kuasark.com/files/stations-logos/damu-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Raka",
+      "s": "https://cast2.my-control-panel.com/proxy/radioso5/stream",
+      "l": "https://kuasark.com/files/stations-logos/raka.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "CitisFm Lhokseumawe",
+      "s": "http://109.73.65.69:6792/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/citisfm-lhokseumawe.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Bellasalam FM",
+      "s": "http://listen.bellasalamfm.com:8760/;",
+      "l": "https://kuasark.com/files/stations-logos/bellasalam-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jazz Abe Radio Online",
+      "s": "https://stream-160.zeno.fm/crx79tt7cxhvv?zs=W5e9D5LuQoeNkay5_KGCLw",
+      "l": "https://kuasark.com/files/stations-logos/jazz-abe-radio-online.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Muara AM 693",
+      "s": "http://45.64.97.82:8778/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-muara-am-693.png",
+      "g": [
+        "Alternative",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hard Rock",
+      "s": "https://stream-159.zeno.fm/btdooo7j1ydvv?zs=3TQf_C_MQ4W3fQNnDHdU-Q",
+      "l": "https://kuasark.com/files/stations-logos/hard-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "UTY FM Medari",
+      "s": "http://utyfmedari.us.myradio.web.id:8000/utyfmedari",
+      "l": "https://kuasark.com/files/stations-logos/uty-fm-medari.png",
+      "g": [
+        "Country",
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Tidar Sakti",
+      "s": "http://pu.klikhost.com:8770/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-tidar-sakti.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio SJFM Juwana",
+      "s": "http://i.klikhost.com:9014/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-sjfm-juwana.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Famili Minang",
+      "s": "https://stream-150.zeno.fm/ax22szbmhtzuv?zs=uTfRu35XSfagZEtStf32TQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-famili-minang.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Raka Radio Streaming Indonesia",
+      "s": "http://sci.streamingmurah.com:8196/stream",
+      "l": "https://kuasark.com/files/stations-logos/raka-radio-streaming-indonesia.png",
+      "g": [
+        "Jazz",
+        "Pop",
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "GEN-DEWA OLDIES",
+      "s": "http://45.64.97.82:8378/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/gen-dewa-oldies.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Mettaswara 90's",
+      "s": "https://mettaswara.com:8700/metta90",
+      "l": "https://kuasark.com/files/stations-logos/mettaswara-90s.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "102.7 MTB FM Surabaya",
+      "s": "https://mtbfm-radio.wow.net.id:8111/;",
+      "l": "https://kuasark.com/files/stations-logos/1027-mtb-fm-surabaya.png",
+      "g": [
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Masa Kini (RMK)",
+      "s": "https://ini.radiomasakini.com:8000/rmk",
+      "l": "https://kuasark.com/files/stations-logos/radio-masa-kini-rmk.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Badratun FM",
+      "s": "https://void.idserverhost.com/badratunfm/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-badratun-fm.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Gema Merdeka Bali",
+      "s": "http://110.44.169.32/gema",
+      "l": "https://kuasark.com/files/stations-logos/radio-gema-merdeka-bali.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "OZ SUBSTEREO",
+      "s": "http://45.64.97.211:9872/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/oz-substereo.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ragasakti FM",
+      "s": "http://live4.rs3fm.com:8000/rs3",
+      "l": "https://kuasark.com/files/stations-logos/ragasakti-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    }
+  ]
+}

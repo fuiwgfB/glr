@@ -1,0 +1,12 @@
+{
+  "stations": [
+    {
+      "t": "Saint FM 106.7 Jamestown",
+      "s": "http://radio.canstream.co.uk:8013/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/saint-fm-1067-jamestown.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

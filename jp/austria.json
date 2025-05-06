@@ -1,0 +1,2579 @@
+{
+  "stations": [
+    {
+      "t": "Austrian Rock Radio",
+      "s": "https://live.antenne.at/arr",
+      "l": "https://images.radiovolna.net/_files/images/stations/8621/yx1i5a22818527b76089479850_130x130.webp",
+      "g": [
+        "Metal",
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Chill Out Zone",
+      "s": "http://144.76.81.20:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2048/o18c595ba3ac33c6c573258917_130x130.webp",
+      "g": [
+        "New Age",
+        "Electronic",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Lounge FM",
+      "s": "https://s35.derstream.net/ukwwien.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2139/yigh595bd5dee1a5a869051277_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "T-Rock",
+      "s": "https://trock.fluidstream.eu/trock.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402199/bc814fc7b46b0b0ba021f862bd7544cb_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "laut.fm / rockhuhn",
+      "s": "https://rockhuhn.stream.laut.fm/rockhuhn?t302=2020-04-23_15-36-55&uuid=e8635622-5a66-4356-a1a1-d54c2ba72a97",
+      "l": "https://images.radiovolna.net/_files/images/stations/2126/lqlv5a228b325594e344482245_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Classic Rock (Schwarzach)",
+      "s": "https://web.radio.antennevorarlberg.at/av-classicrock",
+      "l": "https://images.radiovolna.net/_files/images/stations/2034/ngup595cc36476c76507066663_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "klassik Stephansdom",
+      "s": "https://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2203/kxsj597c6bdfe16f7928958702_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Kronehit - Vollgas",
+      "s": "https://secureonair.krone.at/kronehit11.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2104/lea65953c35bbe4cc614539931_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "jö.live BILLA (Österreich)",
+      "s": "https://listen.radiomax.technology/billa",
+      "l": "https://images.radiovolna.net/_files/images/stations/2191/6906df1dbde449cb8113f7c8684f9b45_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hitradio Ö3",
+      "s": "https://orf-live.ors-shoutcast.at/oe3-q1a",
+      "l": "https://images.radiovolna.net/_files/images/stations/2086/f9m15954bb02abf31939585967_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Volksmusikpur",
+      "s": "https://stream.laut.fm/volksmusikpur",
+      "l": "https://images.radiovolna.net/_files/images/stations/29620/b7515d2ae889f860bcc5a04197255526_130x130.webp",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Life Radio Made in Austria",
+      "s": "http://stream3.liferadio.at/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2136/j449596cd07450fd0105707213_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Psy Chill Zone",
+      "s": "http://air.chillout.zone:8020/radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/22587/a9d35f4ce72e8e56804ca24a64318e9c_130x130.webp",
+      "g": [
+        "New Age",
+        "Electronic",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "laut.fm / 80er-zone",
+      "s": "https://80er-zone.stream.laut.fm/80er-zone?t302=2020-04-23_07-44-29&uuid=685bcd1a-1d87-4856-99f7-136b5c737dfb",
+      "l": "https://images.radiovolna.net/_files/images/stations/2107/ft7h5952cb201199d378408545_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Arabella",
+      "s": "https://edge03.streams.arabella.at/arabella-wien",
+      "l": "https://images.radiovolna.net/_files/images/stations/2175/lijl595500fb3c590606139531_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Dubbase.FM",
+      "s": "http://stream.dubbase.fm:7004/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2074/l6yo597a4624c46e8920613779_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Arabella Lovesongs",
+      "s": "https://edge52.streams.arabella.at/arabella-lovesongs",
+      "l": "https://images.radiovolna.net/_files/images/stations/2178/xeyq59550122caeb9007409839_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "laut.fm / darksynthradio",
+      "s": "https://darksynthradio.stream.laut.fm/darksynthradio?t302=2020-04-23_00-46-43&uuid=b154c49b-32f8-487b-a595-b087cf31473f",
+      "l": "https://images.radiovolna.net/_files/images/stations/2110/z9k25a22837951b72700471404_130x130.webp",
+      "g": [
+        "Electronic",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Arabella-Ti Amo",
+      "s": "https://edge53.streams.arabella.at/arabella-tiamo",
+      "l": "https://images.radiovolna.net/_files/images/stations/2043/njqg595500aaa2181382247891_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Q Radio - maxximum queer music",
+      "s": "http://host6.cartwall.at:8954/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2168/fej359711047d49f4879799183_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Energy Wien",
+      "s": "http://cdn.nrjaudio.fm/adwz1/at/36001/mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2078/spj7596c83ec69740031236980_130x130.webp",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Stadtradio Krems (Krems)",
+      "s": "https://stream.musikwelle.com:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/427205/741d323b32120ced5d75169452ad2294_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Harmonie",
+      "s": "https://v2.radiodienst.de:9630/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/2184/ie7j5a228812645bc829848454_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Radieschen",
+      "s": "https://radioradieschen.stream.kapper.net/radioradieschen",
+      "l": "https://images.radiovolna.net/_files/images/stations/2155/143423e368d5688db1ec7af2921d4c0c_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Kronehit",
+      "s": "http://onair-ha1.krone.at/kronehit1058.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2092/1eef64ae24115a2415dce24123194780_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Austria",
+      "s": "https://onair.securestream.radioaustria.at/radioaustria",
+      "l": "https://images.radiovolna.net/_files/images/stations/420578/a2a82ff8e7c3a6a1329be7b2f2d98f8c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Superfly.fm",
+      "s": "http://stream01.superfly.fm:8080/live128",
+      "l": "https://images.radiovolna.net/_files/images/stations/2224/f1pp595b9f8555a38278998879_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Life Radio Tirol",
+      "s": "http://194.232.200.164:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2138/uim9596cd0fba615f649931649_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "ORF - Radio Niederoesterreich",
+      "s": "https://orf-live.ors-shoutcast.at/noe-q1a",
+      "l": "https://images.radiovolna.net/_files/images/stations/2195/f97i5957a368e711e765246582_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Technikum Rock",
+      "s": "http://212.17.112.186:8202/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/33039/53e2959a2886ecd0f7e6e28beab92923_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Grün-Weiss",
+      "s": "https://live.gruen-weiss.at/rgw.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/24755/a23473f31bb81465fc3e231166f3c60e_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Kronehit - Charts",
+      "s": "https://secureonair.krone.at/kronehit99.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2096/pyom5953c1d24f3b2085330730_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Saalfelden",
+      "s": "https://rsf.fluidstream.eu/rsf.mp3?FLID=1",
+      "l": "https://images.radiovolna.net/_files/images/stations/429704/e6b4cf7497f5539d5901c51dc5a77105_130x130.webp",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Kronehit - Greatest Hits",
+      "s": "https://secureonair.krone.at/kronehit13.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/21467/c75049822e1659ca4d6a9f5665fe85cf_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "wel105point5",
+      "s": "https://wel105point5.stream.laut.fm/wel105point5?t302=2020-04-23_14-07-00&uuid=cd2a367f-291c-44b2-bfb2-8bdf96b8bb66",
+      "l": "https://images.radiovolna.net/_files/images/stations/22713/9c239c6153dda8c275abcad6a7e48cdd_130x130.webp",
+      "g": [
+        "Country",
+        "Decades"
+      ]
+    },
+    {
+      "t": "macjingle Classic Hits",
+      "s": "http://www.cartwall.at:7210/;?.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2140/e6ib5a227f1a91bfc175318516_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Partymix (Schwarzach)",
+      "s": "https://web.radio.antennevorarlberg.at/av-partymix",
+      "l": "https://images.radiovolna.net/_files/images/stations/2040/c7p6595cc4cb63610890659563_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Uno",
+      "s": "http://host5.cartwall.at:8888/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/23643/ab8134f50cf2ec6e6e646a5fc13be222_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Antenne Kaernten",
+      "s": "https://live.antenne.at/ak",
+      "l": "https://images.radiovolna.net/_files/images/stations/2028/zfzo595cc0e20e724334639499_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Alpenfunk Radio",
+      "s": "http://81.169.174.242:7000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/23000/ee19615e94aee3a2edaad77f833094ba_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "SOL",
+      "s": "http://sol.anw.at:8023/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2201/lt4u595cd0d4476c7078970738_130x130.webp",
+      "g": [
+        "Easy Listening",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radiofabrik",
+      "s": "https://stream.radiofabrik.at/rf_low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2181/qkj159b7ef6927be4091788259_130x130.webp",
+      "g": [
+        "Themes",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Now Radio",
+      "s": "http://stream.erf.at/nowradio_192",
+      "l": "https://images.radiovolna.net/_files/images/stations/22057/e348111920f517eb29a7a91ffd622958_130x130.webp",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Der Bäcker Ruetz",
+      "s": "http://194.232.200.165:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2053/nwdm5a228b017409e453289620_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "jö.live PENNY (Österreich)",
+      "s": "https://listen.radiomax.technology/penny",
+      "l": "https://images.radiovolna.net/_files/images/stations/2194/bdc39cfd981c818cc806f0cc7b7a0d09_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jugoton HIT Radio",
+      "s": "http://s8.iqstreaming.com:8060/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/2088/v5wy5a22813b90682871549608_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "OKiTALK 1 - Hier reden die Bürger",
+      "s": "http://5.189.164.243:8000/studio1.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/2158/bn7x5a228a2b9e953815645452_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kronehit - Clubland",
+      "s": "https://secureonair.krone.at/kronehit98.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/26450/24b1c0a49f7af802d13edf3f1a6ea7c0_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Schlagerkult (Schwarzach)",
+      "s": "https://web.radio.antennevorarlberg.at/av-schlagerkult",
+      "l": "https://images.radiovolna.net/_files/images/stations/2041/dbhj595cc4f7d4120409671930_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Alpina",
+      "s": "https://alpina.fluidstream.eu/alpina.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2173/cga95954a6111937a845877861_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Coffee Hits (Schwarzach)",
+      "s": "https://web.radio.antennevorarlberg.at/av-coffee",
+      "l": "https://images.radiovolna.net/_files/images/stations/2037/us3f595cc419b1982005731976_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "macjingle Heartbeat",
+      "s": "http://www.cartwall.at:7200/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2141/ef0r5974bfd37daf5093193000_130x130.webp",
+      "g": [
+        "Rock",
+        "Themes"
+      ]
+    },
+    {
+      "t": "RF1",
+      "s": "http://rs2.stream24.org:8120/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2217/ple9597459513871b719692491_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ANTENNE VORARLBERG Rock Radio",
+      "s": "https://web.radio.antennevorarlberg.at/av-rock",
+      "l": "https://images.radiovolna.net/_files/images/stations/24624/72031f22d451a5697c5fc859b451ed82_130x130.webp",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "macjingle Todays Best",
+      "s": "http://fc.macjingle.at:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2142/frqb5a227f76a3fb9427826632_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "88.6 Hard Rock",
+      "s": "https://radio886.at/streams/88.6_Hard_Rock/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/30908/56c157ea706b5f0bc5cfb80b09e473e4_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "ORF - Radio Wien",
+      "s": "https://orf-live.ors-shoutcast.at/wie-q1a",
+      "l": "https://images.radiovolna.net/_files/images/stations/2211/z9y85954aed24fe76704842339_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "HEROLD relax Radio",
+      "s": "http://94.136.28.13:8015/heroldrelax",
+      "l": "https://images.radiovolna.net/_files/images/stations/10295/629c9e745a497346991abae7d875f262_130x130.webp",
+      "g": [
+        "Rock",
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "FREEQUENNS (Liezen)",
+      "s": "http://livestream.freequenns.at/low-quality",
+      "l": "https://images.radiovolna.net/_files/images/stations/2182/mkji5974bc9b07afe126687340_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "radio-head",
+      "s": "https://radiohead.stream.laut.fm/radiohead?t302=2020-04-23_04-38-52&uuid=92407200-843a-463a-a0d2-2a583a70458c",
+      "l": "https://images.radiovolna.net/_files/images/stations/24952/6ed2ed49cded6e93e4e5ca3f0c1006ef_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "X-MAS",
+      "s": "http://www.radio-xmas.at:443/xmas",
+      "l": "https://images.radiovolna.net/_files/images/stations/26428/5e35fff5e09aa2b8e8e1c16d0032f537_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "laut.fm / bluffphonica",
+      "s": "https://bluffphonica.stream.laut.fm/bluffphonica?t302=2020-04-23_11-33-27&uuid=40965545-a3ff-4679-9352-2a7502356e83",
+      "l": "https://images.radiovolna.net/_files/images/stations/2108/hol85a22884c9f8c3380626291_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Technikum",
+      "s": "http://radiotechnikum.macjingle.at:8200/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/20790/f4c05433eb52e629c544e8dc8e5cad4c_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Love Songs (Schwarzach)",
+      "s": "https://web.radio.antennevorarlberg.at/av-lovesongs",
+      "l": "https://images.radiovolna.net/_files/images/stations/2039/b0i5595cc49404c2b916204989_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio LoungeFM - Oberösterreich",
+      "s": "https://s35.derstream.net//lounge-ooe.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427891/0e3312f10752ac1149703201e4c952c6_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "laut.fm / kompakt",
+      "s": "https://kompakt.stream.laut.fm/kompakt?t302=2020-04-23_12-00-07&uuid=0d888248-b4e4-4f87-ab8b-0155c2219aee",
+      "l": "https://images.radiovolna.net/_files/images/stations/2119/f94u5a228b1b9e8aa971509820_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Studio Enns",
+      "s": "http://streamplus54.leonex.de:12038/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/10164/jfi25a228ccaf12d3181217255_130x130.webp",
+      "g": [
+        "Themes",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Welle 1",
+      "s": "https://live.welle1.at:17128/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2235/s5xs59b7ecb758ed1237496973_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Soundportal",
+      "s": "https://rs8.stream24.net/radio-soundportal.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2221/qn425974ca76ad850512703524_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg (Schwarzach)",
+      "s": "https://web.radio.antennevorarlberg.at/av-live",
+      "l": "https://images.radiovolna.net/_files/images/stations/2032/m795595cc3217f1bf244966360_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Technikum Gold",
+      "s": "http://212.17.112.186:8204/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/33086/998351ee4eb2a60fe39f03639978672f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vienna International Radio",
+      "s": "http://us1.internet-radio.com:8168/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/23137/e3a165ce5b15f7d1e48482790cf44d39_130x130.webp",
+      "g": [
+        "Electronic",
+        "Rock",
+        "Alternative",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Digital Room Radio",
+      "s": "https://digitalroomradio.stream.laut.fm/digitalroomradio?t302=2020-04-23_12-59-39&uuid=d8439cf0-d09c-4335-83a7-4642105ef61e",
+      "l": "https://images.radiovolna.net/_files/images/stations/32855/188b84d679ec10c4892f81e7082efcfc_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Oldie Party Austria",
+      "s": "http://rs2.myradio24.de:8410/",
+      "l": "https://images.radiovolna.net/_files/images/stations/2159/fe0s5a2280779e2b3905871558_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Freies Radio Freistadt",
+      "s": "http://develop.servus.at:8000/frf",
+      "l": "https://images.radiovolna.net/_files/images/stations/2080/gifr5a228a61dc084300508950_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Arabella Austropop",
+      "s": "https://edge05.streams.arabella.at/arabella-austropop",
+      "l": "https://images.radiovolna.net/_files/images/stations/400954/wqgx595503d36a4ac366795646_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Schlager-Pur",
+      "s": "http://5.9.16.111:8350/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426842/5d01cfc5b059137b4ec234c7f95cb9f9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Arabella Holiday",
+      "s": "https://edge04.streams.arabella.at/arabella-holiday",
+      "l": "https://images.radiovolna.net/_files/images/stations/400956/nnt0595505a137817819065284_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Technikum City",
+      "s": "https://stream.radiotechnikum.at/TECHCITY",
+      "l": "https://images.radiovolna.net/_files/images/stations/33060/4612b1d898dfdfc9b4edae38c68af96c_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Rock FM",
+      "s": "http://stream.rockfm.at:8000/",
+      "l": "https://images.radiovolna.net/_files/images/stations/21950/mtcl5a228ea03d611632882559_130x130.webp",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Workout FM",
+      "s": "https://carina.streamerr.co:2020/8256/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/431302/70ca2b8be95cd54e7f09fc0086a3807d_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Radio Oberösterreich",
+      "s": "https://orf-live.ors-shoutcast.at/ooe-q1a",
+      "l": "https://images.radiovolna.net/_files/images/stations/2160/v6nn59b7edd1c9f48133075062_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio MagicHIT",
+      "s": "https://magichit-stream08.radiohost.de/magichit-live_mp3-192",
+      "l": "https://images.radiovolna.net/_files/images/stations/427890/e6415a114aabbb52e20da45ffd27065b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Welle 1 Kärnten",
+      "s": "http://live.welle1.at:5128/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/2234/huw15961138ca122d660493322_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "crunchy",
+      "s": "https://crunchy.stream.laut.fm/crunchy?t302=2020-04-23_02-35-13&uuid=ccc11ada-7ab2-4e78-9f16-9eff550b6bd3",
+      "l": "https://images.radiovolna.net/_files/images/stations/22104/ece93520ba4466831a93a7b288b3390e_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Klassik Radio (Österreich)",
+      "s": "https://live.streams.klassikradio.de/klassikradio-oesterreich/stream/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427886/c18556f0b9179e67c2d837121d8d22af_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Welle 1",
+      "s": "https://live.welle1.at:18128/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402201/id1n59b7efea9e479967112080_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "laut.fm / fmbase",
+      "s": "https://fmbase.stream.laut.fm/fmbase?t302=2020-04-23_08-38-31&uuid=34f090ed-532d-4861-b31c-0b4f1f2118b9",
+      "l": "https://images.radiovolna.net/_files/images/stations/2115/bwk15a22886678500327452131_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Die 90er (Schwarzach)",
+      "s": "https://web.radio.antennevorarlberg.at/av-90er",
+      "l": "https://images.radiovolna.net/_files/images/stations/2036/iys2595cc3e10e68d235172759_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "NJOY Radio Steiermark (Deutschlandsberg)",
+      "s": "http://studio.njoyradio.at:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2156/xu8e596de352d3d4c644969985_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rock Antenne (Österreich)",
+      "s": "http://mp3channels.webradio.de/rockantenne-oesterreich",
+      "l": "https://images.radiovolna.net/_files/images/stations/427881/f67ec4afce7432904fa9c61376bad106_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "laut.fm / smorgasbord",
+      "s": "https://smorgasbord.stream.laut.fm/smorgasbord?t302=2020-04-23_10-03-07&uuid=0a31aa2b-6459-4d2c-8261-74cbfc7a2fac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2128/t8fj5a228885ad595688479147_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Magic Galaxie",
+      "s": "http://server1.cityedv.at:8068/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/31526/af8c3a891c03a331027c4a2572b6f102_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Maria (Österreich)",
+      "s": "https://dreamsiteradiocp2.com/proxy/rmaustria1?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2190/ribh5a22895aed25a841320395_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Crop FM",
+      "s": "https://cropfm.at/mp3/sendung_ddrpop.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2052/j7be5a22832c472d7178317726_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "suigen",
+      "s": "https://suigen.stream.laut.fm/suigen?t302=2020-04-23_12-39-47&uuid=8b0e0583-3790-4e4d-a8e3-fab1003f247b",
+      "l": "https://images.radiovolna.net/_files/images/stations/23457/8178ce100955ca1e875b1e996485e50a_130x130.webp",
+      "g": [
+        "Themes",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Die 80er (Schwarzach)",
+      "s": "https://web.radio.antennevorarlberg.at/av-80er",
+      "l": "https://images.radiovolna.net/_files/images/stations/2035/k8oy595cc3a36f065917840666_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "ANTENNE VORARLBERG – 2000er Hits",
+      "s": "https://web.radio.antennevorarlberg.at/av-2000er",
+      "l": "https://images.radiovolna.net/_files/images/stations/28171/5a67f96d475dcb6cca6d5fd10b553c11_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio-val-canale",
+      "s": "http://51.255.104.137:50510/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2207/wlcc5a2281f2d4034854064686_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "OP (Oberpullendorf)",
+      "s": "http://streamplus30.leonex.de:17970/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2197/ebek5a2287bd25249428931254_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Unzmarkt-Frauenburg LIVE",
+      "s": "http://host6.cartwall.at:7320/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/24759/6eea191f4a2008e742cbdefa70a60dfb_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "ERF Süd (Österreich)",
+      "s": "http://stream.erf.at/erfplus_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/427884/2cae787f025666e87e434992c31b62ce_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Arabella Hot",
+      "s": "https://frontend.streams.arabella.at/arabella-hot/stream/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427882/20dac176c98ba0316f89ec7fe9f3f17a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Spirit Live Radio",
+      "s": "http://streamplus5.leonex.de:22830/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2222/nq35597b03bf71fca659932174_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Svobodni Radio Agora",
+      "s": "https://livestream.agora.at/agora",
+      "l": "https://images.radiovolna.net/_files/images/stations/2171/cste59b7ec23cd12c528789800_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "West (Voitsberg)",
+      "s": "http://west.cartwall.at:9640/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/23895/f3292f0dcfa408eae5788f03714b12f7_130x130.webp",
+      "g": [
+        "Folk",
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Das LiveRadio",
+      "s": "http://server1.cityedv.at:8105/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/23867/36df8be27e1f0137b33fa2d62e7477c5_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "City 23 Radio",
+      "s": "http://live.radiomax.technology/city23",
+      "l": "https://images.radiovolna.net/_files/images/stations/427888/0e3032ac4d56beea9ed68a5d18e2727b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Welle 1",
+      "s": "https://live.welle1.at:19000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/427880/28e9b6a521f3d484ba873796479119e3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Flamingo",
+      "s": "https://live.antenne.at/rf",
+      "l": "https://images.radiovolna.net/_files/images/stations/427885/c21466410f2c4d099263e4b435d6b468_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sternenfeuer-Radio",
+      "s": "http://51.255.104.137:8060/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/24773/1042507a11a7cd7486926d1da95ad602_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kronehit - Fresh",
+      "s": "https://secureonair.krone.at/kronehit22.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2099/wtqd5953c214a4ed8636117417_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Summer",
+      "s": "http://c18.radioboss.fm:8115/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/417523/q5bv5ccf30a8d2cb7357702343_130x130.webp",
+      "g": [
+        "Pop",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Waltl",
+      "s": "http://live.datamatix.at:8024/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/30355/7c798fb80d8898f22b153921c7cba0a8_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Arabella Relax",
+      "s": "https://frontend.streams.arabella.at/arabella-relax",
+      "l": "https://images.radiovolna.net/_files/images/stations/427883/253ffd8c3fa088e2d39cb275168b3f6a_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Campus & City Radio",
+      "s": "https://cr944.at:50443/cr944.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2046/prjf59b7f05b86e3e871854913_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "88.6 Der Musiksender",
+      "s": "https://radio886.at/streams/radio_88.6/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2024/v8bd59b7e48063a7a629314537_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "WelleFM",
+      "s": "http://streamplus13.leonex.de:18310/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26170/8a09528b4aaf4598f37a6671e84e4b40_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Fantasy Mix",
+      "s": "https://stream2.radiodienst.de/proxy/fantasy/fantasy",
+      "l": "https://images.radiovolna.net/_files/images/stations/427889/b9a023a0c309a72a3094ddaef1af4da6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mein Kinderradio",
+      "s": "http://stream01.zogl.net:8906/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/29624/0ea7a8ec490388c4fa9d63bd7ced453a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "JOYradio",
+      "s": "http://streamplus20.leonex.de:32978/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/23824/1eb2c41341e09cb30512bae6c96293ec_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Kronehit - Dance",
+      "s": "https://secureonair.krone.at/kronehit23.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2098/qo5m5953c1edee592567960196_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Alpenstar",
+      "s": "http://streamplus55.leonex.de:22674/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2172/iirj5a22871135471224830125_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Ypsilon",
+      "s": "http://live.radioypsilon.at:85/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2212/nbj05a228b91972cf156217972_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Proton - Das freie Radio",
+      "s": "https://radioproton.at:8443/proton",
+      "l": "https://images.radiovolna.net/_files/images/stations/2166/ehy55a2282eda0ed2216682686_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "City23",
+      "s": "https://live.radiomax.technology/city23",
+      "l": "https://images.radiovolna.net/_files/images/stations/420581/0e11f024f97aa271f948a9cda88bfb98_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Stahlradio",
+      "s": "http://54.36.135.248:5280/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/29393/8d2bdda7e37e7eef0bc20482c9c9280b_130x130.webp",
+      "g": [
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Hitradio Traunstein",
+      "s": "http://streamplus18.leonex.de:13496/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/23850/b783045cebde2cf13b11adf1d5c894c4_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Christkindl Radio (Schwarzach)",
+      "s": "https://web.radio.antennevorarlberg.at/av-christkindl",
+      "l": "https://images.radiovolna.net/_files/images/stations/2042/f48b595cc571c040d271996548_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jö Live",
+      "s": "https://stream.joelive.at/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420579/b94a26861c489f72d74a846358713c3a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "VM1",
+      "s": "https://radiovm1.fluidstream.eu/radiovm1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426821/16e1c6c56016afe983ef1c6dc520bbf5_130x130.webp",
+      "g": [
+        "Folk",
+        "Decades",
+        "News",
+        "Pop",
+        "Classical"
+      ]
+    },
+    {
+      "t": "laut.fm / electro-swing",
+      "s": "https://electro-swing.stream.laut.fm/electro-swing?t302=2020-04-23_06-08-10&uuid=c9dd14b5-af64-4f94-af31-1e914ba2c32f",
+      "l": "https://images.radiovolna.net/_files/images/stations/2114/kk7l5a227de5cda56375932456_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Seestadtradio",
+      "s": "http://94.23.166.210:5450/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/31373/c6f13511179c51da9762fd679e13a63e_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Campusradio JKU",
+      "s": "http://radio.oeh.jku.at:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/23792/7f61c4d655b6104615220d1afeeeac47_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Arabella Christmas",
+      "s": "https://edge51.streams.arabella.at/arabella-christmas",
+      "l": "https://images.radiovolna.net/_files/images/stations/26425/hk8a595502efdf6ee649047920_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "Helsinki",
+      "s": "https://live.helsinki.at:8088/live160.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2185/l667596de7c413562951785112_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "ОЕ 1 / ORF 1 - Radio Österreich",
+      "s": "https://ors-sn03.ors-shoutcast.at/oe1-q1a",
+      "l": "https://images.radiovolna.net/_files/images/stations/965/ks6n597c69bf2f011707591646_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "ORF 1 - Campus",
+      "s": "https://orf-live.ors-shoutcast.at/campus-q1a",
+      "l": "https://images.radiovolna.net/_files/images/stations/2157/j21f5954b81f669d3855813351_130x130.webp",
+      "g": [
+        "Themes",
+        "Folk"
+      ]
+    },
+    {
+      "t": "FRO / Freier Rundfunk Oberösterreich",
+      "s": "http://www.fro.at:8008/fro64.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8622/qtyk59b7ed602841a379468997_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Freies Radio Innsbruck FREIRAD",
+      "s": "http://stream.freirad.at:8002/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/22070/vczu59b7eb65a8bd1907464808_130x130.webp",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "ORANGE 94.0",
+      "s": "https://securestream.o94.at/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2161/mz7s59b7e537bf853089477570_130x130.webp",
+      "g": [
+        "Themes",
+        "Rock"
+      ]
+    },
+    {
+      "t": "ORF - Radio FM4",
+      "s": "https://orf-live.ors-shoutcast.at/fm4-q1a",
+      "l": "https://images.radiovolna.net/_files/images/stations/727/ungt5954b13e4fe97158656575_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Antenne Salzburg",
+      "s": "https://edge02.streamonkey.net/antsalzburg-live",
+      "l": "https://images.radiovolna.net/_files/images/stations/2029/ryet595cc13ee3da7184738020_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Antenne Tirol",
+      "s": "http://streamplus30.leonex.de:14840/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2031/nui2595cc2049e59b385448128_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kronehit 105.8",
+      "s": "https://secureonair.krone.at/kronehit1058.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kronehit-1058.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Volksmusik Pur",
+      "s": "https://volksmusikpur.stream.laut.fm/volksmusikpur?t302=2023-04-25_19-52-14&uuid=2dc42539-3b6a-41ee-8624-b5a557725311",
+      "l": "https://kuasark.com/files/stations-logos/volksmusik-pur.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio U1",
+      "s": "https://u1-tirol-stream06.radiohost.de/u1-tirol-live_mp3-192",
+      "l": "https://kuasark.com/files/stations-logos/radio-u1.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "ORF Radio Steiermark",
+      "s": "https://orf-live.ors-shoutcast.at/stm-q1a",
+      "l": "https://kuasark.com/files/stations-logos/orf-radio-steiermark.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Ö1",
+      "s": "https://orf-live.ors-shoutcast.at/oe1-q1a",
+      "l": "https://kuasark.com/files/stations-logos/o1.png",
+      "g": [
+        "Classical",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Böhmisch-Mährische Blasmusik",
+      "s": "https://boehmisch-maehrische-blasmusik.stream.laut.fm/boehmisch-maehrische-blasmusik?t302=2023-04-25_20-05-24&uuid=d6b4df67-a729-48f3-a67f-3dba181c80d7",
+      "l": "https://kuasark.com/files/stations-logos/bohmisch-mahrische-blasmusik.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "ORF Radio Tirol",
+      "s": "https://orf-live.ors-shoutcast.at/tir-q1a",
+      "l": "https://kuasark.com/files/stations-logos/orf-radio-tirol-at-21317.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Antenne Steiermark",
+      "s": "https://live.antenne.at/as",
+      "l": "https://kuasark.com/files/stations-logos/antenne-steiermark.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio AlpenStar",
+      "s": "https://server7517.streamplus.de/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-alpenstar.png",
+      "g": [
+        "Country",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Mein Kinderradio",
+      "s": "https://stream01.zogl.net:8907/stream",
+      "l": "https://kuasark.com/files/stations-logos/mein-kinderradio.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "ORF Radio Kärnten",
+      "s": "https://orf-live.ors-shoutcast.at/ktn-q1a",
+      "l": "https://kuasark.com/files/stations-logos/orf-radio-karnten.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Trilllingo",
+      "s": "https://trilllingo.stream.laut.fm/trilllingo?t302=2023-04-25_20-07-30&uuid=5ad7c5fc-de2c-47cf-8eba-bd19d6428769",
+      "l": "https://kuasark.com/files/stations-logos/trilllingo.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ORF Radio Salzburg",
+      "s": "https://orf-live.ors-shoutcast.at/sbg-q1a",
+      "l": "https://kuasark.com/files/stations-logos/orf-radio-salzburg-at-88574.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Bitter Sweet Music AT",
+      "s": "http://91.121.236.34:8520/at",
+      "l": "https://kuasark.com/files/stations-logos/bitter-sweet-music-at.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Dein Salzkammergutradio",
+      "s": "http://rs2.myradio24.de:8410/stream",
+      "l": "https://kuasark.com/files/stations-logos/dein-salzkammergutradio.png",
+      "g": [
+        "International",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Oberkrainer Pur",
+      "s": "https://server3.streamserver-unlimited.de:8309/stream",
+      "l": "https://kuasark.com/files/stations-logos/oberkrainer-pur.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "ORF Radio Burgenland",
+      "s": "https://orf-live.ors-shoutcast.at/bgl-q1a",
+      "l": "https://kuasark.com/files/stations-logos/orf-radio-burgenland.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Antenne Salzburg",
+      "s": "https://edge63.streamonkey.net/antsalzburg-live",
+      "l": "https://kuasark.com/files/stations-logos/antenne-salzburg.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Life Radio",
+      "s": "https://liferadio.streamabc.net/lfr-lr-mp3-192-7172638?sABC=64480q56%230%23n1q9s1ns4osoonq326452q0po510q6pp%23fgernz.yvsrenqvb.ng&aw_0_1st.playerid=stream.liferadio.at&amsparams=playerid:stream.liferadio.at;skey:1682443606",
+      "l": "https://kuasark.com/files/stations-logos/life-radio-at.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Energy - Wien",
+      "s": "https://scdn.nrjaudio.fm/at/36001/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b2&access_token=c1bd9f572d694d098fe13058cbb44202",
+      "l": "https://kuasark.com/files/stations-logos/energy-wien.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Electro Swing",
+      "s": "https://electro-swing.stream.laut.fm/electro-swing?t302=2023-04-25_19-52-16&uuid=3f67aa12-4ee3-4dbf-be77-22fe9c6af1c4",
+      "l": "https://kuasark.com/files/stations-logos/electro-swing.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "radio 88.6",
+      "s": "https://edge65.streamonkey.net/radio886-onair/stream/mp3?aggregator=online_radio_box_com",
+      "l": "https://kuasark.com/files/stations-logos/radio-886.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Easy Listening",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Melodie Exklusiv",
+      "s": "https://melodie-exklusiv.stream.laut.fm/melodie-exklusiv",
+      "l": "https://kuasark.com/files/stations-logos/melodie-exklusiv.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Blechradio 1 - böhmisch mährisch",
+      "s": "http://207.180.205.39:8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/blechradio-1-bohmisch-mahrisch.png",
+      "g": [
+        "Folk",
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Die 80er Hits",
+      "s": "https://edge61.radio.antennevorarlberg.at/av-80er",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-die-80er-hits.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Kronehit",
+      "s": "http://onair.krone.at/kronehit-hd.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kronehit.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg",
+      "s": "https://edge06.radio.antennevorarlberg.at/av-live",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "ORF Radio Vorarlberg",
+      "s": "https://orf-live.ors-shoutcast.at/vbg-q1a",
+      "l": "https://kuasark.com/files/stations-logos/orf-radio-vorarlberg.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Arabella Schlager",
+      "s": "https://edge12.streams.arabella.at/arabella-schlager",
+      "l": "https://kuasark.com/files/stations-logos/arabella-schlager-2225.png",
+      "g": [
+        "Classical",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Oldies but Goldies",
+      "s": "https://edge61.radio.antennevorarlberg.at/av-oldies",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-oldies-but-goldies.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other",
+        "News",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Antenne Tirol",
+      "s": "https://edge06.streamonkey.net/anttirol-live?aggregator=website",
+      "l": "https://kuasark.com/files/stations-logos/antenne-tirol.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Chillout Lounge",
+      "s": "https://edge14.radio.antennevorarlberg.at/av-chillout",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-chillout-lounge.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Bluffphonica",
+      "s": "https://bluffphonica.stream.laut.fm/bluffphonica",
+      "l": "https://kuasark.com/files/stations-logos/bluffphonica.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Moj Radio",
+      "s": "http://eu4.fastcast4u.com:5692/;*.mp3",
+      "l": "https://kuasark.com/files/stations-logos/moj-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Schlager Pur",
+      "s": "https://server3.streamserver-unlimited.de:8359/stream",
+      "l": "https://kuasark.com/files/stations-logos/schlager-pur.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Darksynthradio",
+      "s": "https://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-04-25_19-33-24&uuid=25223a77-eb06-4eb8-b7ad-f0df309683fd",
+      "l": "https://kuasark.com/files/stations-logos/darksynthradio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Alternative",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Harmonie",
+      "s": "http://host6.cartwall.at:9630/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-harmonie-at.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Classic Rock",
+      "s": "https://edge61.radio.antennevorarlberg.at/av-classicrock",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-classic-rock.png",
+      "g": [
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Superfly FM",
+      "s": "https://stream01.superfly.fm/live128",
+      "l": "https://kuasark.com/files/stations-logos/superfly-fm.png",
+      "g": [
+        "Blues",
+        "R&B and Urban",
+        "Jazz",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Soundstorm Relax Radio",
+      "s": "http://stream.soundstorm-radio.com:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/soundstorm-relax-radio.png",
+      "g": [
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio OE24",
+      "s": "https://server8775.streamplus.de/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-oe24.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "LoungeFM Digita",
+      "s": "https://s35.derstream.net/digital.mp3",
+      "l": "https://kuasark.com/files/stations-logos/loungefm-digita.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio SOL international",
+      "s": "https://stream.radiosol.at/webstream",
+      "l": "https://kuasark.com/files/stations-logos/radio-sol-international.png",
+      "g": [
+        "Easy Listening",
+        "R&B and Urban",
+        "Other",
+        "News",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Die 90er Hits",
+      "s": "https://edge61.radio.antennevorarlberg.at/av-90er",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-die-90er-hits.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Schlagerkult",
+      "s": "https://edge61.radio.antennevorarlberg.at/av-schlagerkult",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-schlagerkult.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Osttirol",
+      "s": "https://server10956.streamplus.de/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-osttirol.png",
+      "g": [
+        "Country",
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Uno",
+      "s": "http://radiouno.stream24.net/",
+      "l": "https://kuasark.com/files/stations-logos/radio-uno-at.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Partymix",
+      "s": "https://edge61.radio.antennevorarlberg.at/av-partymix",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-partymix.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio West",
+      "s": "https://r-west.stream.laut.fm/r-west?t302=2023-04-25_19-52-14&uuid=4205faff-85bc-429f-9efd-712e2bf134e1",
+      "l": "https://kuasark.com/files/stations-logos/radio-west-at.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg 2000er Hits",
+      "s": "https://edge04.radio.antennevorarlberg.at/av-2000er",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-2000er-hits.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Antenne Classic Rock",
+      "s": "https://live.antenne.at/clr",
+      "l": "https://kuasark.com/files/stations-logos/antenne-classic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "WEL 105.5",
+      "s": "https://wel105point5.stream.laut.fm/wel105point5?t302=2023-04-25_20-04-38&type=.mp3&uuid=27a696e0-d44f-437b-9446-e1592beabbbd",
+      "l": "https://kuasark.com/files/stations-logos/wel-1055.png",
+      "g": [
+        "Country",
+        "Classical",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Rock",
+      "s": "https://edge04.radio.antennevorarlberg.at/av-rock",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Fallout Radio",
+      "s": "https://fallout.stream.laut.fm/fallout?t302=2023-04-25_19-31-32&uuid=ecf3010d-f769-4282-97a9-50777fbe6205",
+      "l": "https://kuasark.com/files/stations-logos/fallout-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Love songs",
+      "s": "https://edge61.radio.antennevorarlberg.at/av-lovesongs",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-love-songs.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Arabella Rock",
+      "s": "https://edge04.streams.arabella.at/arabella-rock",
+      "l": "https://kuasark.com/files/stations-logos/arabella-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "CLUB F",
+      "s": "https://club-f.stream.laut.fm/club-f",
+      "l": "https://kuasark.com/files/stations-logos/club-f.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "House Industry",
+      "s": "https://houseindustry.stream.laut.fm/houseindustry",
+      "l": "https://kuasark.com/files/stations-logos/house-industry.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Top 40 Hits",
+      "s": "https://edge04.radio.antennevorarlberg.at/av-top40",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-top-40-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Arabella 80er",
+      "s": "https://edge01.streams.arabella.at/arabella-80er",
+      "l": "https://kuasark.com/files/stations-logos/arabella-80er-73271.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "News"
+      ]
+    },
+    {
+      "t": "Österreich Radio",
+      "s": "https://oesterreichradio.stream.laut.fm/oesterreichradio",
+      "l": "https://kuasark.com/files/stations-logos/osterreich-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Up the Irons",
+      "s": "https://uptheirons.stream.laut.fm/up_the_irons?t302=2023-04-25_20-07-36&uuid=e1551c57-3d69-4604-ad3c-ac98c1e32085",
+      "l": "https://kuasark.com/files/stations-logos/up-the-irons.png",
+      "g": [
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Energy - Rock",
+      "s": "https://scdn.nrjaudio.fm/at/36029/mp3_128.mp3?cdn_path=adswizz_lbs10&adws_out_1&access_token=d7cd2b81e0a7449f91dfd2eaf5cad6cd",
+      "l": "https://kuasark.com/files/stations-logos/energy-rock-78096.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Italiana",
+      "s": "https://edge02.radio.antennevorarlberg.at/av-italiana",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-italiana.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "80er-Zone",
+      "s": "https://80er-zone.stream.laut.fm/80er-zone?t302=2023-04-25_19-29-51&uuid=bb82b041-8025-4101-9a80-b430e852a1fb",
+      "l": "https://kuasark.com/files/stations-logos/80er-zone.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Christkindl",
+      "s": "https://edge64.radio.antennevorarlberg.at/av-christkindl",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-christkindl.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Energy - Lounge",
+      "s": "https://scdn.nrjaudio.fm/at/36015/mp3_128.mp3?cdn_path=adswizz_lbs7&adws_out_1&access_token=415b4e0282c445539430da2b6f24ec46",
+      "l": "https://kuasark.com/files/stations-logos/energy-lounge-2280.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Antenne Austro Hits",
+      "s": "https://live.antenne.at/auh",
+      "l": "https://kuasark.com/files/stations-logos/antenne-austro-hits.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Arabella Relax",
+      "s": "https://edge02.streams.arabella.at/arabella-relax",
+      "l": "https://kuasark.com/files/stations-logos/arabella-relax.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Kronehit Love",
+      "s": "https://secureonair.krone.at/kronehit14.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kronehit-love.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Nonstop",
+      "s": "https://edge61.radio.antennevorarlberg.at/av-nonstop",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-nonstop.png",
+      "g": [
+        "Easy Listening",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Kinder Radio",
+      "s": "https://edge12.radio.antennevorarlberg.at/av-kinderradio",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-kinder-radio.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "88.6 Hard Rock",
+      "s": "https://edge16.streamonkey.net/radio886-hardrock/stream/mp3?aggregator=online_radio_box_com",
+      "l": "https://kuasark.com/files/stations-logos/886-hard-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Life Radio 80er",
+      "s": "https://liferadio.streamabc.net/lfr-80er-mp3-320-5746262",
+      "l": "https://kuasark.com/files/stations-logos/life-radio-80er.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Seniorkom",
+      "s": "http://93.185.134.22:8080/seniorkom",
+      "l": "https://kuasark.com/files/stations-logos/radio-seniorkom.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Alpenfunk Radio",
+      "s": "http://81.169.174.242:7000/;audio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/alpenfunk-radio.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "CITY23 - Der neue Soundtrack für Wien",
+      "s": "https://edge67.stream.maxfive.com/max5-city23",
+      "l": "https://kuasark.com/files/stations-logos/city23-der-neue-soundtrack-fur-wien.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Balkan EU",
+      "s": "http://cast2.name.ba:8185/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-balkan-eu.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Antenne Christmas Hits",
+      "s": "https://live.antenne.at/chr",
+      "l": "https://kuasark.com/files/stations-logos/antenne-christmas-hits.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Arabella Wiener Schmäh",
+      "s": "https://edge01.streams.arabella.at/arabella-wienerschmaeh",
+      "l": "https://kuasark.com/files/stations-logos/arabella-wiener-schmah.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Energy - Dance",
+      "s": "https://scdn.nrjaudio.fm/at/36041/mp3_128.mp3?cdn_path=adswizz_lbs11&adws_out_1&access_token=62befe3ea93c44d99c8aa48e0d233b6a",
+      "l": "https://kuasark.com/files/stations-logos/energy-dance-2278.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Styrialounge",
+      "s": "https://styrialounge.out.airtime.pro/styrialounge_a",
+      "l": "https://kuasark.com/files/stations-logos/styrialounge-at-73919.png",
+      "g": [
+        "Blues",
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Coffee Hits",
+      "s": "https://edge02.radio.antennevorarlberg.at/av-coffee",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-coffee-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg 70er Hits",
+      "s": "https://edge14.radio.antennevorarlberg.at/av-70er",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-70er-hits.png",
+      "g": [
+        "Classical",
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hitradio Traunstein",
+      "s": "http://streamplus18.leonex.de:13496/;071500860154629stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-traunstein.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Austria - Best of 60s",
+      "s": "https://60.securestream.radioaustria.at/60",
+      "l": "https://kuasark.com/files/stations-logos/radio-austria-best-of-60s.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Life Radio Tirol",
+      "s": "http://liferadio-tirol.streamabc.net/43-lrtirolsimulcast-mp3-192-7141014?sABC=6509706n%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695117418",
+      "l": "https://kuasark.com/files/stations-logos/life-radio-tirol.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kronehit Digital",
+      "s": "https://secureonair.krone.at/kronehit-hd.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kronehit-digital.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sockenschuss-x",
+      "s": "https://sockenschuss-x.stream.laut.fm/sockenschuss-x",
+      "l": "https://kuasark.com/files/stations-logos/sockenschuss-x.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Kronehit Latino",
+      "s": "https://secureonair.krone.at/kronehit05.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kronehit-latino.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Austria - Best of 70s",
+      "s": "https://70.securestream.radioaustria.at/70",
+      "l": "https://kuasark.com/files/stations-logos/radio-austria-best-of-70s.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Austria - Best of Schlager",
+      "s": "https://schlager.securestream.radioaustria.at/schlager?aw_0_req.gdpr=true",
+      "l": "https://kuasark.com/files/stations-logos/radio-austria-best-of-schlager.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "LoungeFM 100% Austria",
+      "s": "https://s35.derstream.net/100austria.mp3",
+      "l": "https://kuasark.com/files/stations-logos/loungefm-100-austria.png",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg Dance Radio",
+      "s": "https://edge14.radio.antennevorarlberg.at/av-dance",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-dance-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "1000-electronic-dance-music",
+      "s": "https://1000-electronic-dance-music.stream.laut.fm/1000-electronic-dance-music?t302=2023-04-25_19-50-22&uuid=21206dba-e522-4d87-8caa-3fe735ae5df2",
+      "l": "https://kuasark.com/files/stations-logos/1000-electronic-dance-music-at-85457.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Energy - Mastermix",
+      "s": "https://scdn.nrjaudio.fm/at/36035/mp3_128.mp3?cdn_path=adswizz_lbs10&adws_out_2&access_token=bf12bbff894245bf8f194fea5f8c97fe",
+      "l": "https://kuasark.com/files/stations-logos/energy-mastermix-2203.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Energy - Hits",
+      "s": "https://scdn.nrjaudio.fm/at/36045/mp3_128.mp3?cdn_path=adswizz_lbs9&adws_out_1&access_token=f9508ae90d90471f8d71b8086c151b01",
+      "l": "https://kuasark.com/files/stations-logos/energy-hits-2279.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg PLUS Weihnachten",
+      "s": "https://edge06.radio.antennevorarlberg.at/av-plusweihnachten",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-plus-weihnachten.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio-M1",
+      "s": "https://m1.stream.laut.fm/m1?t302=2023-04-25_19-30-40&uuid=9af25521-7c71-4ea8-83fe-b40b3ae42c7f",
+      "l": "https://kuasark.com/files/stations-logos/radio-m1-at.png",
+      "g": [
+        "Rock",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "http://live.radiomaria.at:8000/rma2",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-at.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Hot 100 - Top 40ty",
+      "s": "https://radio-hot100.stream.laut.fm/radio-hot100",
+      "l": "https://kuasark.com/files/stations-logos/hot-100-top-40ty.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Traveller",
+      "s": "https://traveller.stream.laut.fm/traveller?t302=2023-04-25_20-07-30&uuid=3625f3c5-01b5-4ca7-b8e6-458aee458770",
+      "l": "https://kuasark.com/files/stations-logos/traveller.png",
+      "g": [
+        "Blues",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Arabella 70er",
+      "s": "https://edge60.streams.arabella.at/arabella-70er",
+      "l": "https://kuasark.com/files/stations-logos/arabella-70er-91983.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg 2010er Hits",
+      "s": "https://edge14.radio.antennevorarlberg.at/av-2010er",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-2010er-hits.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Max",
+      "s": "https://edge13.stream.maxfive.com/max5-joelive",
+      "l": "https://kuasark.com/files/stations-logos/radio-max-at.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "HITMIX Österreich",
+      "s": "https://hitmixoesterreich.stream.laut.fm/hitmix_oesterreich?t302=2023-04-25_20-06-05&uuid=4243e5d1-1b2a-41ea-984d-a8a73443d23d",
+      "l": "https://kuasark.com/files/stations-logos/hitmix-osterreich.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Museumsradio AM 1476",
+      "s": "https://museum.streamserver24.com:8080/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/museumsradio-am-1476.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Stahlradio",
+      "s": "https://simba.streampanel.cloud:5280/stream",
+      "l": "https://kuasark.com/files/stations-logos/stahlradio.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg PLUS Neue Hits",
+      "s": "https://edge16.radio.antennevorarlberg.at/av-plusneuehits",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-plus-neue-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Habibi ",
+      "s": "http://server31993.streamplus.de/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-habibi-.png",
+      "g": [
+        "Country",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Flachgau FM",
+      "s": "https://flachgaufm.stream.laut.fm/flachgaufm?t302=2023-04-25_20-05-46&uuid=74830232-a6bb-4881-b889-4967e3e007c4",
+      "l": "https://kuasark.com/files/stations-logos/flachgau-fm.png",
+      "g": [
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Insane Rock Station",
+      "s": "https://insanerockstation.stream.laut.fm/insane_rock_station?t302=2023-04-25_20-06-09&uuid=15f1ea72-b6fe-4ea6-ad18-deb83b3a345e",
+      "l": "https://kuasark.com/files/stations-logos/insane-rock-station.png",
+      "g": [
+        "Blues",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Arabella 90er",
+      "s": "https://edge52.streams.arabella.at/arabella-90er",
+      "l": "https://kuasark.com/files/stations-logos/arabella-90er-2170.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Antenne Verrückte Stunde",
+      "s": "https://live.antenne.at/cra",
+      "l": "https://kuasark.com/files/stations-logos/antenne-verruckte-stunde.png",
+      "g": [
+        "Rock",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Austria - Best of 2000",
+      "s": "https://2000.securestream.radioaustria.at/2000",
+      "l": "https://kuasark.com/files/stations-logos/radio-austria-best-of-2000.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Antenne Vorarlberg PLUS 80er,90er",
+      "s": "https://edge16.radio.antennevorarlberg.at/av-plus80er90er",
+      "l": "https://kuasark.com/files/stations-logos/antenne-vorarlberg-plus-80er90er.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Spirit Live Radio",
+      "s": "http://streamplus5.leonex.de:22830/;62353146728128195stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/spirit-live-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Soundlarge",
+      "s": "https://www.soundlarge.at/wirliebenmusik/stream",
+      "l": "https://kuasark.com/files/stations-logos/soundlarge.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "VillachFM",
+      "s": "https://villachfm.stream.laut.fm/villachfm",
+      "l": "https://kuasark.com/files/stations-logos/villachfm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vienna Radio One",
+      "s": "https://s3.radio.co/sc19fd04dc/listen",
+      "l": "https://kuasark.com/files/stations-logos/vienna-radio-one.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Austria - Love Music",
+      "s": "https://love.securestream.radioaustria.at/love",
+      "l": "https://kuasark.com/files/stations-logos/radio-austria-love-music.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Penny FM",
+      "s": "https://listen.radiomax.technology/penny-italy",
+      "l": "https://kuasark.com/files/stations-logos/penny-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Life Radio 90er",
+      "s": "https://liferadio.streamabc.net/lfr-90er-mp3-192-2243944?sABC=650976q5%230%234r22236104s8nr3n29rss56oo6qo07n6%23fgernz.yvsrenqvb.ng&aw_0_1st.playerid=stream.liferadio.at&amsparams=playerid:stream.liferadio.at;skey:1695119061",
+      "l": "https://kuasark.com/files/stations-logos/life-radio-90er.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Life Radio Chill Out",
+      "s": "https://liferadio.streamabc.net/lfr-chillout-mp3-192-3102923?sABC=650976q5%230%234r22236104s8nr3n29rss56oo6qo07n6%23fgernz.yvsrenqvb.ng&aw_0_1st.playerid=stream.liferadio.at&amsparams=playerid:stream.liferadio.at;skey:1695119061",
+      "l": "https://kuasark.com/files/stations-logos/life-radio-chill-out.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio OP",
+      "s": "https://server4.streamserver24.com:26250/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-op.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "BleakRadio",
+      "s": "https://bleakradio.stream.laut.fm/bleakradio?t302=2023-04-25_20-05-24&uuid=df74d5fa-1034-42a4-bb8e-12071d2b8948",
+      "l": "https://kuasark.com/files/stations-logos/bleakradio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Energy - Fitness",
+      "s": "https://scdn.nrjaudio.fm/at/36021/mp3_128.mp3?cdn_path=adswizz_lbs7&adws_out_3&access_token=a434131bd9ae49279180fb330cab2819",
+      "l": "https://kuasark.com/files/stations-logos/energy-fitness-2935.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Austria - Best of Austria",
+      "s": "https://austro.securestream.radioaustria.at/austro",
+      "l": "https://kuasark.com/files/stations-logos/radio-austria-best-of-austria.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Austria - Best of 80s",
+      "s": "https://80.securestream.radioaustria.at/80",
+      "l": "https://kuasark.com/files/stations-logos/radio-austria-best-of-80s.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Freies Radio Salzkammergut",
+      "s": "https://streaming.xaok.org/frs.ogg",
+      "l": "https://kuasark.com/files/stations-logos/freies-radio-salzkammergut.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Technikum One",
+      "s": "https://stream.radiotechnikum.at/TECHONE",
+      "l": "https://kuasark.com/files/stations-logos/radio-technikum-one.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Energy - Urban",
+      "s": "https://scdn.nrjaudio.fm/at/55099/mp3_128.mp3?cdn_path=adswizz_lbs11&adws_out_1&access_token=2c4f0d9058f947a5b790c8a1d733960e",
+      "l": "https://kuasark.com/files/stations-logos/energy-urban-2912.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "48ap",
+      "s": "https://48ap.stream.laut.fm/48ap",
+      "l": "https://kuasark.com/files/stations-logos/48ap.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Antenne Partyhitmix",
+      "s": "https://live.antenne.at/ost",
+      "l": "https://kuasark.com/files/stations-logos/antenne-partyhitmix.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Best of Hip Hop",
+      "s": "https://thebestofhiphop.stream.laut.fm/thebestofhiphop",
+      "l": "https://kuasark.com/files/stations-logos/the-best-of-hip-hop.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Absolut Charts Wow",
+      "s": "https://acw.stream.laut.fm/acw",
+      "l": "https://kuasark.com/files/stations-logos/absolut-charts-wow.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Together",
+      "s": "https://together.stream.laut.fm/together",
+      "l": "https://kuasark.com/files/stations-logos/together.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "BILLHALEYANDFRIENDS",
+      "s": "https://billhaleyandfriends.stream.laut.fm/billhaleyandfriends",
+      "l": "https://kuasark.com/files/stations-logos/billhaleyandfriends.png",
+      "g": [
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "jö.live - Mein Tag. Meine Musik.",
+      "s": "https://edge05.stream.maxfive.com/max5-joelive",
+      "l": "https://kuasark.com/files/stations-logos/jolive-mein-tag-meine-musik.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Südtirol",
+      "s": "https://server7.streamserver24.com:8080/proxy/radiosue?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-sudtirol.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Energy - Acoustic Hits",
+      "s": "https://scdn.nrjaudio.fm/at/36027/mp3_128.mp3?cdn_path=adswizz_lbs11&adws_out_3&access_token=d975b187ff18468b843ec88efd46f5f8",
+      "l": "https://kuasark.com/files/stations-logos/energy-acoustic-hits-2933.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Energy - Love",
+      "s": "https://scdn.nrjaudio.fm/at/36027/mp3_128.mp3?cdn_path=adswizz_lbs11&adws_out_3&access_token=8633bc81351444e4b02f8344d793147e",
+      "l": "https://kuasark.com/files/stations-logos/energy-love-2934.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Antenne Fitness Hits",
+      "s": "https://live.antenne.at/fnh",
+      "l": "https://kuasark.com/files/stations-logos/antenne-fitness-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio NJOY 91.3",
+      "s": "http://94.136.28.9:8005/njoyradio-hd",
+      "l": "https://kuasark.com/files/stations-logos/radio-njoy-913.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "stations": [
+    {
+      "t": "Quran",
+      "s": "https://n02.radiojar.com/0tpy1h0kxtzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423414/d3fd226c908bdce329090348555028a2_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RadioSunna",
+      "s": "http://andromeda.shoutca.st:8189/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405944/npt25b6939b96a387347627754_130x130.webp",
+      "g": [
+        "Talk",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Alif Alif FM",
+      "s": "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405429/wao75a45168208e0a031151555_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rotana FM",
+      "s": "http://curiosity.shoutca.st:6035/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405427/fmmj5a45149267784443037770_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Allahu Akbar Radio",
+      "s": "http://66.45.232.132:9996/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/1851/xvas597aef4da3b87031170203_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "UFM KSA",
+      "s": "http://69.61.26.75:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405428/p6gc5a4515fd358f0998912290_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "http://s2.voscast.com:11376/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/21665/3a955f9cc120a5be179a91ec33673d60_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "http://s2.voscast.com:11376/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/408617/bcib5bffb56a70f34259683419_130x130.webp",
+      "g": [
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Asharq with Bloomberg / راديو الشرق مع بلومبرغ",
+      "s": "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/429752/18d2329cb4bee34fd8231d38bcecdc2d_130x130.webp",
+      "g": [
+        "Pop",
+        "Classical"
+      ]
+    },
+    {
+      "t": "AlifAlif FM",
+      "s": "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428406/7dbacc073b6af7421c65911835d5e714_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MBC FM",
+      "s": "https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_1.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428407/b800f60c8372ed18627bb4a3d6474013_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "KSA Quran Makkah",
+      "s": "http://mediaserver2.islamicity.com:8000/SaudiTVArabic",
+      "l": "https://kuasark.com/files/stations-logos/ksa-quran-makkah.png",
+      "g": [
+        "Classical",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Miraath's Holy Quraan Radio",
+      "s": "https://radio.al7eah.net/8010/stream",
+      "l": "https://kuasark.com/files/stations-logos/miraaths-holy-quraan-radio.png",
+      "g": [
+        "Classical",
+        "Other",
+        "Inspirational",
+        "Talk"
+      ]
+    },
+    {
+      "t": "KSA Sunnah Madinah",
+      "s": "http://mediaserver2.islamicity.com:8000/SaudiTVEnglish",
+      "l": "https://kuasark.com/files/stations-logos/ksa-sunnah-madinah.png",
+      "g": [
+        "Classical",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "https://s1.voscast.com:11377/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mix-fm-29663.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Quran Channel",
+      "s": "http://mediaserver2.islamicity.com:8000/QuranRadio",
+      "l": "https://kuasark.com/files/stations-logos/quran-channel.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Aljazera quran",
+      "s": "https://strw1.openstream.co/2388",
+      "l": "https://kuasark.com/files/stations-logos/aljazera-quran.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sabeel Al Anbiyya",
+      "s": "https://radio.al7eah.net/8042/stream",
+      "l": "https://kuasark.com/files/stations-logos/sabeel-al-anbiyya.png",
+      "g": [
+        "Classical",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "ICTunes",
+      "s": "http://mediaserver2.islamicity.com:8000/ictunes",
+      "l": "https://kuasark.com/files/stations-logos/ictunes.png",
+      "g": [
+        "Pop",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Favradio",
+      "s": "http://stream.hornhost.com:8109/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/favradio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "UFM Radio",
+      "s": "http://stream.ufmradio.com:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/ufm-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "اذاعة القرأن الكريم",
+      "s": "http://quran.sr.sa/live-streaming",
+      "l": "https://kuasark.com/files/stations-logos/adhat-alqran-alkrym.png",
+      "g": [
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "MBC FM",
+      "s": "https://www.mbc.net/ar/mbc-fm.html",
+      "l": "https://kuasark.com/files/stations-logos/mbc-fm.png",
+      "g": [
+        "Classical",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Miraath's Deutsch Radio",
+      "s": "https://radio.al7eah.net/8032/stream",
+      "l": "https://kuasark.com/files/stations-logos/miraaths-deutsch-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Asharq",
+      "s": "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-asharq.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "106.4 Musicjamofw",
+      "s": "https://ecast.myautodj.com/musicjamofw",
+      "l": "https://kuasark.com/files/stations-logos/1064-musicjamofw.png",
+      "g": [
+        "Reggae",
+        "Rock",
+        "Themes"
+      ]
+    },
+    {
+      "t": "84.7 Bee Cool Fm",
+      "s": "https://ny.mysonicserver.com/8054/stream",
+      "l": "https://kuasark.com/files/stations-logos/847-bee-cool-fm.png",
+      "g": [
+        "Rock",
+        "Themes"
+      ]
+    },
+    {
+      "t": "D' JAM RADIO FM",
+      "s": "https://stream-050.zeno.fm/n1q5f0bsuf9uv?zs=TdjxaFiaTuqiusCE5EfKkQ",
+      "l": "https://kuasark.com/files/stations-logos/d-jam-radio-fm.png",
+      "g": [
+        "Reggae",
+        "Rock",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Six sister newly fm",
+      "s": "https://stream-148.zeno.fm/te61rbf68nhvv?zs=gU5Q9GuFQ7u1gE4-fieMvA",
+      "l": "https://kuasark.com/files/stations-logos/six-sister-newly-fm.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "101.69 Marites Fm Radio",
+      "s": "https://ny.mysonicserver.com/8044/stream",
+      "l": "https://kuasark.com/files/stations-logos/10169-marites-fm-radio.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "101.8 Artys Fm",
+      "s": "https://stream-148.zeno.fm/754f5ent9bhvv?zs=eOpqpU8aSPWnMcn3B9HKpw",
+      "l": "https://kuasark.com/files/stations-logos/1018-artys-fm.png",
+      "g": [
+        "Rock",
+        "Themes"
+      ]
+    },
+    {
+      "t": "104.2 MIXLOVERS FM",
+      "s": "https://stream-050.zeno.fm/vzw6cam19nhvv?zs=ym9OkRLyQ4m8xuzU5IHHDA",
+      "l": "https://kuasark.com/files/stations-logos/1042-mixlovers-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "69.9 OL OL DESSERTO FM",
+      "s": "https://stream-052.zeno.fm/gkxde584wuhvv?zs=hc5RnBDRSVy5mUNwHrQ-tg",
+      "l": "https://kuasark.com/files/stations-logos/699-ol-ol-desserto-fm.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Tzgospel ( saudi Arabia)",
+      "s": "https://stream-152.zeno.fm/766dqmn6schvv?zs=VrPEDRjRS36mFBovhQeDbg",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-saudi-arabia.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Saudi Aramco Studio 1 FM 94.1 Dharan",
+      "s": "http://ice31.securenetsystems.net/STUDIO1",
+      "l": "https://kuasark.com/files/stations-logos/saudi-aramco-studio-1-fm-941-dharan.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Saudi Aramco Studio 2 FM 101.4 Dharan",
+      "s": "http://ice31.securenetsystems.net/STUDIO2",
+      "l": "https://kuasark.com/files/stations-logos/saudi-aramco-studio-2-fm-1014-dharan.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Rotana FM",
+      "s": "http://curiosity.shoutca.st:6035/;",
+      "l": "https://kuasark.com/files/stations-logos/rotana-fm-sa.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "الرقية الشرعية",
+      "s": "http://live.mp3quran.net:9936/",
+      "l": "https://kuasark.com/files/stations-logos/alrqyt-alshryt.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Quran 100 FM",
+      "s": "http://m.live.net.sa:1935/live/quransa/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/quran-100-fm.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Annahj - Islam Arabic - إذاعة النهج الواضح",
+      "s": "https://node33.obviousapproach.com:9000/stream",
+      "l": "https://kuasark.com/files/stations-logos/annahj-islam-arabic-adhat-alnhj-alwadh.png",
+      "g": [
+        "Other",
+        "News",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Al Arabiya FM",
+      "s": "https://fm.alarabiya.net/fm/myStream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/al-arabiya-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "الشيخ إدريس أبكر برواية حفص",
+      "s": "http://server2.quraan.us:9300/;*.mp3",
+      "l": "https://kuasark.com/files/stations-logos/alshykh-adrys-abkr-brwayt-hfs.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "الشيخ توفيق الصايغ برواية حفص",
+      "s": "http://quraan.us:9796/;*.mp3",
+      "l": "https://kuasark.com/files/stations-logos/alshykh-twfyq-alsaygh-brwayt-hfs.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "القارئ علي الحذيفي رواية قالون",
+      "s": "https://qurango.net/radio/ali_alhuthaifi_qalon",
+      "l": "https://kuasark.com/files/stations-logos/alqary-ly-alhdhyfy-rwayt-qalwn.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "تفسير القرآن الكريم",
+      "s": "https://qurango.net/radio/tafseer",
+      "l": "https://kuasark.com/files/stations-logos/tfsyr-alqran-alkrym.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "تفسير السعدي",
+      "s": "https://server03.quran.com.kw:7004/;*.mp3",
+      "l": "https://kuasark.com/files/stations-logos/tfsyr-alsdy.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "إذاعة محمد أيوب",
+      "s": "https://qurango.net/radio/mohammed_ayyub",
+      "l": "https://kuasark.com/files/stations-logos/adhat-mhmd-aywb.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Mp3Quran Beautiful Recitations",
+      "s": "https://qurango.net/radio/salma",
+      "l": "https://kuasark.com/files/stations-logos/mp3quran-beautiful-recitations.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Fred Film Radio(لغة عربية)",
+      "s": "https://s10.webradio-hosting.com/proxy/fredradioar/stream",
+      "l": "https://kuasark.com/files/stations-logos/fred-film-radiolght-rbyt.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

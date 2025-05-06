@@ -1,0 +1,1040 @@
+{
+  "stations": [
+    {
+      "t": "Europa 2",
+      "s": "https://stream.bauermedia.sk/europa2.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/524/sflt596f99fd9c335884318992_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "HITRADIO SLOVAKIA",
+      "s": "https://hitradioslovakia.stream.laut.fm/hitradioslovakia",
+      "l": "https://images.radiovolna.net/_files/images/stations/426117/cd73b3e4817098727c185b34a7fcc3ef_130x130.webp",
+      "g": [
+        "Pop",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Anténa Rock",
+      "s": "https://stream.bauermedia.sk/rock-hi.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401865/gxc259aeb759a6200122220378_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RTVS Rádio Slovensko",
+      "s": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8702/5ba4b89ee9d435e90195cd25b22a0223_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Melody",
+      "s": "https://stream.bauermedia.sk/melody-hi.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401868/211a4f197e54403c247692dcb7bb2000_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTVS Rádio Regina (Východ)",
+      "s": "https://icecast.stv.livebox.sk/regina-ke_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/606/b7192ddab97363f6e73796a7d7eb41c4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ah, yes.radio steishn",
+      "s": "https://c30.radioboss.fm:18255/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423917/43d112786f259fef467378cd35ad6498_130x130.webp",
+      "g": [
+        "Decades",
+        "International",
+        "Pop",
+        "Folk",
+        "Electronic",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Vlna",
+      "s": "http://stream.radiovlna.sk/vlna-hi.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401866/wtwc59aeb8cd9730d684344539_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "RTVS Rádio Junior",
+      "s": "https://icecast.stv.livebox.sk/junior_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8696/6dc79f0ad22352ead809a6ca7655e8a0_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Fun rádio",
+      "s": "http://stream.funradio.sk:8000/fun64.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/23821/123a8ee098506479c84c3c1bb123fb30_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Fun Radio - CZ-SK",
+      "s": "https://stream.funradio.sk/cs128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/10016/28506fbad32d49868d9316731728dd4a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTVS Rádio Devín",
+      "s": "https://icecast.stv.livebox.sk/devin_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8694/220d08d8619570b1cc81af4f0ff68b20_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fun Radio Dance",
+      "s": "https://stream.funradio.sk/dance128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/26523/1b4e5e500ecd71ddccdd79482a70dbc4_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RTVS Rádio FM",
+      "s": "https://icecast.stv.livebox.sk/fm_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8695/7307d3be66e4fc827ba6fd2038f6050f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio SiTy",
+      "s": "https://radiosity.online:8000/aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401863/bccf7bf2db51297c4a965a77154215cd_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Rádio 7",
+      "s": "https://play.radio7.sk/128",
+      "l": "https://images.radiovolna.net/_files/images/stations/401867/e48f3b0c349b33f0fec803f14f4d8a57_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "RTVS Rádio Litera",
+      "s": "https://icecast.stv.livebox.sk/litera_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8698/8204958e7247ae33215effcfdc009ac0_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Košice",
+      "s": "http://stream.ecce.sk:8000/radiokosice-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/21387/tdvn59aeecfd8aac9249783449_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTVS Rádio Pyramída",
+      "s": "https://icecast.stv.livebox.sk/pyramida_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8697/1f72f4e58e01afedfbd9c01adab2b0c7_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Dobré rádio",
+      "s": "https://stream.dobreradio.sk:9813/dobreradio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427951/d533c06bbd0b18a778c1e90adf31b92e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fun Radio",
+      "s": "http://stream.funradio.sk:8000/fun128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fun-radio-26558.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Expres",
+      "s": "https://stream.expres.sk/128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-expres.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Vlna",
+      "s": "https://stream.radiovlna.sk/vlna-hi.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-vlna.png",
+      "g": [
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Jemné Melódie",
+      "s": "http://stream.bauermedia.sk/melody-hi.mp3",
+      "l": "https://kuasark.com/files/stations-logos/jemne-melodie.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Info Vojna",
+      "s": "http://ply.infovojna.bz:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/info-vojna.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Slobodny Vysielac",
+      "s": "https://vysielanie.online/radio/8010/aac",
+      "l": "https://kuasark.com/files/stations-logos/slobodny-vysielac.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Regina Západ",
+      "s": "https://icecast.stv.livebox.sk/regina-ba_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-regina-zapad.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RTVS R Patria",
+      "s": "https://icecast.stv.livebox.sk/patria_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rtvs-r-patria.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Janko Hrasko",
+      "s": "http://78.24.9.110:31088/;",
+      "l": "https://kuasark.com/files/stations-logos/janko-hrasko.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Viva",
+      "s": "http://stream.sepia.sk:8000/viva128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-viva-sk.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "RTVS R Pyramída",
+      "s": "https://icecast.stv.livebox.sk/klasika_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rtvs-r-pyramida.png",
+      "g": [
+        "Classical",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Vlna Golden Hits",
+      "s": "https://stream.radiovlna.sk/gold-hi.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-vlna-golden-hits.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "RTVS R Slovakia Int",
+      "s": "https://icecast.stv.livebox.sk/rsi_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rtvs-r-slovakia-int.png",
+      "g": [
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "80s 90s Party Mix Radio",
+      "s": "https://stream-067.zeno.fm/b4wkbpdn6s8uv?zs=QVX7GUt4TxKwAV8Q1-ZxRg",
+      "l": "https://kuasark.com/files/stations-logos/80s-90s-party-mix-radio.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "HITRADIO SLOVAKIA",
+      "s": "https://hitradioslovakia.stream.laut.fm/hitradioslovakia?t302=2023-04-25_20-24-35&uuid=a5373936-938a-4648-aa5d-b1bba936904f",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-slovakia.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio iRock",
+      "s": "https://radioserver.online:9927/irockHQ.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-irock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Classic Rock Radio",
+      "s": "https://stream-155.zeno.fm/gvz5q869n98uv?zs=h2h9NptuTkezy8eRHzuxjg",
+      "l": "https://kuasark.com/files/stations-logos/classic-rock-radio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio WOW",
+      "s": "https://radioserver.online:9816/radiowow.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-wow-sk.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Retro Dance Radio",
+      "s": "https://retrodanceradio.com:1045/stream",
+      "l": "https://kuasark.com/files/stations-logos/retro-dance-radio.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Záhorácke rádio",
+      "s": "http://live.zahorackeradio.sk:8000/zr128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/zahoracke-radio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Rusyn.fm",
+      "s": "http://stream.rusyn.fm/rusyny.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rusynfm.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio THE END",
+      "s": "https://solid1.streamupsolutions.com/proxy/lesgqyll/BAradio",
+      "l": "https://kuasark.com/files/stations-logos/radio-the-end-sk-82144.png",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Frontinus Radio",
+      "s": "http://stream.frontinus.sk:8000/frontinus64.mp3",
+      "l": "https://kuasark.com/files/stations-logos/frontinus-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio KIKS",
+      "s": "https://stream.radiokiks.sk/kiks_hq.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-kiks.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Fun Radio 80's-90's",
+      "s": "https://stream.funradio.sk:18443/80-90-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fun-radio-80s-90s.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "RadioBela",
+      "s": "http://65.109.81.84:8855/live",
+      "l": "https://kuasark.com/files/stations-logos/radiobela.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Fun Radio CZ-SK",
+      "s": "https://stream.funradio.sk:18443/cs128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fun-radio-cz-sk.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Tatras International",
+      "s": "http://s32.myradiostream.com:10486/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-tatras-international.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SKY Rádio",
+      "s": "http://stream.skyradio.sk:8000/sky128",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-sk.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Fun Radio Dance",
+      "s": "https://stream.funradio.sk:18443/dance128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fun-radio-dance.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "BB FM rádio",
+      "s": "http://stream.bbfm.sk/bbfm128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/bb-fm-radio.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "RádioLOKÁL",
+      "s": "https://mpc1.mediacp.eu/stream/radiolokal/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radiolokal.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fresh Radio Oldies",
+      "s": "http://8.38.78.173:8099/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/fresh-radio-oldies.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "FRESH rádio",
+      "s": "https://icecast2.radionet.sk/freshradio.sk",
+      "l": "https://kuasark.com/files/stations-logos/fresh-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Aetter",
+      "s": "https://stream.aetter.sk/aetter",
+      "l": "https://kuasark.com/files/stations-logos/radio-aetter.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Biblia SK",
+      "s": "http://radiobiblia.online:8000/stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/radio-biblia-sk.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rádio Logos",
+      "s": "https://radio.wanderingsheep.net/radio/8120/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-logos.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rádio Topoľčany",
+      "s": "http://80.242.44.249:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-topolcany.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Fun Radio Chill",
+      "s": "https://stream.funradio.sk:8000/chill128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fun-radio-chill.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Mária Rádió",
+      "s": "https://dreamsiteradiocp5.com/proxy/rmslo?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/maria-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Zabava",
+      "s": "https://stream-162.zeno.fm/h07g40cx1nhvv?zs=0JpL2H89RFOo_XmpVS6FBA",
+      "l": "https://kuasark.com/files/stations-logos/radio-zabava-124750.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "SRo5 Rádio Pátria /RSI",
+      "s": "http://live.slovakradio.sk:8000/Patria_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sro5-radio-patria-rsi.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Piestany",
+      "s": "http://live.radiopiestany.sk:8000/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-piestany.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio Modra",
+      "s": "http://185.98.208.12:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-modra.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Rebeca",
+      "s": "https://mpc2.mediacp.eu:8200/rebecaweb",
+      "l": "https://kuasark.com/files/stations-logos/radio-rebeca.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "SRo8 Rádio Litera",
+      "s": "http://icecast.stv.livebox.sk/litera_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sro8-radio-litera.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Best FM",
+      "s": "http://stream.bestfm.sk/128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/best-fm-sk.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "SRo2 Rádio Regina Stred",
+      "s": "http://icecast.stv.livebox.sk/regina-bb_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sro2-radio-regina-stred.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "SRo2 Rádio Regina Východ",
+      "s": "http://icecast.stv.livebox.sk/regina-ke_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sro2-radio-regina-vychod.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio Beta - Hráme jubilantom",
+      "s": "http://109.71.67.102:8000/beta_jubilanti.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-beta-hrame-jubilantom.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Expres",
+      "s": "http://195.168.61.226:8000/96.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-expres-sk-sk-7641.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SRo1 Rádio Slovensko",
+      "s": "http://live.slovakradio.sk:8000/Slovensko_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sro1-radio-slovensko.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fun Radio CZ",
+      "s": "http://stream.funradio.sk:8000/cs128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fun-radio-cz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Fun Radio 80&90",
+      "s": "http://stream.funradio.sk:8000/80-90-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fun-radio-8090.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "SRo4 Rádio FM",
+      "s": "http://live.slovakradio.sk:8000/FM_256.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sro4-radio-fm.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "SRo9 Rádio Junior",
+      "s": "http://live.slovakradio.sk:8000/Junior_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sro9-radio-junior.png",
+      "g": [
+        "Themes",
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio Lumen",
+      "s": "http://audio.lumen.sk:8000/live128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-lumen.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rádio Beta - Hity 80's a 90's",
+      "s": "http://109.71.67.102:8000/beta_80a90.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-beta-hity-80s-a-90s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rádio Frontinus",
+      "s": "http://stream.frontinus.sk:8000/frontinus128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-frontinus.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Litera",
+      "s": "http://live.slovakradio.sk:8000/Litera_256.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-litera.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Maria Slovensko",
+      "s": "http://dreamsiteradiocp5.com:8012/streaming.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-slovensko.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "SRo1 Rádio Slovensko (256k)",
+      "s": "http://live.slovakradio.sk:8000/Slovensko_256.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sro1-radio-slovensko-256k.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Plus TV",
+      "s": "https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/plus-tv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "JOJ TV",
+      "s": "https://nn.geo.joj.sk/live/hls/joj-720.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/joj-tv.png",
+      "g": [
+        "Themes",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "WAU TV",
+      "s": "https://nn.geo.joj.sk/live/hls/wau-540.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/wau-tv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mirjam Rádio - Mária Rádió Felvidék",
+      "s": "http://193.87.81.131:8081/MariaRadioFelvidek",
+      "l": "https://kuasark.com/files/stations-logos/mirjam-radio-maria-radio-felvidek.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Beta - České a Slovenské hity",
+      "s": "http://109.71.67.102:8000/beta_cspop.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-beta-ceske-a-slovenske-hity.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Dobré rádio",
+      "s": "http://stream.dobreradio.sk:8813/dobreradio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dobre-radio-sk.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Trnavské rádio",
+      "s": "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske",
+      "l": "https://kuasark.com/files/stations-logos/trnavske-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Repete",
+      "s": "http://stream.rusyn.fm/rusyny-low.mp3",
+      "l": "https://kuasark.com/files/stations-logos/repete.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Rádio Jupiter",
+      "s": "http://stream.radiojupiter.sk:8000/jupiter_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-jupiter-sk.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Šírava",
+      "s": "https://radioserver.online:9936/radiosirava.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-sirava.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "METALSCENA netRADIO",
+      "s": "https://listen.radioking.com/radio/263218/stream/308365",
+      "l": "https://kuasark.com/files/stations-logos/metalscena-netradio.png",
+      "g": [
+        "Metal",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Logos",
+      "s": "http://radioserver.online:8824/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-logos-sk.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Duflo Radio",
+      "s": "http://stream-150.zeno.fm/kxwhyvz2fm0uv?zs=kMnKfCbyQgS5a8Qt1_VVXA",
+      "l": "https://kuasark.com/files/stations-logos/duflo-radio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Rádio Muzika",
+      "s": "https://listen.radioking.com/radio/276343/stream/321988",
+      "l": "https://kuasark.com/files/stations-logos/radio-muzika-sk.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Beta",
+      "s": "http://109.71.67.102:8000/beta_live_high.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-beta.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "G-Radio",
+      "s": "http://88.212.34.18:8050/mp3midband",
+      "l": "https://kuasark.com/files/stations-logos/g-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "House Radio",
+      "s": "http://stream-046.zeno.fm/qm8e21gta18uv?zs=PVVUHjy2QG-5oKNcD7JXmw",
+      "l": "https://kuasark.com/files/stations-logos/house-radio-sk.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Party Mix Radio",
+      "s": "http://stream-154.zeno.fm/rw6ckefezs8uv?zs=nHOBMFNtTTmbRfsrvINdyw",
+      "l": "https://kuasark.com/files/stations-logos/party-mix-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "TLIS Rádio",
+      "s": "https://stream.tlis.sk/tlis.mp3",
+      "l": "https://kuasark.com/files/stations-logos/tlis-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Infovojna",
+      "s": "http://159.69.219.5:8010/aac",
+      "l": "https://kuasark.com/files/stations-logos/infovojna-sk-67515.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Sllobodný vysielač",
+      "s": "http://159.69.219.5:8010//aac",
+      "l": "https://kuasark.com/files/stations-logos/sllobodny-vysielac.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "kiks",
+      "s": "http://stream.radiokiks.sk:8000/kiks_hq.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kiks.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Rock SV",
+      "s": "https://s2.myradiostream.com/:4870/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-rock-sv-sk.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Paráda",
+      "s": "https://extra.mediacp.eu/stream/RadioParada,o.z.",
+      "l": "https://kuasark.com/files/stations-logos/radio-parada-sk.png",
+      "g": [
+        "Folk",
+        "Rap",
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rádio KIKS Rock",
+      "s": "https://stream.radiokiks.sk/kiks_rock.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-kiks-rock.png",
+      "g": [
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rádio v Nitre",
+      "s": "http://195.210.28.150:8932/radiovnitre_live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-v-nitre.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Detské rádio",
+      "s": "https://stream.21.sk/detskeradio-192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/detske-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "SUB:FM",
+      "s": "http://stream.subfm.sk/subfm",
+      "l": "https://kuasark.com/files/stations-logos/subfm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Infovojna 128 kb/s",
+      "s": "http://stream3.infovojna.bz:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/infovojna-128-kb-s.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio Jazz",
+      "s": "http://stream.sepia.sk:8000/jazz128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-jazz-sk.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Kosice International ATC",
+      "s": "http://s1-fmt2.liveatc.net:80/lzkz?nocache=2023051507230953451",
+      "l": "https://kuasark.com/files/stations-logos/kosice-international-atc.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Košice BA",
+      "s": "http://176.102.98.74:8000/radiokosice-ba-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-kosice-ba.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Rusyn FM",
+      "s": "https://stream.rusyn.fm/rusyny.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rusyn-fm.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Vlna CLASSIC ROCK",
+      "s": "http://stream.radiovlna.sk:8000/rock-hi.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-vlna-classic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "KIKS_italo",
+      "s": "https://stream.radiokiks.sk/kiks_italo.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kiksitalo.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Dychovka",
+      "s": "https://epanel.mediacp.eu:7661/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-dychovka.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Rádio X - Folklore X",
+      "s": "http://158.193.82.41:8000/ludovky.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-x-folklore-x.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

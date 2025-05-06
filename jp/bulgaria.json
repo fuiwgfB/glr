@@ -1,0 +1,2003 @@
+{
+  "stations": [
+    {
+      "t": "1 Rock",
+      "s": "http://stream.radioreklama.bg/radio1rock128",
+      "l": "https://images.radiovolna.net/_files/images/stations/402014/qc4v59b3a02ce03e6782323342_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Jazz FM",
+      "s": "http://live.btvradio.bg/jazz-fm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/671/y3le595a8ec8d9cf0897045525_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "BadRock Radio",
+      "s": "https://radio.jump.bg:7028/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/426957/185e65ede7f06cb2e1223cf022da8e16_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Z-Rock",
+      "s": "http://live.btvradio.bg/z-rock.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2616/h96z5974bae0c516b830421275_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Classic FM",
+      "s": "http://46.10.150.123/classic-fm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2582/kr8f5950e2508fbac414800491_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Веселина",
+      "s": "https://bss1.neterra.tv/veselina/veselina.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/420836/8793631c5c1ca7474c9c18cf8820aa26_130x130.webp",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Вероника",
+      "s": "http://149.13.0.80/veronika64",
+      "l": "https://images.radiovolna.net/_files/images/stations/512/vvdy595f38ff962c9041740129_130x130.webp",
+      "g": [
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRJ / Energy",
+      "s": "http://149.13.0.80/nrj128",
+      "l": "https://images.radiovolna.net/_files/images/stations/626/zfi759b398d46bac3221721098_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "БГ Радио",
+      "s": "http://149.13.0.80/bgradio128",
+      "l": "https://images.radiovolna.net/_files/images/stations/2580/bc365970f98e97684252072982_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Focus Sofia",
+      "s": "http://online.focus-radio.net:8100/sofia",
+      "l": "https://images.radiovolna.net/_files/images/stations/2599/eq3x5971cbb3c63d9275458979_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Traffic Radio Station",
+      "s": "http://radio.networx-bg.com:8002/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2618/fti15ca48ca598b27311076644_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "1 - Класическите хитове!",
+      "s": "http://149.13.0.80/radio1128",
+      "l": "https://images.radiovolna.net/_files/images/stations/2586/kdtm596d1c8b1da48811256654_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fresh",
+      "s": "http://193.108.24.21:8000/fresh",
+      "l": "https://images.radiovolna.net/_files/images/stations/2603/f3x75971100841666288529364_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Deep Radio Europe",
+      "s": "http://79.98.108.174:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405999/vq8c5c7d019419ce2573447435_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "SWEET RADIO",
+      "s": "https://stream.sweetradio.online:8001/live ",
+      "l": "https://images.radiovolna.net/_files/images/stations/419519/449bbc81decd8c49187a662778707208_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "NET Bulgaria",
+      "s": "http://195.24.89.10:8000/",
+      "l": "https://images.radiovolna.net/_files/images/stations/426964/853d82ba75764ea4bfa7785b54e08bcc_130x130.webp",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Easy Radio",
+      "s": "https://live.easyradio.bg/aac?type=.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426427/294060e23b6558fefd1c161a9b093a97_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "BNR Radio",
+      "s": "https://e106-ts.cdn.bg/regstations/fls/Vidin.stream/chunklist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/2619/pv3k597b4c80cccd2446669869_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Мая",
+      "s": "http://mail.rntel.com:9000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2606/1cdf4c5a7497a65828c0be9416ec066f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Darik",
+      "s": "https://darikradio.by.host.bg:8000/S2-128",
+      "l": "https://images.radiovolna.net/_files/images/stations/2583/avmj59b3a27365b3d340748090_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Мая",
+      "s": "http://rnmediagroup.com:10000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402021/u5mb59b3a82877445017588944_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "OnlineDJRadio",
+      "s": "http://play.onlinedjradio.com:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/2585/nbwg5a22ccf383cd5101608460_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "FM+",
+      "s": "http://193.108.24.21:8000/fmplus?file=.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402010/k2dv59b39e6424340497219603_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Зорана",
+      "s": "https://radio.jump.bg/proxy/radio12/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402005/rglx59b3981b33db1573368687_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "999",
+      "s": "http://62.204.158.5:8081/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/420842/460b0fdf0d5f97034de708220762c57c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nova",
+      "s": "http://stream.radioreklama.bg/nova128",
+      "l": "https://images.radiovolna.net/_files/images/stations/402018/x95b59b3a1dc634ec763543263_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Deep Lounge Radio",
+      "s": "http://93.152.140.225:8000/stream/2/",
+      "l": "https://images.radiovolna.net/_files/images/stations/406000/xjft5c16ac0e63f6c077455779_130x130.webp",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Jazz",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Общинско радио «Гласът на Бургас»",
+      "s": "http://84.54.180.86:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402027/x7g459b3ab9215d9e329840313_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "BNR Radio Sofia",
+      "s": "https://e106-ts.cdn.bg/regstations/fls/Sofia.stream/chunklist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402009/lel759b39d84741c0936834961_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bulgaria On Air",
+      "s": "https://live.radio.bgonair.bg/RadioBOA",
+      "l": "https://images.radiovolna.net/_files/images/stations/420832/126a6593d809a60bb1f08e74eb79e6ab_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "XRaYdio",
+      "s": "http://xraydio.ddns.net:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/402034/gmfr59b3b0312ee4e078605846_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Велико Търново",
+      "s": "http://195.34.121.140:8002/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420840/839417d1c053169b467a8352e3702a90_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Darik Nostalgie",
+      "s": "https://darikradio.by.host.bg:8000/Nostalgie",
+      "l": "https://images.radiovolna.net/_files/images/stations/402006/e5x059b3997089572807423538_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Nova News",
+      "s": "http://stream.radioreklama.bg/novanews.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402011/o7di59b39ed72365d070750143_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Melody Radio",
+      "s": "http://193.108.24.6:8000/melody?file=.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2584/u82m59b39bca524a6652627824_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Бумеранг",
+      "s": "http://185.20.88.1:8010/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420841/0dc6d27220d5d85bcde51661a0681bb8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Signal Plus",
+      "s": "http://212.36.10.250:8000/signalhigh",
+      "l": "https://images.radiovolna.net/_files/images/stations/2610/me945a22ce8f76d27542271704_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Витоша",
+      "s": "https://bss1.neterra.tv/vitosha/vitosha.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/420835/1dc025aa9e54403def47da9539901f30_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "City",
+      "s": "http://stream.radioreklama.bg/city64",
+      "l": "https://images.radiovolna.net/_files/images/stations/402016/q8i959b3a0e0e17f8049882747_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "BNR Programa Hristo Botev",
+      "s": "https://lb-hls.cdn.bg/2032/fls/HrBotev.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/2581/e1q159b39a9acf0a2581187301_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "BNR Radio Burgas",
+      "s": "https://e106-ts.cdn.bg/regstations/fls/Burgas.stream/chunklist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402026/raqy59b3ab3bcd0f5754373798_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Millenium",
+      "s": "http://radiomillenium.radiomillenium.eu:8000/millenium",
+      "l": "https://images.radiovolna.net/_files/images/stations/26537/iqth59b3a95017297569019473_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Maxx FM",
+      "s": "http://play.radiomaxxfm.com:8000/maxx",
+      "l": "https://images.radiovolna.net/_files/images/stations/400864/bkyp594cf58b81715117401328_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Гама",
+      "s": "http://g5.turbohost.eu:8003/gama128",
+      "l": "https://images.radiovolna.net/_files/images/stations/420839/8e98e3eeebc07f77e86715f720051353_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Deep WAVE",
+      "s": "https://play-radio4.jump.bg:7000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/417436/8818de9e7433311148089e3b2957c166_130x130.webp",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "KATRA FM",
+      "s": "http://www.katrafm.net:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/402030/gsfj59b3aecedf823335164989_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hot FM",
+      "s": "http://77.76.184.254:8000/hfm-public",
+      "l": "https://images.radiovolna.net/_files/images/stations/420844/5631443b51425cbd97b47afb17c9b244_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "K2",
+      "s": "http://stream.radiok2.bg:8000/rk2",
+      "l": "https://images.radiovolna.net/_files/images/stations/2604/e20459b39c30a6ca7068391835_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Силвър",
+      "s": "http://fmsilver.leaderbg.net:8000/stream.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/420843/ac79814638d23c7167d4891c57ce733b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "bTV",
+      "s": "http://live.btvradio.bg/btv-radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402017/grcu59b3a17784a81404565952_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Ultra",
+      "s": "http://88.80.96.25:3060/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2611/w9rw5974660ddbb4e890376414_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Metro Dance Radio",
+      "s": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR",
+      "l": "https://kuasark.com/files/stations-logos/metro-dance-radio.png",
+      "g": [
+        "Electronic",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio City",
+      "s": "https://play.global.audio/city.opus",
+      "l": "https://kuasark.com/files/stations-logos/radio-city-bg.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Jazz FM",
+      "s": "https://bravo.btv.bg/radio/jazzfm-radio-proxy/",
+      "l": "https://kuasark.com/files/stations-logos/jazz-fm-bg.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Viva",
+      "s": "http://stream.radioextra-bg.net:8000/viva-eurodance",
+      "l": "https://kuasark.com/files/stations-logos/radio-viva-bg.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Family Bulgaria",
+      "s": "http://a1.virtualradio.eu:8000/family.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-family-bulgaria.png",
+      "g": [
+        "Pop",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Интернет радио Леле Мале",
+      "s": "http://79.98.108.170:8332/stream",
+      "l": "https://kuasark.com/files/stations-logos/internet-radio-lele-male.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радио Ultra",
+      "s": "http://88.80.96.25:40070/ultra.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-ultra-bg.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Classic FM radio",
+      "s": "https://bravo.btv.bg/radio/classic-radio-proxy/",
+      "l": "https://kuasark.com/files/stations-logos/classic-fm-radio.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "БГ Радио",
+      "s": "https://play.global.audio/bgradio.opus",
+      "l": "https://kuasark.com/files/stations-logos/bg-radio-bg-98912.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "DJ Zone House Radio",
+      "s": "http://162.244.80.106:11181/;",
+      "l": "https://kuasark.com/files/stations-logos/dj-zone-house-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио 1 Рок",
+      "s": "https://play.global.audio/radio1rock.opus",
+      "l": "https://kuasark.com/files/stations-logos/1-rock-bulgaria.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Folk Radio Nazdrave",
+      "s": "http://powerdj.sf.ddns.bulsat.com:8020/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/folk-radio-nazdrave.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Фолклорно Радио Чанове",
+      "s": "http://radio.chanove.com:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/folklorno-radio-canove.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio FolkBG",
+      "s": "http://radio.folkbg.net:8000/;;",
+      "l": "https://kuasark.com/files/stations-logos/radio-folkbg.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Релакс Радио Folk",
+      "s": "http://79.98.108.170:8060/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/relaks-radio-folk.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Metro Country Rock Radio",
+      "s": "https://radio.jump.bg/proxy/feed104?mp=/MSRR",
+      "l": "https://kuasark.com/files/stations-logos/country-rock-radio.png",
+      "g": [
+        "Country",
+        "Rock",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Радио Фолк 91.6",
+      "s": "http://83.97.65.98:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-folk-916.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Traffic Radio Station",
+      "s": "http://radio.networx.bg:8000/TrafficRadio",
+      "l": "https://kuasark.com/files/stations-logos/traffic-radio-station.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Z- Rock",
+      "s": "https://cdn.bweb.bg/radio/z-rock.mp3",
+      "l": "https://kuasark.com/files/stations-logos/z-rock-bg.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Metal",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Pianica",
+      "s": "http://mpc1.mediacp.eu:8024/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-pianica.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RadioChalgaHit",
+      "s": "https://cast6.asurahosting.com/proxy/radiochalgahit/stream",
+      "l": "https://kuasark.com/files/stations-logos/radiochalgahit.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "БНР Радио",
+      "s": "http://stream.bnr.bg:8030/radio-sofia.aac",
+      "l": "https://kuasark.com/files/stations-logos/bnr-radio-sofia.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Metro Hits! Radio",
+      "s": "https://radio.jump.bg/proxy/metrolowb?mp=/MHRLOWDATA",
+      "l": "https://kuasark.com/files/stations-logos/metro-hits-radio.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Metro Virtuoso Radio",
+      "s": "https://radio.jump.bg/proxy/metrolowb?mp=/MVRLOWDATA",
+      "l": "https://kuasark.com/files/stations-logos/metro-virtuoso-radio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Dance With Me",
+      "s": "http://g5.turbohost.eu:8002/stream128",
+      "l": "https://kuasark.com/files/stations-logos/radio-dance-with-me.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Metro TOP Radio",
+      "s": "https://radio.jump.bg/proxy/metrolowb?mp=/MGRLOWDATA",
+      "l": "https://kuasark.com/files/stations-logos/top-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Metro Love Radio",
+      "s": "https://radio.jump.bg/proxy/msrrrelay?mp=/service",
+      "l": "https://kuasark.com/files/stations-logos/metro-love-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hot Hits FM",
+      "s": "https://play5.hothitsfm.com/stream",
+      "l": "https://kuasark.com/files/stations-logos/hot-hits-fm.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sunny-Beachradio",
+      "s": "https://sunny-beachradio.stream.laut.fm/sunny-beachradio",
+      "l": "https://kuasark.com/files/stations-logos/sunny-beachradio.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Вероника",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_VERONIKAAAC_H.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-veronika-bg.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Nova",
+      "s": "https://play.global.audio/nova.opus",
+      "l": "https://kuasark.com/files/stations-logos/radio-nova-bg.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "БНР - програма Хоризонт",
+      "s": "https://lb-hls.cdn.bg/2032/fls/Horizont.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/bnr-horizont.png",
+      "g": [
+        "Rock",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио FM+",
+      "s": "http://193.108.24.21:8000/fmplus",
+      "l": "https://kuasark.com/files/stations-logos/radio-fm-.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Z-Rock",
+      "s": "https://bravo.btv.bg/radio/zrock-radio-proxy/",
+      "l": "https://kuasark.com/files/stations-logos/radio-z-rock.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Dance Mania",
+      "s": "http://46.10.211.50:800/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/dance-mania.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Радио 1 (Едно)",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1AAC_L.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-1-bg.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "R1 Melodic Dubstep",
+      "s": "https://stream-152.zeno.fm/xcaubmtj5dquv?zs=MvshoQgtTSy7rJE_411Qeg",
+      "l": "https://kuasark.com/files/stations-logos/r1-melodic-dubstep.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Power FM 91.1",
+      "s": "http://a1.virtualradio.eu:8000/powerfm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/power-fm-911.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Shine Radio",
+      "s": "http://caster05.streampakket.com:9320/stream",
+      "l": "https://kuasark.com/files/stations-logos/shine-radio.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Тангра Мега Рок",
+      "s": "http://stream-03.radiotangra.com/Tangra-middle",
+      "l": "https://kuasark.com/files/stations-logos/tangra-mega-rok.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Radio Energy - 90s Only",
+      "s": "https://play.global.audio/energy-90s.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-energy-90s-only.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Бинар - Фолклор",
+      "s": "https://e106-ts.cdn.bg/bnr/fls/BINAR-Folk.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/binar-folklor.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Metro Urban Hits Radio",
+      "s": "https://radio.jump.bg/proxy/feed11?mp=/UHRAAC",
+      "l": "https://kuasark.com/files/stations-logos/urban-hits-radio.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Бинар - БГ Поп",
+      "s": "http://e106-ts.cdn.bg/bnr/fls/BINAR-BgPop.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/binar-bg-pop-bg-113540.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "БГ Радио",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_RADIOAAC_H.aac",
+      "l": "https://kuasark.com/files/stations-logos/bg-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "BadRock Radio - National\n",
+      "s": "http://meg.novahost.bg:8028/live",
+      "l": "https://kuasark.com/files/stations-logos/badrock-radio.png",
+      "g": [
+        "Rock",
+        "Electronic",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Easy Radio",
+      "s": "https://live.easyradio.bg/192?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/easy-radio-bg-134492.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Metro Love 90's Radio",
+      "s": "https://radio.jump.bg/proxy/feed911?mp=/MLR90S",
+      "l": "https://kuasark.com/files/stations-logos/metro-love-90s-radio.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Fresh!",
+      "s": "https://fresh.amgradio.ru/Fresh?4ebe",
+      "l": "https://kuasark.com/files/stations-logos/radio-fresh-bg.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Metro Love 80's Radio",
+      "s": "https://radio.jump.bg/proxy/feed911?mp=/MLR80S",
+      "l": "https://kuasark.com/files/stations-logos/metro-love-80s-radio.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Zone Radio",
+      "s": "http://79.98.108.170:8036/live",
+      "l": "https://kuasark.com/files/stations-logos/zone-radio-bg.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Orgazam",
+      "s": "https://ams-pioneer02.dedicateware.com:1185/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-orgazam.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio NET Bulgaria",
+      "s": "https://icecast.haskovo.net:9443/",
+      "l": "https://kuasark.com/files/stations-logos/radio-net-bulgaria.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tvoeto Radio",
+      "s": "http://79.98.108.173:8010/radio",
+      "l": "https://kuasark.com/files/stations-logos/tvoeto-radio-bg.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Eilo Radio -Techno Radio",
+      "s": "http://stream.eilo.org:8000/techno",
+      "l": "https://kuasark.com/files/stations-logos/eilo-radio-techno-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Bizonio",
+      "s": "https://uk4freenew.listen2myradio.com/live.mp3?typeportmount=s2_31506_stream_554154655",
+      "l": "https://kuasark.com/files/stations-logos/radio-bizonio.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Радио Мая",
+      "s": "https://radio.rn-tv.com:8000/stream/1/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-maa.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Варненское Радио",
+      "s": "https://air.varnaradio.ru:8443/sd",
+      "l": "https://kuasark.com/files/stations-logos/varnenskoe-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Божия Сила (Bojia Sila)",
+      "s": "https://stream-149.zeno.fm/6t0ec6rwtuquv?zs=r3CdA3glTRKLhsBRImy-Fw",
+      "l": "https://kuasark.com/files/stations-logos/radio-bojia-sila.png",
+      "g": [
+        "Folk",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Feelings Radio",
+      "s": "https://cast2.radiohost.ovh:2200/proxy/feelingsradio?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/feelings-radio.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Nova News",
+      "s": "https://21263.live.streamtheworld.com/RADIO_NOVANEWSAAC_L.aac?",
+      "l": "https://kuasark.com/files/stations-logos/nova-news.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Бинар - Пънк Джазз",
+      "s": "https://e106-ts.cdn.bg/bnr/fls/BINAR-PunkJazz.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/binar-pnk-dzazz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Eilo Radio - Drum & Bass Radio",
+      "s": "http://eilo.org:8000/drum",
+      "l": "https://kuasark.com/files/stations-logos/eilo-radio-drum-bass-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio N-Joy",
+      "s": "https://bravo.btv.bg/radio/njoy-radio-proxy/",
+      "l": "https://kuasark.com/files/stations-logos/radio-n-joy.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Vega +",
+      "s": "http://88.80.96.25:40070/vega.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-vega-.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Беинса Дуно",
+      "s": "http://87.252.182.193:8000/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-beinsa-duno-bg-99168.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "DanPen Radio",
+      "s": "https://server.danpenradio.net/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/danpen-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Радио Фокус",
+      "s": "https://focusradio.dataserv.cc/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-fokus.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Хоро",
+      "s": "http://g5.turbohost.eu:8020/stream256",
+      "l": "https://kuasark.com/files/stations-logos/radio-horo-bg-78391.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио ORV",
+      "s": "http://radio.orvmedia.com:8005/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-orv.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "XRaydio 1",
+      "s": "https://xraydio.ddns.net/live",
+      "l": "https://kuasark.com/files/stations-logos/xraydio-1.png",
+      "g": [
+        "Electronic",
+        "Rock",
+        "R&B and Urban",
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Eilo Radio - House Radio",
+      "s": "http://stream.eilo.org:8000/house",
+      "l": "https://kuasark.com/files/stations-logos/eilo-radio-house-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Радио Зетра",
+      "s": "http://79.98.108.170:8092/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-zetra.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Metro Dance Xtra Radio",
+      "s": "https://eu1.reliastream.com/proxy/metroplusa?mp=/MDRXTRA",
+      "l": "https://kuasark.com/files/stations-logos/metro-dance-xtra-radio.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "News"
+      ]
+    },
+    {
+      "t": "Eilo Radio - Psychedelic Radio",
+      "s": "http://eilo.org:8000/psychedelic",
+      "l": "https://kuasark.com/files/stations-logos/eilo-radio-psychedelic-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Eilo Radio - Progressive Radio",
+      "s": "http://stream.eilo.org:8000/progressive",
+      "l": "https://kuasark.com/files/stations-logos/eilo-radio-progressive-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Eilo Radio - Hard Techno Radio",
+      "s": "http://stream.eilo.org:8000/hard",
+      "l": "https://kuasark.com/files/stations-logos/eilo-radio-hard-techno-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Internet Radio Best",
+      "s": "http://radio-best.net:8000/best",
+      "l": "https://kuasark.com/files/stations-logos/internet-radio-best.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radyo Yonika",
+      "s": "https://radyo1.radyo-dinle.tc/8222/stream",
+      "l": "https://kuasark.com/files/stations-logos/radyo-yonika.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Metro Love 70's Radio",
+      "s": "https://radio.jump.bg/proxy/feedyyy02?mp=/MLR70S",
+      "l": "https://kuasark.com/files/stations-logos/metro-love-70s-radio.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other",
+        "Pop",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Eilo Radio - Ambient and Chill Radio",
+      "s": "http://eilo.org:8000/ambient",
+      "l": "https://kuasark.com/files/stations-logos/eilo-radio-ambient-and-chill-radio.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Радио Антена",
+      "s": "https://stream.antenne1.de/a1stg/livestream2.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-antena.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "bTV Radio",
+      "s": "https://bravo.btv.bg/radioplayer/btvradio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/btv-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Радио К2",
+      "s": "https://live.radio.si/Radio2",
+      "l": "https://kuasark.com/files/stations-logos/radio-k2-bg.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Гама",
+      "s": "http://g5.turbohost.eu:8003/gama?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-gama-bg.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радио Веселина - Ретро",
+      "s": "https://bss2.neterra.tv/veselinaretro/veselinaretro_0.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/veselina-retro.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Авторадио",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_H.aac",
+      "l": "https://kuasark.com/files/stations-logos/avtoradio-485.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио TV9 ",
+      "s": "http://88.80.96.25:30500/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-tv9-.png",
+      "g": [
+        "Country",
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радио Плевен",
+      "s": "http://stream.metacast.eu/radio1.opus",
+      "l": "https://kuasark.com/files/stations-logos/radio-pleven.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "BadRock Radio - Classic Rock",
+      "s": "http://meg.novahost.bg:8489/live",
+      "l": "https://kuasark.com/files/stations-logos/badrock-classic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Old Skull Radio",
+      "s": "https://stream-148.zeno.fm/r8s98br2ud0uv?zs=FfbUbvzuQB-31G8xs72Zvg",
+      "l": "https://kuasark.com/files/stations-logos/old-skull-radio.png",
+      "g": [
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Eilo Radio - Trance Radio",
+      "s": "http://eilo.org:8000/trance",
+      "l": "https://kuasark.com/files/stations-logos/eilo-radio-trance-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Note FM!",
+      "s": "https://radiozender.mpbnetwerken.nl/notefmbg.mp3",
+      "l": "https://kuasark.com/files/stations-logos/note-fm.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Шлагер",
+      "s": "https://stream.globalic.com.ua:1165/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-slager-507.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "BG Metal Radio",
+      "s": "https://stream-150.zeno.fm/f9hky6qs6s8uv?zs=D-ms_yBFR3msQY0SGYc3kg",
+      "l": "https://kuasark.com/files/stations-logos/bg-metal-radio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio 865",
+      "s": "http://94.26.60.47:3690/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-865.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Eilo Radio - Dubstep  Radio",
+      "s": "http://stream.eilo.org:8000/dubstep",
+      "l": "https://kuasark.com/files/stations-logos/eilo-radio-dubstep-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "XRaydio 2",
+      "s": "https://xraydio.ddns.net/jukebox",
+      "l": "https://kuasark.com/files/stations-logos/xraydio-2.png",
+      "g": [
+        "Country",
+        "Easy Listening",
+        "Pop",
+        "Rock",
+        "R&B and Urban",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Веселина - Фолк",
+      "s": "https://bss2.neterra.tv/veselinafolk/veselinafolk_0.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-veselina-folk.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "SoulFreak - Soulful House Radio",
+      "s": "http://162.244.80.106:11177/stream",
+      "l": "https://kuasark.com/files/stations-logos/soulfreak-soulful-house-radio.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Jazz",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Радио The Voice",
+      "s": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-the-voice.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Eilo Radio - Jazz, Funk & Soul Radio",
+      "s": "http://eilo.org:8000/jazzfunksoul",
+      "l": "https://kuasark.com/files/stations-logos/eilo-radio-jazz-funk-soul-radio.png",
+      "g": [
+        "R&B and Urban",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Hit Radio Ultra",
+      "s": "http://88.80.96.25:30048/;",
+      "l": "https://kuasark.com/files/stations-logos/hit-radio-ultra.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Magic FM",
+      "s": "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/magic-fm-bg.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio DYNAMICO",
+      "s": "https://stream-150.zeno.fm/aouhb3mxmo2tv?zs=xoSE7qQCQvSHcoeyRgEyVQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-dynamico.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Nostalgia",
+      "s": "https://radiozender.mpbnetwerken.nl/radionostalgia.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-nostalgia.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Онлайн радио \"Червеният Папагал\"",
+      "s": "https://stream-052.zeno.fm/80qzq207rm0uv?zs=6zIANyzHTTKADFYgnRHTyw",
+      "l": "https://kuasark.com/files/stations-logos/onlajn-radio-cerveniat-papagal.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio El Shadai",
+      "s": "https://stream-149.zeno.fm/hku46gxdexquv?zs=6_vGUKn-RCWmBj5_aYmk-w",
+      "l": "https://kuasark.com/files/stations-logos/radio-el-shadai.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "KATRA FM",
+      "s": "http://katrafm.com:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/katra-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Севлиево",
+      "s": "http://195.68.214.130:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-sevlievo.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Радио Белла",
+      "s": "http://194.146.235.35:9999/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-bella.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Eilo Radio - Mixotic Radio",
+      "s": "http://eilo.org:8000/mixotic",
+      "l": "https://kuasark.com/files/stations-logos/eilo-radio-mixotic-radio.png",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Радио Sense",
+      "s": "https://play.radiosense.com:8000/sense",
+      "l": "https://kuasark.com/files/stations-logos/radio-sense.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Радио VOX",
+      "s": "https://servidor21.brlogic.com:7094/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-vox-bg-99166.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Folk-Mania",
+      "s": "https://play-radio0.jump.bg:7202/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/folk-mania.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Power FM BG",
+      "s": "https://a1.vizitec.com:8001/powerfm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/power-fm-bg.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Добруджа",
+      "s": "http://5.104.174.128:8000/radiodobrudja",
+      "l": "https://kuasark.com/files/stations-logos/radio-dobrudza.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Бумеранг FM",
+      "s": "http://185.20.88.1:8010/;",
+      "l": "https://kuasark.com/files/stations-logos/bumerang-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ellinikos Live",
+      "s": "https://azura.streams.ovh/radio/8230/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ellinikos-live.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio MIXX",
+      "s": "http://83.97.65.98:9000/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-mixx.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Eilo Radio - Earth & Beat Schedule",
+      "s": "https://eilo.org/earthbeat",
+      "l": "https://kuasark.com/files/stations-logos/eilo-radio-earth-beat-schedule.png",
+      "g": [
+        "R&B and Urban",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Общинско радио Чепеларе",
+      "s": "http://play.chepelare.bg/media/30-09-2021.mp3",
+      "l": "https://kuasark.com/files/stations-logos/obsinsko-radio-cepelare.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Радио В-99",
+      "s": "http://onair.gp-net.bg:6688/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-v-99.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Kesarevo",
+      "s": "https://ssl22.radyotelekom.com/8136/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-kesarevo.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Радио Метроном",
+      "s": "http://radiometronom.com:8010/",
+      "l": "https://kuasark.com/files/stations-logos/radio-metronom.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "FRED FILM RADIO",
+      "s": "https://s10.webradio-hosting.com/proxy/fredradiobg/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/fred-film-radio-46849.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Радио Югомания",
+      "s": "https://s8.yesstreaming.net:17051/autodj",
+      "l": "https://kuasark.com/files/stations-logos/radio-ugomania.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радио Севтополис",
+      "s": "https://radio.jump.bg/proxy/radio123/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-sevtopolis.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kiss Lounge Radio",
+      "s": "https://bss2.neterra.tv/kiss/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/kiss-lounge-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Радио Витоша Club Classics",
+      "s": "https://bss2.neterra.tv/vitoshaclassics/vitoshaclassics_0.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-vitosa-club-classics.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ultra Blagoevgrad",
+      "s": "http://88.80.96.25:3060/;",
+      "l": "https://kuasark.com/files/stations-logos/ultra-blagoevgrad.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ultra Sandanski",
+      "s": "http://88.80.96.25:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/ultra-sandanski.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 1 Rock",
+      "s": "http://stream.metacast.eu/radio1rock.ogg",
+      "l": "https://kuasark.com/files/stations-logos/radio-1-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Maya Varna",
+      "s": "http://rnmediagroup.com:10000/;",
+      "l": "https://kuasark.com/files/stations-logos/maya-varna.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 1 (Bulgaria)",
+      "s": "http://149.13.0.81/radio1.ogg",
+      "l": "https://kuasark.com/files/stations-logos/radio-1-bulgaria.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радио Канон - Radio Kanon",
+      "s": "http://79.98.108.170:8059/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-kanon-radio-kanon.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Общинско Радио Разград",
+      "s": "http://188.126.1.25:8000/razgrad",
+      "l": "https://kuasark.com/files/stations-logos/obsinsko-radio-razgrad.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NJS Radio - New Jack Swing",
+      "s": "http://162.244.80.106:11198/stream",
+      "l": "https://kuasark.com/files/stations-logos/njs-radio-new-jack-swing.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "Decades",
+        "Other",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio ENERGY Bulgaria",
+      "s": "http://stream.radioreklama.bg/nrj.opus",
+      "l": "https://kuasark.com/files/stations-logos/enerdzi-opus.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sound 9 Studio",
+      "s": "http://streaming.sound9studio.com/musicstation",
+      "l": "https://kuasark.com/files/stations-logos/sound-9-studio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "БНР - Детска програма (Детското.БНР)",
+      "s": "http://stream.bnr.bg:8013/detskoto-bnr.aac",
+      "l": "https://kuasark.com/files/stations-logos/bnr-detska-programa-detskotobnr.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Hot Dance",
+      "s": "http://listen.hotget.net:810/;",
+      "l": "https://kuasark.com/files/stations-logos/hot-dance.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "OnlineDjRadio",
+      "s": "https://play.onlinedjradio.com:7000/live",
+      "l": "https://kuasark.com/files/stations-logos/onlinedjradio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Fred Film Radio(Български език)",
+      "s": "https://s10.webradio-hosting.com/proxy/fredradiobg/stream",
+      "l": "https://kuasark.com/files/stations-logos/fred-film-radioblgarski-ezik.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Жега - Ретро Поп Фолк Хитовое",
+      "s": "http://g5.turbohost.eu:8004/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-jega.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Xaschove",
+      "s": "http://79.98.108.173:8006/radioxaschove",
+      "l": "https://kuasark.com/files/stations-logos/radio-hushove.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Sweet Radio",
+      "s": "http://cdn.tvoetoradio.net:8000/HD",
+      "l": "https://kuasark.com/files/stations-logos/sweet-radio-bg.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Радио Брайл FM",
+      "s": "https://play-radio0.jump.bg:7181/live",
+      "l": "https://kuasark.com/files/stations-logos/braille-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Balkanika",
+      "s": "http://79.98.108.170:8000/autodj",
+      "l": "https://kuasark.com/files/stations-logos/radio-balkanika.png",
+      "g": [
+        "Electronic",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Slavi",
+      "s": "http://79.98.108.170:8043/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-slavi.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Sladko Izkushenie",
+      "s": "http://g5.turbohost.eu:8006/autodj",
+      "l": "https://kuasark.com/files/stations-logos/radio-sladko-izkushenie.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Vanilla Radio",
+      "s": "https://play.global.audio/vanilla.aac?dist=PREDAVATEL",
+      "l": "https://kuasark.com/files/stations-logos/vanilla-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радио Резонанс",
+      "s": "http://88.87.10.53:8000/*.ogg",
+      "l": "https://kuasark.com/files/stations-logos/radio-rezonans.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Астра Плюс",
+      "s": "https://radio.jump.bg/proxy/aleksan3/stream",
+      "l": "https://kuasark.com/files/stations-logos/astra-plus.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio BG Voice - Балканский Стрийм",
+      "s": "https://streams.radio.co/sd38725529/listen",
+      "l": "https://kuasark.com/files/stations-logos/radio-bg-voice-bslkan.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Helikon",
+      "s": "http://87.121.90.229:9000/live_128",
+      "l": "https://kuasark.com/files/stations-logos/radio-helikon.png",
+      "g": [
+        "Rap",
+        "Pop"
+      ]
+    },
+    {
+      "t": "BadRock Radio - Hard & Heavy Rock",
+      "s": "https://radiocp.jump.bg/proxy/stan1?mp=/live",
+      "l": "https://kuasark.com/files/stations-logos/bad-rock-radio-hard-heavy-rock.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Radio Belisimo",
+      "s": "http://79.98.108.170:8002/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-belisimo.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радио Венсеремос",
+      "s": "https://listen7.myradio24.com/venceremos",
+      "l": "https://kuasark.com/files/stations-logos/radio-venseremos.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Радио Русе",
+      "s": "https://radio.ruse.bg:8010/radioruse",
+      "l": "https://kuasark.com/files/stations-logos/radio-ruse.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Teteven",
+      "s": "http://g5.turbohost.eu:8001/teteven",
+      "l": "https://kuasark.com/files/stations-logos/radio-teteven.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Aurea",
+      "s": "http://93.123.123.7:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-aurea.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Радио Пайнер",
+      "s": "http://87.120.6.86:8000/hq",
+      "l": "https://kuasark.com/files/stations-logos/radio-pajner.png",
+      "g": [
+        "Classical",
+        "Folk",
+        "Pop",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Радио Татковина",
+      "s": "http://www.tatkovina.eu:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-tatkovina-bg-82153.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Melodia Silistra",
+      "s": "http://g5.turbohost.eu:8010/stream128",
+      "l": "https://kuasark.com/files/stations-logos/radio-melodia-silistra.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "TV1 Bulgaria Radio",
+      "s": "https://tv1.cloudcdn.bg:8081/stream.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tv-1-radio.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "QFT.fm",
+      "s": "https://qft.monster/listen/radio_qfte/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/qftfm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    }
+  ]
+}

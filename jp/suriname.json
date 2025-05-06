@@ -1,0 +1,338 @@
+{
+  "stations": [
+    {
+      "t": "SRS Suriname",
+      "s": "https://surilive.com:8060/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/426592/aa6fc5c1bb3406c1834d302430e0c1c8_130x130.webp",
+      "g": [
+        "Decades",
+        "News"
+      ]
+    },
+    {
+      "t": "FM.sr Sranan Radio",
+      "s": "https://my.surilive.com:8150/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429935/c51ffdaf74e3dccb5032cf9ba8a102f9_130x130.webp",
+      "g": [
+        "International",
+        "Latin",
+        "Pop",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Neutralradio",
+      "s": "https://cast1.torontocast.com:2225/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429617/7239629ef04fb697b3e5af2dc98cf08b_130x130.webp",
+      "g": [
+        "Decades",
+        "Country",
+        "Rock",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "ABC Radio",
+      "s": "https://surilive.com:8020/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429288/4b45b5912caadc9dec1c699ab3fccfda_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Color Radio",
+      "s": "https://surilive.com:8070/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429289/4f629607dea56702e7b9cfbc7376b24f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pipel FM",
+      "s": "https://rs.suricloud.com/radio/8010/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429281/cbe0ba2ea84b3c6cb78a7128eb937513_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio LPM",
+      "s": "https://surilive.com:8050/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429285/0963501e71dcd937bb9fdfb11b349b88_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Trishul",
+      "s": "https://rs.suricloud.com/radio/8050/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429279/ada894577895584447f45646a28ad9c3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 9",
+      "s": "https://rs.suricloud.com/radio/8060/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429286/60e218e2d8d73c1502f3fbaf3d2d9ce8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RP Acme",
+      "s": "http://168.195.218.193:8000/radio1-2",
+      "l": "https://images.radiovolna.net/_files/images/stations/429280/1e03b09554a1a3882e6a294ea3313783_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NIO FM",
+      "s": "https://surilive.com:8010/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429290/4fab5cfe780fa7c45224c2dde1234819_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Sangeetmala",
+      "s": "https://rs.suricloud.com/radio/8030/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429287/10a721cb77d1c137aa1ab27fa268ddee_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 10 Magic FM",
+      "s": "https://s5.radio.co/s85a633f73/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/429278/df80719c373cc3d0312685c03ecc1b3b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Immanuël",
+      "s": "https://surilive.com:8030/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429282/4e238ce26aca7a9f687860cd805a6593_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Apintie Suriname - Powered by Bombelman.com",
+      "s": "https://surilive.com:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/apintie-suriname-powered-by-bombelmancom.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Color Radio 102.5 - Powered by SuriLive.com",
+      "s": "https://surilive.com:8070/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/color-radio-1025-powered-by-surilivecom.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio SRS Suriname - Powered by SuriLive.com",
+      "s": "https://surilive.com:8060/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-srs-suriname-powered-by-surilivecom.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RADIO GARUDA",
+      "s": "http://162.244.80.245:8012/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-garuda.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio ABC Suriname 101.7 - Powered by Bombelman.com",
+      "s": "https://surilive.com:8020/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-abc-suriname-1017-powered-by-bombelmancom.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Shruti",
+      "s": "https://rs.suricloud.com/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-shruti.png",
+      "g": [
+        "Alternative",
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "RADIO ISHARA",
+      "s": "http://nickerie.webhop.net:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-ishara.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "NIO FM 107.5 - Feel The Music",
+      "s": "https://surilive.com:8010/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/nio-fm-1075-feel-the-music.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "SMOOTH FM",
+      "s": "https://video1.getstreamhosting.com:8340/stream",
+      "l": "https://kuasark.com/files/stations-logos/smooth-fm-47223.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Radio Koyeba",
+      "s": "http://162.244.80.245:8020/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-koyeba.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Suri-Lite Online Radio",
+      "s": "https://surilite1.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/suri-lite-online-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Neutralradio",
+      "s": "https://fred.torontocast.com:2445/stream",
+      "l": "https://kuasark.com/files/stations-logos/neutralradio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "RADIO LPM",
+      "s": "https://surilive.com:8050/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-lpm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Surja Vibes",
+      "s": "https://s5.radio.co/s1735f3c1d/listen",
+      "l": "https://kuasark.com/files/stations-logos/surja-vibes.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RP ACME",
+      "s": "https://audio-edge-es6pf.mia.g.radiomast.io/d7e8093b-6a7e-4442-a096-37f259cb7092",
+      "l": "https://kuasark.com/files/stations-logos/rp-acme.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "MS Radio Suriname",
+      "s": "https://clare.shoutca.st/radio/8070/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ms-radio-suriname.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Immanuël 95.9 Suriname - Powered by Bombelman.com",
+      "s": "https://surilive.com:8030/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-immanuel-959-suriname-powered-by-bombelmancom.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Shalom Suriname",
+      "s": "http://162.244.80.245:8014/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-shalom-suriname.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "FM.sr Christmas Radio",
+      "s": "https://surilive.com/xmas/stream",
+      "l": "https://kuasark.com/files/stations-logos/fmsr-christmas-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "FM.sr Suripop Radio",
+      "s": "https://surilive.com/suripop/stream",
+      "l": "https://kuasark.com/files/stations-logos/fmsr-suripop-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FM.sr Sranan Radio",
+      "s": "https://live.fm.sr/sranan/stream",
+      "l": "https://kuasark.com/files/stations-logos/fmsr-sranan-radio.png",
+      "g": [
+        "Classical",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Sky Suriname",
+      "s": "http://pipel.kloud.xyz:8010/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sky-suriname.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Beat FM",
+      "s": "https://audio-edge-cmc51.fra.h.radiomast.io/a263a766-cea5-49e2-87c7-b2e9c9f5740c",
+      "l": "https://kuasark.com/files/stations-logos/beat-fm-47294.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    }
+  ]
+}

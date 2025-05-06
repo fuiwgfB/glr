@@ -1,0 +1,47 @@
+{
+  "stations": [
+    {
+      "t": "Goma Webradio",
+      "s": "https://stream-061.zeno.fm/4d61wprrp7zuv?zs=5OjyuOq6R0K96Pt0ZKsIPg",
+      "l": "https://kuasark.com/files/stations-logos/goma-webradio-cg.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "RADIOKATIOPA",
+      "s": "http://37.59.42.207:8182/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radiokatiopa.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "http://dreamsiteradiocp.com:8120/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-46132.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Pana Radio",
+      "s": "https://stream-156.zeno.fm/dnw3x5tqpc9uv?zs=18dhh0V5Qn6rKD9Q9Wbw8g",
+      "l": "https://kuasark.com/files/stations-logos/pana-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Tzgospel Radio (congo)",
+      "s": "https://stream-151.zeno.fm/8cvu9pb4tchvv?zs=JiiD0v9ySUCO_IfptFVi4g",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-radio-congo.png",
+      "g": [
+        "Inspirational"
+      ]
+    }
+  ]
+}

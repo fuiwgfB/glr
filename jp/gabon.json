@@ -1,0 +1,139 @@
+{
+  "stations": [
+    {
+      "t": "Record FM",
+      "s": "https://nl.digitalrm.pt:8146/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421233/9d7bbfc6ffe087d9e5297412629ae780_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Urban FM",
+      "s": "https://studio.webradio.solutions:7013/stream?icy=http",
+      "l": "https://images.radiovolna.net/_files/images/stations/421232/d0f36e16f9ee21ef249bcd2b4c849f90_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Bonne Nouvelle",
+      "s": "http://studio.webradio.solutions:8004/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429403/bb46ceac0e917338da7aae16da17d367_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hit Radio",
+      "s": "https://hr-gabon.ice.infomaniak.ch/hr-gabon-64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/429404/4fc7e3e0146a777fede628a411ea7877_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Eben Radio",
+      "s": "http://s8.voscast.com:7558/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405247/enxs5a4221163adb1310204350_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Africa N°1",
+      "s": "https://african1libreville.ice.infomaniak.ch/african1libreville-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405244/spdc5a421f48835d8781023507_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Africa Radio",
+      "s": "https://african1paris.ice.infomaniak.ch/african1paris-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/africa-radio.png",
+      "g": [
+        "Folk",
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Eben Radio",
+      "s": "http://s8.voscast.com:7558/;stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/eben-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Eben Radio - Spa & Relaxation",
+      "s": "http://s6.voscast.com:8764/;stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/eben-radio-spa-relaxation.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Eben Radio - Afro Pop",
+      "s": "http://s2.voscast.com:9022/;stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/eben-radio-afro-pop.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Eben Radio - R’n’B - Jam & Love",
+      "s": "http://s9.voscast.com:7334/;stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/eben-radio-rnb-jam-love.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Eben Radio - Clubbing & Party",
+      "s": "http://s6.voscast.com:8760/;stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/eben-radio-clubbing-party.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Eben Radio - Lounge",
+      "s": "http://s8.voscast.com:9786/;stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/eben-radio-lounge.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Eben Radio - Africa Music",
+      "s": "http://s10.voscast.com:9972/;stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/eben-radio-africa-music.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Station Beta Africa",
+      "s": "https://stream-151.zeno.fm/akamwtqjvvitv?zs=3ECGXR05QFqv4TTLGNq1ww",
+      "l": "https://kuasark.com/files/stations-logos/station-beta-africa-125177.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

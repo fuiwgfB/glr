@@ -1,0 +1,32 @@
+{
+  "stations": [
+    {
+      "t": "Radio Liberdade Dili",
+      "s": "https://streaming.kalohan.net/proxy/raliber?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-liberdade-dili.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tzgospel (East Timor)",
+      "s": "https://stream-152.zeno.fm/ttpgp5da7ehvv?zs=q_icdCS_TBKYYW10ZWld6A",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-east-timor.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "AWR Timor Leste 92.3 FM",
+      "s": "https://mediacp-id1.arenastreaming.com:2020/stream/awrtimorleste",
+      "l": "https://kuasark.com/files/stations-logos/awr-timor-leste.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    }
+  ]
+}

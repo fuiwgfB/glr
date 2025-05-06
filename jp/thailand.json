@@ -1,0 +1,1744 @@
+{
+  "stations": [
+    {
+      "t": "Cool93 Fahrenheit",
+      "s": "https://coolism-web.cdn.byteark.com/;stream/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/1188/gk0o596f9bb24ed61671456719_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Eazy FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/EAZYFM_1055AAC_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/423533/d32163771bf821be70a27c72477e9842_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "GREAT 93",
+      "s": "https://radio.vpsthai.net/proxy/qndrbfic/stream/1/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/430037/3771485b562762c79d5a39387acc3875_130x130.webp",
+      "g": [
+        "Pop",
+        "News",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Active 99 Radio",
+      "s": "https://rcdn.mcot.net/radiocdn_edge/fm99.stream_aac/chunklist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/405533/vpfj5a4d09cae5ac4829848860_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "HitZ",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/HITZ_955AAC_128.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423522/81f82eec51382d9e6e9752516f72d190_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Kiss",
+      "s": "http://s1.thailandstreaming.net:8020/kiss.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405545/ucki5a4de5689f2f5730160559_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Star FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_THAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423527/53428ae8bb34fef50db6ffc18766a9f5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "City Radio",
+      "s": "https://radio14.plathong.net/7018/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405537/t0b45a4ddd8dbcec1471704776_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fung Fung Fung",
+      "s": "http://link2.onair.network:8006/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/10019/a47219817b8aa0ee4c32b148e8f6e54d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fabulous",
+      "s": "https://fabulous.thailandstreaming.net/fabulous.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405547/ggsq5a4de5ed24426557484367_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "90rakthai",
+      "s": "http://radio11.plathong.net:8896/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405528/xzvv5a4d039a0e167399669208_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tourist Station Pattaya",
+      "s": "http://link.onair.network:8058/;audio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405546/gi305a4de5ad6c8df942973525_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Capitol FM",
+      "s": "http://atlanticthai.primcast.com:5898/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/9283/hs2l5a4cf5d352f85907591578_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MCOT Khon Kaen",
+      "s": "http://rstream.mcot.net:9030/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27798/83e98a3ab7885f50c426f5668ced1865_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MCOT Surat Thani",
+      "s": "http://rstream.mcot.net:9090/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/24413/6013f10305fba374ae89c8a30c865530_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MCOT Sukhothai",
+      "s": "http://rstream.mcot.net:9080/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27860/b29e4ed460a303480fd570c25fb70fbf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FM 100.5",
+      "s": "http://rstream.mcot.net:8000/fm1005",
+      "l": "https://images.radiovolna.net/_files/images/stations/405535/eedd5a4d0a77d0e00667474423_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "City Radio",
+      "s": "http://onair.onair.network:8074/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405544/ag8t5a4de51508622345109458_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bangkok FM",
+      "s": "https://bkkfm1.radioca.st/sid1",
+      "l": "https://images.radiovolna.net/_files/images/stations/426684/9ef44fcc4528119bafc7ae7694a430ab_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "37 radio",
+      "s": "https://radio11.plathong.net/7240/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428517/545e60fbca87fd33bcc0e1534831f662_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FM96.5",
+      "s": "https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423525/9a82d1d1ebe0abeda16dd1406cea2718_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "MCOT Chonburi",
+      "s": "http://rstream.mcot.net:9022/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27799/7a3061174bacc4d23d6b2aa0aee5dc9e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MCOT Nan",
+      "s": "http://rstream.mcot.net:9072/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27808/b2d1b18afc4a4fd3ff77826d385faf63_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MCOT Phichit",
+      "s": "http://rstream.mcot.net:9004/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27952/05c0159ca6d7cc1b6902692306ea270d_130x130.webp",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Traffic pro",
+      "s": "http://122.155.16.48:8955/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423519/c15e8c7b78d228eed5515019448409c4_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mazz Radio",
+      "s": "http://radio1.comgig.com:4096/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405542/xptx5a4de14470401848728638_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Smart Radio",
+      "s": "http://live3.smartbomb.co.th:8820/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428523/760762617b8d9513bf335a6218c04555_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mun Forward",
+      "s": "https://cdn-th2.livestreaming.in.th/shoutcast/8730",
+      "l": "https://images.radiovolna.net/_files/images/stations/428512/3c6ac4c939788a66a6ee3c0b2fd32cb9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Flex 104.5",
+      "s": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428509/fee6bed98f3da058bd7787a7b1571c1b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MCOT Chaiyaphum",
+      "s": "http://rstream.mcot.net:9046/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27793/dcf66906ce972e411ab6dcded62a0bc7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MCOT Lang Suan",
+      "s": "http://rstream.mcot.net:9018/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27949/c5e79c1f375de2b5621764394b9c19fb_130x130.webp",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "SMiLE",
+      "s": "https://cdn-th2.livestreaming.in.th/shoutcast/8725",
+      "l": "https://images.radiovolna.net/_files/images/stations/428508/d951657edac77548860ac67ce9541cb6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "102 Radio",
+      "s": "http://media.login.in.th:1100/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423529/f6d6fb53e990276582987293a02bbc49_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "MCOT Mae Hong Son",
+      "s": "http://rstream.mcot.net:9064/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27802/8cab856b5be3733ceb7ca97c6e36d272_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Signal Radio Network",
+      "s": "https://cdn-th2.livestreaming.in.th/shoutcast/8140",
+      "l": "https://images.radiovolna.net/_files/images/stations/428507/7089ef90f36dbbc6f492c84b72c683d6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Goodtime Radio",
+      "s": "https://radio182.bugaboo.tv/liveedge_goodtime_radio/smil:audio.smil/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428505/f280e2ce669bcaceb6a62a8d2f9b9c9a_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "MCOT Phuket",
+      "s": "http://rstream.mcot.net:9088/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27816/92080dc9c3b824ad6cb110a9635df729_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MCOT Yasothon",
+      "s": "http://rstream.mcot.net:9052/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27825/638934c76ee3f9e4f3eec402db373acd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MCOT Trat",
+      "s": "http://rstream.mcot.net:9024/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27821/343449798c5c73972300d0b4efff7fbb_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FM 95",
+      "s": "https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423521/e15a4174bfad3357028eb12be05d832e_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Phuket Island Radio",
+      "s": "https://stream.phuketfmradio.com/pfmMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428520/c7f13123adbb516a52f0fd14b5b5410e_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Trip",
+      "s": "http://media.login.in.th:1150/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428519/562212ecebe85a98e3c3b382fa5b70ae_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "R-RadioNetwork",
+      "s": "http://112.121.150.133:8448/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428506/9489b81e5b51e1b3bc75cd0ddeac083a_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "MCOT Songkhla",
+      "s": "http://rstream.mcot.net:9104/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27859/17f47b1a771370534edca5b075ee3ead_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FM101 Talk",
+      "s": "http://media.login.in.th:8135/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423528/1b30d07d0fe68d171452ed3676b5528b_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Cool Celsius",
+      "s": "http://111.223.51.7:8100/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405534/ml0m5a4d0a260a7f3466400169_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MCOT Lamphun",
+      "s": "http://rstream.mcot.net:9068/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27801/a2e4f5644135fce3dcf7d62d6a16d036_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Thailand English Service",
+      "s": "http://prdonline.prd.go.th:8200/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405526/wdr55a4d023a3edc8714678238_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "MCOT Krabi",
+      "s": "http://rstream.mcot.net:9084/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405635/d1wp5a55294617494276083389_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "FM 105",
+      "s": "http://prdonline.prd.go.th:8210/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423532/6eec1c437a88e957966354f62313e558_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Met",
+      "s": "https://rcdn.mcot.net/radiocdn_edge/fm107.stream_aac/chunklist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/405532/hszj5a4d094b193b7153818355_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MCOT Rayong",
+      "s": "http://rstream.mcot.net:9026/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27818/237a815e9df3c8bb3cafe8095bc5e59f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Yesterday",
+      "s": "http://radio2.comgig.com:4122/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405541/f9nt5a4de0cedb44a227710451_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Pattaya People Radio",
+      "s": "http://s1.thailandstreaming.net:8020/yes2day.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428518/a8e3fd446ccdf74d74822c7f2f030ba2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ninety One Chiang Mai FM",
+      "s": "https://80sv2.hostpleng.com/?url=http://112.121.151.133:8057/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428511/17835a763203f12af50130b186dfd84e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MCOT Pattani",
+      "s": "http://rstream.mcot.net:9098/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27811/c36f720b60b48221203c14f253084d45_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Quality News Station FM",
+      "s": "http://prdonline.prd.go.th:8208/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423526/ab009acdb82983c3bd2424056a29f48f_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "SMM Sport Radio FM",
+      "s": "http://110.164.48.215:8000/smmradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/423523/aa70896bec83ba67e0ddd9579907e1b0_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "MCOT Narathiwat",
+      "s": "http://rstream.mcot.net:9096/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27810/9b984a3ef140e76279e07ee279f965a7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TopRadio 93.5",
+      "s": "http://prdonline.prd.go.th:8204/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405531/c888c625ae15b0ef2c8da89853f14152_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Thailand",
+      "s": "http://prdonline.prd.go.th:8202/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405530/yrrk5a4d06d965442148494566_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Surf 102.5 FM",
+      "s": "http://206.189.157.88:8000/surf1025",
+      "l": "https://kuasark.com/files/stations-logos/surf-1025-fm.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Looktung Eingdoi Station เพลงลูกทุ่ง เพื่อชีวิต",
+      "s": "https://inter.lannaradio.com/radio/8000/radio.aac",
+      "l": "https://kuasark.com/files/stations-logos/looktung-eingdoi-station-phelng-luk-thung-pheux-chiwit.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Chili Pop Thailand",
+      "s": "https://stream.chiliradio.app/chilipop",
+      "l": "https://kuasark.com/files/stations-logos/chili-pop-thailand.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "City Radio Pattaya",
+      "s": "https://plus.onair.network:8020/ctapp",
+      "l": "https://kuasark.com/files/stations-logos/city-radio-pattaya.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "R&B and Urban",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Huahin Radio",
+      "s": "https://inter1.plathong.net/7008/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/huahin-radio.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "BEC Tero Radio - Hitz 95.5",
+      "s": "https://14073.live.streamtheworld.com:443/HITZ_955AAC_128.aac",
+      "l": "https://kuasark.com/files/stations-logos/bec-tero-radio-hitz-955.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chill FM",
+      "s": "https://atimeonline.smartclick.co.th/chill",
+      "l": "https://kuasark.com/files/stations-logos/chill-fm-th.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Phuket Live Radio 89.5",
+      "s": "https://4118.radio4.thzhost.com/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/phuket-live-radio-895.png",
+      "g": [
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "MCOT Radio Chiangmai",
+      "s": "http://rstream.mcot.net:9066/;",
+      "l": "https://kuasark.com/files/stations-logos/mcot-radio-chiangmai.png",
+      "g": [
+        "Folk",
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "FM96.5",
+      "s": "https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/fm965.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Talay 90.25 FM",
+      "s": "http://206.189.157.88:8000/talay",
+      "l": "https://kuasark.com/files/stations-logos/talay-9025-fm.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Thai Love Lovers 90",
+      "s": "http://radio11.plathong.net:8896/;",
+      "l": "https://kuasark.com/files/stations-logos/thai-love-lovers-90.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Psu Radio 88",
+      "s": "http://radio2.thzhost.com:4066/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/psu-radio-88.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "BEC Tero Radio - Eazy FM 105.5",
+      "s": "https://24863.live.streamtheworld.com:443/EAZYFM_1055AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/bec-tero-radio-eazy-fm-1055.png",
+      "g": [
+        "International",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "ไทยลานนาเรดิโอ เพลงลูกทุ่ง เพื่อชีวิต",
+      "s": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/thiy-lan-na-redi-xo-phelng-luk-thung-pheux-chiwit.png",
+      "g": [
+        "Country",
+        "Alternative",
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chiang Mai Radio 93.75",
+      "s": "http://112.121.151.133:8124/live",
+      "l": "https://kuasark.com/files/stations-logos/chiang-mai-radio-9375.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mellow 97.5",
+      "s": "https://mellowpop.mcot.net/home",
+      "l": "https://kuasark.com/files/stations-logos/mellow-975.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "GREAT 93",
+      "s": "https://radio.vpsthai.net/proxy/qndrbfic/stream",
+      "l": "https://kuasark.com/files/stations-logos/great-93.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Eingdoi Radio Thailand",
+      "s": "http://ohmi-design.com:8170/;",
+      "l": "https://kuasark.com/files/stations-logos/eingdoi-radio-thailand.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Sunshine Radio",
+      "s": "http://c1.hostpleng.cloud:8046/live",
+      "l": "https://kuasark.com/files/stations-logos/sunshine-radio-th.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "WatPakBo",
+      "s": "http://radio1.siamlivehost.com:8001/;",
+      "l": "https://kuasark.com/files/stations-logos/watpakbo.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "94 Bangkok Smile",
+      "s": "http://fm94.tv5.co.th:8000/fm94ch3",
+      "l": "https://kuasark.com/files/stations-logos/94-bangkok-smile.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "IC Radio",
+      "s": "http://radio1.serverradio.net:8278/;",
+      "l": "https://kuasark.com/files/stations-logos/ic-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "GolgfingerRadio",
+      "s": "https://s2.myradiostream.com/:5060/;",
+      "l": "https://kuasark.com/files/stations-logos/golgfingerradio.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Fat 93 Radio Thailand",
+      "s": "http://112.121.151.133:8272/stream",
+      "l": "https://kuasark.com/files/stations-logos/fat-93-radio-thailand.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sukson Radio",
+      "s": "http://stream.pjcdn.com:9000/SuksonRadio?t=1461247913065",
+      "l": "https://kuasark.com/files/stations-logos/sukson-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Thailand",
+      "s": "http://prdonline.prd.go.th:8118/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-thailand-th-91403.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "CityLife 93.75 FM",
+      "s": "http://onair.onair.network:8076/;",
+      "l": "https://kuasark.com/files/stations-logos/citylife-9375-fm.png",
+      "g": [
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "theSPOT.fm",
+      "s": "https://rsas.bkk.fm/spot",
+      "l": "https://kuasark.com/files/stations-logos/thespotfm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "รักษ์ปักษ์ใต้เรดิโอ",
+      "s": "https://radio10.plathong.net/7100/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/raks-paks-ti-redi-xo.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chili Classics Thailand",
+      "s": "https://stream.chiliradio.app/chiliclassics",
+      "l": "https://kuasark.com/files/stations-logos/chili-classics-thailand.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Yesterday",
+      "s": "http://radio2.comgig.com:4122/;stream.mp4",
+      "l": "https://kuasark.com/files/stations-logos/yesterday.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "BEC Tero Radio - Tofupop Radio",
+      "s": "https://24863.live.streamtheworld.com:443/TOFU_POP_RADIOAAC_128.aac",
+      "l": "https://kuasark.com/files/stations-logos/bec-tero-radio-tofupop-radio.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bitter Sweet Music Th",
+      "s": "http://91.121.236.34:8520/th",
+      "l": "https://kuasark.com/files/stations-logos/bitter-sweet-music-th.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Ployradio Thailand",
+      "s": "https://radio14.plathong.net/7134/live",
+      "l": "https://kuasark.com/files/stations-logos/ployradio-thailand.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "เพลงลูกทุ่งหมอลำ กันตรึม",
+      "s": "https://inter.lannaradio.com/radio/8040/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/phelng-luk-thung-hmxla-kan-trum.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Met 107 Fm",
+      "s": "https://met107.mcot.net/live",
+      "l": "https://kuasark.com/files/stations-logos/met-107-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Love Radio",
+      "s": "http://streaming.radionomy.com:80/JamendoLounge",
+      "l": "https://kuasark.com/files/stations-logos/love-radio-th.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "BEC Tero Radio - Rad Radio",
+      "s": "https://18313.live.streamtheworld.com:443/RAD_RADIO_FMAAC_128.aac",
+      "l": "https://kuasark.com/files/stations-logos/bec-tero-radio-rad-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bangkok Fm",
+      "s": "https://bkkfm1.radioca.st/1",
+      "l": "https://kuasark.com/files/stations-logos/bangkok-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DontreeSeason Modern 9875 FM",
+      "s": "http://112.121.150.133:8203/live",
+      "l": "https://kuasark.com/files/stations-logos/dontreeseason-modern-9875-fm.png",
+      "g": [
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Voice of Navy",
+      "s": "https://radio12.plathong.net/7346/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/voice-of-navy.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "เพื่อนเพลงสเตชั่น",
+      "s": "https://radio14.plathong.net/7060/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/pheuxn-phe-lng-s-techa-n.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio BTR",
+      "s": "http://69.46.24.226:7056/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-btr.png",
+      "g": [
+        "Blues",
+        "Rock",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "เพลงสตริง String WOWRadio",
+      "s": "http://203.159.93.109:8010/radio;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/phelng-string-string-wowradio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "EFM 94.0",
+      "s": "https://atimeonline3.smartclick.co.th/efm",
+      "l": "https://kuasark.com/files/stations-logos/efm-940.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FM100 CMU",
+      "s": "https://radio.fm100cmu.com:8443/;",
+      "l": "https://kuasark.com/files/stations-logos/fm100-cmu.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mercigod Radio",
+      "s": "http://122.155.0.201:9000/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mercigod-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Active Radio",
+      "s": "https://fm99activeradio.mcot.net/index",
+      "l": "https://kuasark.com/files/stations-logos/active-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "BKK.Fm",
+      "s": "https://rsas.bkk.fm/radio",
+      "l": "https://kuasark.com/files/stations-logos/bkkfm.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Electronic",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Siangdham",
+      "s": "http://202.142.203.28:8000/siangdham.mp3",
+      "l": "https://kuasark.com/files/stations-logos/siangdham.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "OnAir.Network",
+      "s": "https://plus.onair.network:8020/ctmobile.mp3",
+      "l": "https://kuasark.com/files/stations-logos/onairnetwork.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ploy Radio",
+      "s": "https://radio14.plathong.net/7134/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ploy-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio 981",
+      "s": "http://203.131.210.196:8000/stream1/stream_live;",
+      "l": "https://kuasark.com/files/stations-logos/radio-981.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jakkajee Radio Station",
+      "s": "https://inter.lannaradio.com/radio/8020/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/jakkajee-radio-station.png",
+      "g": [
+        "Country",
+        "Alternative",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Onair Plus - ดนตรีสีสัน หาดใหญ่",
+      "s": "https://streaming.thaismarthost.com/radio/8010/live",
+      "l": "https://kuasark.com/files/stations-logos/onair-plus-dntri-sisan-hadhiy.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Merryradio",
+      "s": "http://freeuk28.listen2myradio.com:7815/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/merryradio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "CH19 FM",
+      "s": "http://s7.reliastream.com:8003/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/ch19-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "BEC Tero Radio - Star FM",
+      "s": "https://24863.live.streamtheworld.com:443/STARFM_THAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/bec-tero-radio-star-fm.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "104 Green Fm",
+      "s": "https://radio14.plathong.net/7072/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/104-green-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "TAB Radio Channel 1",
+      "s": "http://203.156.141.28:8200/tabradio",
+      "l": "https://kuasark.com/files/stations-logos/tab-radio-channel-1.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "FM 89.00 MHz Wat U-MONG (Suan Puthatham)",
+      "s": "https://apps4.mcot.net/stream729.aac",
+      "l": "https://kuasark.com/files/stations-logos/fm-8900-mhz-wat-u-mong-suan-puthatham.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "558channel",
+      "s": "http://prdonline.prd.go.th:8006/;",
+      "l": "https://kuasark.com/files/stations-logos/558channel.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio TMD",
+      "s": "http://www.radio.tmd.go.th:8014/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-tmd.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "BEC Tero Radio - Rock On Radio",
+      "s": "https://18313.live.streamtheworld.com:443/ROCK_ON_RADIOAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/bec-tero-radio-rock-on-radio.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "MjuRadio FM 95.50 MHz",
+      "s": "http://112.121.150.133:9000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/mjuradio-fm-9550-mhz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Thailand Yala FM 95",
+      "s": "http://prdonline.prd.go.th:8196/;?type=http&nocache=108",
+      "l": "https://kuasark.com/files/stations-logos/radio-thailand-yala-fm-95.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Thailand  Phatthalung",
+      "s": "https://stream-148.zeno.fm/8tc4bbawgxhvv?zs=QowNgK8sRQGO18YO5C613Q",
+      "l": "https://kuasark.com/files/stations-logos/radio-thailand-phatthalung.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "BigHit Network",
+      "s": "https://inter.lannaradio.com/radio/8010/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/bighit-network.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Voice of Navy",
+      "s": "https://radio12.plathong.net/8704/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/voice-of-navy-71553.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "I AM Radio 89 FM",
+      "s": "http://103.22.182.16:8054/stream/1/?1599473309899",
+      "l": "https://kuasark.com/files/stations-logos/i-am-radio-89-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Three Tops",
+      "s": "http://myradio.plathong.net:8068/;",
+      "l": "https://kuasark.com/files/stations-logos/three-tops.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Northeastenjoymusic",
+      "s": "https://radio10.plathong.net/7084/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/northeastenjoymusic.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Farclubradio",
+      "s": "https://radio14.plathong.net/7030/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/farclubradio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ibestradio",
+      "s": "https://radio11.plathong.net/7040/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ibestradio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Konsurin radio",
+      "s": "https://radio10.plathong.net/7230/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/konsurin-radio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "18K Radio",
+      "s": "http://112.121.151.133:8147/live",
+      "l": "https://kuasark.com/files/stations-logos/18k-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "AM 1143",
+      "s": "https://live-org-01-cdn.mcot.net/RegionRadio/Chanthaburi.stream_aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/am-1143.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tiparadio",
+      "s": "https://stream-151.zeno.fm/apzoenojihutv?zs=TRRkQRU9SRq1FHph9T3D_g",
+      "l": "https://kuasark.com/files/stations-logos/tiparadio.png",
+      "g": [
+        "Electronic",
+        "Alternative",
+        "Other"
+      ]
+    },
+    {
+      "t": "Passion FM Pattaya Thailand",
+      "s": "https://plus.onair.network:8010/passionfm",
+      "l": "https://kuasark.com/files/stations-logos/passion-fm-pattaya-thailand.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "R&B and Urban",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Top Viewpoint Radio 93.75 FM.",
+      "s": "https://radio9.plathong.net/7146/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/top-viewpoint-radio-9375-fm.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Metro Radio 90.5 Khon Kaen",
+      "s": "http://radio4.thzhost.com:4114/;",
+      "l": "https://kuasark.com/files/stations-logos/metro-radio-905-khon-kaen-1676.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Virgin Radio Hitz Bangkok",
+      "s": "http://prdonline.prd.go.th:8206/;",
+      "l": "https://kuasark.com/files/stations-logos/default4.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "requestradio",
+      "s": "http://27.254.142.208:8300/;",
+      "l": "https://kuasark.com/files/stations-logos/default2.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "requestradio String",
+      "s": "http://27.254.142.208:8100/stream",
+      "l": "https://kuasark.com/files/stations-logos/default2.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "มิติข่าว 90.5",
+      "s": "http://live3.smartbomb.co.th:8624/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/miti-khaw-905-9541.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Isan FM 98",
+      "s": "http://radio11.plathong.net:8900/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/isan-fm-98.com",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Star Radio 95.25 (CM)",
+      "s": "http://112.121.151.133:8152/live",
+      "l": "https://kuasark.com/files/stations-logos/star-radio-9525-cm.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "ลูกทุ่งเน็ตเวิร์ก",
+      "s": "https://media.login.in.th:8443/smilehost/8200",
+      "l": "https://kuasark.com/files/stations-logos/default1.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Bluewave 97 (CR)",
+      "s": "http://112.121.151.133:8109/live",
+      "l": "https://kuasark.com/files/stations-logos/bluewave-97-cr.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RequestRadio เพื่อชีวิต",
+      "s": "https://cast.requestradio.in.th:830/stream/",
+      "l": "https://kuasark.com/files/stations-logos/default3.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "RequestRadio Inter",
+      "s": "https://cast.requestradio.in.th:840//stream/3",
+      "l": "https://kuasark.com/files/stations-logos/requestradio-inter.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "BigFM RadioSocial",
+      "s": "http://media.login.in.th:8195/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/bigfm-radiosocial.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Report 1",
+      "s": "http://media.login.in.th:8135/;stream",
+      "l": "https://kuasark.com/files/stations-logos/default4.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RequestRadio Dance",
+      "s": "https://cast.requestradio.in.th:850//stream/3",
+      "l": "https://kuasark.com/files/stations-logos/requestradio-dance.png",
+      "g": [
+        "Other",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "CU Radio",
+      "s": "https://media.curadio.chula.ac.th/live/liveradio128/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/default3.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "สวท.พะเยา",
+      "s": "http://prdonline.prd.go.th:8124/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/default4.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Cool fahrenheit",
+      "s": "https://coolism-web3rd.cdn.byteark.com/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/cool-fahrenheit.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Top News",
+      "s": "https://live.topnews.co.th/hls/topnews.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/top-news.",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "สวท.สุราษฎร์ธานี A.M.1215 KHz",
+      "s": "http://prdonline.prd.go.th:8202/;",
+      "l": "https://kuasark.com/files/stations-logos/default2.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "ALTV (Low 144p)",
+      "s": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_144p/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/altv-low-144p.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "HIT 955",
+      "s": "https://18313.live.streamtheworld.com/HITZ_955AAC_128_SC?dist=TRITON-WEB&pname=TDSdk&ttag=work%253A",
+      "l": "https://kuasark.com/files/stations-logos/hit-955.",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bluewave 97",
+      "s": "http://112.121.151.133:8109/stream",
+      "l": "https://kuasark.com/files/stations-logos/bluewave-97.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "ดนตรีสีสัน หาดใหญ่",
+      "s": "https://apps4.mcot.net/stream843.aac",
+      "l": "https://kuasark.com/files/stations-logos/dntri-sisan-hadhiy.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "ONAIR PLUS ดนตรีสีสัน หาดใหญ่ สงขลา",
+      "s": "https://streaming.thaismarthost.com/radio/8010//live",
+      "l": "https://kuasark.com/files/stations-logos/onair-plus-dntri-sisan-hadhiy-sngkhla.png",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Best Radio FM. 89.0 MHz.",
+      "s": "http://112.121.150.133:8198/;",
+      "l": "https://kuasark.com/files/stations-logos/best-radio-fm-890-mhz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rad Radio",
+      "s": "http://radio1.serverradio.net:8592/;?type=http",
+      "l": "https://kuasark.com/files/stations-logos/default1.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "จทล FM 98.75",
+      "s": "https://mdr13.duckdns.org:8443/fm9875",
+      "l": "https://kuasark.com/files/stations-logos/cthl-fm-9875.jpg",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "จทล 98.75 HIFI",
+      "s": "https://mdr13.duckdns.org:8443/9875hifi",
+      "l": "https://kuasark.com/files/stations-logos/cthl-9875-hifi.jpg",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "MCOT อุดรธานี",
+      "s": "http://rstream.mcot.net:9044/;.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mcot-xudrthani.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "KIIS FM ขอนแก่น FM 105.75 MHz.",
+      "s": "http://112.121.150.133:8113/live",
+      "l": "https://kuasark.com/files/stations-logos/kiis-fm-khxnkaen-fm-10575-mhz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "ไอยรา มหานคร ขอนแก่น",
+      "s": "http://112.121.150.133:8109/live",
+      "l": "https://kuasark.com/files/stations-logos/xiyra-mhankhr-khxnkaen.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "ไอยรา มหานคร อุดรธานี",
+      "s": "http://112.121.150.133:8142/live",
+      "l": "https://kuasark.com/files/stations-logos/xiyra-mhankhr-xudrthani.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "KIIS FM อุดรธานี FM 90.75 MHz.",
+      "s": "http://112.121.150.133:8121/live",
+      "l": "https://kuasark.com/files/stations-logos/kiis-fm-xudrthani-fm-9075-mhz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "วัดพุทธาวาส ภูสิงห์",
+      "s": "http://radio1.serverradio.net:8060/;",
+      "l": "https://kuasark.com/files/stations-logos/wad-phuththawas-phu-singh.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "สังฆทานธรรม",
+      "s": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
+      "l": "https://kuasark.com/files/stations-logos/sangkhthan-thrrm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "บ้านธัมมะ",
+      "s": "https://radio10.plathong.net/7238/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ban-thamma.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bangkok Community Radio",
+      "s": "https://listen.radioking.com/radio/437057/stream/491105",
+      "l": "https://kuasark.com/files/stations-logos/bangkok-community-radio.gif",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "วัดป่าไทรงาม",
+      "s": "https://radio10.plathong.net/7110/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/wad-pa-thirngam.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "666 Radio Station Khonkaen - FM 90.75",
+      "s": "http://media.login.in.th:8845/;",
+      "l": "https://kuasark.com/files/stations-logos/666-radio-station-khonkaen-fm-9075.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Trip Phuket 89.75",
+      "s": "http://media.login.in.th:1150/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-trip-phuket-8975.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Thai Muslim Radio",
+      "s": "https://radio12.plathong.net/7234/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/thai-muslim-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vipak radio",
+      "s": "http://103.22.182.105:7068/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/vipak-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Anurak Radio",
+      "s": "http://112.121.150.133:8143/live",
+      "l": "https://kuasark.com/files/stations-logos/anurak-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "WatNaiRong",
+      "s": "http://103.7.56.219:4106/;",
+      "l": "https://kuasark.com/files/stations-logos/watnairong.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mazz Radio",
+      "s": "http://radio1.comgig.com:4096/;stream.m4a",
+      "l": "https://kuasark.com/files/stations-logos/mazz-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Wow Radio Online",
+      "s": "http://203.159.93.109:8000/radio;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/wow-radio-online.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "R-Radio Network วิทยาลัยเทคนิคแพร่ FM 107.00 MHz",
+      "s": "https://apps4.mcot.net/stream724.aac",
+      "l": "https://kuasark.com/files/stations-logos/r-radio-network-withyalay-thekhnikh-phaer-fm-10700-mhz.png",
+      "g": [
+        "International",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "เสียงปวงชน FM 97.75",
+      "s": "https://apps4.mcot.net/stream470.aac",
+      "l": "https://kuasark.com/files/stations-logos/seiyng-pwng-chn-fm-9775.png",
+      "g": [
+        "International",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "มหาชนคนเมืองลอง FM 98.00",
+      "s": "https://apps4.mcot.net/stream999.aac",
+      "l": "https://kuasark.com/files/stations-logos/mhachn-khn-meuxng-lxng-fm-9800.png",
+      "g": [
+        "International",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "คนร้องกวาง FM95.25",
+      "s": "https://apps4.mcot.net/stream472.aac",
+      "l": "https://kuasark.com/files/stations-logos/khn-rxngkwang-fm9525.png",
+      "g": [
+        "International",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "ร่องผาสวรรค์. FM 90.00",
+      "s": "https://apps4.mcot.net/stream133.aac",
+      "l": "https://kuasark.com/files/stations-logos/rxng-pha-swrrkh-fm-9000.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "ล้านนาแชนเนล FM 104.5",
+      "s": "http://fmonair.com/_restream.php?id=753",
+      "l": "https://kuasark.com/files/stations-logos/lan-na-chae-nnel-fm-1045.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "วิทยุชุมชนตำบลทุ่งโฮ้ง แพร่  FM101.50",
+      "s": "https://apps4.mcot.net/stream816.aac",
+      "l": "https://kuasark.com/files/stations-logos/withyu-chumchn-tabl-thung-hong-phaer-fm10150.png",
+      "g": [
+        "International",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Coop Radio Long 95",
+      "s": "https://apps4.mcot.net/stream708.aac",
+      "l": "https://kuasark.com/files/stations-logos/coop-radio-long-95.png",
+      "g": [
+        "International",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "วิทยุเพื่อคนแพร่ FM 105 MHZ",
+      "s": "https://apps4.mcot.net/stream469.aac",
+      "l": "https://kuasark.com/files/stations-logos/withyu-pheux-khn-phaer-fm-105-mhz.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "สถานีวิทยุเวียงสรอง FM 102.75 MHz",
+      "s": "https://apps4.mcot.net/stream474.aac",
+      "l": "https://kuasark.com/files/stations-logos/sthani-withyu-weiyng-s-rxng-fm-10275-mhz.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "เพื่อมวลชนแพร่ FM 90.25 MHZ",
+      "s": "https://apps4.mcot.net/stream471.aac",
+      "l": "https://kuasark.com/files/stations-logos/pheux-mwlchn-phaer-fm-9025-mhz.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "ที เรดิโอ จังหวัดแพร่",
+      "s": "https://apps4.mcot.net/stream153.aac",
+      "l": "https://kuasark.com/files/stations-logos/thi-redi-xo-canghwad-phaer.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other",
+        "Talk"
+      ]
+    }
+  ]
+}

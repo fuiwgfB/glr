@@ -1,0 +1,1838 @@
+{
+  "stations": [
+    {
+      "t": "Radio Astral",
+      "s": "https://streaming.rcs.com.sv/proxy/astral/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403439/3b59876f765ef472309ed6126951e42f_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rock Nation SV",
+      "s": "http://91.121.121.25:8087/rock",
+      "l": "https://images.radiovolna.net/_files/images/stations/430780/0e13e262b1d58548ac5215e6d92677e7_130x130.webp",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "La RR",
+      "s": "https://media.dominiocreativo.com:8044/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/427393/bcef248b08095394102dcb68ecd08a2b_130x130.webp",
+      "g": [
+        "Decades",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Clásica",
+      "s": "http://streaming.mundoclasicaupa.com:8000/radioclasica",
+      "l": "https://images.radiovolna.net/_files/images/stations/428811/ee7bdc5aa706088632b8c48abd36daf8_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Láser Inglés",
+      "s": "https://sp4.colombiatelecom.com.co/8032/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403422/u7dx59e5b070d32e8848180641_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "La Jefa Radio El Salvador",
+      "s": "https://node-19.zeno.fm/b264csn0sy8uv?rj-ttl=5&rj-tok=AAABejv2GRYAoMVzW9Xk9GpgrA",
+      "l": "https://images.radiovolna.net/_files/images/stations/425440/b76a73198a919985630fbdc1428e4145_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Themes",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Scan FM",
+      "s": "http://158.69.200.1:8022/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403427/g6kh59e5cef9aadc8921487510_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "UPA",
+      "s": "http://streaming-dc.mundoclasicaupa.com:8022/radioupa",
+      "l": "https://images.radiovolna.net/_files/images/stations/423407/1a08aa73725e8e2d831d273aa77cef16_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fiesta",
+      "s": "https://sp4.colombiatelecom.com.co/8026/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403441/a4tc59e5de7f7310b114679354_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Globo",
+      "s": "http://158.69.219.162:8026/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403423/ippk59e5b27039279302869436_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "YSUCA",
+      "s": "https://streaming.grupocsanetwork.net:1936/ysuca/ysuca/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/423408/661aefc90c1e7055162ad8c3d5a7f7a5_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Club",
+      "s": "https://stream.zenolive.com/q55kbcam8a5tv",
+      "l": "https://images.radiovolna.net/_files/images/stations/403421/zdpe59e5b014c69cd788705042_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "VOX FM",
+      "s": "https://streamingv2.shoutcast.com/vox-tcs",
+      "l": "https://images.radiovolna.net/_files/images/stations/403424/rb7t59e5b2e6375a7014116665_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "BEAT FM",
+      "s": "https://stream.zeno.fm/bpd02s5tbwzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429726/59ed46a3e7d3737e771f6907ce683557_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Corazón",
+      "s": "http://200.31.177.122:8085/radiocorazon.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403429/bgfl59e5d9cb7cfef622559405_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Cadena Mi Gente",
+      "s": "https://stream.zenolive.com/wwnsypvway5tv",
+      "l": "https://images.radiovolna.net/_files/images/stations/403446/t0w559e5e5bec1cf4982830718_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Punto 105",
+      "s": "https://punto105-stream2muchgroup.radioca.st/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403442/fztg59e5decc21a8c402890474_130x130.webp",
+      "g": [
+        "Alternative",
+        "Pop"
+      ]
+    },
+    {
+      "t": "La Guapa SV",
+      "s": "https://tcgradio.online:7000/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/28307/c94875a12881668cce9277af2d41959e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vive FM",
+      "s": "http://streamserver.ml:7082/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403437/6bb4230e9bc56a7b6927f87f4ff2a073_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ABC",
+      "s": "https://streaming.rcs.com.sv/8008/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/417186/g0xx5c0e6084d93f1483581876_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mesías Radio",
+      "s": "http://stream.miradio.in:8013/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/428810/88ebc287933021e40219fef009b0831e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gospel ID",
+      "s": "https://centova.playerfullhd.com:18062/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/418241/b25636bcf95b80a0f1dbcd1002bb8c11_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Getsemani",
+      "s": "http://server.radiogetsemani.net:8030/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403449/tdrp59e5e713bd818500668193_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Voz Evangélica Santa Sion",
+      "s": "http://streamingcontrol.com:9102/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428813/751f4ef1cbd14fade9c3b41949922f0c_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Paz",
+      "s": "http://108.163.223.242:8107/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403415/g70059e5ad3e67e4c341383331_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Cristo Te Llama",
+      "s": "https://hd.elsalvadordigital.net/8012/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423413/a064a6560ba572d709db9ca8df5a0cd9_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "La Estación de la Palabra",
+      "s": "http://cdn-radio.elim.org.sv:8022/stream/2/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423412/2542ddd7a168b4d81f74c525f6029a28_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Progreso",
+      "s": "https://www.streamingcp.com:2000/stream/radioprogreso/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428806/d03d5cf3a5355255872c4f00fa06d937_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gospel FM",
+      "s": "http://cdn-radio.elim.org.sv:8012/mp3_320",
+      "l": "https://images.radiovolna.net/_files/images/stations/403431/hk2a59e5da62763fc494035460_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Fuego",
+      "s": "https://univradio.streamgates.net/univ_radio/mgv-rfu-radio/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423411/ead6be5944093ce71fe79a736f8437fa_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Bautista",
+      "s": "https://s2.radio.co/s3a7dc3d82/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/403418/j8rr59e5ae827da46971520632_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "La Chévere",
+      "s": "https://streaming.rcs.com.sv/chevere/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403435/w9p059e5dbe0abeac547735486_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Restauración",
+      "s": "http://cdn-radio.elim.org.sv:8007/mp3_64",
+      "l": "https://images.radiovolna.net/_files/images/stations/403434/prsc59e5dba7b17d3521354832_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cool FM",
+      "s": "https://17973.live.streamtheworld.com/COOLFM_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/403417/wcrl59e5adf91d28c984122686_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Adventista",
+      "s": "https://cloudstream2030.conectarhosting.com/9866/stream;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403428/dwxt59e5cf34e474f667629915_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Sonora",
+      "s": "https://d3ch1v29t71zga.cloudfront.net/sonora.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428812/4d1719b0d0a37c5a513bc3bd5dcc1e7e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cristo Viene",
+      "s": "http://192.99.12.68:8122/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403445/adft59e5e563b4585176504285_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Exa FM",
+      "s": "http://158.69.219.162:8028/start",
+      "l": "https://kuasark.com/files/stations-logos/exa-fm-sv.png",
+      "g": [
+        "Rap",
+        "Pop"
+      ]
+    },
+    {
+      "t": "YSKL la Poderosa",
+      "s": "http://media.dominiocreativo.com:8000/radioyskl",
+      "l": "https://kuasark.com/files/stations-logos/yskl-la-poderosa.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Astral",
+      "s": "https://streaming.rcs.com.sv/8012//stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-astral.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Mil-80",
+      "s": "https://mc.servidor.stream:2020/stream/8214",
+      "l": "https://kuasark.com/files/stations-logos/mil-80.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Laser Español",
+      "s": "https://sp4.colombiatelecom.com.co/8030/stream",
+      "l": "https://kuasark.com/files/stations-logos/laser-espanol.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "92.5 Club",
+      "s": "http://158.69.200.1:8030/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/925-club.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vive FM",
+      "s": "https://streamserver.ml/7082/stream",
+      "l": "https://kuasark.com/files/stations-logos/vive-fm.png",
+      "g": [
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "YXY 105.7",
+      "s": "http://158.69.200.1:8020/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/yxy-1057.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "Latin",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "COOL FM 89.3",
+      "s": "https://media.dominiocreativo.com:8011/coolfm",
+      "l": "https://kuasark.com/files/stations-logos/cool-fm-893.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "POP 98.9 FM",
+      "s": "http://158.69.219.162:8024/start",
+      "l": "https://kuasark.com/files/stations-logos/pop-989-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Que Buena",
+      "s": "https://cast3.my-control-panel.com/proxy/gabriel4/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-que-buena-sv.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vox FM",
+      "s": "https://cast3.asurahosting.com/proxy/gabriel/stream",
+      "l": "https://kuasark.com/files/stations-logos/vox-fm-37294.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Ranchera",
+      "s": "https://sp4.colombiatelecom.com.co/8024/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-ranchera-sv.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Gospel FM",
+      "s": "https://ssl.rockhost.com/proxy/gospel?mp=/mp3_64",
+      "l": "https://kuasark.com/files/stations-logos/gospel-fm-sv.png",
+      "g": [
+        "Inspirational",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Coleccion Musical Radio",
+      "s": "https://stream-052.zeno.fm/ne04zt720a0uv?zs=a_azhtBmRHuQrFWn7z-CjQ",
+      "l": "https://kuasark.com/files/stations-logos/coleccion-musical-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Mix El Salvador",
+      "s": "https://stream-043.zeno.fm/0w3hgpmh6gruv?zs=jrSoWVmJSeGXmYuW4aGEZw",
+      "l": "https://kuasark.com/files/stations-logos/radio-mix-el-salvador.png",
+      "g": [
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Paz",
+      "s": "http://108.178.13.122:8369/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-paz.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "FM Globo",
+      "s": "http://158.69.219.162:8026/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/fm-globo-sv.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "https://dreamsiteradiocp2.com/proxy/rmelsalvador2?mp=/stream?ver=882392",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-sv.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Chaparrastique",
+      "s": "http://centova1.creativos10.com:8021/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-chaparrastique.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio El Mundo",
+      "s": "http://streaming-dc.mundoclasicaupa.com:8020/radioelmundo",
+      "l": "https://kuasark.com/files/stations-logos/radio-el-mundo-sv.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Restauración",
+      "s": "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_64",
+      "l": "https://kuasark.com/files/stations-logos/restauracion.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio DJ Internacional",
+      "s": "https://stream-157.zeno.fm/nr952x4w9s5tv?zs=GbhW_CehTviU4ZWMkB_-Fw",
+      "l": "https://kuasark.com/files/stations-logos/radio-dj-internacional.png",
+      "g": [
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "EURO 80's Radio",
+      "s": "https://stream-048.zeno.fm/fmrzu273ud0uv?zs=WvAzjRyFRzyG7AtimuI5Bg",
+      "l": "https://kuasark.com/files/stations-logos/euro-80s-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Evangelica Betel",
+      "s": "https://stream-150.zeno.fm/hr65wgbagc9uv?zs=N_4sYv4YTJaXnARd3TjCzA",
+      "l": "https://kuasark.com/files/stations-logos/radio-evangelica-betel.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "La Femenina 102.5 FM",
+      "s": "https://sp4.colombiatelecom.com.co/8028/stream",
+      "l": "https://kuasark.com/files/stations-logos/la-femenina-1025-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio La Fabulosa",
+      "s": "http://jelafabulosa.com:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-la-fabulosa.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Rocola",
+      "s": "http://centova1.creativos10.com:8025/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-rocola.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "106.9 FM Radio",
+      "s": "http://media.dominiocreativo.com:8044/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/1069-fm-radio-sv-101782.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "La voz Del Rey de Gloria",
+      "s": "https://ss.redradios.net:8029/stream",
+      "l": "https://kuasark.com/files/stations-logos/la-voz-del-rey-de-gloria.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Zona 503",
+      "s": "https://jm8n.net:7025/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-zona-503.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Estereo Vision",
+      "s": "https://server2.watahosting.com/radio/8004/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-estereo-vision.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Romantica Ingles",
+      "s": "https://stream-061.zeno.fm/yvu8e90mguquv?zs=D1myVuCRRy2QVZGbsRKk3A",
+      "l": "https://kuasark.com/files/stations-logos/radio-romantica-ingles.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Mesías",
+      "s": "http://184.154.45.106:8013/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-mesias-sv.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Cuscatlán",
+      "s": "http://198.204.234.10:8298/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-cuscatlan.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Cadena Central",
+      "s": "https://mc.servidor.stream:2020/stream/8102",
+      "l": "https://kuasark.com/files/stations-logos/cadena-central-sv.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Inolvidable Radio",
+      "s": "https://stream-154.zeno.fm/2cs67xucna0uv?zs=ZUoEuZu9RVyFSCde4Ku8Ug",
+      "l": "https://kuasark.com/files/stations-logos/inolvidable-radio-sv-116610.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Adventista",
+      "s": "https://cloudstream2030.conectarhosting.com/9866/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-adventista-sv.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "El Camino FM",
+      "s": "http://streamingcontrol.com:9108/;",
+      "l": "https://kuasark.com/files/stations-logos/el-camino-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Filipenses Radio El Salvador",
+      "s": "https://stream-046.zeno.fm/4d8tqkhwe5zuv?zs=tb19qf9vSXev-54g6Cfl0A",
+      "l": "https://kuasark.com/files/stations-logos/filipenses-radio-el-salvador.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Plus 101.3 FM",
+      "s": "http://media.dominiocreativo.com:9006/;",
+      "l": "https://kuasark.com/files/stations-logos/plus-1013-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Carnaval",
+      "s": "https://stream-153.zeno.fm/k6qexbz0vd0uv?zs=p-09WvejTSWLac9KE-6ilg",
+      "l": "https://kuasark.com/files/stations-logos/radio-carnaval-sv.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RADIO FIESTA TROPICAL GUANACA",
+      "s": "https://stream-046.zeno.fm/262ebxkq9eeuv?zs=jkOTGI5PSX-F04W_dzm6RA",
+      "l": "https://kuasark.com/files/stations-logos/radio-fiesta-tropical-guanaca.png",
+      "g": [
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Soyacity Radio",
+      "s": "https://stream-058.zeno.fm/nfwqbgfu9druv?zs=7hD0kU6YQYaHJsdBxahn-w",
+      "l": "https://kuasark.com/files/stations-logos/soyacity-radio.png",
+      "g": [
+        "Reggae",
+        "Latin",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "La Urbana 94.9",
+      "s": "https://streaming.rcs.com.sv/urbana/stream",
+      "l": "https://kuasark.com/files/stations-logos/la-urbana-949.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radio Cret San Miguel",
+      "s": "https://radiocret.net:8100/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-cret-san-miguel.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Emperador - Romantica",
+      "s": "http://199.115.115.71:8156/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-emperador-romantica.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Getsemani La Unión",
+      "s": "https://radiogetsemani.net:8130/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-getsemani-la-union.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio El Buen Pastor",
+      "s": "http://max.miradio.in:8221/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-el-buen-pastor.png",
+      "g": [
+        "Pop",
+        "Inspirational",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Poder FM",
+      "s": "http://195.154.33.87:7530/;",
+      "l": "https://kuasark.com/files/stations-logos/poder-fm-sv.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Merea Radio",
+      "s": "https://stream-148.zeno.fm/5eh0tde4ud0uv?zs=eayvyVU8QFOjRJwQiCShuA",
+      "l": "https://kuasark.com/files/stations-logos/merea-radio.png",
+      "g": [
+        "Alternative",
+        "Inspirational",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Super Estrella 94.1 FM",
+      "s": "http://streaming.radionomy.com:80/JamendoLounge",
+      "l": "https://kuasark.com/files/stations-logos/super-estrella-941-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Emperador - Bachata",
+      "s": "http://198.7.59.28:8184/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-emperador-bachata.png",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Plenitud Radio",
+      "s": "https://ssl.rockhost.com/proxy/plenitud?mp=/mp3_64",
+      "l": "https://kuasark.com/files/stations-logos/plenitud-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Stéreo Morazán",
+      "s": "http://5.39.82.140:9896/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-stereo-morazan.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "YSAX",
+      "s": "https://c20.radioboss.fm:18108/stream",
+      "l": "https://kuasark.com/files/stations-logos/ysax.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Reina de la Paz",
+      "s": "http://centova1.creativos10.com:8045/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-reina-de-la-paz.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "La Estación de la Palabra",
+      "s": "https://ssl.rockhost.com/proxy/540am?mp=/mp3_128",
+      "l": "https://kuasark.com/files/stations-logos/la-estacion-de-la-palabra.png",
+      "g": [
+        "Pop",
+        "Inspirational",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Mix la mas chevere en El Salvador",
+      "s": "https://tuneinradiofm.com/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-mix-la-mas-chevere-en-el-salvador.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "Latin",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "503Radiozone",
+      "s": "http://104.250.149.122:8334/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/503radiozone.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Latin",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "V.I.P. Radio el Salvador",
+      "s": "https://hd.jrhost.net:8030/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/vip-radio-el-salvador.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Impacto FM",
+      "s": "https://hd.elsalvadordigital.net/8038/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-impacto-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "RadioCaseraSV",
+      "s": "https://whmsonic.playerfullhd.com/8014/stream",
+      "l": "https://kuasark.com/files/stations-logos/radiocaserasv.png",
+      "g": [
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Latina El Salvador",
+      "s": "https://stream-021.zeno.fm/0pvbx9zvxd0uv?zs=Cx8VBfV1TOKEo0ifrXKZSA",
+      "l": "https://kuasark.com/files/stations-logos/radio-latina-el-salvador.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Nayo Live!",
+      "s": "https://stream-150.zeno.fm/wzq0aafv3gruv?zs=tnBUuJB5RTuqxJP9UALh-A",
+      "l": "https://kuasark.com/files/stations-logos/nayo-live.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Salem",
+      "s": "http://streamingcontrol.com:8500/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-salem-sv.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Shalom Radio Te Bendice",
+      "s": "https://tecnoservix.stream/proxy/shalomradio?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/shalom-radio-te-bendice.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Forever Young Radio",
+      "s": "https://stream-047.zeno.fm/y14qe1wcna0uv?zs=QQOS5160QKipxPKAwJif7A",
+      "l": "https://kuasark.com/files/stations-logos/forever-young-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Teleonda",
+      "s": "https://stream-058.zeno.fm/m7kv6639my8uv?zs=Orotv_SlTISgLVQUJv5tNQ",
+      "l": "https://kuasark.com/files/stations-logos/teleonda.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Gospel ID",
+      "s": "https://stream-153.zeno.fm/r6f10u9q7ueuv?zs=Z4_9v0CwTmORycgqRuG4jA",
+      "l": "https://kuasark.com/files/stations-logos/radio-gospel-id.png",
+      "g": [
+        "Inspirational",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio RX FM",
+      "s": "https://media.dominiocreativo.com:8010/radiorx",
+      "l": "https://kuasark.com/files/stations-logos/radio-rx-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Latinoamerikanto",
+      "s": "https://stream-150.zeno.fm/2weqy4tw7k0uv?zs=_C7ig1UCQiewwG4zXieDog",
+      "l": "https://kuasark.com/files/stations-logos/radio-latinoamerikanto.png",
+      "g": [
+        "Jazz",
+        "Rock",
+        "Other",
+        "News",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radio Señorial",
+      "s": "https://stream-058.zeno.fm/7vuxks6any8uv?zs=NgNbFZa2R9qGhhYUobmC0g",
+      "l": "https://kuasark.com/files/stations-logos/radio-senorial.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Ministerio La Palabra Viva",
+      "s": "https://stream-153.zeno.fm/8xzxvch8n48uv?zs=MWA1vSmnTL63yayXLhrDeg",
+      "l": "https://kuasark.com/files/stations-logos/ministerio-la-palabra-viva.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "89.1 Genesis La Musica Que Llena Tu Vida",
+      "s": "https://stream-047.zeno.fm/ycg4cqz5708uv?zs=E7PTzTzmTRCkzKLPjGTp8g",
+      "l": "https://kuasark.com/files/stations-logos/891-genesis-la-musica-que-llena-tu-vida.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Latinoamerikanto Música",
+      "s": "https://stream-150.zeno.fm/2weqy4tw7k0uv?zs=TSbMuVIXT1eKQkux0BaYbQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-latinoamerikanto-musica.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Solo Por Fregar by @PenchoDuque",
+      "s": "https://streamer.radio.co/s3a3c12873/listen",
+      "l": "https://kuasark.com/files/stations-logos/solo-por-fregar-by-penchoduque.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Rasta Jah Online",
+      "s": "https://radioenhd.com/8076/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-rasta-jah-online.png",
+      "g": [
+        "Electronic",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Radio Rumba Latina",
+      "s": "https://c11.radioboss.fm:18303/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-rumba-latina-sv-130845.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "La Jefa Radio",
+      "s": "https://stream-047.zeno.fm/b264csn0sy8uv?zs=GPZEhIBoRnyEWrve750tsg",
+      "l": "https://kuasark.com/files/stations-logos/la-jefa-radio-sv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mi Pachangon Radio",
+      "s": "https://jm8n.net/8012/stream",
+      "l": "https://kuasark.com/files/stations-logos/mi-pachangon-radio.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Der Klassic Radio",
+      "s": "https://stream-156.zeno.fm/026ua5cft18uv?zs=6O28gLGrRM-tLEDc8NopoA",
+      "l": "https://kuasark.com/files/stations-logos/der-klassic-radio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Revelación",
+      "s": "https://radiogetsemani.net:8131/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-revelacion-sv.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Sivar",
+      "s": "https://stream-148.zeno.fm/6bc1eaczczzuv?zs=a4vE0nZvSwWFSIDsVtQ_VQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-sivar.png",
+      "g": [
+        "Electronic",
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "94.9 KISS FM",
+      "s": "https://stream-068.zeno.fm/8b0u27r3568uv?zs=3qwHwph4RKmNx7PHvkp1cA",
+      "l": "https://kuasark.com/files/stations-logos/949-kiss-fm-sv.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "YSU radiocadena",
+      "s": "https://stream-148.zeno.fm/y90eqr9x0f9uv?zs=hCGJACZkQViqBWUPlC7qKg",
+      "l": "https://kuasark.com/files/stations-logos/ysu-radiocadena.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Super Stereo El Salvador",
+      "s": "https://stream-153.zeno.fm/g3ws9m5wea0uv?zs=7HKkmyMASTKje12nqgzYQQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-super-stereo-el-salvador.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Visión 1270 AM",
+      "s": "http://173.249.0.101:9330/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-vision-1270-am.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "La LX",
+      "s": "https://stream-150.zeno.fm/e6nehg4vp0hvv?zs=65duJKc-SQ-oJXMIgr-Gmw",
+      "l": "https://kuasark.com/files/stations-logos/la-lx.png",
+      "g": [
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Musiquera",
+      "s": "https://stream-151.zeno.fm/ucg7nnxmrc9uv?zs=_Rth3_3TQT-iT_zJFUU4gQ",
+      "l": "https://kuasark.com/files/stations-logos/musiquera.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kyrios",
+      "s": "http://198.27.68.65:8787/;",
+      "l": "https://kuasark.com/files/stations-logos/kyrios.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Fiesta Latina",
+      "s": "https://stream-156.zeno.fm/ng52auvbe8zuv?zs=MXUPB6WqQnCj2WcQP5WSFg",
+      "l": "https://kuasark.com/files/stations-logos/radio-fiesta-latina.png",
+      "g": [
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radio Cristiana Amor Eterno Jeremias 31:3",
+      "s": "https://radioamoreterno-radiomaster77.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-cristiana-amor-eterno-jeremias-313.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Generación 60",
+      "s": "https://stream-150.zeno.fm/99bhxqh74bhvv?zs=dBLHWsisSbWxCDOfDK7hSg",
+      "l": "https://kuasark.com/files/stations-logos/radio-generacion-60.png",
+      "g": [
+        "Blues",
+        "R&B and Urban",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Trueno",
+      "s": "https://stream-061.zeno.fm/xbhtp1k0df9uv?zs=Vj4gLQ6OQKKXz5PjzXMBFw",
+      "l": "https://kuasark.com/files/stations-logos/radio-trueno-sv.png",
+      "g": [
+        "Electronic",
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "BEAT FM",
+      "s": "https://stream-152.zeno.fm/bpd02s5tbwzuv?zs=zXVEZdQnSkab3m9jqWwSow",
+      "l": "https://kuasark.com/files/stations-logos/beat-fm-88082.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Fe",
+      "s": "https://innovaudioradio.com/radio/8000/radio.mp3?ver=296901",
+      "l": "https://kuasark.com/files/stations-logos/radio-fe-sv.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Asder Online",
+      "s": "https://securestreams4.autopo.st:1715/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-asder-online.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pencho y Aida FM",
+      "s": "http://188.165.240.90:8466/stream",
+      "l": "https://kuasark.com/files/stations-logos/pencho-y-aida-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Palabra Que Cambia Refugio",
+      "s": "https://palabraquecambiarfj-cristoviene2.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-palabra-que-cambia-refugio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Inolvidable Radio",
+      "s": "https://stream-154.zeno.fm/f8e5mzucna0uv?zs=AKaRQOSESpq5nEJv6zFnAA",
+      "l": "https://kuasark.com/files/stations-logos/inolvidable-radio-sv-128822.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "La Exitosa Inolvidable",
+      "s": "https://stream-045.zeno.fm/gkqe1fwxwc9uv?zs=QMD-_rMNT3iqalGGfgwELQ",
+      "l": "https://kuasark.com/files/stations-logos/la-exitosa-inolvidable.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Rumba Latina",
+      "s": "https://c11.radioboss.fm:8303/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-rumba-latina.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Imagen Radio El Salvador",
+      "s": "https://jm8n.net/8008/stream",
+      "l": "https://kuasark.com/files/stations-logos/imagen-radio-el-salvador.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Electronic",
+        "Other",
+        "News",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Oye FM",
+      "s": "https://laradiossl.online:10698/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/oye-fm-sv.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Fiesta Tropical Salvadoreña",
+      "s": "https://stream-154.zeno.fm/2y0s4s3kasquv?zs=CkWzzE0tQq6zMKXqRZVZqw",
+      "l": "https://kuasark.com/files/stations-logos/radio-fiesta-tropical-salvadorena.png",
+      "g": [
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "La voz de La Palabra Que Cambia",
+      "s": "https://stream-149.zeno.fm/m74sw0cfe18uv?zs=4MC-I-V8S2yDvSel_Gl0lA",
+      "l": "https://kuasark.com/files/stations-logos/la-voz-de-la-palabra-que-cambia.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Óptima",
+      "s": "http://5.39.82.140:9896/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-optima-sv.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Nueva Jesuralem",
+      "s": "https://tecnoservix.stream/proxy/nuevajerusalem?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-nueva-jesuralem.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Suspiro de Poetas Radio",
+      "s": "https://s22.ssl-stream.com/listen/suspiros_de_poetas_/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/suspiro-de-poetas-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Guija",
+      "s": "http://aler.org:8000/guija",
+      "l": "https://kuasark.com/files/stations-logos/radio-guija.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Explosión Latina 503",
+      "s": "https://stream-163.zeno.fm/6p1k2ds3trhvv?zs=-kkq0QjgSSGU8BwGv9H4rQ",
+      "l": "https://kuasark.com/files/stations-logos/explosion-latina-503.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "La Guapa 99.7 FM",
+      "s": "https://streaming.rcs.com.sv/8014/stream",
+      "l": "https://kuasark.com/files/stations-logos/la-guapa-997-fm.png",
+      "g": [
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "La Guapa SV",
+      "s": "https://tcgradio.online/8002/stream",
+      "l": "https://kuasark.com/files/stations-logos/la-guapa-sv.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio El Salvador del Mundo",
+      "s": "https://radio15.servidorderadio.net:7019/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-el-salvador-del-mundo.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "JUVI",
+      "s": "http://aler.org:8000/juvi",
+      "l": "https://kuasark.com/files/stations-logos/juvi.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "A-Beats",
+      "s": "https://stream-150.zeno.fm/u30an3fphzzuv?zs=3qkvWdKyT4ahhvhh-Wfm4w",
+      "l": "https://kuasark.com/files/stations-logos/a-beats.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio La Cachimbona",
+      "s": "http://147.135.130.215:8184/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-la-cachimbona.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Solo Hits Radio",
+      "s": "https://jm8n.net/8150/stream;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/solo-hits-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Vida El Salvador",
+      "s": "https://stream-148.zeno.fm/g8un5em04d0uv?zs=sRhcEWjPRT-jh0Vki_Klaw",
+      "l": "https://kuasark.com/files/stations-logos/radio-vida-el-salvador.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Stereo Canaan",
+      "s": "https://tecnoservix.stream/proxy/stereocanaan?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-stereo-canaan.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Zoom",
+      "s": "https://stream-150.zeno.fm/304prbb74c9uv?zs=D_bbSO-2SKK6wkiwaANpsg",
+      "l": "https://kuasark.com/files/stations-logos/radio-zoom-sv.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "La Original",
+      "s": "https://stream-149.zeno.fm/vpfebszu1f9uv?zs=GloMmRwXTmqNkRMaazvJaw",
+      "l": "https://kuasark.com/files/stations-logos/la-original-sv.png",
+      "g": [
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radio Vivencias Musicales",
+      "s": "http://65.60.45.74:5340/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-vivencias-musicales.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Recuer2 Radio",
+      "s": "https://stream-148.zeno.fm/eszwx2tsga0uv?zs=CLzg7BueQ5CGxN7dSKk4Tw",
+      "l": "https://kuasark.com/files/stations-logos/recuer2-radio.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rock Nation",
+      "s": "http://147.135.130.215:8172/;",
+      "l": "https://kuasark.com/files/stations-logos/rock-nation-sv.png",
+      "g": [
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Supra 90.5 fm",
+      "s": "https://stream-148.zeno.fm/cpoqmejvb7ftv?zs=l3ra_08VRjCFhHyaJ0BpKQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-supra-905-fm.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Maria Auxiliadora El Salvador (Oficial)",
+      "s": "https://auxiliadorasv.radio12345.com/",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-auxiliadora-el-salvador-oficial.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Fuerza Zacatecoluca",
+      "s": "https://s22.myradiostream.com/:8212/listen.mp3?nocache=1679990978",
+      "l": "https://kuasark.com/files/stations-logos/radio-fuerza-zacatecoluca.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Autoradio",
+      "s": "https://stream-150.zeno.fm/fgd6dr0mhy8uv?zs=bZnwR2-iT2aROHTEKAzdag",
+      "l": "https://kuasark.com/files/stations-logos/autoradio.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Popular",
+      "s": "https://01.solumedia.com.ar:8418/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-popular-sv.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Catolica El Socorro",
+      "s": "https://ssl.xcast.com.br:7628/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-catolica-el-socorro.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Tocame 100.7",
+      "s": "https://stream20.usastreams.com:7001/;",
+      "l": "https://kuasark.com/files/stations-logos/tocame-1007.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radioalpha",
+      "s": "https://stream-150.zeno.fm/x3vu85c31ueuv?zs=MB7Wi998Qwerkc-oRC4yvg",
+      "l": "https://kuasark.com/files/stations-logos/radioalpha.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "El Salón Radio",
+      "s": "https://stream-148.zeno.fm/u09fbrpydy8uv?zs=4oxWdkHNTa2Zs6mxEwdKGA",
+      "l": "https://kuasark.com/files/stations-logos/el-salon-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Emiliani",
+      "s": "http://163.172.209.91:9167/stream?type=http&nocache=32",
+      "l": "https://kuasark.com/files/stations-logos/radio-emiliani.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Montana´s Radio",
+      "s": "http://91.121.121.25:8130/;",
+      "l": "https://kuasark.com/files/stations-logos/montana-s-radio.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Comunitaria Tonaca",
+      "s": "https://stream-150.zeno.fm/vynzak5k08quv?zs=FrxTUDBATN-XItYS22B7uw",
+      "l": "https://kuasark.com/files/stations-logos/radio-comunitaria-tonaca.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "ShuK Radio",
+      "s": "https://stream-148.zeno.fm/1empsfh16bhvv?zs=90uYZKXGTbuE_2-HVW1sEA",
+      "l": "https://kuasark.com/files/stations-logos/shuk-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Más Música Menos Guerra Radio",
+      "s": "https://stream-148.zeno.fm/ywx5ui4gcrytv?zs=d5Ip7lb_TnuMHsmQ81jchA",
+      "l": "https://kuasark.com/files/stations-logos/mas-musica-menos-guerra-radio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "La 503 Online",
+      "s": "https://stream-150.zeno.fm/a2x172k0miqvv?zs=B9sxh2g5SD-KRbtLxClMTg",
+      "l": "https://kuasark.com/files/stations-logos/la-503-online.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Asis - l\" La Radio de la Paz y el Bien.",
+      "s": "https://stream-152.zeno.fm/4tga96nm3p8uv?zs=IfljiKEkQouw0pRHF2J8vg",
+      "l": "https://kuasark.com/files/stations-logos/radio-asis-l-la-radio-de-la-paz-y-el-bien.png",
+      "g": [
+        "Folk",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "100.7 Stereo",
+      "s": "https://stream20.usastreams.com/8138/stream",
+      "l": "https://kuasark.com/files/stations-logos/1007-stereo.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Proactiva",
+      "s": "http://129.146.44.177:8100/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-proactiva.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio San Romero",
+      "s": "http://91.121.121.25:8185/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-san-romero.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Vida Nueva 106.1 FM",
+      "s": "https://sonicpanel.cloudstreaming.eu/8020/stream;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-vida-nueva-1061-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Tendencia On Line",
+      "s": "https://tecnoservix.stream/proxy/radiotendencia?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-tendencia-on-line.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Música fm",
+      "s": "https://stream-058.zeno.fm/622f0g3pg98uv?zs=-W1r1dy0RT-wZnAgSFMpDw",
+      "l": "https://kuasark.com/files/stations-logos/musica-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Exceed Radio",
+      "s": "https://stream-150.zeno.fm/7k10ppa64bhvv?zs=6mhUBYPCRGygPqIdbk-VVQ",
+      "l": "https://kuasark.com/files/stations-logos/exceed-radio.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Voltaje",
+      "s": "https://stream-150.zeno.fm/ruhguifyaoftv?zs=kRcNcO_gRJKhzZ2ueB_oAw",
+      "l": "https://kuasark.com/files/stations-logos/radio-voltaje.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Lemuel",
+      "s": "http://195.154.33.87:9308/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-lemuel.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio clásica sv",
+      "s": "https://stream-068.zeno.fm/2yuh840dhfhvv?zs=B1MQ-9djQrWvdpX_vvF5WA",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasica-sv-sv-141223.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Impactos Radio",
+      "s": "https://jm8n.net/8102/stream",
+      "l": "https://kuasark.com/files/stations-logos/impactos-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Potencia Radio SV",
+      "s": "http://max.miradio.in:8300/stream",
+      "l": "https://kuasark.com/files/stations-logos/potencia-radio-sv.png",
+      "g": [
+        "Rap",
+        "Reggae",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Do Pastor",
+      "s": "https://sonicpanel.oficialserver.com/8372/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-do-pastor.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "La Mejor FM 98.9",
+      "s": "http://158.69.219.162:8024/stream",
+      "l": "https://kuasark.com/files/stations-logos/la-mejor-fm-989.png",
+      "g": [
+        "Pop",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "FM Globo 93.3",
+      "s": "http://158.69.219.162:8026/stream",
+      "l": "https://kuasark.com/files/stations-logos/fm-globo-933.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Exa FM El Salvador",
+      "s": "http://158.69.219.162:8028/;",
+      "l": "https://kuasark.com/files/stations-logos/exa-fm-el-salvador.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Themes",
+        "International",
+        "News",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Evangélica Mekaddesh 90.9 FM",
+      "s": "https://tv.radiohosting.online:9922/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-evangelica-mekaddesh-909-fm.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Zoom El Salvador",
+      "s": "http://129.146.44.177:8090/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-zoom-el-salvador.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Solo Hits Radio El Salvador",
+      "s": "http://129.146.44.177:8020/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/solo-hits-radio-el-salvador.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Explosión Latina 503",
+      "s": "http://129.146.44.177:8070/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-explosion-latina-503.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Verdad 95.7 FM | Voz del Pentecostes",
+      "s": "https://cloudstream2036.conectarhosting.com/8168/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-verdad-957-fm-voz-del-pentecostes.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Restauracion / 100.5 FM - Mision Cristiana Elim",
+      "s": "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_320",
+      "l": "https://kuasark.com/files/stations-logos/restauracion-1005-fm-mision-cristiana-elim.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Onda 503",
+      "s": "https://radio13.servidorderadio.net/8086/stream",
+      "l": "https://kuasark.com/files/stations-logos/onda-503.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "RadioVijaer",
+      "s": "https://stream-149.zeno.fm/v5kea3weq8quv?zs=CK9cjX7KSE-UdIezsO7bEQ",
+      "l": "https://kuasark.com/files/stations-logos/radiovijaer.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "AM 97",
+      "s": "https://stream-149.zeno.fm/03vqe42q008uv?zs=UbPabvzTSCOW8otVR4eKOQ",
+      "l": "https://kuasark.com/files/stations-logos/am-97.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Fuerza503FM",
+      "s": "https://stream-148.zeno.fm/nxe3fdm171zuv?zs=DjGNO3eRSGaNyybO9rt91w",
+      "l": "https://kuasark.com/files/stations-logos/fuerza503fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "VANTE.FM Radio",
+      "s": "http://freeuk30.listen2myradio.com:17417/;stream",
+      "l": "https://kuasark.com/files/stations-logos/vantefm-radio.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

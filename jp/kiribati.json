@@ -1,0 +1,31 @@
+{
+  "stations": [
+    {
+      "t": "Radio Free FM 89 Kiribati",
+      "s": "https://live.accessmedia.nz/FreeFM.stream_aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-free-fm-89-kiribati.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Station Beta",
+      "s": "https://stream-150.zeno.fm/wgcdjbcx7qsvv?zs=zRXfYJZRR9-ToccRE8dStA",
+      "l": "https://kuasark.com/files/stations-logos/station-beta-124861.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kiribati",
+      "s": "http://streamer5.rightclickitservices.com:9790/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-kiribati.png",
+      "g": [
+        "News"
+      ]
+    }
+  ]
+}

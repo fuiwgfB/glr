@@ -1,0 +1,4021 @@
+{
+  "stations": [
+    {
+      "t": "Triple M Classic Rock",
+      "s": "https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402495/ff5187ad7040fb1d51e0f79f3e1a8853_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rebel",
+      "s": "https://s8.yesstreaming.net:17099/RblGC",
+      "l": "https://images.radiovolna.net/_files/images/stations/420439/adae0ddac4ca2ffb43fe0dd67e66d8f7_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "WSFM 101.7",
+      "s": "http://ais-arn.streamguys1.com/au_002_icy",
+      "l": "https://images.radiovolna.net/_files/images/stations/8888/804ead887862b9a050e7b949cc6f8521_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ABC Classic FM",
+      "s": "http://live-radio02.mediahubaustralia.com/2FMW/mp3/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/1961/734a427160480b5a73c239b1c1bd2f3b_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Buddha Hits",
+      "s": "https://wz2liw.scahw.com.au/live/2buddha_128.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402469/49516ddf8e820d8852fff7a83a2395c6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "B105",
+      "s": "https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402557/53a4ceea71cee9e43c071f8b848bcf4e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SBS Chill",
+      "s": "http://sbs-ice.streamguys1.com/sbschill",
+      "l": "https://images.radiovolna.net/_files/images/stations/2003/tfv6595cfbb9c8428400372535_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Triple M Central Coast",
+      "s": "https://wz2liw.scahw.com.au/live/2ggo_128.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402494/4fefba466fc211b1b9b86697bd850abd_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "ABC Sydney",
+      "s": "http://live-radio01.mediahubaustralia.com/2LRW/mp3/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/1954/f51c874dd52a1afa6441648dfa4a1691_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Italian Music",
+      "s": "https://streaming.radiostreamlive.com/radioitalianmusic_devices",
+      "l": "https://images.radiovolna.net/_files/images/stations/8893/wjwd5959efcbbd952115082533_130x130.webp",
+      "g": [
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "ABC Country",
+      "s": "http://live-radio02.mediahubaustralia.com/CTRW/aac/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/1963/w5ow5959fbbb02451035626401_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "KIIS 97.3",
+      "s": "https://ais-arn.streamguys1.com/au_011/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/1960/aq64597b5ca31c598107890156_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "4BH",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/4BCAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/8879/f7130a3a0702813ea137937df1531d7c_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cruise 1323",
+      "s": "http://ais-arn.streamguys1.com/au_008_icy",
+      "l": "https://images.radiovolna.net/_files/images/stations/8900/gv8z59bd2850f02be108261696_130x130.webp",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "ABC Jazz",
+      "s": "http://live-radio01.mediahubaustralia.com/JAZW/mp3/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/798/bc7ed6003249a50ef98a65dbe9d6091e_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "ABC Radio National",
+      "s": "http://live-radio02.mediahubaustralia.com/2RNW/mp3/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/8882/dni95984132c90af9058988305_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Systrum Sistum - SSR2",
+      "s": "https://systrum.net:8443/SSR2",
+      "l": "https://images.radiovolna.net/_files/images/stations/422357/487f275213657f3a2f73e22e9b5af353_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Territory FM",
+      "s": "http://138.80.128.234:8000/TerritoryFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/2013/a76f95f637770daefb379124a0706974_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "PBS",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/3PBS_FMAAC128.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/1994/yovm596deffc59df9586412964_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "2PTV Smooth FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC48.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/402472/fd52556ce38d0900d4e55abdb3be6efd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "La family tu radio",
+      "s": "http://s46.myradiostream.com:5346/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422198/bc8f5697e2603d1cb4b8d30b2221e1ef_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "3TTT - KIIS",
+      "s": "http://ais-arn.streamguys1.com/au_001_icy",
+      "l": "https://images.radiovolna.net/_files/images/stations/27835/d61890d9f80636a442d39fb27ef7758d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Triple J",
+      "s": "http://live-radio01.mediahubaustralia.com/2TJW/aac/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/8941/a0uf5a5ca3784b3c3336865871_130x130.webp",
+      "g": [
+        "Themes",
+        "Talk",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "4BH Easy Music",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACE_4BHAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/8877/5d311a220976167b5db1931369d1b93b_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fox 101.9",
+      "s": "https://wz3liw.scahw.com.au/live/3fox_128.stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/22214/ec4b58f3b702f2a5fc9b312c8cf33745_130x130.webp",
+      "g": [
+        "Pop",
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Light Digital",
+      "s": "http://27.131.74.8:8148/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402542/cmp459c76a9b3b7ae038192148_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Massive Dance Radio",
+      "s": "https://kathy.torontocast.com:4405/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422390/9cacdd9beabd8f1ca84f3100c304ddc1_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Starter FM",
+      "s": "http://streaming.starterfm.com:8010/starter192",
+      "l": "https://images.radiovolna.net/_files/images/stations/420435/da720f4b2da12f6a8cb172dbac55a9f1_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "106.3 The Lounge",
+      "s": "http://ic2329.c564.fast-serv.com:80/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/8898/omhs5a2c211cce013015129653_130x130.webp",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "2OOO Radio 2000",
+      "s": "http://s7.viastreaming.net:8500/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/8914/r5gb59be3a39b2bf9965051830_130x130.webp",
+      "g": [
+        "International",
+        "Themes"
+      ]
+    },
+    {
+      "t": "5AU Classic Hits",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/AUG_5AU.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422324/04093482901b544396adcc390b41697e_130x130.webp",
+      "g": [
+        "Pop",
+        "Classical"
+      ]
+    },
+    {
+      "t": "River 949",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/IPS_RIVER949.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422234/b7982f9735d0f3ea722255e6c053a54b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "4KQ SENQ",
+      "s": "https://d2dgwrtikgx7lx.cloudfront.net/chunklist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402559/29c6750be4b29f18cd2129a1c634f15e_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "3GDR Golden Days Radio",
+      "s": "https://1.ice1.firststreaming.com:8000/gndr_fm.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/402522/y5kh59c635755034d285936233_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Fresh",
+      "s": "http://live.fresh927.com.au/freshmp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/1983/ouns59d201c7b9674982233029_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "3TSC Light FM",
+      "s": "http://stream.lightfm.com.au:8138/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402518/rvoq59c633aa4e018078966260_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "102.7 FM",
+      "s": "http://s7.voscast.com:10184/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422341/33cf6fc0d2e308d80bad36ec9b80f9df_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "3JOY Joy FM",
+      "s": "http://public-radio1.internode.on.net:8002/63",
+      "l": "https://images.radiovolna.net/_files/images/stations/31383/dceab032ba51bc493b3a495510bc5247_130x130.webp",
+      "g": [
+        "Themes",
+        "Pop"
+      ]
+    },
+    {
+      "t": "5ADL Nova 919",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/402570/g1ib59c8e9a5b33de959583911_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kiss FM",
+      "s": "http://cc.net2streams.com:8565/kissfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/1987/hpz0597a4c7388ca3464893775_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "3ACR 全澳华语广播华夏之声",
+      "s": "http://46.4.40.246:8059/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422397/c68b1f642dabfa2fbc0fee3b89c3c9b6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "3GGR 96Three FM",
+      "s": "http://streaming.powerserve.com.au:8000/rhemafm",
+      "l": "https://images.radiovolna.net/_files/images/stations/1958/lmkl59c75c1229d64496718387_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Australian Indian Radio",
+      "s": "http://webcast.indianradio.net.au:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422180/3e6cee070027d361483d188ff9262aa7_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "7HHO - 7HO FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420559/4ddd23877febe48ecb0bddf9b958911d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ABC Triple J",
+      "s": "http://live-radio01.mediahubaustralia.com/2TJW/mp3/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/1968/dfe9598411ff1d259273495467_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Hellenic Radio Perth",
+      "s": "http://95.217.48.54:9017/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422247/43d368904bff4851e674d4af743075e0_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Sea FM",
+      "s": "https://wz4liw.scahw.com.au/live/4sea_128.stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402562/f4a6872d9b46624bb18379cd107a8bc6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Funky Kids Radio",
+      "s": "https://ice6.securenetsystems.net:80/FKRADIO",
+      "l": "https://images.radiovolna.net/_files/images/stations/422202/2ba8e009543ce4e450893c8d60e6323f_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Cherry Radio",
+      "s": "https://node-17.zeno.fm/qtypg5n3qpeuv.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422370/e19e237f562796538a24cf052fa5377b_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Triple M 90s",
+      "s": "https://wz2liw.scahw.com.au/live/290s_128.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/420543/9c60f9924642c7197626922b7a497783_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "ABC triple j Unearthed",
+      "s": "http://live-radio01.mediahubaustralia.com/UNEW/mp3/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2015/tthm5974c82965929760548147_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "3ECB Eastern FM",
+      "s": "http://radio.bcast.com.au:8000/EasternFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/402537/x6ei59c75d5cd5c7f510650580_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "5MBS Fine Music",
+      "s": "https://stream01.sigile.net/5mbs-128-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/1996/4228494ff1f801ed443fbafcb8123f4b_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "SBS Radio Two",
+      "s": "https://sbs-ice.streamguys1.com/sbs2",
+      "l": "https://images.radiovolna.net/_files/images/stations/2008/tdxf595cfdca23da7812554787_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Perth Chinese Radio",
+      "s": "http://streamer2.rightclickitservices.com:7200/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420570/2a3b67b3c58ae7614f7fd10e35e46f4e_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Variety FM Ipswich",
+      "s": "https://ipswichradio.out.airtime.pro/ipswichradio_a",
+      "l": "https://images.radiovolna.net/_files/images/stations/422260/0595839fc30e1bc98b6cf01fb7b33be0_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Five-O-Plus",
+      "s": "http://61.69.112.50:88/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422292/ba2b85e1f50e6ded43280c19e465e8a5_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Caama Radio",
+      "s": "https://streamer.radio.co/sa67d9a81d/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/8931/trio59c95db511541532622418_130x130.webp",
+      "g": [
+        "Folk",
+        "International"
+      ]
+    },
+    {
+      "t": "3MBS Fine Music 103.5",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/3MBS.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/1951/vkh8597c6ae51149b736794328_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Hot 100 FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422169/4327ccec8409b3bb82f6710fb1401ae4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "OCR FM",
+      "s": "http://stream.mjm-webhosting.com.au:8010/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422261/d30f34e8ce19ebcb4663509e1032cd06_130x130.webp",
+      "g": [
+        "Blues",
+        "Classical"
+      ]
+    },
+    {
+      "t": "BoostFM",
+      "s": "https://stream.studio247.io:8002/boostfm/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422217/8a0b8130ae6b1bb0a15294921d7b8fcf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "4BRZ The Breeze",
+      "s": "https://s8.yesstreaming.net:17065/BrzGC",
+      "l": "https://images.radiovolna.net/_files/images/stations/402565/aob659c7d4cce97f1931420440_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "2WIN i98 FM",
+      "s": "https://ice10.securenetsystems.net/I98FM",
+      "l": "https://images.radiovolna.net/_files/images/stations/402487/lt7j59c0d31db8a5f977756367_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "3EE Magic",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACE_MAGIC1278AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/8862/7f21f58d58697d857620364e5dc29d71_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Totally Radio 60's",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_60S_S01AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422191/cd1a99ee878dae2761e97e80d3fa5879_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "ABC Classic 2",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/422206/2dfce45a1990bf1fa04f61cec4070f60_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Metro",
+      "s": "http://stream.radiometro.com.au:7777/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/1998/ck3m596e1fbd5150c186687527_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Coast FM",
+      "s": "http://streaming1.coastfm.com.au:8000/broadwavehigh.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/1976/k9yt59c7de801a79c918506145_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Mix 94.5",
+      "s": "https://wz6liw.scahw.com.au/live/6mix_128.stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420569/04fc8e999ff8cf04e4b2b9e7ee9d4c30_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Wave FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/WOL_WAVE_FMAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/420576/3a5bee17661a4d3c589c67a18f40c093_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2Moro",
+      "s": "http://s4.voscast.com:7648/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/1995/rank59be3637a6dea272119338_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Allhitoldies",
+      "s": "http://67.212.238.178:7086/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/425460/b26ba5ba2ea0e70e84e951603acd8082_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "6NR Curtin FM",
+      "s": "http://192.99.17.12:6192/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/8922/z5jt59c910d99b9d5288726763_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Inner FM",
+      "s": "https://streamer5.rightclickitservices.com:17270/aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/1957/jw47595bb32752e24075279823_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Melayu",
+      "s": "https://streams.radio.co/s0146b31e9/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422278/5cbd2146c7d28d273498602f1d581ee2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2SER Real Radio",
+      "s": "https://livestream.2ser.com/streamrelay",
+      "l": "https://images.radiovolna.net/_files/images/stations/1947/rjhd59be35dc24f88477631971_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "3WAY FM",
+      "s": "http://120.151.226.109:88/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422381/da8169cd422552112620cd36f8f47197_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "8CCC",
+      "s": "https://23153.live.streamtheworld.com/8CCC.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422286/2d7babb469283457d49d897843dc28c1_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "2 REM",
+      "s": "http://198.74.51.37:8233/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422343/3218fee0624e8635467a3efb8518b6b6_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Big Country Radio",
+      "s": "http://46.105.125.110:13656/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420557/9e2ce0dac5d6fdfba87a05cca4c2c52d_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Islam2Day Radio - Ch.1 Quran Recitation",
+      "s": "http://www.islam2day.tv:3000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422306/b2b8ad075086777623033bf50820371d_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "2NUR - University of Newcastle",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFM.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8853/odt659c6190b39873716336682_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "101.5FM",
+      "s": "http://streaming.lava.net.au/au_qld_4our_caboolture1015?type=.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422291/9d5c6853c792591c9be3c7fd84a00534_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Hills Radio",
+      "s": "http://139.99.136.15:5065/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422387/45b60eea1dee3159dc71fb8162fbadc8_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Totally Radio - Pop",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_POP_S01AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422183/912bf99eb91e99031cbcfd57a5f4625d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "EMFM",
+      "s": "http://streaming.radioemfm.org.au:9300/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422382/229aa0f3f29f13e7ec68b60cc3982586_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Valley FM",
+      "s": "http://streaming.valleyfm.com:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422284/1f083f53bcb0bf4991ef0281f834ac12_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Totally Radio 00's",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422187/a6f125a39be1c433118e823d996fb83c_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "J-Air",
+      "s": "http://s19.myradiostream.com:4918/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422221/1cbed4d8701fefc872d9a5b3a57a228b_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "2GLF",
+      "s": "http://2glf.serverroom.us:8692/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8896/bxz759c0d105d27cd007680624_130x130.webp",
+      "g": [
+        "Pop",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Voice of Charity",
+      "s": "http://cassini.shoutca.st:9496/xstream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402481/k8u759be432f74337952587399_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "3PVR Plenty Valley FM",
+      "s": "http://streamer2.rightclickitservices.com:8008/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402531/zdj759c63f57ec3af598562838_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Faith FM",
+      "s": "http://stream1.faithfm.com.au:8000/FaithFM.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/422327/13b607c7839ef168bedc11662c2c1a03_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Orange Radio",
+      "s": "https://au1.fastcast4u.com/proxy/orange?mp=/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/422396/4700848698ac195703b62136cf0cd728_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2CBA Hope",
+      "s": "https://stream.hopemedia.com.au/hope",
+      "l": "https://images.radiovolna.net/_files/images/stations/8895/gvf259be320b63e39759102219_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "1503 2BS Gold",
+      "s": "http://149.56.157.81:8129/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/8913/4d026e869f1bff9e171f31e5691806fa_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "DCFM",
+      "s": "http://ca2.radioboss.fm:8155/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422302/9e74ba14c6182c388e93d9106a60d632_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kinderling Sleep Radio",
+      "s": "https://wz2liw.scahw.com.au/live/kkrsleepauad_128.stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428566/c300af3f0590ca60f2f67dfb798181ba_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Vision Christian Radio - Vision180",
+      "s": "https://tx.sharp-stream.com/icecast.php?i=Vision180.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422371/dd59baba22f5f78a15e202299da88559_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "3PTV Smooth",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402519/av0959c6343b1099d168466672_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Plastic Age",
+      "s": "http://192.99.83.154:8084/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/8842/t61y597a35d7d96c0954744348_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "ABC Radio Australia - English",
+      "s": "https://abcradiolivehls-lh.akamaihd.net/i/raeng_1@433109/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/422224/8ca9718e6a6b67295edba15a015661d8_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "5MU",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUR_5MU.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422368/df22626f6ae9476db2f6c5c1b18b403b_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "3RRR Triple R",
+      "s": "https://realtime.rrr.org.au/p1h",
+      "l": "https://images.radiovolna.net/_files/images/stations/8872/uwd059c63161dbc64165650840_130x130.webp",
+      "g": [
+        "Pop",
+        "Folk",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "FBi Radio",
+      "s": "https://streamer.fbiradio.com/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402471/9f36c5d6e58d1bfa5455c48e10e1a3fe_130x130.webp",
+      "g": [
+        "Themes",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "3CAT K-Rock",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_KROCK.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/24510/d1c17c6eeb3782685f9e8a217987ccf8_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "3SH",
+      "s": "https://17833.live.streamtheworld.com/ACE_3SHAAC_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/422174/5a3919c21e553eaffdc600ee0154858d_130x130.webp",
+      "g": [
+        "Pop",
+        "Classical"
+      ]
+    },
+    {
+      "t": "BRock",
+      "s": "http://149.56.157.81/proxy/brockstream?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/8912/6b0818d1916871a9f986ce454b6f856a_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "2GOS Star",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC48.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/402493/ay8b59c0d68bef4e7375922635_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SAFM Adelaide",
+      "s": "https://wz5liw.scahw.com.au/live/5ssa_128.stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402569/a7715ac7155ca8d2e34ab7540aee1b4e_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "2MWM Radio Northern Beaches",
+      "s": "http://198.74.51.37:9990/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420535/a58f443f6532b5c27e2849ddcf82a06b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2CBD Community Radio",
+      "s": "http://103.243.239.110:8003/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422391/288d5987f1a82f6487386f850e88d4da_130x130.webp",
+      "g": [
+        "Rock",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "3RPH Vision Australia Radio",
+      "s": "https://23153.live.streamtheworld.com/3RPHAAC_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/8868/kgsl59c62fe8389ae690415766_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "ArtSound FM",
+      "s": "http://119.15.96.188/stream2.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8901/nz7359bd27332a72c618597384_130x130.webp",
+      "g": [
+        "Themes",
+        "Classical"
+      ]
+    },
+    {
+      "t": "The Light",
+      "s": "http://198.74.51.37:9980/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422285/3db1b2c6720efece06df16f143486cc2_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "ARDS Yolŋu Radio",
+      "s": "http://110.143.52.112:8998/broadwavelow.mp3?src=1",
+      "l": "https://images.radiovolna.net/_files/images/stations/420556/fc5beebe0a8ac2acbe150497b2ad51eb_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Capital Community Radio",
+      "s": "http://ic2463.c1788.fast-serv.com:80/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/8923/jat759c9119948315366137434_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ABC Extra",
+      "s": "http://live-radio02.mediahubaustralia.com/XTDW/aac/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402507/js3059c15c6194687416150045_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Star FM",
+      "s": "http://37.59.41.35:11056/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422309/6c8f9f59b5e7e41de4acda7f5fcde690_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Phaze FM",
+      "s": "http://ic.phazern.com.au:8000/PHAZEFM-High",
+      "l": "https://images.radiovolna.net/_files/images/stations/422405/3e7f2c04d9cb5d134eba7353ff960e6e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FECAA Radio",
+      "s": "https://s2.radio.co/sa9725bd3c/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422408/62836cc0733ce89f4d405526939b0005_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Coast FM",
+      "s": "http://163.47.20.31:8000/coastfm/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422288/a81cb6f1ca8803a425bd3a709aa0a5cd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bay FM",
+      "s": "http://2bay.amrapstream.com:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/1972/u8dc5a2c21d613811370088931_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "2BOB Radio",
+      "s": "http://eno.emit.com:8000/2bob_live_64.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422272/0aac46683e4249e3c7c1ee9a51329068_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "TRFM",
+      "s": "https://17453.live.streamtheworld.com:80/TRFMAAC_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/422348/5e1389c9d7021b44b1645c98ef042627_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kinderling Party Radio",
+      "s": "https://wz2liw.scahw.com.au/live/kkrpartyauad_128.stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428565/f3497baf0d9cfe96151b8c3701715865_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "3PLS The Pulse",
+      "s": "http://streamer3.rightclickitservices.com:8070/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402534/whuk59c75b1486e96447620610_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Great Lakes FM",
+      "s": "http://198.74.51.37:8030/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422290/a981a13d2cb8f95e99ecdbf2e94afb4c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "6SON Sonshine FM",
+      "s": "http://stream2.cnmns.net/sfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/402581/q1ii59c9108c0f01b832430906_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "FM 98.5 - 3ONE",
+      "s": "https://s2.radio.co/sae3372059/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422389/83ce0a382069cf18e3ca97a70ec915c4_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "First Nations Radio",
+      "s": "http://stream.radiolarrakia.org:8000/radiolarrakia",
+      "l": "https://images.radiovolna.net/_files/images/stations/8927/15b34741998a5673b97a60d8d1264644_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "4YB Switch Brisbane",
+      "s": "https://oz04.xrn.com.au/SwbSd",
+      "l": "https://images.radiovolna.net/_files/images/stations/2011/68065c283528de3d5d33abe7fc1cc249_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "SEN Sports",
+      "s": "http://13.54.221.214:8000/sen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8867/mf4959c632f1c68a9684776696_130x130.webp",
+      "g": [
+        "Talk",
+        "News"
+      ]
+    },
+    {
+      "t": "SYN",
+      "s": "http://128.199.77.168:8000/stream907",
+      "l": "https://images.radiovolna.net/_files/images/stations/2012/ydou59748516d5995656957121_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "West Gippsland Community Radio",
+      "s": "http://s3.viastreaming.net:8695/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422410/777211758156a735f28d356ad9e4e430_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "88.9FM / 2 You FM",
+      "s": "https://stream.889fmtamworth.com.au:8443/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/8909/0a0308e81b9bf2100ad95865fbea2ceb_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "8GGG Darwin's 97 Seven",
+      "s": "http://211.26.121.186:88/broadwavelow.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402583/gs4159c95c3637bb7458410834_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "2NN Newy",
+      "s": "https://radio.newy.com.au:8888/radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/422173/12c9d08fdc8697af8c758a93d360834c_130x130.webp",
+      "g": [
+        "Decades",
+        "Classical"
+      ]
+    },
+    {
+      "t": "2VOX Vox FM",
+      "s": "http://s10.myradiostream.com:15272/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402517/i64t59c62ca62f468971150468_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "96five Family Radio",
+      "s": "http://stream2.cnmns.net/96five-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402552/vynp59c786cb47ed9411802482_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "4MBS Classic FM",
+      "s": "http://s9.viastreaming.net:9620/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402555/h7nm59c788313f72f473745189_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "4KZ",
+      "s": "http://198.74.51.37:8425/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422277/d52e4dc3727e27c195eccd2fe9b00398_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Fresh Student Radio",
+      "s": "https://stream.radiojar.com/1v94f1g1f3quv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422236/1adf7a6d18543791e75d9d76ff1e9710_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2HHH Triple H",
+      "s": "http://isrv-stream-1.vzb.conexim.net:8000/tripleh-32.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8920/chc059c0d4a84a4db357080685_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2WET - Tank FM",
+      "s": "http://public-radio1.internode.on.net:8002/128",
+      "l": "https://images.radiovolna.net/_files/images/stations/10350/0a0b5098cfa45a7a4c63b10f8fe21e9e_130x130.webp",
+      "g": [
+        "Country",
+        "Folk",
+        "News",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Zinc",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_ZINC96.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422333/76fcb55cb0b1320aa2e1e2c088edfb13_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Yarra Valley FM",
+      "s": "http://live.yarravalleyfm.org.au:8080/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/8928/d05h59c766f5646c2956638812_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TYGA FM",
+      "s": "http://203.45.134.11:88/broadwavehigh.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422369/b36057de3f3a649cdca72e078d2a6d2e_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "6PR News Talk",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/6PRAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/8878/k0jz59c9122024070347278358_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Heritage FM",
+      "s": "http://45.77.235.175:8000/;;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422383/e700f3226c2d70f49667004e586e9031_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "7AD",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/DEV_7AD.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422281/cc5b088360188a8c11f8e8a30d683f05_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Main FM",
+      "s": "http://s1.communitybroadcastnetwork.com.au:8000/MAINFM/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/8917/cm0s5a2cf88c1a9d2947384671_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nambucca 2NVR",
+      "s": "http://s14.myradiostream.com:19092/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422346/f86f0d776fdbf701c762564db65d8688_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Starter FM: Chill",
+      "s": "http://streaming.starterfm.com:8000/chill192.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420436/af99c1d28d273681791860243a1e5fcb_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "1CBR Mix",
+      "s": "http://ais-arn.streamguys1.com/au_006_icy",
+      "l": "https://images.radiovolna.net/_files/images/stations/402466/a5ct59bd2aeff35fa222815501_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Youth Jam Radio",
+      "s": "https://s3.radio.co/s04c274fc8/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422256/71c1fbc2f85923a337165a0dcaa81dd3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2MCR",
+      "s": "http://2mcr1003fm.serverroom.us:4588/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/1943/e0ef59c0d4f217e7e612622478_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "LAFM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/LAU_LAFM.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422225/a877efbd88e0b80c65567a5327fcbbef_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Middle East Radio",
+      "s": "http://hyades.shoutca.st:8998/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/422223/c129dd645b75a1737456d7a5992238d9_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "3WBC",
+      "s": "http://stream.tcom.net.au:8000/3wbc",
+      "l": "https://images.radiovolna.net/_files/images/stations/402521/oale59c6350911737946319237_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Fremantle",
+      "s": "http://203.59.4.85:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/420571/2df4c724c0abb51afd29ddb5e0af18c8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SBS PopAsia",
+      "s": "https://sbs-ice.streamguys1.com/sbs-popasia",
+      "l": "https://images.radiovolna.net/_files/images/stations/2005/cizz595cfc8f45293505733862_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Richmond Valley Radio",
+      "s": "http://stream.radio889.org.au:9300/listen.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422283/70b788e98b2ba20683fe2fc2dc80ce2b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Life FM 1079",
+      "s": "https://stream.sigile.net/1079life-64-aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/8840/338a3de07c3865818c782ce8ac0934d7_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "The Hellenic Radio",
+      "s": "http://radio.plegma.host:8000/greekradio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422411/16b189234b617b64321d0800f3862ac4_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Ena XTRA",
+      "s": "http://c3.radioboss.fm:8044/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422321/ccbed3ff2709ad5cdfb1d7da0e698a7d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "94.1FM",
+      "s": "http://s9.viastreaming.net:9565/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402564/b9hh59c7d45193550055716002_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Voice FM",
+      "s": "http://stream2.cnmns.net/voice929-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8929/mamh5a2c1c62b02a4693754564_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "SBS Radio One",
+      "s": "https://sbs-ice.streamguys1.com/sbs1",
+      "l": "https://images.radiovolna.net/_files/images/stations/2007/efb1595cfd8be8255784320512_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Austral",
+      "s": "http://radioaustral.serverroom.us:8516/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/30546/913256dc044b36ee403574c4ef7f1bc0_130x130.webp",
+      "g": [
+        "Latin",
+        "Pop"
+      ]
+    },
+    {
+      "t": "2ooo - 2000 Languages",
+      "s": "http://s7.viastreaming.net:8490/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420538/3c7b658d5cdd89d059e5fa63f85343ca_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fraser Coast FM",
+      "s": "http://eno.emit.com:8000/4fcr_live_64.aacp",
+      "l": "https://images.radiovolna.net/_files/images/stations/422172/3402848bab1c5960ab8606c12c8d150d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Shine FM",
+      "s": "https://streams.radio.co/sbd6c1fdfe/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422179/18cafa99ea003b7c07b9fcf7fa3d62de_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "2 Oceans FM",
+      "s": "https://s2.stationplaylist.com:7032/listen.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422345/d122ea75286ee52cfd6bb71ad7b8d102_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Systrum Sistum - SSR1",
+      "s": "https://systrum.net:8443/SSR1",
+      "l": "https://images.radiovolna.net/_files/images/stations/422356/3e161534500673d5a4b7c971540a2daf_130x130.webp",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "6MM",
+      "s": "http://west.coastdev.net/6mm-aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/8849/lj525a2cff3fe9a09602902237_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kix Country",
+      "s": "http://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRY.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420551/cc91f969181c482f84a882c16d8cb1e1_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Tourist FM",
+      "s": "http://usa7.fastcast4u.com:6058/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422242/f71230d3cb3832ae6791242a9cd8d52b_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Totally Radio 70's",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_70S_S01AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422190/0cc8607e22127cfc4c70a8680795d0d1_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "2MAX FM",
+      "s": "https://listen.shoutcast.com/narrabrishire2maxfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/422255/13890b0b62bf318c6638bd684c82b42c_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Totally Radio Easy",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_EASY_S01AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422186/f0fa9378ea3cdf52ca7a530d944bbc6f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "3KND Kool 'n' Deadly",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/3KNDAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/8864/gjsp59c6323da13e7190321066_130x130.webp",
+      "g": [
+        "Themes",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "ABC Double J",
+      "s": "http://live-radio01.mediahubaustralia.com/DJDW/mp3/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/8873/ojmp5984127119416440493893_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Phoenix FM",
+      "s": "http://s4.viastreaming.net:7010/;stream.mp3;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422392/7e289d34e1dc2cb346c35aeee439df87_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "SBS PopAraby",
+      "s": "https://sbs-ice.streamguys1.com/sbs-arabic",
+      "l": "https://images.radiovolna.net/_files/images/stations/2004/bzyo595cfc43d2141399830775_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "5EBI Multicultural Radio",
+      "s": "https://icecast1.myradio.click/cast2_64k.aacp",
+      "l": "https://images.radiovolna.net/_files/images/stations/402573/bpe259c904866a67a715986405_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mansfield",
+      "s": "http://ca.radioboss.fm:8236/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/422323/675da78ec6242bffee3225ddad7001f1_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "UGFM",
+      "s": "http://streamer2.rightclickitservices.com:8905/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8936/z7o15a2cfb0192a50488434194_130x130.webp",
+      "g": [
+        "Metal"
+      ]
+    },
+    {
+      "t": "2AAA FM",
+      "s": "http://stream.mjm-webhosting.com.au:8040/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8848/te0l5a2cf9ba7dd40917107001_130x130.webp",
+      "g": [
+        "Country",
+        "Rock",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "5RM",
+      "s": "https://14093.live.streamtheworld.com/BER_5RM_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/422326/53e15a2189f6c4fdd13bc6f76b43e350_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Australian Country Radio",
+      "s": "https://streaming.radio.co:80/s5ea3fdd1c/low",
+      "l": "https://images.radiovolna.net/_files/images/stations/422351/9d347f1c5c6ceab4c92fc0687ba99052_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "AM 1017",
+      "s": "http://162.244.80.32:8142/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/426249/1f5c3c946803ddfe60dfeb52d661dcc9_130x130.webp",
+      "g": [
+        "Latin",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "3AW News Talk",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/3AWAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/8876/th4d59c62d662ad39872044520_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "16",
+      "s": "http://www.theradio.eu:9000/RADIO16",
+      "l": "https://images.radiovolna.net/_files/images/stations/422248/b91ab1d72ebd4abaccffdb463310e198_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gippsland",
+      "s": "http://streamer2.rightclickitservices.com:8004/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8918/puj25a2c23f7ce145664758420_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "3RIM 979 FM - Melton Community Radio",
+      "s": "http://s15.myradiostream.com:12846/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402536/eca69c8be1a34abd86f33eded4340ad6_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mixx FM",
+      "s": "https://18313.live.streamtheworld.com:80/MIXX889AAC_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/422266/ef8b30c098a7969af7452593eaa81a89_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Simple Minds",
+      "s": "http://149.cloudrad.io:8218/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/22333/c8b28e7e1e32b32496531e3e2f1ed322_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Harman Radio",
+      "s": "http://harmanradio.net:8000/channel1_HQ.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422235/fcce9966e010239973e4aef08b04d802_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "2bbb Community Radio",
+      "s": "https://usa1-pn.mixstream.net/",
+      "l": "https://images.radiovolna.net/_files/images/stations/422353/c0b20cff960c1e332c63f17335465d25_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "2RDJ",
+      "s": "http://104.128.238.80:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/1946/j69q59c0cfec24ffd698443311_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Kiribati AM 1440（The channel only airs in the morning）",
+      "s": "https://streamer5.rightclickitservices.com:19790/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426175/c1056a2418e2c1eb3bea2f5417789311_130x130.webp",
+      "g": [
+        "Latin",
+        "Folk",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "7RPH - Print Radio Tasmania",
+      "s": "http://165.228.181.146:88/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420560/245bcc82915fd4f79c5f2745e2680f5c_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "ABC Radio National",
+      "s": "http://live-radio01.mediahubaustralia.com/2RNW/mp3/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/1967/n5z0598411806bb5e474995981_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Raw FM",
+      "s": "http://stream.rawfm.com.au:8004/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/26567/1ae142783699775d16b2c2c850f9ffbf_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "CMS Radio",
+      "s": "https://c13.radioboss.fm:18190/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420550/b2488f2b68ee996b1a32011f8ab40389_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "531 3GG",
+      "s": "http://178.32.146.187:6214/stream3gg.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422257/4fad120e700a01e0dc37fce30e736f32_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Icarna Gold Radio",
+      "s": "http://us10a.serverse.com:8007/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422263/caa190334929b5ac47ee609f1160de88_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Sanjhi Awaaz Radio",
+      "s": "https://streamer.radio.co/sdea88e226/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422177/e822c0424fdbe94bc4fb46bbf7d0c157_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "4RPH Print Radio",
+      "s": "https://streams.radiomast.io/2416c895-f32d-4faa-90a6-b2cf9212488d",
+      "l": "https://images.radiovolna.net/_files/images/stations/402560/r6fr59c78ccdeb4e9617484054_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "5PBA PBA FM",
+      "s": "https://stream.pbafm.org.au/stream/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402576/eo8m59c908a162ea6002131146_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "3SER Casey Radio",
+      "s": "https://s3.radio.co/s8f8288fe9/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/8870/tgec59c62f9ec810c993106785_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "StarDusk FM",
+      "s": "https://streamer.radio.co:80/seaae37612/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422258/54df301f530483f53092e9a5a1a9cdc0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1 Radio.FM - Country music",
+      "s": "http://country.dialoz.host:9988/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422209/a617a0c5d744bb69eaf2cf80cd87800e_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Clubstory.eu",
+      "s": "http://manager.conceptradio.fr:1080/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429619/9328053e57554d52c80fac2317c6d670_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Garam Masala",
+      "s": "http://69.175.94.98:8146/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422350/32ee5f83ddc77e3f9c35e76bc74557dc_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "1 Radio.FM - Acoustic",
+      "s": "http://192.232.192.96:9976/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422214/49e9186a804067717ec7ab2b45dcfb3b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1RPH",
+      "s": "http://198.74.51.37:9998/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/8899/pedz59bd27823ebde145378512_130x130.webp",
+      "g": [
+        "Pop",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Chemist Warehouse Remix",
+      "s": "http://ais-arn.streamguys1.com/au_021_icy",
+      "l": "https://images.radiovolna.net/_files/images/stations/420541/8de8772aa88eb64a2c87496f564b9a64_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RadioKSA",
+      "s": "http://101.100.143.138:8002/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422316/6239501f87dff92aaf88d2f840edae59_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "2RES Eastside",
+      "s": "https://stream.eastsidefm.org/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/8889/ljej59be35064ea60674443351_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Electronic",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "2ST",
+      "s": "https://14093.live.streamtheworld.com/NOW_2STAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/420574/fe3e0a6471088b573729e58d94be500d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TBC-1",
+      "s": "http://mounthoreb1.primcast.com:8142/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/426173/2f3c4360b17b9b8918460d44bd6bbfa0_130x130.webp",
+      "g": [
+        "Pop",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "3SCB Southern FM",
+      "s": "https://stream.swifthosting.com.au/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2009/hdug59c62ebfe6f33471820273_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Snow FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SNOW_DABAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/420554/ac8926c4a2c6eb56d3dc815d1daf2e27_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2UUU Triple U",
+      "s": "http://45.77.238.49/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/8937/bl5v5a2cff9f83c1b233929965_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Haanji",
+      "s": "http://melbourne.haanji.com.au:8061/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422274/0ee34042209600886561a22435434d8d_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "ΕΝΑ",
+      "s": "http://s3.myradiostream.com:10968/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/8841/iwt759c9060f0794d264269480_130x130.webp",
+      "g": [
+        "International",
+        "News"
+      ]
+    },
+    {
+      "t": "SWR Triple 9",
+      "s": "http://198.74.51.37:9318/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402490/uyl859c0d46a5444c920150417_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "7THE Hobart FM",
+      "s": "https://radio12.shoutcast.net.au:2020/stream/8032",
+      "l": "https://images.radiovolna.net/_files/images/stations/402544/cbse59c77ea6367ba823275788_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "4EB Ethnic Community Radio",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/4EB.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8858/965046b2793f898fb2409bfe8802040e_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Salt",
+      "s": "http://stream2.cnmns.net/106fivesc-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8903/wt605a2d004d28b79568759360_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "https://n01.rcs.revma.com/z06q4stdwhruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422280/408d35989a7226ffc546de8bfba300ef_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Yass FM",
+      "s": "http://core.itech.host:7074/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422372/0a244511a16bc05771263fa61cf683d4_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Vision Australia",
+      "s": "http://streamer1.dpwlabs.com/5VAR-64-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8846/h5l759c7dd76426b3596957802_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "ZFM",
+      "s": "http://www.abm2.com.au:8000/CONTAINER51",
+      "l": "https://images.radiovolna.net/_files/images/stations/402512/erdi59c617ca8fc5d178566354_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hot FM",
+      "s": "http://109.169.15.20:20515/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422275/828b351f69d5d02f95c1074840c1c995_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Ena",
+      "s": "http://s3.myradiostream.com:10968/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422233/77f20387255a8d3ce392789d9fa1a471_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rhema Central Coast",
+      "s": "http://s4.viastreaming.net:8710/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/8932/f95dd2643912c435f80bf002e0429bc4_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "ABC NewsRadio",
+      "s": "http://live-radio01.mediahubaustralia.com/PBW/mp3/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/8925/obga5984139759dc3553084542_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "2GB",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/8875/epof59be31bb475f0010599617_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "4BNE Nova 1069",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC48.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/402558/sej359c78bcbad63a617318459_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RSN Carnival",
+      "s": "http://carnivalcast.dyn.rsn.net.au:6340/carnival",
+      "l": "https://images.radiovolna.net/_files/images/stations/402540/a3xj59c769837b10b010499090_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "2RFM / Rhema FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RHEMA_FM.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2001/5148df92db0c2b90c1fbf20585fb0036_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Bridge FM",
+      "s": "http://198.74.51.37:9332/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420555/650a7411a8dbf270657d38603fa8b112_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bumma Bippera Media",
+      "s": "http://198.178.121.76:8281/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422344/dc074e80190bb17d6aaedc4fa625e0bd_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "bOp! beats",
+      "s": "http://onair22.xdevel.com:8152/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/422300/2cb90c168673836b80930f89ef9efa7d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Power FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOW_POWER_FMAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/420575/575b20fb1ac67e0804038abafe006a5c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Coles Radio",
+      "s": "http://coles.streaming.novaentertainment.com.au/vic",
+      "l": "https://images.radiovolna.net/_files/images/stations/402503/6ef2c9feb103734ad90048a8e2546ca6_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "MTM FM",
+      "s": "http://144.139.107.198:88/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422364/fc357b8fc1eefe32b3ee5d47d7502876_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Townsville Rocks",
+      "s": "https://streamer.radio.co/s9ea2a6555/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422301/3983bba51562f6a9b667c6b15ba977ce_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "2EC",
+      "s": "https://18573.live.streamtheworld.com:80/BEG_2EC_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/422251/d186418c5eff14ce20d55d3a71aaf202_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "OKR FM",
+      "s": "http://198.74.51.37:9988/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422401/91dc2736733eeeb71801c2902376bc81_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mixx FM",
+      "s": "https://17803.live.streamtheworld.com:80/MIXX1077AAC_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/422295/1de6d09481664c8f62efe10980afbf11_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Ten FM",
+      "s": "http://stream.tcom.net.au:8000/2ten",
+      "l": "https://images.radiovolna.net/_files/images/stations/422268/ee26a2ea7a959059349986c11f3291d2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Islamic Voice Radio",
+      "s": "http://streamer3.rightclickitservices.com:9755/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422175/94f4d938e073094cbcb570c1c06fe436_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "1 Radio.FM - Easy Listening/Classical",
+      "s": "http://192.232.192.96:9976/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422213/652cb77ac1574acd2e7e3e7ab6b4ea1d_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Live Quran Radio",
+      "s": "http://198.101.15.90:8184/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422404/4622e5fe243704325936e2d75fdb1964_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "3RPP RPP Radio",
+      "s": "https://stream.radio.co/s259dda3d7/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/8861/lfyw59c632a4dc2a7684777444_130x130.webp",
+      "g": [
+        "Pop",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Portuguese",
+      "s": "http://s6.voscast.com:8012/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/8890/md5p5a2d020f1ffc0233225969_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "2XL",
+      "s": "https://eu7.fastcast4u.com/proxy/xlfm?mp=/streamxlfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422313/6f03530cf77577f3ebe37311ada9c5d1_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Dungog",
+      "s": "http://209.239.123.91:8041/streamc",
+      "l": "https://images.radiovolna.net/_files/images/stations/422400/c2d3f4ad49260474ec2fe8ec96ec3028_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "3YB",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACE_3YBAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422307/8280cc231a0050d3e671fb469dd8bd28_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DCFM",
+      "s": "http://streamserver.dcfm88.net:8000/stream.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422276/20fba1ac0fb601d695bce4fab585b4af_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "The Almost Blue Radio Show",
+      "s": "https://streamer.radio.co/s4a846e95c/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422265/974d5defd926b5ebb12dcfeeeab24797_130x130.webp",
+      "g": [
+        "Blues"
+      ]
+    },
+    {
+      "t": "Totally Radio 90's",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422188/3a73f2b61a62409ebd75fa40038ed165_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Adelaide",
+      "s": "https://legacy.scahw.com.au/5mmm_32",
+      "l": "https://images.radiovolna.net/_files/images/stations/8844/d94719e4656bc8628eb62a864476ed8b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "4BCR - Coral Coast Radio",
+      "s": "http://165.228.147.198:88/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/10217/2d4f42aa69d5c89769a87acc1f82f979_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2CC Talking Canberra",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/420553/9a16a817850b9530d9c053e2b6fe5ab0_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "bOp! 90's",
+      "s": "http://onair15.xdevel.com:7152/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/422299/befdda886eb368d013bd5889089e8d5f_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "4MUR - My",
+      "s": "http://69.175.94.98:8008/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/22817/e29675c62e224333a969cd27f82dae3f_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "RSN Carnival 2",
+      "s": "http://carnivalcast.dyn.rsn.net.au:6360/carnival2",
+      "l": "https://images.radiovolna.net/_files/images/stations/402541/o6or59c769cace082848301542_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "2RRR",
+      "s": "http://207.136.7.80:88/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402483/yvbi59c0d06c5fee2575056181_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "2BACR",
+      "s": "http://203.45.169.24:840/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402491/liv359c0d5c5229f8739688093_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "2RPH",
+      "s": "http://27.100.36.118:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402476/ozbc59be40d8b9691055450544_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "BOOM Radio",
+      "s": "http://176.31.107.8:8168/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422200/19f6a17f37d8181d150109c1e16ddd59_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "SA Rock Radio",
+      "s": "http://149.56.147.197:9149/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422194/6f7a2854c9a959d0115d230d27d78c27_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Noosa Community Radio",
+      "s": "http://198.74.51.37:9994/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422403/cfe2eb5cb7803af0dbd97b2857226e64_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "hit106.9",
+      "s": "https://legacy.scahw.com.au/2xxx_32",
+      "l": "https://images.radiovolna.net/_files/images/stations/402514/qn0f59c61cd728abd203686055_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "WOW FM",
+      "s": "http://streamer3.rightclickitservices.com:9760/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2020/b91x59c0d55d8a943335900971_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Format 3 - XRN Australia",
+      "s": "http://us01.xrn.com.au:80/F3Sd",
+      "l": "https://images.radiovolna.net/_files/images/stations/422328/bcc01131d18591a6163dcbf047518057_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "2VTR Hawkesbury Radio",
+      "s": "https://streaming.starterfm.com/listen/hawkesburyradio/ghr192",
+      "l": "https://images.radiovolna.net/_files/images/stations/402484/cx6i59c0d1747ef67573663171_130x130.webp",
+      "g": [
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "WYN FM",
+      "s": "http://eno.emit.com:8000/3wyn_live_128.aacp",
+      "l": "https://images.radiovolna.net/_files/images/stations/420561/153373436d38762975d997ddfb203867_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ABC Grandstand",
+      "s": "http://live-radio01.mediahubaustralia.com/GSDW/mp3/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420544/2c00014a7da6d6b0b36155dc2b4d6a6c_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "2EAR FM",
+      "s": "http://198.74.51.37:9986/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422376/d3b73c7e3cb0b5857d8fe32f06781d2b_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "UltraCool",
+      "s": "http://us1.internet-radio.com:11024/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422238/f1f977feaa52239224b92daaacd638f9_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "1WAY FM",
+      "s": "https://21413.live.streamtheworld.com/1WAY_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/402464/hgij59bd28f610112761593728_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "DownUnder Radio",
+      "s": "http://192.95.18.87:5122/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422373/151a572451399c69dc9ff8b343aebd65_130x130.webp",
+      "g": [
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "Gold MX",
+      "s": "http://mega6.fast-serv.com:8038/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/8935/kk4s5a2cf934837de603690052_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "2XX FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/2XX.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/1949/ub8t5a2c1b18dc6ae425189439_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "3HA",
+      "s": "https://13693.live.streamtheworld.com:80/ACE_3HAAAC_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/422279/ecede0d957206773280e65b3746ffd79_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hope - Inspire Digital Radio",
+      "s": "http://stream.hopemedia.com.au/inspire",
+      "l": "https://images.radiovolna.net/_files/images/stations/402505/nyz359c15755d7340938829473_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Highland",
+      "s": "https://audio-edge-5bkfj.fra.h.radiomast.io/dfc148be-5d2d-4a8b-8fdc-2a7f922b48cb",
+      "l": "https://images.radiovolna.net/_files/images/stations/422332/2ce889712dc81b3b119dfe9c66f7f6ab_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Health Professional Radio - Global",
+      "s": "http://209.236.74.101:8041/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422379/5501d48c75f4d9bd78b36cb5a6484628_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "3CR Community Radio",
+      "s": "http://public-radio1.internode.on.net:8002/61",
+      "l": "https://images.radiovolna.net/_files/images/stations/402526/y9r259c63bfaaf653769499814_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Football Nation Radio (FNR)",
+      "s": "https://stream.radio.co/s4ddb6b0a2/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422239/798c3aceefd7095d57205cc26f6ea8b9_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Puradsifm",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/PURADSIFMAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422231/f69754f0aff3a7f23a98be53d8ffdbdf_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Sunbury Radio",
+      "s": "http://174.37.159.206:8006/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/402539/p7xq59c767ef17bf6715218615_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Curtin Radio",
+      "s": "https://usa7.fastcast4u.com/proxy/curtinfm?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/curtin-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "ABC NewsRadio",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-newsradio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "ABC triple j",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-triple-j.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "Pop",
+        "Rock",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "ABC Radio National",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/masterhq.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-radio-national-au.png",
+      "g": [
+        "Electronic",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "ABC Classic FM",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-classic-fm.png",
+      "g": [
+        "Classical",
+        "Soundtracks",
+        "News"
+      ]
+    },
+    {
+      "t": "Sunshine FM 104.9",
+      "s": "https://21333.live.streamtheworld.com:443/4SFM_SC",
+      "l": "https://kuasark.com/files/stations-logos/sunshine-fm-1049.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vintage FM",
+      "s": "https://stream.radio.co/sd60e90ab1/listen",
+      "l": "https://kuasark.com/files/stations-logos/vintage-fm.png",
+      "g": [
+        "Folk",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "ABC Sydney",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-sydney.png",
+      "g": [
+        "Electronic",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Breeze 100.6",
+      "s": "https://s8.yesstreaming.net:17145/BrzGC_hq?1634069197774",
+      "l": "https://kuasark.com/files/stations-logos/the-breeze-1006.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "ABC KIDS listen",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038321/abcextra/masterlq.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-kids-listen.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rebel 99.4 FM",
+      "s": "https://s8.yesstreaming.net:17145/RblGC_hq",
+      "l": "https://kuasark.com/files/stations-logos/rebel-994-fm.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "ABC Double J Radio",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038315/doublejnsw/masterhq.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-double-j-radio.png",
+      "g": [
+        "Blues",
+        "Pop",
+        "Rock",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "ABC Jazz Radio",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/masterhq.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-jazz-radio.png",
+      "g": [
+        "Blues",
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "ABC Country",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038322/abccountry/masterhq.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-country-au-81383.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "ABC Sport",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038320/grandstand/masterhq.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-sport.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "693 SENQ",
+      "s": "https://sen.streamguys1.com/SorryOutside/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/693-senq.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Christmas Hope ",
+      "s": "https://stream.hopemedia.com.au/christmashope",
+      "l": "https://kuasark.com/files/stations-logos/christmas-hope-.png",
+      "g": [
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "ABC triple j Unearthed",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038305/triplejunearthed/masterhq.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-triple-j-unearthed.png",
+      "g": [
+        "Electronic",
+        "Alternative",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "94.1FM Gold Coast Radio",
+      "s": "https://21333.live.streamtheworld.com:443/941FMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/941fm-gold-coast-radio.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hope 103.2 - Inspire Digital Radio",
+      "s": "https://stream.hopemedia.com.au/inspire-mp3",
+      "l": "https://kuasark.com/files/stations-logos/hope-1032-inspire-digital-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Hope 103.2 - Fresh Radio",
+      "s": "https://stream.hopemedia.com.au/fresh",
+      "l": "https://kuasark.com/files/stations-logos/hope-1032-fresh-radio.png",
+      "g": [
+        "Pop",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "3ABN",
+      "s": "https://stream.3abnaustralia.org.au:8443/stream",
+      "l": "https://kuasark.com/files/stations-logos/3abn-au.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "99.7 Bridge FM",
+      "s": "https://21333.live.streamtheworld.com:443/997BRIDGEFMAAC_SC",
+      "l": "https://kuasark.com/files/stations-logos/997-bridge-fm.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "3AW Radio",
+      "s": "https://www.3aw.com.au/",
+      "l": "https://kuasark.com/files/stations-logos/3aw-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fresh FM",
+      "s": "https://live.fresh927.com.au/freshaac",
+      "l": "https://kuasark.com/files/stations-logos/fresh-fm-au.png",
+      "g": [
+        "Pop",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "KISS FM",
+      "s": "http://s9.nexuscast.com:8565/kissfm.aac",
+      "l": "https://kuasark.com/files/stations-logos/kiss-fm-au.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "2GB Radio",
+      "s": "https://www.2gb.com/",
+      "l": "https://kuasark.com/files/stations-logos/2gb-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Islamic Path Radio Australia",
+      "s": "http://islam2day.tv:9898/;",
+      "l": "https://kuasark.com/files/stations-logos/islamic-path-radio-australia.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "bOp! Hits",
+      "s": "http://onair7.xdevel.com:7584/1",
+      "l": "https://kuasark.com/files/stations-logos/bop-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Live Quran Radio",
+      "s": "http://104.167.2.55:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/live-quran-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "3MP",
+      "s": "https://23683.live.streamtheworld.com:443/3MPAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/3mp.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Softnezee",
+      "s": "http://135.148.34.128:9041/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/softnezee.png",
+      "g": [
+        "Easy Listening",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Smooth Relax",
+      "s": "https://21413.live.streamtheworld.com:443/SMOOTHRELAX_SYD_AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/smooth-relax-au-16661.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "6PR Radio",
+      "s": "https://www.6pr.com.au/",
+      "l": "https://kuasark.com/files/stations-logos/6pr-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1053 2CA",
+      "s": "https://23023.live.streamtheworld.com:443/2CA.mp3",
+      "l": "https://kuasark.com/files/stations-logos/1053-2ca.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "2SM",
+      "s": "http://144.140.228.109:8220/mp3",
+      "l": "https://kuasark.com/files/stations-logos/2sm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "All time hits radio",
+      "s": "https://stream-151.zeno.fm/ucg9d9agibltv?zs=j2uhsGz3RtGYBHPYwIe7MA",
+      "l": "https://kuasark.com/files/stations-logos/all-time-hits-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "SBS Chill",
+      "s": "https://sbs-ice.streamguys1.com/sbschill",
+      "l": "https://kuasark.com/files/stations-logos/sbs-chill.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Gold MX",
+      "s": "http://mega6.radioserver.co.uk:8038/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/gold-mx.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Paradise FM",
+      "s": "https://stream2.cnmns.net/paradisefm",
+      "l": "https://kuasark.com/files/stations-logos/paradise-fm-au.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "All Time Hits Radio Christmas",
+      "s": "http://167.114.11.80:2044/;",
+      "l": "https://kuasark.com/files/stations-logos/all-time-hits-radio-christmas.png",
+      "g": [
+        "Pop",
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "All Time Hits Kids",
+      "s": "https://stream-149.zeno.fm/jbim53fs9evvv?zs=-RjMsLwbRc6iToVyywfzZQ",
+      "l": "https://kuasark.com/files/stations-logos/all-time-hits-kids.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "All time hits 90s",
+      "s": "https://stream-152.zeno.fm/q9q4b33f9hhvv?zs=NGthe18BQMCSCNPmM9ieWw",
+      "l": "https://kuasark.com/files/stations-logos/all-time-hits-90s.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Metro",
+      "s": "http://stream.radiometro.com.au:7777/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-metro-au.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "All time hits Party",
+      "s": "https://stream-153.zeno.fm/0yhhk9ymnchvv?zs=SwYGVZ0YRJyCKS-g_gVmiA",
+      "l": "https://kuasark.com/files/stations-logos/all-time-hits-party.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "All time hits radio worship",
+      "s": "https://stream-153.zeno.fm/byghxvuphs8uv?zs=j-GztxB8QzelLO9xITTAuw",
+      "l": "https://kuasark.com/files/stations-logos/all-time-hits-radio-worship.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ABC Cricket",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038314/itinerantone/masterhq.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-cricket.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "4CRB",
+      "s": "http://stream.4crb.com:8000/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/4crb.png",
+      "g": [
+        "Easy Listening",
+        "Decades",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Heat Radio",
+      "s": "https://server10.reliastream.com/proxy/heatradio?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/heat-radio-au.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "Pop"
+      ]
+    },
+    {
+      "t": "ABC AFL Extra",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038313/itineranttwo/masterhq.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-afl-extra.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Disco Rhythm",
+      "s": "http://c3.radioboss.fm:8018/stream",
+      "l": "https://kuasark.com/files/stations-logos/disco-rhythm.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "2UE",
+      "s": "https://21363.live.streamtheworld.com:443/ACE_2UEAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/2ue.png",
+      "g": [
+        "Easy Listening",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Raw FM",
+      "s": "https://frontend.stream.rawfm.net.au/i/syd-stream-192k.aac",
+      "l": "https://kuasark.com/files/stations-logos/raw-fm.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Totally Radio Hits",
+      "s": "https://23193.live.streamtheworld.com:443/T_RAD_HITS_S01AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/totally-radio-hits.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio 1629 AM",
+      "s": "http://173.255.143.170:8007/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-1629-am.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vision Christian Radio",
+      "s": "https://streams2.vision.org.au/vision.mp3",
+      "l": "https://kuasark.com/files/stations-logos/vision-christian-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Technolocos Deep Web Radio",
+      "s": "https://radio.technolocos.net/listen/technolocos/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/technolocos-deep-web-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "ABC Sport Extra",
+      "s": "https://mediaserviceslive.akamaized.net/hls/live/2038312/itinerantthree/masterhq.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/abc-sport-extra.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "95.5 K-Rock",
+      "s": "https://18733.live.streamtheworld.com:443/GEE_KROCK.mp3",
+      "l": "https://kuasark.com/files/stations-logos/955-k-rock.png",
+      "g": [
+        "Rock",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Totally Radio 80's",
+      "s": "https://25053.live.streamtheworld.com:443/T_RAD_80S_S01AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/totally-radio-80s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Australian Country Radio",
+      "s": "https://streaming.radio.co/s5ea3fdd1c/listen",
+      "l": "https://kuasark.com/files/stations-logos/australian-country-radio.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "2WEB Outback Radio",
+      "s": "http://s1.viastreaming.net:7230/;",
+      "l": "https://kuasark.com/files/stations-logos/2web-outback-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Crunchie FM",
+      "s": "http://199.115.115.71/proxy/cdwwbiqx?mp=/;stream/1?1540098111399.aac",
+      "l": "https://kuasark.com/files/stations-logos/crunchie-fm.png",
+      "g": [
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "4BC Radio",
+      "s": "https://www.4bc.com.au/",
+      "l": "https://kuasark.com/files/stations-logos/4bc-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Totally Radio 60's",
+      "s": "https://23163.live.streamtheworld.com:443/T_RAD_60S_S01AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/totally-radio-60s.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Albashaer Radio",
+      "s": "https://streamer.radio.co/sc0a077d6e/listen",
+      "l": "https://kuasark.com/files/stations-logos/albashaer-radio.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Hand of Doom Radio",
+      "s": "http://158.69.114.190:8042/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/hand-of-doom-radio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Switch Brisbane",
+      "s": "http://oz04.xrn.com.au:80/SwbSd",
+      "l": "https://kuasark.com/files/stations-logos/switch-brisbane.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Energy FM",
+      "s": "https://play.enrega.com/stream/audio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/energy-fm-au.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "PBS",
+      "s": "https://23203.live.streamtheworld.com/3PBS_FMAAC128.aac",
+      "l": "https://kuasark.com/files/stations-logos/pbs.png",
+      "g": [
+        "Country",
+        "Jazz",
+        "Pop",
+        "Rock",
+        "R&B and Urban",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "All time hits Throwbacks",
+      "s": "https://stream-152.zeno.fm/qx5hzdvhapqtv?zs=25v4lFoRRJOrUAn0YYqClQ",
+      "l": "https://kuasark.com/files/stations-logos/all-time-hits-throwbacks.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Five-O-Plus",
+      "s": "http://61.69.112.50:88/broadwave.mp3?src=1&rate=1",
+      "l": "https://kuasark.com/files/stations-logos/radio-five-o-plus.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Life FM",
+      "s": "https://stream01.sigile.net/1079life-64-aac",
+      "l": "https://kuasark.com/files/stations-logos/life-fm-au-97296.png",
+      "g": [
+        "Pop",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "SWR 99.9 FM",
+      "s": "https://23163.live.streamtheworld.com:443/SWRFMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/swr-999-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "World Buddhist Radio",
+      "s": "https://14843.live.streamtheworld.com:443/SAM11AAC025.mp3",
+      "l": "https://kuasark.com/files/stations-logos/world-buddhist-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Totally Radio Greatest Hits",
+      "s": "https://25003.live.streamtheworld.com:443/T_RAD_GRTST_HITS_S01AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/totally-radio-greatest-hits.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "BIG HITS RADIO ",
+      "s": "http://172.93.237.106:8155/live",
+      "l": "https://kuasark.com/files/stations-logos/big-hits-radio-.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "4ZZZ",
+      "s": "https://iheart.4zzz.org.au/4zzz",
+      "l": "https://kuasark.com/files/stations-logos/4zzz.png",
+      "g": [
+        "Alternative",
+        "New Age",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Totally Radio 70's",
+      "s": "https://18233.live.streamtheworld.com:443/T_RAD_70S_S01AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/totally-radio-70s.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "RePlayScape - Ambient",
+      "s": "http://radio.replayscape.com:9064/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/replayscape-ambient.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Vibe Nation Radio",
+      "s": "https://jenny.torontocast.com:8060/vibenation",
+      "l": "https://kuasark.com/files/stations-logos/vibe-nation-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vision Australia Radio",
+      "s": "https://21363.live.streamtheworld.com:443/3RPHAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/vision-australia-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vox FM",
+      "s": "https://s10.myradiostream.com/:15272/;",
+      "l": "https://kuasark.com/files/stations-logos/vox-fm-au.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "The Buzzz",
+      "s": "https://c22.radioboss.fm:18205/stream",
+      "l": "https://kuasark.com/files/stations-logos/the-buzzz.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Magic 1278",
+      "s": "https://21423.live.streamtheworld.com:443/ACE_MAGIC1278AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/magic-1278.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Triple Y",
+      "s": "http://173.255.143.170:8015/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/triple-y.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "3XY Radio Hellas",
+      "s": "http://streamer2.rightclickitservices.com:1128/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/3xy-radio-hellas.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Wolf Australia",
+      "s": "http://procyon.shoutca.st:8193/stream",
+      "l": "https://kuasark.com/files/stations-logos/the-wolf-australia.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Great Southern FM",
+      "s": "https://23203.live.streamtheworld.com/6CRAAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/great-southern-fm.png",
+      "g": [
+        "Country",
+        "Jazz",
+        "Rock",
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "96Five",
+      "s": "https://stream2.cnmns.net/96five",
+      "l": "https://kuasark.com/files/stations-logos/96five.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Capital Community Radio",
+      "s": "http://ic2463.c1788.fast-serv.com/stream",
+      "l": "https://kuasark.com/files/stations-logos/capital-community-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "SA Rock Radio",
+      "s": "https://sarock.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/sa-rock-radio.png",
+      "g": [
+        "Alternative",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Magic FM",
+      "s": "http://67.212.165.106:8150/stream",
+      "l": "https://kuasark.com/files/stations-logos/magic-fm-au.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "102.7 FM",
+      "s": "https://s7.voscast.com:10185/4DDBFM",
+      "l": "https://kuasark.com/files/stations-logos/1027-fm.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 2ME Australia",
+      "s": "https://streaming.2me.com.au/2me",
+      "l": "https://kuasark.com/files/stations-logos/radio-2me-australia.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Totally Radio 00's",
+      "s": "https://25093.live.streamtheworld.com:443/T_RAD_00S_S01AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/totally-radio-00s.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "2NURFM",
+      "s": "https://21423.live.streamtheworld.com:443/2NURFM.mp3",
+      "l": "https://kuasark.com/files/stations-logos/2nurfm.png",
+      "g": [
+        "Easy Listening",
+        "News"
+      ]
+    },
+    {
+      "t": "UltraCool Radio",
+      "s": "http://us1.internet-radio.com:11024/live",
+      "l": "https://kuasark.com/files/stations-logos/ultracool-radio.png",
+      "g": [
+        "Themes",
+        "Electronic",
+        "Jazz",
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Physical Radio",
+      "s": "https://s3.radio.co/sd59eccabf/listen",
+      "l": "https://kuasark.com/files/stations-logos/physical-radio.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Rap",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "89.9 TheLight",
+      "s": "http://stream.lightfm.com.au:8138/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/899-thelight.png",
+      "g": [
+        "Pop",
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio TAB Live",
+      "s": "https://racingradio.rwwa.com.au/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-tab-live.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Status Internet Radio",
+      "s": "https://cast5.magicstreams.gr/sc/statuswe/stream",
+      "l": "https://kuasark.com/files/stations-logos/status-internet-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Coast FM 96.3",
+      "s": "https://21363.live.streamtheworld.com/2CCCAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/coast-fm-963.png",
+      "g": [
+        "Country",
+        "Pop",
+        "Decades",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "87.8 UCFM - Canberra's Alternative",
+      "s": "https://ucfm.out.airtime.pro/ucfm_a",
+      "l": "https://kuasark.com/files/stations-logos/878-ucfm-canberras-alternative.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Totally Radio 90's",
+      "s": "https://25093.live.streamtheworld.com:443/T_RAD_90S_S01AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/totally-radio-90s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Arhaggelos",
+      "s": "http://eco.onestreaming.com:8536/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-arhaggelos.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "OrbitRadio.FM",
+      "s": "http://195.23.85.126:8401/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/orbitradiofm.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "FM107.5",
+      "s": "https://radio12.shoutcast.net.au:8028/stream",
+      "l": "https://kuasark.com/files/stations-logos/fm1075.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Blu Italia",
+      "s": "https://sr11.inmystream.it/proxy/paolo123?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-blu-italia.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RSN Racing & Sport",
+      "s": "https://livestream.whooshkaa.com/icecast/rsn/rsn",
+      "l": "https://kuasark.com/files/stations-logos/rsn-racing-sport.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio1  FM 88",
+      "s": "http://111.gr:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio1-fm-88.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2CC",
+      "s": "https://17843.live.streamtheworld.com:443/2CCAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/2cc.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Riot FM",
+      "s": "http://144.139.171.204:88/broadwave.mp3",
+      "l": "https://kuasark.com/files/stations-logos/riot-fm.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radical FM Classic Hits",
+      "s": "https://secure.kuemedia.com.au/listen/rfm-classichits/high.aac",
+      "l": "https://kuasark.com/files/stations-logos/radical-fm-classic-hits.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Triple t",
+      "s": "http://159.196.29.55:7000/TripleTFM",
+      "l": "https://kuasark.com/files/stations-logos/triple-t.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Energy Groove Australia",
+      "s": "https://streamer.radio.co/saf43677d2/listen",
+      "l": "https://kuasark.com/files/stations-logos/energy-groove-australia.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Island FM Whitsundays",
+      "s": "https://radio12.shoutcast.net.au:8020/stream",
+      "l": "https://kuasark.com/files/stations-logos/island-fm-whitsundays.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sonshine (98.5FM)",
+      "s": "https://stream1.cnmns.net/sfm",
+      "l": "https://kuasark.com/files/stations-logos/sonshine-985fm.png",
+      "g": [
+        "Pop",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Darwin FM - KIK",
+      "s": "http://stream.radiolarrakia.org:8000/darwinfm",
+      "l": "https://kuasark.com/files/stations-logos/darwin-fm-kik.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Swell FM",
+      "s": "https://ny.mysonicserver.com/8018/stream",
+      "l": "https://kuasark.com/files/stations-logos/swell-fm.png",
+      "g": [
+        "R&B and Urban",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Totally Radio Pop",
+      "s": "https://19273.live.streamtheworld.com:443/T_RAD_POP_S01AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/totally-radio-pop.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rete Italia",
+      "s": "https://nicherad.radioca.st/stream2",
+      "l": "https://kuasark.com/files/stations-logos/rete-italia.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "New Contemporary Music",
+      "s": "https://streaming.radio.co/sbbdfc8d3d/listen",
+      "l": "https://kuasark.com/files/stations-logos/new-contemporary-music.png",
+      "g": [
+        "Folk",
+        "Easy Listening",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Totally Radio Easy",
+      "s": "https://19273.live.streamtheworld.com:443/T_RAD_EASY_S01AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/totally-radio-easy.png",
+      "g": [
+        "Easy Listening",
+        "Classical",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Pirate 88",
+      "s": "https://streaming.radio.co/s94a442970/listen",
+      "l": "https://kuasark.com/files/stations-logos/pirate-88.png",
+      "g": [
+        "Alternative",
+        "Other"
+      ]
+    },
+    {
+      "t": "Juice 107.3",
+      "s": "https://stream2.cnmns.net/juice1073",
+      "l": "https://kuasark.com/files/stations-logos/juice-1073.png",
+      "g": [
+        "Pop",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Club Retro",
+      "s": "http://s7.voscast.com:8504/;",
+      "l": "https://kuasark.com/files/stations-logos/club-retro.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "RTR FM",
+      "s": "https://live.rtrfm.com.au/stream1",
+      "l": "https://kuasark.com/files/stations-logos/rtr-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Faith FM Australia",
+      "s": "https://stream1.faithfm.com.au/FaithFM.mp3",
+      "l": "https://kuasark.com/files/stations-logos/faith-fm-australia.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "STEREO 10 ~ Brisbane",
+      "s": "http://s47.myradiostream.com:15786/listen.m4a",
+      "l": "https://kuasark.com/files/stations-logos/stereo-10-brisbane.png",
+      "g": [
+        "Alternative",
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "BladeFM",
+      "s": "https://cast.bladefm.com.au/radio/8000/stream320.mp3",
+      "l": "https://kuasark.com/files/stations-logos/bladefm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ItaliaFm 2",
+      "s": "https://jdifluri.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/italiafm-2.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Oz Urban Radio",
+      "s": "https://streaming.radio.co/s53f27469e/listen",
+      "l": "https://kuasark.com/files/stations-logos/oz-urban-radio.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio VCA 88.5FM",
+      "s": "http://uk5.internet-radio.com:8035/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-vca-885fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Beautiful Music",
+      "s": "https://s3.voscast.com:9709/stream",
+      "l": "https://kuasark.com/files/stations-logos/beautiful-music.png",
+      "g": [
+        "Classical",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "All time hits radio opera",
+      "s": "https://stream-150.zeno.fm/xgplc0peqbktv?zs=sRtIj1SPR_6Zjdl2K1tz-Q",
+      "l": "https://kuasark.com/files/stations-logos/all-time-hits-radio-opera.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Oz Radio Gold",
+      "s": "https://s3.radio.co/sa12cb0e79/listen",
+      "l": "https://kuasark.com/files/stations-logos/oz-radio-gold.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "MYFM Sydney",
+      "s": "http://10321.cloudrad.io:9054/myfm",
+      "l": "https://kuasark.com/files/stations-logos/myfm-sydney.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Inner FM",
+      "s": "https://19273.live.streamtheworld.com:443/3NRAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/inner-fm.png",
+      "g": [
+        "Country",
+        "Jazz",
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Big Hits Country",
+      "s": "http://172.93.237.106:8118/stream",
+      "l": "https://kuasark.com/files/stations-logos/big-hits-country.png",
+      "g": [
+        "Country",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Urban Movement Radio",
+      "s": "https://streams.radio.co/s00fff6b95/listen",
+      "l": "https://kuasark.com/files/stations-logos/urban-movement-radio.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Rap",
+        "Jazz",
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio PCM Country Goodness",
+      "s": "https://radiopcm.stream.laut.fm/radiopcm",
+      "l": "https://kuasark.com/files/stations-logos/radio-pcm-country-goodness.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Eastern FM - 3ECB",
+      "s": "https://21423.live.streamtheworld.com/3ECBAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/eastern-fm-3ecb.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rhema FM - 2RFM",
+      "s": "https://25703.live.streamtheworld.com:443/RHEMA_FMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/rhema-fm-2rfm.png",
+      "g": [
+        "Pop",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "My 105",
+      "s": "http://99.198.118.250:8013/live",
+      "l": "https://kuasark.com/files/stations-logos/my-105.png",
+      "g": [
+        "Classical",
+        "Country",
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Top Rock",
+      "s": "https://cast1.asurahosting.com/proxy/philippe/stream",
+      "l": "https://kuasark.com/files/stations-logos/top-rock-au.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Massive Dance Radio",
+      "s": "https://fred.torontocast.com:1365/stream",
+      "l": "https://kuasark.com/files/stations-logos/massive-dance-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "4BH Classic Hits",
+      "s": "https://23203.live.streamtheworld.com/ACE_4BHAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/4bh-classic-hits.png",
+      "g": [
+        "Rock",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "3GG",
+      "s": "https://27143.live.streamtheworld.com:443/3GGAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/3gg.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Station X - XRN Australia",
+      "s": "http://us01.xrn.com.au:80/StxSd",
+      "l": "https://kuasark.com/files/stations-logos/station-x-xrn-australia.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "2MFM",
+      "s": "http://www.2mfm.org.au:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/2mfm.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nova 919",
+      "s": "https://21413.live.streamtheworld.com:443/NOVA_919_AAC48.aac",
+      "l": "https://kuasark.com/files/stations-logos/nova-919-au-16516.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Sydney",
+      "s": "https://cast3.asurahosting.com/proxy/radiosyd/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-sydney.png",
+      "g": [
+        "Country",
+        "Themes",
+        "Electronic",
+        "Jazz",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio 2ooo",
+      "s": "http://s7.viastreaming.net:8500/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-2ooo.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio PCM 99% Pop Non-Stop",
+      "s": "https://popnonstop.stream.laut.fm/popnonstop",
+      "l": "https://kuasark.com/files/stations-logos/radio-pcm-99-pop-non-stop.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "94.7 The Pulse",
+      "s": "http://streamer2.rightclickitservices.com:8070/;",
+      "l": "https://kuasark.com/files/stations-logos/947-the-pulse.png",
+      "g": [
+        "Blues",
+        "R&B and Urban",
+        "Jazz",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "3ZZZ",
+      "s": "https://21423.live.streamtheworld.com:443/3ZZZAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/3zzz.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Prog Rock Machine",
+      "s": "https://theproganrockmachine.out.airtime.pro/theproganrockmachine_a",
+      "l": "https://kuasark.com/files/stations-logos/the-prog-rock-machine.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "WKEU Radio",
+      "s": "https://stream.radio.co/s14b73a382/listen",
+      "l": "https://kuasark.com/files/stations-logos/wkeu-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "HFM",
+      "s": "http://45.77.235.175:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/hfm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "stations": [
+    {
+      "t": "Classica",
+      "s": "http://france16.coollabel-productions.com:8280/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421289/3184c6622f45941cf20fdc669660c4b5_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Alcatraz Radio FM",
+      "s": "https://stream.zeno.fm/zf8v71kkmy8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430897/7a4fad15fbd846731a0e78a4e2534043_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "TRACE FM",
+      "s": "http://stream.rcs.revma.com/nxvafk744k0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9623/o4ti5981f0c19c3a6105972214_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Reggae",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Guyane la 1ère",
+      "s": "https://guyane.ice.infomaniak.ch/guyane-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421281/d0c412a43eb38d0ff4345f53dcd8c8e7_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mayouri Campus",
+      "s": "https://ssl-audio-mayouri.onair.audio/",
+      "l": "https://images.radiovolna.net/_files/images/stations/421291/da46b00126e08870276666e7fdeec9a2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Joie de Vivre",
+      "s": "https://listen.radioking.com/radio/289372/stream/335533",
+      "l": "https://images.radiovolna.net/_files/images/stations/421284/dd9f14a82330a239296332a7aa30755b_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "NRJ",
+      "s": "https://nrjguyane.ice.infomaniak.ch/nrjguyane-64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/421283/26f94f347a3d4edbe8333e4e117b771b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FUN RADIO",
+      "s": "http://manager2.streaming-ingenierie.fr:8050/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26644/aaec1d7d7ad9ae2073034b9662348ddc_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Péyi",
+      "s": "https://radiopeyiguyane.ice.infomaniak.ch/radiopeyiguyane-64.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421286/34cd27e173ee43a67e2dc56dda7eee37_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Métis FM",
+      "s": "https://str0.creacast.com/metisfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/421282/40fc4e705984e8e71abb04ec72cc400f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RFM",
+      "s": "http://coollabel1.streaming-ingenierie.fr:8136/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421288/b681e00fa3e9eec90c271ecd1e002a06_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "BBlack Radio",
+      "s": "http://srv2.streaming-ingenierie.fr:8162/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421280/8c16247a946d3a62dbcd936b34cdf0a8_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Voix dans le Désert",
+      "s": "http://str0.creacast.com/metisfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/421285/680af8d68b325cd5482071faa313d5c2_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Chérie FM",
+      "s": "https://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/421287/34162d8a089cbf52c224adc17164b357_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio KFM",
+      "s": "http://10191.go2stream.fr:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429291/4ef80ec6bf34b4b1dfea6a3cbf558858_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rossignol",
+      "s": "http://radio3.pro-fhi.net:9004/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421290/7138d70c1402b4360414f061e988cff1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nostalgie Guyane",
+      "s": "http://2stream.dyndns.org:8000/nostalgieguy",
+      "l": "https://kuasark.com/files/stations-logos/nostalgie-guyane.png",
+      "g": [
+        "Decades",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Bblack Radio",
+      "s": "https://stunnel1.cyber-streaming.com:9162/stream",
+      "l": "https://kuasark.com/files/stations-logos/bblack-radio.png",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Fun Radio Guyane",
+      "s": "http://manager2.streaming-ingenierie.fr:8050/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fun-radio-guyane.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTL 2 Guyane",
+      "s": "http://coollabel1.streaming-ingenierie.fr:8136/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rtl-2-guyane.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "GBSRadio",
+      "s": "https://guyanablackstar.fr/wp-content/uploads/2021/08/Dj-Moody-Mike-Money.mp3",
+      "l": "https://kuasark.com/files/stations-logos/gbsradio.png",
+      "g": [
+        "Rap",
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "Nostalgie Guadeloupe",
+      "s": "http://2stream.dyndns.org:8000/nostalgiegp",
+      "l": "https://kuasark.com/files/stations-logos/nostalgie-guadeloupe.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Péyi",
+      "s": "http://radiopeyiguyane.ice.infomaniak.ch/radiopeyiguyane-64.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-peyi.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Ouest FM Guyane",
+      "s": "http://srv2.streaming-ingenierie.fr:8162/;",
+      "l": "https://kuasark.com/files/stations-logos/ouest-fm-guyane.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "chwitiweb",
+      "s": "https://listen.radioking.com/radio/190309/stream/232540",
+      "l": "https://kuasark.com/files/stations-logos/chwitiweb.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "NRJ Guyane 97,3 FM",
+      "s": "http://nrjguyane.ice.infomaniak.ch/nrjguyane-64.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nrj-guyane-973-fm.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

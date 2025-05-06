@@ -1,0 +1,29 @@
+{
+  "stations": [
+    {
+      "t": "Integrity Online Radio",
+      "s": "https://stream-153.zeno.fm/khv14pnnberuv?zs=cOLoZMWGQwaX1OgIDBCe-w",
+      "l": "https://kuasark.com/files/stations-logos/integrity-online-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Truth FM",
+      "s": "https://s47.myradiostream.com/:16168/listen.mp3?nocache=1695120208",
+      "l": "https://kuasark.com/files/stations-logos/truth-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "DVC Radio",
+      "s": "https://stream-149.zeno.fm/438rwgqfwf9uv?zs=9pYZWtw7QHiaJSzijFNzUA",
+      "l": "https://kuasark.com/files/stations-logos/dvc-radio-lr.png",
+      "g": [
+        "Inspirational"
+      ]
+    }
+  ]
+}

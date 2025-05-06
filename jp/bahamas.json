@@ -1,0 +1,309 @@
+{
+  "stations": [
+    {
+      "t": "RTL RADIO DESDUNES",
+      "s": "http://stream.zeno.fm/m01a28zzxwzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/421666/50507457936cd4c27298cc903fa09af2_130x130.webp",
+      "g": [
+        "Inspirational",
+        "Talk",
+        "News",
+        "International"
+      ]
+    },
+    {
+      "t": "KLPM88.9FM",
+      "s": "https://s4.radio.co/s440e54fd7/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/430907/124c84a071a0201e9fffd821ab063c42_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "More",
+      "s": "http://icecast.more94fm.com:8000/more94.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403281/erg559df98b32c48a822866401_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Island",
+      "s": "http://amber.streamcomedia.com:5670/island1029fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/403285/tgmc59df9a69764d6902179136_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Gospel 107",
+      "s": "https://c25.radioboss.fm:8186/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421701/832352ae329424890ab95f68b2590a01_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Bahamian or Nuttin",
+      "s": "https://s2.reliastream.com/proxy/rumcayme?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420784/69fdc7b6c96105377848c571864902cd_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Peace",
+      "s": "http://peace1075fm.streamcomedia.com:5680/peace1075fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/403287/dxx759df9b6cb8afc864512681_130x130.webp",
+      "g": [
+        "International",
+        "Latin",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Power",
+      "s": "http://159.89.224.85:9788/power1045fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/420786/0d6c369bb30f55e7cf9818fee1cc74b7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Beat",
+      "s": "https://stream.radiojar.com/01d8c449cyduv",
+      "l": "https://images.radiovolna.net/_files/images/stations/420787/4384431fdc338dabf726e6483f4aa783_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "HOT",
+      "s": "https://ice25.securenetsystems.net/HOT917FM",
+      "l": "https://images.radiovolna.net/_files/images/stations/403280/at8d59df986a54f55325348000_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ZNK Kiss 96",
+      "s": "https://ice42.securenetsystems.net/96KISSFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/428650/50e1060d070608f1a5778628e942eebf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Star 106Hits",
+      "s": "https://stream.zeno.fm/s8e1fgds3heuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/420788/1c3b0ff569f670718c3ebcdf6afd44c9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ZNY Y98 FM",
+      "s": "https://ice42.securenetsystems.net/Y98FM",
+      "l": "https://images.radiovolna.net/_files/images/stations/428651/c4bedb75f6acf7f91fe613015bf50266_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bahamas",
+      "s": "http://znsradiogroup.streamcomedia.com:9788/zns1540am",
+      "l": "https://images.radiovolna.net/_files/images/stations/403286/lpi259df9af339c12564316298_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Inspiration",
+      "s": "http://159.89.224.85:9788/zns1079fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/420789/3f5afd86f4e2867d5ea51dbac873c901_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100 Jamz",
+      "s": "http://ice66.securenetsystems.net/100JAMZ",
+      "l": "https://images.radiovolna.net/_files/images/stations/403284/up3a59df9a0c39b67489804054_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "ZNJY Joy FM",
+      "s": "https://ice42.securenetsystems.net/JOYFM242",
+      "l": "https://images.radiovolna.net/_files/images/stations/428652/a3867d26647c503964ab6163fb10a0ba_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Love FM",
+      "s": "http://radiocdn1.streamcomedia.com:5670/love975fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/403283/n9an59df99903b6d8046044617_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "BBN Turning Point Radio",
+      "s": "http://radiocdn1.streamcomedia.com:5670/tprb1023fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/420785/6715851230067ab2f315f773316f87e6_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Guardian Talk Radio",
+      "s": "http://tngrgroup.streamcomedia.com:8788/guardianradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/403282/v5s459df99555cb71927447906_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Gospel 107",
+      "s": "https://stream-156.zeno.fm/1rhyytxp49auv?zs=qzt8WsqlTX-vyg_b9PCgJA",
+      "l": "https://kuasark.com/files/stations-logos/gospel-107.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "100 JAMZ",
+      "s": "https://ice66.securenetsystems.net/100JAMZ",
+      "l": "https://kuasark.com/files/stations-logos/100-jamz.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio lclhst",
+      "s": "http://95.211.222.118:1337/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-lclhst.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "HOT 91.7 FM",
+      "s": "http://184.154.43.106:8365/stream?ver=356700",
+      "l": "https://kuasark.com/files/stations-logos/hot-917-fm.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "ZNS Bahamas",
+      "s": "http://znsradiogroup.streamcomedia.com:9788/zns1079fm",
+      "l": "https://kuasark.com/files/stations-logos/zns-bahamas.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bahamian Or Nuttin",
+      "s": "https://bahamianornuttin.com/",
+      "l": "https://kuasark.com/files/stations-logos/bahamian-or-nuttin.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vogue Play BHS",
+      "s": "https://stream-150.zeno.fm/51m7pxn8508uv?zs=oYpvtzzMQn2UjDN6sHfszQ",
+      "l": "https://kuasark.com/files/stations-logos/vogue-play-bhs.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Station Beta",
+      "s": "https://stream-149.zeno.fm/qmq5ubcyqnhvv?zs=wnjj3l2gQzmh9Frsdat4XQ",
+      "l": "https://kuasark.com/files/stations-logos/station-beta-113990.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Prayse FM 101.1",
+      "s": "https://ice41.securenetsystems.net/PRAYSE",
+      "l": "https://kuasark.com/files/stations-logos/prayse-fm-1011.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Star 106.5fm",
+      "s": "http://184.154.43.106:8384/stream",
+      "l": "https://kuasark.com/files/stations-logos/star-1065fm.png",
+      "g": [
+        "R&B and Urban",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Alisnet Fm",
+      "s": "https://stream-052.zeno.fm/g0y4b8rms0hvv?zs=f5fWxmd0TIG88Yr1btI8fg",
+      "l": "https://kuasark.com/files/stations-logos/radio-alisnet-fm.png",
+      "g": [
+        "Rap",
+        "Reggae",
+        "Talk"
+      ]
+    },
+    {
+      "t": "LCLHST R1",
+      "s": "http://s1.radio.lclhst.net:1437/r1",
+      "l": "https://kuasark.com/files/stations-logos/lclhst-r1.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Global 99.5 FM",
+      "s": "http://ice64.securenetsystems.net/GLOBALBS",
+      "l": "https://kuasark.com/files/stations-logos/global-995-fm.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Asteras 92",
+      "s": "https://cast4.magicstreams.gr:12108/;?_=0.14756551841750443",
+      "l": "https://kuasark.com/files/stations-logos/asteras-92.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Island FM",
+      "s": "http://radiocdn1.streamcomedia.com:5670/island1029fm",
+      "l": "https://kuasark.com/files/stations-logos/island-fm-bs.png",
+      "g": [
+        "Reggae",
+        "Other",
+        "Decades"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "stations": [
+    {
+      "t": "HITFM MAURITIUS",
+      "s": "https://stream.zeno.fm/8e5h28q71bwtv.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/30691/5cf14da2dc24fb93b96f67fa259413d5_130x130.webp",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Top FM",
+      "s": "http://s3.voscast.com:10152/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422925/0cb5b531eaad321a65cdb2ce09cafad1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "One",
+      "s": "http://185.142.236.169:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405346/czp45a43abd689cc2788045117_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Moris Live",
+      "s": "https://azc.radiomoris.com:8010/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/30244/ae5545585cec37994451365b765c2922_130x130.webp",
+      "g": [
+        "International",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Plus FM",
+      "s": "http://s4.voscast.com:8432/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/30401/9487e0621998fa63f64f07cea3983e03_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Moris World",
+      "s": "http://cp.radiomoris.com/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/30283/4cc0abc63c31fdd2d3cc9faac340b3e2_130x130.webp",
+      "g": [
+        "International",
+        "Latin"
+      ]
+    },
+    {
+      "t": "NRJ Maurice",
+      "s": "http://cdn.nrjaudio.fm/adwz1/mu/55802/aac_64.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422920/7dc1466260fc8fed52dadc5facf484cf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Mystere",
+      "s": "https://s3.free-shoutcast.com/stream/18150",
+      "l": "https://images.radiovolna.net/_files/images/stations/430063/4a8ff828c81b3090daedabc9c05cbbde_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "MBC Kool FM",
+      "s": "https://mbcmediaserver.mbcradio.tv/hls-live/koolfm/_definst_/liveevent/livestream.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/422921/7dd9297f29f20777d2273ecf1067ce04_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Plus",
+      "s": "https://stream.radio.co/s8cc7a5da4/listen",
+      "l": "https://kuasark.com/files/stations-logos/radio-plus-mu.png",
+      "g": [
+        "Country",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Top FM",
+      "s": "http://s3.voscast.com:10152/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/top-fm-mu-100329.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NRJ Maurice",
+      "s": "http://185.52.127.157/mu/55802/aac_64.mp3?adws_out_a2&access_token=901501094b6a4a8c84456a56b82d3628",
+      "l": "https://kuasark.com/files/stations-logos/nrj-maurice.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "MBC Best FM",
+      "s": "https://radio.mbconline.xyz/hls/bestfm.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/mbc-best-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Wazaa FM",
+      "s": "https://wazaafm.ice.infomaniak.ch/wazaafm-192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/wazaa-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "MBC Kool FM",
+      "s": "https://radio.mbconline.xyz/hls/koolfm.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/mbc-kool-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "TAMAM RADIO",
+      "s": "http://freeuk22.listen2myradio.com:13420/;stream",
+      "l": "https://kuasark.com/files/stations-logos/tamam-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "MBC Radio Maurice",
+      "s": "https://radio.mbconline.xyz/hls/radiomaurice.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/mbc-radio-maurice.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "MBC Taal FM",
+      "s": "https://radio.mbconline.xyz/hls/tallfm.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/mbc-taal-fm.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Hits FM",
+      "s": "https://stream-156.zeno.fm/8e5h28q71bwtv?zs=XIhNMd8bSFy2nVoCc3_1Yg",
+      "l": "https://kuasark.com/files/stations-logos/hits-fm-mu.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Faith Radio",
+      "s": "http://mu1stream.mushost.com:8230/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/faith-radio-mu.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "MBC Radio Mauritius",
+      "s": "https://radio.mbconline.xyz/hls/radiomauritus.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/mbc-radio-mauritius.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio230",
+      "s": "https://17483.live.streamtheworld.com/SP_R4228214_SC",
+      "l": "https://kuasark.com/files/stations-logos/radio230.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "News"
+      ]
+    },
+    {
+      "t": "OUI Radio",
+      "s": "http://mu1stream.mushost.com:8080/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/oui-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio ADO Reggae",
+      "s": "http://mu1stream.mushost.com:8230/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-ado-reggae.png",
+      "g": [
+        "Inspirational",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Kirpip Radio",
+      "s": "http://radio7.pro-fhi.net:9187/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/kirpip-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Zero Alpha Radio",
+      "s": "https://26383.live.streamtheworld.com:443/SAM10AAC078_SC",
+      "l": "https://kuasark.com/files/stations-logos/zero-alpha-radio.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Onex FM",
+      "s": "https://stream-153.zeno.fm/74eh7s0ke0hvv?zs=IevN8yyaRl6GgAQ37zoZxQ",
+      "l": "https://kuasark.com/files/stations-logos/onex-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Tamizen Radio",
+      "s": "https://c34.radioboss.fm:18023/stream",
+      "l": "https://kuasark.com/files/stations-logos/tamizen-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Tamil FM",
+      "s": "https://stream-149.zeno.fm/74eh7s0ke0hvv?zs=vl0157FZT_WoSq7x9fHB-A",
+      "l": "https://kuasark.com/files/stations-logos/radio-tamil-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Moris - Ambiance",
+      "s": "https://azc.radiomoris.com:8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-moris-ambiance.png",
+      "g": [
+        "New Age",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Moris - Mix",
+      "s": "https://azc.radiomoris.com:8020/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-moris-mix.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Reggae",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Moris - Love",
+      "s": "https://azc.radiomoris.com:8030/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-moris-love.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Moris - Street",
+      "s": "https://azc.radiomoris.com:8040/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-moris-street.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Reggae",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Plus Mauritius",
+      "s": "http://s4.voscast.com:8432/;?icy=http",
+      "l": "https://kuasark.com/files/stations-logos/radio-plus-mauritius.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NRJ Maurice 92,4 FM",
+      "s": "http://185.52.127.157/mu/55802/mp3_128.mp3?adws_out_a2&access_token=957a3a6f8b3f47159ddf314db8a3deac",
+      "l": "https://kuasark.com/files/stations-logos/nrj-maurice-924-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Top FM",
+      "s": "https://s1.radioforge.com:4433/topfmlive/stream?hash=1663883843609.mp3",
+      "l": "https://kuasark.com/files/stations-logos/top-fm-mu-83268.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

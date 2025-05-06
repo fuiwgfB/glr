@@ -1,0 +1,1640 @@
+{
+  "stations": [
+    {
+      "t": "Quran Kareem",
+      "s": "https://admdn7.cdn.mangomolo.com/quranrdo/quranrdo.stream_aac/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/405434/ng9q5a461bed60896725078226_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Dubai FM",
+      "s": "https://dmithrvll.cdn.mangomolo.com/dubairdo/dubairdo_aac/chunklist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/405443/y1bq5a4626518c8e1418598667_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Dubai Holy Quran",
+      "s": "http://uk5.internet-radio.com:8079/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423160/9d4007430b884de982a9a07b4f546132_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Al Arabiya",
+      "s": "https://stream.radiojar.com/s1mygd1frxquv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405447/f31x5a462a6503fea242128398_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sharjah Quran",
+      "s": "https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/428411/f0fbf0357bfdb971cf097995ace20b60_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Shoma",
+      "s": "https://stream.radiojar.com/rzcfw4cbsxquv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405444/shui5a4627e95aba9894284496_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Gold FM",
+      "s": "https://streams.radio.co/s909325731/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/405450/p2595a462c008e75a233849711_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 1",
+      "s": "https://admdn7.cdn.mangomolo.com/rdo1/rdo1.stream_aac/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/405435/w7j15a461c5a576f6895382760_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sharjah FM",
+      "s": "https://l3.itworkscdn.net/smcradiolive/smcradiolive/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/405433/i8f95a461b80096e8659092309_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Tamil FM",
+      "s": "http://31.14.40.150:9000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405440/b4395a4621c7adaa4180129095_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Club FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/405448/sejr5a462acc8f02f217646708_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Радио «Русские Эмираты»",
+      "s": "https://listen.myrh.ru/russianemirates",
+      "l": "https://images.radiovolna.net/_files/images/stations/423945/85d535837dc19d1725a6e2b7d11cd008_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Electronic",
+        "Folk",
+        "News"
+      ]
+    },
+    {
+      "t": "Al Khaleejiya",
+      "s": "https://stream.radiojar.com/5wpf9e4erxquv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405449/fjhe5a462b23c00f8672648707_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Ibiza Global Radio",
+      "s": "https://stream.rcs.revma.com/r6hktd84u7zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428409/d84d3bb2d35a37e7a9b39961a779679d_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Kadak FM",
+      "s": "https://admdn7ta.cdn.mgmlcdn.com/mirchirdo/mirchirdo.stream_aac/chunklist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428408/273f3c186eef49e9c6354857749bb8ea_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Xfinite Radio",
+      "s": "http://music.xfiniteradio.com:2390/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426008/4beb0b1cfde47d67c6e8569fe1491e78_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Asia",
+      "s": "http://51.255.235.165:5480/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423162/2f91e63374e5cf47ba152ac7c8e46599_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dubai 92",
+      "s": "https://stream.radiojar.com/6ty5rrkerxquv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405442/glgo5a462498e5aa1438896234_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 4 (Ajman)",
+      "s": "https://stream.radio.co/s6004eac2f/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/405439/lxx75a461f06f185e455321685_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Rafa Radio - Broadcasting Music, Healing Souls",
+      "s": "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/31412/978d4eca4b199993b5fe0b5d4bb640ba_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Hit 96.7",
+      "s": "https://stream.radiojar.com/3yygc0pwuueuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405446/n3ig5a4629e65cb2e741952886_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dubai Eye",
+      "s": "https://stream.radiojar.com/shcthrfbsxquv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405454/gdl35a462ff14ba51110105748_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pearl FM",
+      "s": "https://streamer.radio.co/see628308e/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/405452/du035a462e333c748234509237_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Virgin Radio Dubai",
+      "s": "https://stream.radiojar.com/nhq0vcqwuueuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/21086/3d6acb21f1c9d427c3d8ab5387713226_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Mirchi 1024",
+      "s": "https://eu8.fastcast4u.com/proxy/clyedupq/;",
+      "l": "https://kuasark.com/files/stations-logos/mirchi-1024.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "For Kids Movie Soundtracks",
+      "s": "https://drive.uber.radio/uber/forkidzmoviesoundtracks/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-movie-soundtracks.png",
+      "g": [
+        "Soundtracks",
+        "Themes"
+      ]
+    },
+    {
+      "t": "For Kids Dance Party",
+      "s": "https://drive.uber.radio/uber/forkidzdanceparty/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-dance-party.png",
+      "g": [
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "For Kids Pop Hits",
+      "s": "https://drive.uber.radio/uber/forkidzpophits/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-pop-hits.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "For Kids Classical",
+      "s": "https://drive.uber.radio/uber/forkidzclassical/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-classical.png",
+      "g": [
+        "Classical",
+        "Themes"
+      ]
+    },
+    {
+      "t": "For Kids - Kidz Bop",
+      "s": "https://drive.uber.radio/uber/forkidzkidzbop/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-kidz-bop.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "For Kids Calm",
+      "s": "https://drive.uber.radio/uber/forkidzcalm/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-calm.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "For Kids Sleep Kidz",
+      "s": "https://drive.uber.radio/uber/forkidzsleep/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-sleep-kidz.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "For Kids Nursery Rhymes",
+      "s": "https://drive.uber.radio/uber/forkidznurseryrhymes/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-nursery-rhymes.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "For Kids Bathtime Fun",
+      "s": "https://drive.uber.radio/uber/forkidzbathtimefun/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-bathtime-fun.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "For Kids Bedtime Stories",
+      "s": "https://drive.uber.radio/uber/forkidzbedtimestories/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-bedtime-stories.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "For Kids Pinkfong",
+      "s": "https://drive.uber.radio/uber/forkidzpinkfong/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-pinkfong.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "For Kids Lullabys",
+      "s": "https://drive.uber.radio/uber/forkidzlullabys/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-lullabys.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "For Kids Wake & Shake",
+      "s": "https://drive.uber.radio/uber/forkidzwakeandshake/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-wake-shake.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "For Kids Toddler Tunes",
+      "s": "https://drive.uber.radio/uber/forkidztoddlertunes/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/for-kids-toddler-tunes.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Exclusively Pink Floyd",
+      "s": "https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-pink-floyd.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Nursery - Sleep",
+      "s": "https://13683.live.streamtheworld.com:443/SAM01AAC227_SC",
+      "l": "https://kuasark.com/files/stations-logos/radio-nursery-sleep.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Nursery",
+      "s": "https://26453.live.streamtheworld.com:443/SAM04AAC281_SC",
+      "l": "https://kuasark.com/files/stations-logos/radio-nursery.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Nursery - Play",
+      "s": "https://26453.live.streamtheworld.com:443/SAM01AAC213_SC",
+      "l": "https://kuasark.com/files/stations-logos/radio-nursery-play.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Nursery - Wake up!",
+      "s": "https://26453.live.streamtheworld.com:443/SAM01AAC149_SC",
+      "l": "https://kuasark.com/files/stations-logos/radio-nursery-wake-up.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Exclusively The Beatles",
+      "s": "https://streaming.exclusive.radio/er/beatles/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-the-beatles.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Queen",
+      "s": "https://streaming.exclusive.radio/er/queen/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-queen.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Sky News Arabia",
+      "s": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia",
+      "l": "https://kuasark.com/files/stations-logos/sky-news-arabia.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Exclusively ABBA",
+      "s": "https://streaming.exclusive.radio/er/abba/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-abba.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Bob Marley",
+      "s": "https://streaming.exclusive.radio/er/bobmarley/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-bob-marley.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Led Zeppelin",
+      "s": "https://streaming.exclusive.radio/er/ledzeppelin/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-led-zeppelin.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Rolling Stones",
+      "s": "https://streaming.exclusive.radio/er/rollingstones/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-rolling-stones.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "106.2 Big FM",
+      "s": "https://funasia.streamguys1.com/live4",
+      "l": "https://kuasark.com/files/stations-logos/1062-big-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Exclusively Dire Straits",
+      "s": "https://streaming.exclusive.radio/er/direstraits/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-dire-straits.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Frank Sinatra",
+      "s": "https://streaming.exclusive.radio/er/franksinatra/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-frank-sinatra.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Exclusively AC/DC",
+      "s": "https://streaming.exclusive.radio/er/acdc/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-ac-dc.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Blues",
+      "s": "https://drive.uber.radio/uber-app/starboxblues/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-blues.png",
+      "g": [
+        "Blues"
+      ]
+    },
+    {
+      "t": "Exclusively Elvis Presley",
+      "s": "https://streaming.exclusive.radio/er/elvispresley/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-elvis-presley.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Depeche Mode",
+      "s": "https://streaming.exclusive.radio/er/depechemode/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-depeche-mode.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Deep Purple",
+      "s": "https://streaming.exclusive.radio/er/deeppurple/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-deep-purple.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Michael Jackson",
+      "s": "https://streaming.exclusive.radio/er/michaeljackson/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-michael-jackson.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively The Doors",
+      "s": "https://streaming.exclusive.radio/er/doors/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-the-doors.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Creedence Clearwater Revival",
+      "s": "https://streaming.exclusive.radio/er/creedence/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-creedence-clearwater-revival.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Metallica",
+      "s": "https://streaming.exclusive.radio/er/metallica/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-metallica.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively The Bee Gees",
+      "s": "https://streaming.exclusive.radio/er/beegees/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-the-bee-gees.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tinder Radio - Hot Hits",
+      "s": "https://streaming.exclusive.radio/er/chart/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/tinder-radio-hot-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Soft Rock",
+      "s": "https://drive.uber.radio/uber-app/starboxsoftrock/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-soft-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Positively Meditation",
+      "s": "https://streaming.positivity.radio/pr/posimeditation/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/positively-meditation.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Exclusively Eagles",
+      "s": "https://streaming.exclusive.radio/er/eagles/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-eagles.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Black Sabbath",
+      "s": "https://streaming.exclusive.radio/er/blacksabbath/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-black-sabbath.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Club FM",
+      "s": "https://eu10.fastcast4u.com/clubfmuae",
+      "l": "https://kuasark.com/files/stations-logos/club-fm-ae.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Adele",
+      "s": "https://streaming.exclusive.radio/er/adele/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-adele.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Exclusively Rock",
+      "s": "https://drive.uber.radio/uber-app/starboxrock/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Genesis",
+      "s": "https://streaming.exclusive.radio/er/genesis/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-genesis.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Jazz",
+      "s": "https://drive.uber.radio/uber-app/starboxjazz/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-jazz.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Exclusively Madonna",
+      "s": "https://streaming.exclusive.radio/er/madonna/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-madonna.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tinder Radio - Disco",
+      "s": "https://streaming.exclusive.radio/er/disco/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/tinder-radio-disco.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Electric Light Orchestra",
+      "s": "https://streaming.exclusive.radio/er/elo/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-electric-light-orchestra.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Phil Collins",
+      "s": "https://streaming.exclusive.radio/er/philcollins/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-phil-collins.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Exclusively Coldplay",
+      "s": "https://streaming.exclusive.radio/er/coldplay/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-coldplay.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Santana",
+      "s": "https://streaming.exclusive.radio/er/santana/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-santana.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Scorpions",
+      "s": "https://streaming.exclusive.radio/er/scorpions/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-scorpions.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Europa Plus (UAE)",
+      "s": "https://ep128.hostingradio.ru:8030/ep128?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/europa-plus-uae.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Exclusively David Bowie",
+      "s": "https://streaming.exclusive.radio/er/davidbowie/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-david-bowie.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Tinder Radio - Bollywood",
+      "s": "https://streaming.exclusive.radio/er/bollywood/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/tinder-radio-bollywood.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kadak FM",
+      "s": "https://admdn7.cdn.mangomolo.com/mirchirdo/mirchirdo.stream_aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/kadak-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Exclusively Iron Maiden",
+      "s": "https://streaming.exclusive.radio/er/ironmaiden/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-iron-maiden.png",
+      "g": [
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Guns N Roses",
+      "s": "https://streaming.exclusive.radio/er/gunsnroses/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-guns-n-roses.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively The Cure",
+      "s": "https://streaming.exclusive.radio/er/thecure/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-the-cure.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Exclusively Paul McCartney",
+      "s": "https://streaming.exclusive.radio/er/paulmccartney/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-paul-mccartney.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Reggae",
+      "s": "https://drive.uber.radio/uber-app/starboxreggae/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-reggae.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Exclusively U2",
+      "s": "https://streaming.exclusive.radio/er/u2/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-u2.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively BTS",
+      "s": "https://streaming.exclusive.radio/er/bts/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-bts.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Celine Dion",
+      "s": "https://streaming.exclusive.radio/er/celinedion/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-celine-dion.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Exclusively Johnny Cash",
+      "s": "https://streaming.exclusive.radio/er/johnnycash/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-johnny-cash.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Tinder Radio - Rock N Roll Party",
+      "s": "https://streaming.exclusive.radio/er/rocknrollparty/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/tinder-radio-rock-n-roll-party.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Bob Dylan",
+      "s": "https://streaming.exclusive.radio/er/bobdylan/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-bob-dylan.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Fleetwood Mac",
+      "s": "https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-fleetwood-mac.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Taylor Swift",
+      "s": "https://streaming.exclusive.radio/er/taylorswift/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-taylor-swift.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Eric Clapton",
+      "s": "https://streaming.exclusive.radio/er/ericclapton/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-eric-clapton.png",
+      "g": [
+        "Blues"
+      ]
+    },
+    {
+      "t": "Exclusively Supertramp",
+      "s": "https://streaming.exclusive.radio/er/supertramp/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-supertramp.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Elton John",
+      "s": "https://streaming.exclusive.radio/er/eltonjohn/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-elton-john.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Exclusively Nirvana",
+      "s": "https://streaming.exclusive.radio/er/nirvana/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-nirvana.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively The Who",
+      "s": "https://streaming.exclusive.radio/er/thewho/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-the-who.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Jimi Hendrix",
+      "s": "https://streaming.exclusive.radio/er/hendrix/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-jimi-hendrix.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively John Lennon",
+      "s": "https://streaming.exclusive.radio/er/lennon/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-john-lennon.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively R.E.M.",
+      "s": "https://streaming.exclusive.radio/er/rem/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-rem.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively George Michael",
+      "s": "https://streaming.exclusive.radio/er/georgemichael/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-george-michael.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively The Police",
+      "s": "https://streaming.exclusive.radio/er/police/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-the-police.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Positively  80s",
+      "s": "https://streaming.positivity.radio/pr/posi80s/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/positively-80s.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively One Direction",
+      "s": "https://streaming.exclusive.radio/er/onedirection/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-one-direction.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Eminem",
+      "s": "https://streaming.exclusive.radio/er/eminem/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-eminem.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Positively  70s",
+      "s": "https://streaming.positivity.radio/pr/posi70s/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/positively-70s.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Chicago",
+      "s": "https://streaming.exclusive.radio/er/chicago/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-chicago.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Zayed Radio For Qura'an",
+      "s": "http://ccfz.dyndns.org:4427/zfm",
+      "l": "https://kuasark.com/files/stations-logos/zayed-radio-for-quraan.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Exclusively Beach Boys",
+      "s": "https://streaming.exclusive.radio/er/beachboys/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-beach-boys.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Country",
+      "s": "https://drive.uber.radio/uber-app/starboxcountry/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-country.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Exclusively Red Hot Chili Peppers",
+      "s": "https://streaming.exclusive.radio/er/chilipeppers/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-red-hot-chili-peppers.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Van Halen",
+      "s": "https://streaming.exclusive.radio/er/vanhalen/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-van-halen.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Lady Gaga",
+      "s": "https://streaming.exclusive.radio/er/ladygaga/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-lady-gaga.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively ZZ Top",
+      "s": "https://streaming.exclusive.radio/er/zztop/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-zz-top.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Carpenters",
+      "s": "https://streaming.exclusive.radio/er/carpenters/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-carpenters.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Stevie Wonder",
+      "s": "https://streaming.exclusive.radio/er/steviewonder/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-stevie-wonder.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Exclusively Aerosmith",
+      "s": "https://streaming.exclusive.radio/er/aerosmith/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-aerosmith.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Pet Shop Boys",
+      "s": "https://streaming.exclusive.radio/er/petshopboys/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-pet-shop-boys.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Exclusively Roxette",
+      "s": "https://streaming.exclusive.radio/er/roxette/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-roxette.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tinder Radio - K Pop",
+      "s": "https://streaming.exclusive.radio/er/kpop/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/tinder-radio-k-pop.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Sade",
+      "s": "https://streaming.exclusive.radio/er/sade/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-sade.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Ariana Grande",
+      "s": "https://streaming.exclusive.radio/er/arianagrande/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-ariana-grande.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Emarat FM",
+      "s": "https://admdn7.cdn.mangomolo.com/emrdo/emrdo.stream_aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/emarat-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Exclusively Ed Sheeran",
+      "s": "https://streaming.exclusive.radio/er/edsheeran/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-ed-sheeran.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Bryan Adams",
+      "s": "https://streaming.exclusive.radio/er/bryanadams/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-bryan-adams.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Louis Armstrong",
+      "s": "https://streaming.exclusive.radio/er/louisarmstrong/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-louis-armstrong.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Exclusively Jethro Tull",
+      "s": "https://streaming.exclusive.radio/er/jethrotull/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-jethro-tull.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Alarabiya FM",
+      "s": "https://fm.alarabiya.net/fm/myStream/chunklist_w1173383407.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/alarabiya-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Exclusively George Harrison",
+      "s": "https://streaming.exclusive.radio/er/georgeharrison/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-george-harrison.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Def Leppard",
+      "s": "https://streaming.exclusive.radio/er/defleppard/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-def-leppard.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Simon & Garfunkel (Incl PSimon)",
+      "s": "https://streaming.exclusive.radio/er/simongarfunkle/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-simon-garfunkel-incl-psimon.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Neil Young",
+      "s": "https://streaming.exclusive.radio/er/neilyoung/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-neil-young.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Sting",
+      "s": "https://streaming.exclusive.radio/er/sting/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-sting.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Bon Jovi",
+      "s": "https://streaming.exclusive.radio/er/bonjovi/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-bon-jovi.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Love Radio - Bollywood",
+      "s": "https://drive.uber.radio/uber/lrbollywood/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/love-radio-bollywood.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Yes",
+      "s": "https://streaming.exclusive.radio/er/yes/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-yes.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Daft Punk",
+      "s": "https://streaming.exclusive.radio/er/daftpunk/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-daft-punk.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Beyonce",
+      "s": "https://streaming.exclusive.radio/er/beyonce/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-beyonce.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Britney Spears",
+      "s": "https://streaming.exclusive.radio/er/britney/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-britney-spears.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Rihanna",
+      "s": "https://streaming.exclusive.radio/er/rihanna/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-rihanna.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Rush",
+      "s": "https://streaming.exclusive.radio/er/rush/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-rush.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Prince",
+      "s": "https://streaming.exclusive.radio/er/prince/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-prince.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Positively Zen",
+      "s": "https://streaming.positivity.radio/pr/zen/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/positively-zen.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Exclusively Billie Eilish",
+      "s": "https://streaming.exclusive.radio/er/billyeilish/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-billie-eilish.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Bruce Springsteen",
+      "s": "https://streaming.exclusive.radio/er/springsteen/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-bruce-springsteen.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Motown",
+      "s": "https://drive.uber.radio/uber-app/starboxmotown/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-motown.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Exclusively Barry White",
+      "s": "https://streaming.exclusive.radio/er/barrywhite/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-barry-white.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Exclusively Harry Styles",
+      "s": "https://streaming.exclusive.radio/er/harrystyles/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-harry-styles.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Steely Dan",
+      "s": "https://streaming.exclusive.radio/er/steelydan/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-steely-dan.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Al Rabia FM",
+      "s": "https://s2.radio.co/s770fa24b6/listen",
+      "l": "https://kuasark.com/files/stations-logos/al-rabia-fm.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Exclusively Duran Duran",
+      "s": "https://streaming.exclusive.radio/er/duranduran/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-duran-duran.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Love Radio - 50's",
+      "s": "https://drive.uber.radio/uber/lr1950s/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/love-radio-50s.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Positively 50s",
+      "s": "https://streaming.positivity.radio/pr/1950/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/positively-50s.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Positively  60s",
+      "s": "https://streaming.positivity.radio/pr/posi60s/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/positively-60s.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tinder Radio - Ibiza",
+      "s": "https://streaming.exclusive.radio/er/ibiza/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/tinder-radio-ibiza.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Exclusively Whitney Houston",
+      "s": "https://streaming.exclusive.radio/er/whitneyhouston/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-whitney-houston.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tinder Radio - Movie & TV Themes",
+      "s": "https://streaming.exclusive.radio/er/movieandtvthemes/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/tinder-radio-movie-tv-themes.png",
+      "g": [
+        "Pop",
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Positively  Ocean",
+      "s": "https://streaming.positivity.radio/pr/posiocean/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/positively-ocean.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Exclusively Bruno Mars",
+      "s": "https://streaming.exclusive.radio/er/brunomars/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-bruno-mars.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Shakira",
+      "s": "https://streaming.exclusive.radio/er/shakira/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-shakira.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Tina Turner",
+      "s": "https://streaming.exclusive.radio/er/tinaturner/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-tina-turner.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively The Moody Blues",
+      "s": "https://streaming.exclusive.radio/er/moodyblues/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-the-moody-blues.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Easy",
+      "s": "https://drive.uber.radio/uber-app/starboxeasy/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-easy.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Glenn Miller",
+      "s": "https://streaming.exclusive.radio/er/glennmiller/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-glenn-miller.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Love Radio - Disney",
+      "s": "https://drive.uber.radio/uber/lrdisney/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/love-radio-disney.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio AYK",
+      "s": "http://64.150.176.42:8117/;listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-ayk.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Exclusively Chuck Berry",
+      "s": "https://streaming.exclusive.radio/er/chuckberry/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-chuck-berry.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively A-Ha",
+      "s": "https://streaming.exclusive.radio/er/aha/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-a-ha.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Lionel Richie",
+      "s": "https://streaming.exclusive.radio/er/lionelrichie/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-lionel-richie.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Exclusively Folk",
+      "s": "https://drive.uber.radio/uber-app/starboxfolk/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-folk.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Love Radio - 60's",
+      "s": "https://drive.uber.radio/uber/lr1960s/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/love-radio-60s.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Exclusively Maroon 5",
+      "s": "https://streaming.exclusive.radio/er/maroon5/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-maroon-5.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Imagine Dragons",
+      "s": "https://streaming.exclusive.radio/er/imaginedragons/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-imagine-dragons.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Avicii",
+      "s": "https://streaming.exclusive.radio/er/avicii/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-avicii.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Ray Charles",
+      "s": "https://streaming.exclusive.radio/er/raycharles/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-ray-charles.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively KISS",
+      "s": "https://streaming.exclusive.radio/er/kiss/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-kiss.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Amy Winehouse",
+      "s": "https://streaming.exclusive.radio/er/amywinehouse/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-amy-winehouse.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Tinder Radio - Italy",
+      "s": "https://streaming.exclusive.radio/er/italy/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/tinder-radio-italy.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Easy Instrumentals",
+      "s": "https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/easy-instrumentals.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Exclusively Foreigner",
+      "s": "https://streaming.exclusive.radio/er/foreigner/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-foreigner.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Diana Krall",
+      "s": "https://streaming.exclusive.radio/er/dianakrall/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-diana-krall.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Exclusively Andrea Bocelli",
+      "s": "https://streaming.exclusive.radio/er/andreabocelli/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-andrea-bocelli.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Exclusively Kenny G",
+      "s": "https://streaming.exclusive.radio/er/kennyg/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-kenny-g.png",
+      "g": [
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Love Radio - 80's",
+      "s": "https://drive.uber.radio/uber/lr1980s/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/love-radio-80s.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Love Radio - Love Mix",
+      "s": "https://drive.uber.radio/uber/lrlovemix/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/love-radio-love-mix.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Exclusively Ramones",
+      "s": "https://streaming.exclusive.radio/er/ramones/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-ramones.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Katy Perry",
+      "s": "https://streaming.exclusive.radio/er/katyperry/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-katy-perry.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Tom Jones",
+      "s": "https://streaming.exclusive.radio/er/tomjones/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-tom-jones.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Exclusively Aretha Franklin",
+      "s": "https://streaming.exclusive.radio/er/arethafranklin/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-aretha-franklin.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Exclusively Kenny Rogers",
+      "s": "https://streaming.exclusive.radio/er/kennyrogers/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-kenny-rogers.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Exclusively The Weeknd",
+      "s": "https://streaming.exclusive.radio/er/theweeknd/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-the-weeknd.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Exclusively Whitesnake",
+      "s": "https://streaming.exclusive.radio/er/whitesnake/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-whitesnake.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Exclusively Neil Diamond",
+      "s": "https://streaming.exclusive.radio/er/neildiamond/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/exclusively-neil-diamond.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

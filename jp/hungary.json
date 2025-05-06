@@ -1,0 +1,1997 @@
+{
+  "stations": [
+    {
+      "t": "Retro Radio",
+      "s": "https://icast.connectmedia.hu/5001/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3497/4c1f79bfcbf8733e3bbc194776d9e9c3_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "A ROCK",
+      "s": "https://icast.connectmedia.hu/5301/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427958/1308064b0c0569b7ab0484bd55c20344_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Klasszik Radio",
+      "s": "http://s04.diazol.hu:9600/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3481/ly7l597c6a860f569979042252_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Jazzy Soul",
+      "s": "https://jazzy.hu/jazzysoul.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3480/2a04ed024e55dd7fa9a5060e22be40a2_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Argentine Tango Radio",
+      "s": "http://listen2.argentinetangoradio.com/",
+      "l": "https://images.radiovolna.net/_files/images/stations/23067/8e4e1b48335d60d61f655e3dde702ddb_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Dance Wave!",
+      "s": "https://dancewave.online/dance.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9345/mzbq597a4ea578001106602581_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádió 88",
+      "s": "https://rdstrm.com/radio88.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3494/ac1bb40d23e471ed5074e5de03b80122_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dance Wave Retro!",
+      "s": "https://retro.dancewave.online/retrodance.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31003/bb837c9abebc4e6c4ae38ff83975c623_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "InfoRádió",
+      "s": "https://stream.infostart.hu/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/3478/v4e7599c45e584047071600661_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádió 1",
+      "s": "https://icast.connectmedia.hu/5201/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401850/k2gf59ae827f9e3d6150143182_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jazzy Groove",
+      "s": "https://jazzy.hu/jazzygroove.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3479/78babdecd7215bc35a603d7a667643dd_130x130.webp",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Groove",
+      "s": "https://s03.diazol.hu:35112/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420323/e1b53737485700527410c90541c7a23e_130x130.webp",
+      "g": [
+        "Decades",
+        "R&B and Urban",
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RadiOzora TRANCE",
+      "s": "https://trance.out.airtime.pro/trance_a",
+      "l": "https://images.radiovolna.net/_files/images/stations/30254/13732138a3b4d76b123bfe25e506eb0d_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Trend FM",
+      "s": "http://radio.nordtelekom.hu:8000/gazdasagiradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/3477/o7da59529bb6c4efb172556603_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jazzy Rádió",
+      "s": "https://jazzy.hu/jazzy.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3467/6e09dcef9255e0d47344677522a4f3aa_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Petőfi Rádió",
+      "s": "https://mr-stream.connectmedia.hu/4738/mr2.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3489/w7cs5976220a413f0177033147_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Poptarisznya",
+      "s": "http://adas.poptarisznya.hu:8200/mobil.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3492/giy859528af559726127272022_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádió Dikh",
+      "s": "https://icast.connectmedia.hu/6121/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427957/1e15999b71505236bd9076dc5bed62fc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Balaton Radio",
+      "s": "http://wssgd.gdsinfo.com:8200/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26310/66792136c6ffb04b52826a341180dba7_130x130.webp",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Nemzetiségi Rádió",
+      "s": "https://mr-stream.connectmedia.hu/4744/mr4.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401853/qwmh59ae85e7347ae824957425_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádió M",
+      "s": "http://hosting2.42netmedia.com:10060/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421229/84a9023103ec882ea6d3684dc0c53b1b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FM90 Campus Rádió",
+      "s": "https://stream.fm90.hu:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401854/h6qw59ae872f26ed8581767777_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Alpha Radio",
+      "s": "http://188.142.225.205:8760/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/425768/36b1ece47835feb647df44eec5ba9751_130x130.webp",
+      "g": [
+        "Themes",
+        "International",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Bridge FM",
+      "s": "http://radio.freestream.hu:8240/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/406058/db0d01dd64dfd09134fb866bba7655cb_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tilos Radio",
+      "s": "http://stream.tilos.hu:80/tilos_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3500/zrit597709f4338e4413506211_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Spirit FM",
+      "s": "https://s02.diazol.hu:10052/spweb1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401848/5a6e6de609499df2db71bb9f2831f7e9_130x130.webp",
+      "g": [
+        "Jazz",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Budaörs Rádió (Budaors)",
+      "s": "https://stream.42netmedia.com:8443/budaorsradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/31112/0eee1e40fb8adc5d606db1759e03094c_130x130.webp",
+      "g": [
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Érd FM",
+      "s": "http://stream.erdfm.hu:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421226/f9c370edfce1b824a0bef37faa8f9dad_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Csillagpont Rádió",
+      "s": "http://streamer1.borsodweb.hu:48000/csillagpont",
+      "l": "https://images.radiovolna.net/_files/images/stations/401859/alpg59ae898226fde315338485_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Lakihegy Radio",
+      "s": "http://stream.composeit.hu:8300/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3483/h2hh5a23d264463b1986167103_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bartók Rádió",
+      "s": "https://mr-stream.connectmedia.hu/4741/mr3.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3469/m5qt597c6b18a3c8e913026609_130x130.webp",
+      "g": [
+        "Jazz",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radió 24 (Székesfehérvár)",
+      "s": "https://stream3.virtualisan.net/prx/7320/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3493/ws1t5a23cfaeea440448913538_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Schwung",
+      "s": "https://server32899.streamplus.de/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/22886/eae954b97aedd0e3008249b391292c05_130x130.webp",
+      "g": [
+        "Folk",
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "BEST FM",
+      "s": "https://stream.bestfmpecs.hu/1017.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421230/6032cf506cfc5ec0bbe78f9b068a4cb0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádiócafé",
+      "s": "https://radio.radiocafe98.hu/radiocafe98_192k",
+      "l": "https://images.radiovolna.net/_files/images/stations/427956/ba40f255f39e7c5192e7f980468311bf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Luxfunk Radio",
+      "s": "http://188.165.11.30:5000/luxfunkradio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/25592/1e8d85e9ea5a0ee8c211a0c251f4fd6c_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Dabas",
+      "s": "http://stream3.virtualisan.net:7040/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421222/5061f3fb8057616e6bf233d89b676b88_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Európa Rádió",
+      "s": "https://europaradio.hu/debrecen",
+      "l": "https://images.radiovolna.net/_files/images/stations/401855/c150bf3d0b071be2f871b5f9ac15734a_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Magyar Katolikus Rádió",
+      "s": "https://katolikusradio.hu:8001/live_hi.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3485/gkpx59ae8493c25f4944016068_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Első Pesti Egyetemi Rádió",
+      "s": "http://radio.elte.hu:8000/eper2",
+      "l": "https://images.radiovolna.net/_files/images/stations/401851/ela559ae82f8bcd63468275710_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Luxfunk Dance",
+      "s": "http://188.165.11.30:5000/luxfunkdance.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/25593/0e7b4cce1074fa230fb7c59e05613330_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Bezs",
+      "s": "http://195.210.29.82:8002/bezs",
+      "l": "https://images.radiovolna.net/_files/images/stations/28132/a0014df2c74d87d102e1c054da8ec311_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Base FM",
+      "s": "https://icast.connectmedia.hu/5401/live.mp3/",
+      "l": "https://images.radiovolna.net/_files/images/stations/427955/7c58f0f3e56625593b139114d6ab7f0d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fezen Rádió",
+      "s": "http://fezenradio.duckdns.org:10290/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/24528/7d11700796e3888ec2a27a076528025b_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Kék Duna",
+      "s": "http://fehervar.kekduna.hu:8004/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/31107/b2aec4556113441f075c5728ad3c183a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gong Rádió",
+      "s": "http://sms.gongradio.hu:8000/gong-fm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421223/eba7d424ff01e353a8176fbb77478ab3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Európa Rádió",
+      "s": "https://europaradio.hu/miskolc",
+      "l": "https://images.radiovolna.net/_files/images/stations/421228/8e41eac3c04d1682337d4b12eeaef03a_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Klubrádió",
+      "s": "http://stream.klubradio.hu:8080/bpstream",
+      "l": "https://images.radiovolna.net/_files/images/stations/3482/wzbm595f3881b392a291569156_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "RadiOzora CHILL",
+      "s": "https://chill.out.airtime.pro/chill_a",
+      "l": "https://images.radiovolna.net/_files/images/stations/22510/aab70c165c2bd382a97fa744fb33429f_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Civil Rádió",
+      "s": "http://civilradio.hu:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3472/fuvl59ae833307c04431574323_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Sláger FM",
+      "s": "https://slagerfm.netregator.hu:7813/slagerfm128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/slager-fm.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Magyar Mulatós Rádió",
+      "s": "http://cast3.my-control-panel.com:8451/live",
+      "l": "https://kuasark.com/files/stations-logos/magyar-mulatos-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kossuth Rádió",
+      "s": "http://mr-stream.mediaconnect.hu/4734/mr1.aac",
+      "l": "https://kuasark.com/files/stations-logos/kossuth-radio.png",
+      "g": [
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Klubrádió",
+      "s": "http://hu-stream02.klubradio.hu:8080/bpstream",
+      "l": "https://kuasark.com/files/stations-logos/klubradio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mercy - Kabaré Magyar Rádió",
+      "s": "http://stream.mercyradio.eu/kabare.mp3?38138018",
+      "l": "https://kuasark.com/files/stations-logos/mercy-kabare-magyar-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Poptarisznya",
+      "s": "https://stream1.virtualisan.net/prx/8200/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/poptarisznya.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dance Wave!",
+      "s": "https://dancewave.online/dance.ogg",
+      "l": "https://kuasark.com/files/stations-logos/dance-wave-hu.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Jazzy",
+      "s": "https://radio.musorok.org/listen/jazzy/jazzy.mp3",
+      "l": "https://kuasark.com/files/stations-logos/jazzy.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "ChildHood - Channel 1",
+      "s": "https://radio.ch3.hu:8000/ch1.mp3",
+      "l": "https://kuasark.com/files/stations-logos/childhood-channel-1.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Mercy Magyar Rádió",
+      "s": "http://stream.mercyradio.eu/mercyradio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mercy-magyar-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pesti Kabaré",
+      "s": "http://radio.pestikabare.hu/",
+      "l": "https://kuasark.com/files/stations-logos/pesti-kabare.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nosztalgia rádió",
+      "s": "https://stream-173.zeno.fm/h1vqh23b368uv",
+      "l": "https://kuasark.com/files/stations-logos/nosztalgia-radio-hu-84891.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rocker Rádió",
+      "s": "https://radio.ch3.hu:8200/rocker.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rocker-radio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "InfoRádió",
+      "s": "https://stream.infostart.hu/lejatszo/;",
+      "l": "https://kuasark.com/files/stations-logos/inforadio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dankó Rádió",
+      "s": "https://mr-stream.connectmedia.hu/4748/mr7.mp3",
+      "l": "https://kuasark.com/files/stations-logos/danko-radio.png",
+      "g": [
+        "Classical",
+        "Folk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Laza Rádió - Live",
+      "s": "https://stream.lazaradio.com/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/laza-radio-live.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Decades",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "https://stream.phost.hu:8006/live",
+      "l": "https://kuasark.com/files/stations-logos/mix-fm-hu.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Nóta FM",
+      "s": "http://live.notafm.hu:8000/notafm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nota-fm.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Best FM",
+      "s": "https://icast.connectmedia.hu/5101/live.mp3/",
+      "l": "https://kuasark.com/files/stations-logos/best-fm-hu-119645.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Laza Rádió - Mulatós",
+      "s": "https://stream.lazaradio.com/mulatos.mp3",
+      "l": "https://kuasark.com/files/stations-logos/laza-radio-mulatos.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Danubius Radio",
+      "s": "https://stream.danubiusradio.hu/danubius_320k",
+      "l": "https://kuasark.com/files/stations-logos/danubius-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Karc FM",
+      "s": "https://n09a-eu.rcs.revma.com/wevb267khf9uv?rj-ttl=5&rj-tok=AAABiLQGTTwAelCQcpLWiOTtcQ",
+      "l": "https://kuasark.com/files/stations-logos/karc-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "BDPST ROCK",
+      "s": "https://s2.audiostream.hu/bdpstrock_192k",
+      "l": "https://kuasark.com/files/stations-logos/bdpst-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Zenerulett Rádió",
+      "s": "http://uk22freenew.listen2myradio.com:23421/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/zenerulett-radio.png",
+      "g": [
+        "Themes",
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Bartók Rádió",
+      "s": "https://icast.connectmedia.hu/4741/mr3.mp3",
+      "l": "https://kuasark.com/files/stations-logos/bartok-radio.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "News"
+      ]
+    },
+    {
+      "t": "Rise FM Hit House",
+      "s": "https://stream1.virtualisan.net/prx/8080/risefm_hithouse_hq",
+      "l": "https://kuasark.com/files/stations-logos/rise-fm-hit-house.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Klasszik",
+      "s": "https://s04.diazol.hu:9600/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/klasszik.png",
+      "g": [
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mercy - Mulatós Magyar Rádió",
+      "s": "http://stream.mercyradio.eu/mulatos.mp3?95668201",
+      "l": "https://kuasark.com/files/stations-logos/mercy-mulatos-magyar-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Magic Disco Rádió",
+      "s": "http://live2.magicdiscoradio.com:4420/",
+      "l": "https://kuasark.com/files/stations-logos/magic-disco-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "TOP FM comedy",
+      "s": "http://live.topfm.hu:8000/comedy.mp3",
+      "l": "https://kuasark.com/files/stations-logos/top-fm-comedy.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Poptarisznya Oldies",
+      "s": "https://stream1.virtualisan.net/prx/8200/oldies.mp3",
+      "l": "https://kuasark.com/files/stations-logos/poptarisznya-oldies.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Cool FM",
+      "s": "https://mediagw.viacomkft.hu/stream/coolfm",
+      "l": "https://kuasark.com/files/stations-logos/cool-fm-hu.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 88",
+      "s": "http://stream.radio88.hu:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-88.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Oxygen Music",
+      "s": "https://oxygenmusic.hu:8443/oxygenmusic",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-music.png",
+      "g": [
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "POWER TRANCE FM",
+      "s": "https://str3.openstream.co/2119",
+      "l": "https://kuasark.com/files/stations-logos/power-trance-fm.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Argentine Tango",
+      "s": "https://ais-sa2.cdnstream1.com/2202_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/argentine-tango.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop",
+        "Latin"
+      ]
+    },
+    {
+      "t": "POWER DANCE FM",
+      "s": "http://stream1.nexusradio.fm:80/nexusdance.mp3",
+      "l": "https://kuasark.com/files/stations-logos/power-dance-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Balaton",
+      "s": "https://cloudfront41.lexanetwork.com:1540/stream001",
+      "l": "https://kuasark.com/files/stations-logos/balaton.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Momó",
+      "s": "https://s03.diazol.hu:7092/zene.mp3",
+      "l": "https://kuasark.com/files/stations-logos/momo.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Oxygen Magyar Zene",
+      "s": "https://oxygenmusic.hu:8443/oxygenmagyarzene_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-magyar-zene.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Jazzy Soul",
+      "s": "https://radio.musorok.org/listen/jazzysoul/jazzysoul.mp3",
+      "l": "https://kuasark.com/files/stations-logos/jazzy-soul.png",
+      "g": [
+        "Jazz",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Tilos Rádió",
+      "s": "http://stream.tilos.hu:8000/tilos",
+      "l": "https://kuasark.com/files/stations-logos/tilos-radio.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "Jazz",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Oxygen The 80s hits",
+      "s": "https://oxygenmusic.hu:8443/oxygenthe80shits_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-the-80s-hits.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jazzy Groove",
+      "s": "https://radio.musorok.org/listen/jazzygroove/jazzygroove.mp3",
+      "l": "https://kuasark.com/files/stations-logos/jazzy-groove.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio Inside",
+      "s": "https://s03.diazol.hu:7232/192",
+      "l": "https://kuasark.com/files/stations-logos/radio-inside-hu.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Mercy - 80′-as évek Magyar Rádiója",
+      "s": "http://stream.mercyradio.eu/mercyradio.mp3?22980607",
+      "l": "https://kuasark.com/files/stations-logos/mercy-80-as-evek-magyar-radioja.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Oxygen Love Songs",
+      "s": "https://oxygenmusic.hu:8443/oxygenlovesongs_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-love-songs.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Oxygen Сlassic Rock",
+      "s": "https://oxygenmusic.hu:8443/oxygenclassicrock_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-slassic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Luxfunk",
+      "s": "https://luxfunkbroadcast.com/proxy/luxfunkradio/stream",
+      "l": "https://kuasark.com/files/stations-logos/luxfunk.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Oxygen Kids",
+      "s": "https://oxygenmusic.hu:8443/oxygenkids_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-kids.png",
+      "g": [
+        "Soundtracks",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Retro Star Radio",
+      "s": "https://stream-174.zeno.fm/zmhshubeka0uv",
+      "l": "https://kuasark.com/files/stations-logos/retro-star-radio.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Oxygen The 90s hits",
+      "s": "https://oxygenmusic.hu:8443/oxygenthe90shits_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-the-90s-hits.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Oxygen Indie",
+      "s": "https://oxygenmusic.hu:8443/oxygenindie",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-indie.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Oxygen Oldies",
+      "s": "https://oxygenmusic.hu:8443/oxygenoldies_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-oldies.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Oxygen Classics",
+      "s": "https://oxygenmusic.hu:8443/Classic_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-classics.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Ozone FM",
+      "s": "https://oxygenmusic.hu:8443/ozonefm_128",
+      "l": "https://kuasark.com/files/stations-logos/ozone-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Oxygen Happy",
+      "s": "https://oxygenmusic.hu:8443/oxygenhappy_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-happy.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Oxygen Italo Hits",
+      "s": "https://oxygenmusic.hu:8443/oxygenitalohits_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-italo-hits.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Oxygen Black Music",
+      "s": "https://oxygenmusic.hu:8443/blackmusic_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-black-music.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Oxygen Lounge",
+      "s": "https://oxygenmusic.hu:8443/oxygenlounge_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-lounge.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "SuperDj Rádió",
+      "s": "https://s03.diazol.hu:35152/stream",
+      "l": "https://kuasark.com/files/stations-logos/superdj-radio-hu-20690.png",
+      "g": [
+        "R&B and Urban",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Oxygen Fitness",
+      "s": "https://oxygenmusic.hu:8443/oxygenfitness_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-fitness.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Clasic",
+      "s": "http://37.251.146.169:8000/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Oxygen Spencer Hill Zenek",
+      "s": "https://oxygenmusic.hu:8443/oxygenspencerhillzenek_128",
+      "l": "https://kuasark.com/files/stations-logos/oxygen-spencer-hill-zenek.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mex Rádió Mulatós",
+      "s": "https://stream.mexradio.hu:8016/mulatos",
+      "l": "https://kuasark.com/files/stations-logos/mex-radio-mulatos.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "TOP FM rádió",
+      "s": "http://live.topfm.hu:8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/top-fm-radio.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Disco Diamond Radio",
+      "s": "https://ddr2020.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/disco-diamond-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Gong Rádió",
+      "s": "https://icast.connectmedia.hu/5241/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/gong-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Manna FM",
+      "s": "https://icast.connectmedia.hu/4780/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/manna-fm.png",
+      "g": [
+        "Pop",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Sunshine FM",
+      "s": "http://195.56.193.129:8100/;",
+      "l": "https://kuasark.com/files/stations-logos/sunshine-fm-hu.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "MixRadio Retro",
+      "s": "http://45.67.156.157:18004/retro",
+      "l": "https://kuasark.com/files/stations-logos/mixradio-retro.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Spirit FM",
+      "s": "https://s01.diazol.hu:10052/spweb1.mp3",
+      "l": "https://kuasark.com/files/stations-logos/spirit-fm-hu.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Juventus Radio",
+      "s": "https://s2.audiostream.hu/juventus_320k",
+      "l": "https://kuasark.com/files/stations-logos/juventus-radio.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Forrás Rádió",
+      "s": "https://cloudfront44.lexanetwork.com:1540/forrasradio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/forras-radio-hu-2662.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio 88 - Retro 88",
+      "s": "http://stream1.radio88.hu:8300/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-88-retro-88.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Luxfunk Dance",
+      "s": "https://luxfunkbroadcast.com/proxy/luxfunkdance/stream",
+      "l": "https://kuasark.com/files/stations-logos/luxfunk-dance.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "TOP FM oldies",
+      "s": "http://live.topfm.hu:8000/oldies.mp3",
+      "l": "https://kuasark.com/files/stations-logos/top-fm-oldies.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Buddha FM",
+      "s": "http://libretime.buddhafm.hu:4000/buddhafm",
+      "l": "https://kuasark.com/files/stations-logos/buddha-fm.png",
+      "g": [
+        "Easy Listening",
+        "New Age",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Club Dance Radio",
+      "s": "https://s02.diazol.hu:8002/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/club-dance-radio-hu.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Mex Rádió",
+      "s": "https://stream.mexradio.hu:8014/stream",
+      "l": "https://kuasark.com/files/stations-logos/mex-radio-hu.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Luxfunk Blackmix",
+      "s": "https://luxfunkbroadcast.com/proxy/luxfunkblackmix/stream",
+      "l": "https://kuasark.com/files/stations-logos/luxfunk-blackmix.png",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Nostalgia Fun",
+      "s": "http://mulatos.nosztalgiaradio.eu:8000/mulatos.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nostalgia-fun.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Folkrádió",
+      "s": "https://stream.folkradio.hu/folkradio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/folkradio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Retro Rádió Szeged",
+      "s": "http://s01.diazol.hu:9010/live",
+      "l": "https://kuasark.com/files/stations-logos/retro-radio-szeged.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Duna World Rádió",
+      "s": "https://mr-stream.connectmedia.hu/4761/dwr.mp3",
+      "l": "https://kuasark.com/files/stations-logos/duna-world-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádió M",
+      "s": "http://hosting2.42netmedia.com:10060/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-m-hu.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádió Antritt",
+      "s": "http://91.146.167.79:8000/Antritt",
+      "l": "https://kuasark.com/files/stations-logos/radio-antritt.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Magyar Katolikus Radio",
+      "s": "https://katolikusradio.hu:8001/live_low.mp3",
+      "l": "https://kuasark.com/files/stations-logos/magyar-katolikus-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Callisto",
+      "s": "https://free.rcast.net/260470/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/callisto.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Parlamenti Rádió",
+      "s": "https://mr-stream.connectmedia.hu/4746/mr5.mp3",
+      "l": "https://kuasark.com/files/stations-logos/parlamenti-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Trend FM",
+      "s": "https://radio.trendfm.hu/trendfm_192k",
+      "l": "https://kuasark.com/files/stations-logos/trend-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Poptarisznya Blues24",
+      "s": "https://stream1.virtualisan.net/prx/8200/blues.mp3",
+      "l": "https://kuasark.com/files/stations-logos/poptarisznya-blues24.png",
+      "g": [
+        "Blues",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Hits Rádió",
+      "s": "http://stream.hitsradio.info:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/hits-radio-hu.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "BEST FM Pécs",
+      "s": "https://icast.connectmedia.hu/5128/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/best-fm-pecs.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Civil",
+      "s": "http://civilradio.hu:8000/listen1.mp3/;",
+      "l": "https://kuasark.com/files/stations-logos/civil.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Szent Korona",
+      "s": "https://szkrcast.ddns.net/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/szent-korona.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Speed FM",
+      "s": "https://a3.asurahosting.com:6430/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/speed-fm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rise FM",
+      "s": "http://188.165.11.30:8080/risefm_hq",
+      "l": "https://kuasark.com/files/stations-logos/rise-fm.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Gyor Plusz",
+      "s": "https://stream.42netmedia.com:8443/sc_gyor1",
+      "l": "https://kuasark.com/files/stations-logos/gyor-plusz.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Irénke Mulatós Rádiója",
+      "s": "https://s03.diazol.hu:10092/stream",
+      "l": "https://kuasark.com/files/stations-logos/irenke-mulatos-radioja.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Deejay Rádió",
+      "s": "https://stream.mexradio.hu:8014/deejay",
+      "l": "https://kuasark.com/files/stations-logos/deejay-radio-72561.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Hit Rádió",
+      "s": "https://streamer.radio.co/s47952d7c4/listen",
+      "l": "https://kuasark.com/files/stations-logos/hit-radio-hu.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rádió Most",
+      "s": "http://stream.radiomost.hu:8200/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-most-hu.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mega Rádió",
+      "s": "https://megaradio.hu/megastream",
+      "l": "https://kuasark.com/files/stations-logos/mega-radio-hu.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Fm 103.9 A Rock",
+      "s": "https://icast.connectmedia.hu/5301/live.mp3/",
+      "l": "https://kuasark.com/files/stations-logos/fm-1039-a-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "EFM Station",
+      "s": "https://radioe.net:8443/efm_high",
+      "l": "https://kuasark.com/files/stations-logos/efm-station.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Regina Rádió Győr",
+      "s": "http://cast1.my-control-panel.com:7490/live",
+      "l": "https://kuasark.com/files/stations-logos/regina-radio-gyor.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Szent Istvan",
+      "s": "http://online.szentistvanradio.hu:7000/adas",
+      "l": "https://kuasark.com/files/stations-logos/szent-istvan.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Vorosmarty",
+      "s": "https://cloudfront41.lexanetwork.com:7604/livestream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/vorosmarty.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mex Rádió Rock",
+      "s": "http://s02.diazol.hu:8000/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mex-radio-rock.png",
+      "g": [
+        "Blues",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Cool FM - Goldies",
+      "s": "https://mediagw.e-tiger.net/stream/goldhq",
+      "l": "https://kuasark.com/files/stations-logos/cool-fm-goldies.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Aktiv",
+      "s": "http://www.aktivradio.hu:8000/aktiv.mp3",
+      "l": "https://kuasark.com/files/stations-logos/aktiv.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Rádió 7",
+      "s": "https://stormwind.meatkult.com/test.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-7-hu.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tamási Radio",
+      "s": "https://stream.42netmedia.com:8443/sc_tamas",
+      "l": "https://kuasark.com/files/stations-logos/tamasi-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Papageno Radio",
+      "s": "https://onair7.xdevel.com/proxy/xautocloud_o3yj_837?mp=/;stream/;",
+      "l": "https://kuasark.com/files/stations-logos/papageno-radio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Taska",
+      "s": "https://stream1.virtualisan.net/prx/7070/",
+      "l": "https://kuasark.com/files/stations-logos/taska.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Topaz Disco Radio",
+      "s": "https://cast4.asurahosting.com/proxy/zoltan/stream/",
+      "l": "https://kuasark.com/files/stations-logos/topaz-disco-radio.png",
+      "g": [
+        "R&B and Urban",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "https://stream.mariaradio.hu:8000/mr_ajka",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-hu.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "CEU Medieval",
+      "s": "http://stream3.virtualisan.net:7020/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/ceu-medieval.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Eper FM",
+      "s": "http://radio.elte.hu:8000/eper97",
+      "l": "https://kuasark.com/files/stations-logos/eper-fm.png",
+      "g": [
+        "Alternative",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radió 24",
+      "s": "http://s01.diazol.hu:10100/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-24-hu-96970.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jazzy Cool",
+      "s": "https://radio.musorok.org/listen/jazzycool/jazzycool.mp3",
+      "l": "https://kuasark.com/files/stations-logos/jazzy-cool.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Rise FM Deep",
+      "s": "https://stream1.virtualisan.net/prx/8080/risefm_deephouse_hq",
+      "l": "https://kuasark.com/files/stations-logos/rise-fm-deep.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "KORONAfm100",
+      "s": "http://s01.diazol.hu:10030/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/koronafm100.png",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sirius",
+      "s": "https://icast.connectmedia.hu/5034/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sirius.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "TOP FM base",
+      "s": "http://live.topfm.hu:8000/base.mp3",
+      "l": "https://kuasark.com/files/stations-logos/top-fm-base.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Cool FM - XBEAT",
+      "s": "https://mediagw.e-tiger.net/stream/xbeathq",
+      "l": "https://kuasark.com/files/stations-logos/cool-fm-xbeat.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Cegled",
+      "s": "http://stream.cegledradio.hu:4387/mp3",
+      "l": "https://kuasark.com/files/stations-logos/cegled.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mercy - Románo Ungriko Rádiovo (autentikus)",
+      "s": "http://stream.mercyradio.eu/mercyradio.mp3?39856680",
+      "l": "https://kuasark.com/files/stations-logos/mercy-romano-ungriko-radiovo-autentikus.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "TelStar",
+      "s": "http://radio.telstar.hu/",
+      "l": "https://kuasark.com/files/stations-logos/telstar.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Magyar Vándor Rádió",
+      "s": "https://mvr22.out.airtime.pro/mvr22_a",
+      "l": "https://kuasark.com/files/stations-logos/magyar-vandor-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Lakihegy",
+      "s": "http://stream.composeit.hu:8300/;",
+      "l": "https://kuasark.com/files/stations-logos/lakihegy.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Hit FM",
+      "s": "http://radio.hitfm.hu/",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-hu.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tilos Mese Radio",
+      "s": "http://stream.tilos.hu/mese",
+      "l": "https://kuasark.com/files/stations-logos/tilos-mese-radio.png",
+      "g": [
+        "Alternative",
+        "Jazz",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádió Bézs",
+      "s": "https://stream.radiobezs.hu:8011/bezs",
+      "l": "https://kuasark.com/files/stations-logos/radio-bezs.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Dragon Flame",
+      "s": "https://rdfstream.de/listen/radio_dragon_flame/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-dragon-flame-hu.png",
+      "g": [
+        "Country",
+        "Folk",
+        "Rock",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Egerszeg Rádió",
+      "s": "http://hosting2.42netmedia.com:9310/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/egerszeg-radio-hu.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "FM90 Campus",
+      "s": "https://stream.fm90.hu:8000/stream?icy=http",
+      "l": "https://kuasark.com/files/stations-logos/fm90-campus.png",
+      "g": [
+        "Alternative",
+        "Blues",
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Zemplén FM",
+      "s": "https://oxygenmusic.hu:8443/zemplen",
+      "l": "https://kuasark.com/files/stations-logos/zemplen-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RetroDisco",
+      "s": "https://stream-068.zeno.fm/wt4vyy5t498uv?zs=2myVYYplRk2Zedh45Rfpcg",
+      "l": "https://kuasark.com/files/stations-logos/retrodisco.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio 88 - Club 88",
+      "s": "http://stream2.radio88.hu:8400/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-88-club-88.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Cool FM - Rock",
+      "s": "https://mediagw.e-tiger.net/stream/zc10",
+      "l": "https://kuasark.com/files/stations-logos/cool-fm-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rise FM Classic",
+      "s": "https://stream1.virtualisan.net/prx/8080/risefm_classic_hq",
+      "l": "https://kuasark.com/files/stations-logos/rise-fm-classic.png",
+      "g": [
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dabas",
+      "s": "http://stream3.virtualisan.net:7040/;",
+      "l": "https://kuasark.com/files/stations-logos/dabas.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Magyar Evangeliumi",
+      "s": "https://stream.radio.co/s3fd8d173f/listen",
+      "l": "https://kuasark.com/files/stations-logos/magyar-evangeliumi.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Z-Rádió",
+      "s": "http://91.228.53.82:8050/",
+      "l": "https://kuasark.com/files/stations-logos/z-radio.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "FreshFM",
+      "s": "http://stream3.virtualisan.net:8000/freshmobil.aac",
+      "l": "https://kuasark.com/files/stations-logos/freshfm-hu.png",
+      "g": [
+        "Rock",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tilos Szoveges Radio",
+      "s": "http://stream.tilos.hu/szoveg",
+      "l": "https://kuasark.com/files/stations-logos/tilos-szoveges-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "I Love Pécs Rádió",
+      "s": "https://stream.ilovepecsradio.hu/ilp.mp3",
+      "l": "https://kuasark.com/files/stations-logos/i-love-pecs-radio.png",
+      "g": [
+        "Alternative",
+        "Rap",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Pannónia Rádió",
+      "s": "http://kft.kesintisizyayin.com:8130/stream",
+      "l": "https://kuasark.com/files/stations-logos/pannonia-radio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Szarvas",
+      "s": "https://cloudfront44.lexanetwork.com:1540/radioszarvas.mp3",
+      "l": "https://kuasark.com/files/stations-logos/szarvas.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mex Rádió KPOP",
+      "s": "https://stream.mexradio.hu:8014/kpop",
+      "l": "https://kuasark.com/files/stations-logos/mex-radio-kpop.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Smile",
+      "s": "http://radiosmile.hu:8010/stream",
+      "l": "https://kuasark.com/files/stations-logos/smile-hu.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Szünet Rádió",
+      "s": "https://stream.szunetrad.io/listen/szunetradio/stream_sq.mp3",
+      "l": "https://kuasark.com/files/stations-logos/szunet-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádió Pápa",
+      "s": "https://oxygenmusic.hu:8443/radiopapa.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-papa.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Szentendre",
+      "s": "http://hosting2.42netmedia.com:13040/stream",
+      "l": "https://kuasark.com/files/stations-logos/szentendre.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Sola Rádió",
+      "s": "https://stream1.virtualisan.net/prx/7000/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sola-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Roxy Rádió",
+      "s": "http://s2.audiostream.hu/roxy_320k",
+      "l": "https://kuasark.com/files/stations-logos/roxy-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Maxi",
+      "s": "http://46.107.212.101:9240/live",
+      "l": "https://kuasark.com/files/stations-logos/maxi.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Next FM",
+      "s": "https://stream.nextfm.hu/radio/8000/nextfmhu.mp3",
+      "l": "https://kuasark.com/files/stations-logos/next-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Webradio Balaton",
+      "s": "https://balaton.stream.laut.fm/balaton?t302=2023-04-25_20-05-19&uuid=3f273cdf-fef5-4c1c-b184-0e39fb896bd8",
+      "l": "https://kuasark.com/files/stations-logos/webradio-balaton.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fáklya Rádió",
+      "s": "http://stream.faklyaradio.hu:8080/faklya",
+      "l": "https://kuasark.com/files/stations-logos/faklya-radio.png",
+      "g": [
+        "Alternative",
+        "Blues",
+        "Jazz",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Jazz is Dead?!",
+      "s": "http://stream.tilos.hu/jazzisdead",
+      "l": "https://kuasark.com/files/stations-logos/jazz-is-dead.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Cool FM - Dance 90's",
+      "s": "https://mediagw.e-tiger.net/stream/zc06",
+      "l": "https://kuasark.com/files/stations-logos/cool-fm-dance-90s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Duna-Tisza Rádió",
+      "s": "https://radio.ch3.hu/radio/8030/dtr.mp3",
+      "l": "https://kuasark.com/files/stations-logos/duna-tisza-radio.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Nosztalgia Radio",
+      "s": "https://stream-149.zeno.fm/h1vqh23b368uv?zs=DrAMiPplTpOvCxK3z5JBYg",
+      "l": "https://kuasark.com/files/stations-logos/nosztalgia-radio-hu-118332.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio 88 - Top 88",
+      "s": "http://stream3.radio88.hu:8500/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-88-top-88.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cool FM - Dance 2000's",
+      "s": "https://mediagw.e-tiger.net/stream/zc04",
+      "l": "https://kuasark.com/files/stations-logos/cool-fm-dance-2000s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Hobby Rádió",
+      "s": "http://www.hobbyradio.hu:8000/hobbyradio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hobby-radio.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop",
+        "Talk"
+      ]
+    }
+  ]
+}

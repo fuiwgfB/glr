@@ -1,0 +1,435 @@
+{
+  "stations": [
+    {
+      "t": "La Voix de l'Espérance",
+      "s": "http://35.181.33.195:8000/esperance.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405264/t6ae5a423569e7053763510676_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "RADIO MENADE SMAUG",
+      "s": "https://stream-52.zeno.fm/v78geu0tbc9uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429557/7292b18badbec93f8416d39370c4c8fe_130x130.webp",
+      "g": [
+        "International",
+        "Country",
+        "Folk",
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "Zénith FM",
+      "s": "http://radio12.pro-fhi.net:9012/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429369/9b0550b89b24ad3b25a04e5b1f9fee9e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Al-Fayda",
+      "s": "https://radio7.pro-fhi.net/live/RADIO%20AL%20FAYDA",
+      "l": "https://images.radiovolna.net/_files/images/stations/429371/36692c3c762dcb47c3d5be6af1d57b23_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RTI Radio Côte d'Ivoire",
+      "s": "https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429368/5b381f8181ca5d82621b6f8c97bad007_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Alpha Blondy FM",
+      "s": "https://www.radioking.com/play/alphablondyfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/429372/04523c62c0ffb502b690d62060eb60a4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "EB FM",
+      "s": "https://stream.zeno.fm/oy1uo8lwuy9uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430235/9e2e8c0763c039c6db55a64840374e1f_130x130.webp",
+      "g": [
+        "Inspirational",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Trace FM",
+      "s": "http://stream.trace.tv/trace_fm_ci-midfi.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422864/32ec5f2442b6ceeea9ee2eff21eb3eb7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nostalgie Côte d'Ivoire",
+      "s": "http://213.136.96.14:8000/nostalgie.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/25554/686550f81f4550cc63a8e36c4b8c7354_130x130.webp",
+      "g": [
+        "International",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Fréquence Vie",
+      "s": "http://51.158.97.118:8000/frequencevie.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405261/d4mh5a423419d55f9221780830_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio-Al-Bayane",
+      "s": "https://stream.zenolive.com/seb77kna90duv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405262/bgnd5a42349b07717658507474_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Nationale Catholique de Côte d'Ivoire",
+      "s": "http://93.190.141.15:7026/rncabidjan-48.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422865/ed939b3c0fd2add40be34927407a4767_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Espoir",
+      "s": "http://93.190.141.15:8440/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405265/nu4a5a4235d773e79687092640_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Jam",
+      "s": "https://www.radioking.com/play/my-radio-jam",
+      "l": "https://images.radiovolna.net/_files/images/stations/405263/n2x95a4234f055c86520595070_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Life Radio",
+      "s": "https://cast4.asurahosting.com/proxy/life/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422863/7380be058029b5e9980f208fbb741211_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "GBEKE FM",
+      "s": "https://stream.zeno.fm/m0982tsy908uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429695/661e7b0345a3854bd921dc7c9fe98f07_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Hit Radio",
+      "s": "https://hrci.ice.infomaniak.ch/ci-abidjan-96.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/429370/c62b8185e002937119213d4a6cd15b97_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Al-Bayane",
+      "s": "https://stream-155.zeno.fm/seb77kna90duv?zs=rF7fA_MXQPqO6EdM-Pf2Pw",
+      "l": "https://kuasark.com/files/stations-logos/radio-al-bayane.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Afrobeat international",
+      "s": "https://listen.radioking.com/radio/397789/stream/449770",
+      "l": "https://kuasark.com/files/stations-logos/afrobeat-international.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "LIFE RADIO Côte D'Ivoire",
+      "s": "https://cors-proxy.elfsight.com/https://cast4.asurahosting.com/proxy/life/stream",
+      "l": "https://kuasark.com/files/stations-logos/life-radio-cote-divoire.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Trace Fm Côte d'Ivoire",
+      "s": "https://n02a-eu.rcs.revma.com/wvx3tf5q54zuv?rj-ttl=5&rj-tok=AAABiLPxYW0ALwJMhMJJ4Cdf4Q",
+      "l": "https://kuasark.com/files/stations-logos/radio-trace-fm-cote-divoire.png",
+      "g": [
+        "Rap",
+        "Electronic",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Nostalgie",
+      "s": "http://213.136.96.14:8000/nostalgie2.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-nostalgie-ci.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Jam",
+      "s": "https://listen.radioking.com/radio/61201/stream/98566",
+      "l": "https://kuasark.com/files/stations-logos/radio-jam.png",
+      "g": [
+        "Folk",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Skyrock Abidjan",
+      "s": "https://icecast.skyrock.net/s/abidjan_aac_64k",
+      "l": "https://kuasark.com/files/stations-logos/skyrock-abidjan.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Espoir",
+      "s": "https://radioespoir.ice.infomaniak.ch/radioespoir.mp3?ver=180271",
+      "l": "https://kuasark.com/files/stations-logos/radio-espoir.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio La Voix De La Diaspora",
+      "s": "https://listen.radioking.com/radio/9892/stream/62227",
+      "l": "https://kuasark.com/files/stations-logos/radio-la-voix-de-la-diaspora.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio La Voix de l'Evangile",
+      "s": "http://84.16.232.202:7139/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-la-voix-de-levangile.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "http://dreamsiteradiocp.com:8112/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-ci.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Africa Radio Abidjan",
+      "s": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/africa-radio-abidjan.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Hits 1 Abidjan",
+      "s": "https://strw1.openstream.co/1184?aw_0_1st.collectionid%3D4340%26stationId%3D4340%26publisherId%3D1208%26k%3D1682447595",
+      "l": "https://kuasark.com/files/stations-logos/hits-1-abidjan.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Alphaetomega",
+      "s": "http://161.97.160.18:8000/alphaetomega",
+      "l": "https://kuasark.com/files/stations-logos/alphaetomega.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "radio khadim",
+      "s": "https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=8095&type=ice&mount=stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-khadim.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Augusta International",
+      "s": "https://ecmanager4.pro-fhi.net:2660/;?type=http&nocache=1660069410",
+      "l": "https://kuasark.com/files/stations-logos/radio-augusta-international.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "GBEKE FM",
+      "s": "https://stream-165.zeno.fm/m0982tsy908uv?zs=I-38hY4ySWGbRT3RKHJAmg",
+      "l": "https://kuasark.com/files/stations-logos/gbeke-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Alpha Blondy FM",
+      "s": "https://listen.radioking.com/radio/364633/stream/414370",
+      "l": "https://kuasark.com/files/stations-logos/alpha-blondy-fm.png",
+      "g": [
+        "Blues",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Radio Media + CI Bouake",
+      "s": "https://stream-158.zeno.fm/geewmcac4louv?zs=pwA72VeHQPWQgWbooNiGsA",
+      "l": "https://kuasark.com/files/stations-logos/radio-media-ci-bouake.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Menade Smaug Radio",
+      "s": "https://stream-149.zeno.fm/v78geu0tbc9uv?zs=QcLNaQUKStGSv0RqABl_jg",
+      "l": "https://kuasark.com/files/stations-logos/menade-smaug-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Maria Côte d'Ivoire Man",
+      "s": "https://dreamsiteradiocp5.com/proxy/rmivorycoastman?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-cote-divoire-man.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Elohim",
+      "s": "https://stream-052.zeno.fm/zywzivpouqgtv?zs=eLz5_t_DSCmbnPA07S1XNA",
+      "l": "https://kuasark.com/files/stations-logos/radio-elohim-ci.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio MEDIA+CI Yamoussoukro",
+      "s": "https://stream-161.zeno.fm/8af5wodfzkvtv?zs=epUHfWpYS1SG-eaY-7T_Cg",
+      "l": "https://kuasark.com/files/stations-logos/radio-media-ci-yamoussoukro.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Feremandougou Fm",
+      "s": "https://stream-160.zeno.fm/slsb3sxzxqxvv?zs=3gl3ZwqlRvCIymBNV9RFvA",
+      "l": "https://kuasark.com/files/stations-logos/radio-feremandougou-fm.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Daloa FM",
+      "s": "https://stream-158.zeno.fm/fnkkuavm2y9vv?zs=CcqLnIWrQFiKHRVWuaOj7A",
+      "l": "https://kuasark.com/files/stations-logos/radio-daloa-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio SOLEIL+CI San-Pedro",
+      "s": "https://stream-159.zeno.fm/z7fmrvt47uxvv?zs=hyX9K2DvQ1GO5S8cKcwS3A",
+      "l": "https://kuasark.com/files/stations-logos/radio-soleil-ci-san-pedro.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Oʼshow Radio",
+      "s": "https://radio.ready2play.fr:1370/stream",
+      "l": "https://kuasark.com/files/stations-logos/oshow-radio.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Radio Eivia Sports",
+      "s": "http://radioeivia.ice.infomaniak.ch/radioeivia.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-eivia-sports.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RadioSamo",
+      "s": "https://listen.radioking.com/radio/291748/stream/338065",
+      "l": "https://kuasark.com/files/stations-logos/radiosamo.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Tchrato 101.4 Fm Daloa",
+      "s": "https://stream-155.zeno.fm/zcpvlsgfuvbuv?zs=hxJ5PbMqTuGLl8UAoJN3IQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-tchrato-1014-fm-daloa.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Moronou FM 100.0",
+      "s": "https://stream-152.zeno.fm/sfchjioz3uwuv?zs=EdVHY9ZzToOq7rCzpAnlCQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-moronou-fm-1000.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "ZFM CANAL",
+      "s": "http://5.189.183.17:8000/zfmcanal",
+      "l": "https://kuasark.com/files/stations-logos/zfm-canal.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "stations": [
+    {
+      "t": "Dzair Sahara",
+      "s": "https://radio-dzair.net/proxy/sahara?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/28464/95c9f4f153ea5f23493a40efbc9a1f8d_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Dzair",
+      "s": "https://radio-dzair.net/proxy/dzair?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/28461/6916959dce0e3510ddfb3f030d54ca2a_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Dzair - Chaabia",
+      "s": "https://radio-dzair.net/proxy/chaabia?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/424111/79d5104e-cfbd-4b41-be0b-c78d15e9a3d6_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Dzair - Raina",
+      "s": "https://radio-dzair.net/proxy/raina?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/424110/8b1261cfa9f2685d08bcd3d1042b5c5d_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "K-SUN66 - Country",
+      "s": "http://stream.zenolive.com/01c0um0fhhruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/424164/be36fcf475029d965edbc38659210876_130x130.webp",
+      "g": [
+        "Country",
+        "Decades",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Algérienne - Channel III",
+      "s": "https://ch3.ice.infomaniak.ch/ch3-64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/424108/1e6f65fd-636f-4323-b6e0-02f09743b5f5_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dzair - Izuran",
+      "s": "https://radio-dzair.net/proxy/izuran?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/424109/29c64313fc380f811ade6a9fb0186333_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "RadioHchicha.COM",
+      "s": "https://streamingv2.shoutcast.com/RadioHchichaCOM",
+      "l": "https://images.radiovolna.net/_files/images/stations/424124/b742c2ef9779629a818cdcefed096394_130x130.webp",
+      "g": [
+        "Reggae",
+        "International"
+      ]
+    },
+    {
+      "t": "Maghreb Emergent",
+      "s": "http://188.165.242.25:8560/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/424128/273ff2a1eae85d9464fb49273c2676be_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Algérienne - Chaîne II",
+      "s": "https://ch2.ice.infomaniak.ch/ch2-64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/424121/3bbb6bd2-3c8a-4310-bb05-5ad6035aede6_130x130.webp",
+      "g": [
+        "News",
+        "Pop",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dzair Orientale",
+      "s": "https://radio-dzair.net/proxy/orientale?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/28463/28a279b5bad06c1bc3b26e3a5c9c09b1_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "إذاعة الجزائرية - إذاعة الثقافية",
+      "s": "https://webradio.tda.dz/Culture_64K.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424162/793bb0da-0678-41d4-a50d-0db157fe13f3_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dzair Aures",
+      "s": "https://radio-dzair.net/proxy/aures?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/28462/571d0bd6f49bfac795246387fe0e115e_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Relizane",
+      "s": "https://webradio.tda.dz/Relizan_64K.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424125/3c0e1ec0-60b5-47d9-942a-01ae3f909843_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dzair - Al-Andaloussia",
+      "s": "https://radio-dzair.net/proxy/andaloussia?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/424120/3213bda3-5ecb-42c6-81a2-161e79d3c3f5_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Algérienne - Radio Bechar",
+      "s": "https://webradio.tda.dz/Bechar_64K.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424107/9dcbd9ee39a1d35376de3c0e3ea4cd8a_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Algérienne - Radio El Oued Souf",
+      "s": "https://webradio.tda.dz/ouedSouf_64K.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424118/5a59c830-c24d-4949-8396-9a99e75c2562_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Algérienne - Chaine 1",
+      "s": "https://ch1.ice.infomaniak.ch/ch1-64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/424106/5e41528dff990b251c13f5c98dfef781_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Algerienne - El Bahdja",
+      "s": "https://webradio.tda.dz/ElBahdja_64K.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/417100/lao65c0f8ae65f087932819428_130x130.webp",
+      "g": [
+        "News"
+      ]
+    }
+  ]
+}

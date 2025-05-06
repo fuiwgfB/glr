@@ -1,0 +1,1171 @@
+{
+  "stations": [
+    {
+      "t": "Rebelde",
+      "s": "https://icecast.teveo.cu/zrXXWK9F",
+      "l": "https://images.radiovolna.net/_files/images/stations/422869/7b9b7739ae49cb37ab64e9bf550aae34_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Habana Cuba",
+      "s": "https://icecast.teveo.cu/McW3fLhs",
+      "l": "https://images.radiovolna.net/_files/images/stations/422872/97c21ed568dbb91fd907d2d20c74b434_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Reloj",
+      "s": "https://icecast.teveo.cu/b3jbfThq",
+      "l": "https://images.radiovolna.net/_files/images/stations/422873/c3953eaa7118153b6e8c1a26c0ec34d6_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Músical Nacional",
+      "s": "https://icecast.teveo.cu/Nbtz7HT3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428681/952bbf2133825e8e98f77be852c5e2d6_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "26",
+      "s": "https://icecast.teveo.cu/LsxKNz7b",
+      "l": "https://images.radiovolna.net/_files/images/stations/422874/08df28b422aef1a591ac826f52d78417_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Rebelde",
+      "s": "https://icecast.teveo.cu/kHKL7tWd",
+      "l": "https://images.radiovolna.net/_files/images/stations/422870/f69b3d433d9a5bff4e08f4d3df54ea4c_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Taíno",
+      "s": "https://icecast.teveo.cu/3MCwWg3V",
+      "l": "https://images.radiovolna.net/_files/images/stations/422867/0eb02f6ba9f8095d27a9ebb06bcea5b2_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Enciclopedia",
+      "s": "https://icecast.teveo.cu/9Rnrbjzq",
+      "l": "https://images.radiovolna.net/_files/images/stations/428680/b86df2fcf621cf68c28fd07cdee144a0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Progreso",
+      "s": "https://icecast.teveo.cu/XjfW7qWN",
+      "l": "https://images.radiovolna.net/_files/images/stations/428678/9ebdc5d13fad2b029a0c1d745aaf6e59_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ciudad Habana",
+      "s": "https://icecast.teveo.cu/g73XCjCH",
+      "l": "https://images.radiovolna.net/_files/images/stations/422866/35ab796de8adfe2354580cc32cf2ae89_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Siboney",
+      "s": "https://icecast.teveo.cu/Hb9jFPns",
+      "l": "https://images.radiovolna.net/_files/images/stations/428683/045fc6dc34c054714615f97729de9bca_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cadena Agramonte",
+      "s": "https://icecast.teveo.cu/j99xztkT",
+      "l": "https://images.radiovolna.net/_files/images/stations/422875/0fde2e7adb14f77934dac3d7abc31a4d_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Habana Radio",
+      "s": "http://media.ohc.cu/habanaradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/403294/rgti59dfa3c684a80740411535_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Revolución",
+      "s": "https://icecast.teveo.cu/C9vVPN7h",
+      "l": "https://images.radiovolna.net/_files/images/stations/422876/286baae4ac800cc92675c81b696515b8_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Cadena Habana",
+      "s": "https://icecast.teveo.cu/Jdq3Rbrg",
+      "l": "https://images.radiovolna.net/_files/images/stations/428682/cbfb507455b74aad9ce5953670d2319f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Metropolitana",
+      "s": "https://icecast.teveo.cu/ktW3mW74",
+      "l": "https://images.radiovolna.net/_files/images/stations/422871/7436a45ad9ff914240d112e57f47f953_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "La Voz Del Toa",
+      "s": "https://icecast.teveo.cu/srfcdPC7",
+      "l": "https://images.radiovolna.net/_files/images/stations/430731/7af69b7f10b522f9e609f75ddb84b44b_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mayabeque",
+      "s": "https://icecast.teveo.cu/Rsrm7P9h",
+      "l": "https://images.radiovolna.net/_files/images/stations/422868/a108bec5b22ac4a3b24de2c01fb84714_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio COCO",
+      "s": "https://icecast.teveo.cu/fvc4RVRz",
+      "l": "https://images.radiovolna.net/_files/images/stations/428679/2f7d825d8eeb5d13bbd325e37054c058_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cuba Libre Internacional",
+      "s": "http://198.27.127.246:5002/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403293/w50o59dfa35e8334b364524653_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Salsa",
+      "s": "http://radio.domiplay.net:2002/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-salsa.png",
+      "g": [
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "LaZonaCubana Radio",
+      "s": "https://streams.radio.co/s2b7567787/listen",
+      "l": "https://kuasark.com/files/stations-logos/lazonacubana-radio.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Campesina Cubana",
+      "s": "https://radiocampesinacubana.stream.laut.fm/radiocampesinacubana?t302=2023-04-25_20-01-05&uuid=c145e683-62d4-46b8-801b-2ed710182cee",
+      "l": "https://kuasark.com/files/stations-logos/radio-campesina-cubana.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Cubana",
+      "s": "http://streaming.radionomy.com:80/JamendoLounge",
+      "l": "https://kuasark.com/files/stations-logos/radio-cubana.png",
+      "g": [
+        "Jazz",
+        "Pop",
+        "Rock",
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Habana Radio",
+      "s": "https://media.ohc.cu/habanaradio",
+      "l": "https://kuasark.com/files/stations-logos/habana-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Cuba80s",
+      "s": "https://a7.asurahosting.com:7670/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/cuba80s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "CubanFlow Radio",
+      "s": "http://nap.casthost.net:9194/stream",
+      "l": "https://kuasark.com/files/stations-logos/cubanflow-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Artemisa",
+      "s": "https://icecast.teveo.cu/9HzjRcjX",
+      "l": "https://kuasark.com/files/stations-logos/radio-artemisa.png",
+      "g": [
+        "Classical",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Baragua",
+      "s": "https://icecast.teveo.cu/3CMM7zph",
+      "l": "https://kuasark.com/files/stations-logos/radio-baragua.png",
+      "g": [
+        "Classical",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "neonradioxl",
+      "s": "https://s12.myradiostream.com:16754/listen.mp3?nocache=1682447226",
+      "l": "https://kuasark.com/files/stations-logos/neonradioxl.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "SeductorasVip",
+      "s": "https://xat.com/seductorasvip",
+      "l": "https://kuasark.com/files/stations-logos/seductorasvip.png",
+      "g": [
+        "Electronic",
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Camoa",
+      "s": "https://icecast.teveo.cu/7vCk4tnh",
+      "l": "https://kuasark.com/files/stations-logos/radio-camoa.png",
+      "g": [
+        "Classical",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "FM Pais",
+      "s": "https://server.laradio.online:58817/live",
+      "l": "https://kuasark.com/files/stations-logos/fm-pais.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Glance",
+      "s": "https://stream-149.zeno.fm/3dedaqur8o5tv?zs=HCeXhzWiQZWCMTcsOhZPKA",
+      "l": "https://kuasark.com/files/stations-logos/radio-glance.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio María de la Caridad",
+      "s": "https://stream-173.zeno.fm/lm5higqbg93vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsbTVoaWdxYmc5M3Z2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InEyYU80djRyVHAyQ25VRHFmNFhyYnciLCJpYXQiOjE3MjAxNzM4NDgsImV4cCI6MTcyMDE3MzkwOH0.O1d9hfaQ7qGCFHvslvwWuzSzNLd6nUQO4jXWxQvoH9s",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-de-la-caridad.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Plaza de la Revolución en línea",
+      "s": "https://stream1.svrdedicado.org:7165/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-plaza-de-la-revolucion-en-linea.png",
+      "g": [
+        "Themes",
+        "Electronic",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Trinidad",
+      "s": "https://icecast.teveo.cu/pxPv4cWR",
+      "l": "https://kuasark.com/files/stations-logos/radio-trinidad.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "WPNN 790 Pensacola, FL",
+      "s": "http://208.85.240.2:8310/;.mp3",
+      "l": "https://kuasark.com/files/stations-logos/wpnn-790-pensacola-fl.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "WPSO 1500 \"Greek Voice Radio\" New Port Richey, FL",
+      "s": "http://wpso.com:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/wpso-1500-greek-voice-radio-new-port-richey-fl.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "WMNF-HD4 \"Soul School\" Tampa, FL",
+      "s": "http://stream.wmnf.org:8000/wmnf_hd4",
+      "l": "https://kuasark.com/files/stations-logos/wmnf-hd4-soul-school-tampa-fl.png",
+      "g": [
+        "R&B and Urban",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "WUWF-HD2 Classical Stream Pensacola, FL",
+      "s": "http://26413.live.streamtheworld.com:80/WUWFHD2_SC",
+      "l": "https://kuasark.com/files/stations-logos/wuwf-hd2-classical-stream-pensacola-fl.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "WGCU 90.1 Fort Myers, FL",
+      "s": "http://24453.live.streamtheworld.com:80/WGCUFM_SC",
+      "l": "https://kuasark.com/files/stations-logos/wgcu-901-fort-myers-fl.png",
+      "g": [
+        "Electronic",
+        "Jazz",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": ".977 The Mix",
+      "s": "http://17573.live.streamtheworld.com:80/977_MIX_SC",
+      "l": "https://kuasark.com/files/stations-logos/977-the-mix.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": ".977 Oldies",
+      "s": "http://24423.live.streamtheworld.com:80/977_OLDIES_SC",
+      "l": "https://kuasark.com/files/stations-logos/977-oldies.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": ".977 Jamz",
+      "s": "http://24503.live.streamtheworld.com:80/977_JAMZ_SC",
+      "l": "https://kuasark.com/files/stations-logos/977-jamz.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "WLRN 91.3 Miami, FL",
+      "s": "https://prod-50-19-164-38.wostreaming.net/wlrnpublicmedia-wlrnfmaac-imc1?session-id=cc2134f41777b7488e7316e333637d48",
+      "l": "https://kuasark.com/files/stations-logos/wlrn-913-miami-fl.png",
+      "g": [
+        "Electronic",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "WLRN-HD2 Classical - Miami, FL",
+      "s": "https://prod-50-19-164-38.wostreaming.net/wlrnpublicmedia-wlrnhd2aac-imc1?session-id=f015add881ed6991b461bfdc76d6fe9b",
+      "l": "https://kuasark.com/files/stations-logos/wlrn-hd2-classical-miami-fl.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "AFN 360 Guantanamo Bay",
+      "s": "http://25533.live.streamtheworld.com:80/AFNE_GMO_SC",
+      "l": "https://kuasark.com/files/stations-logos/afn-360-guantanamo-bay.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "WPOZ \"Zradio\" 88.3 FM Orlando, FL",
+      "s": "http://ice.zradio.org/z/high.mp3",
+      "l": "https://kuasark.com/files/stations-logos/wpoz-zradio-883-fm-orlando-fl.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": ".977 90s",
+      "s": "http://18363.live.streamtheworld.com:80/977_90_SC",
+      "l": "https://kuasark.com/files/stations-logos/977-90s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Maria USA - En Español",
+      "s": "http://dreamsiteradiocp4.com:8054/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-usa-en-espanol.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": ".977 80s",
+      "s": "http://24423.live.streamtheworld.com:80/977_80_SC",
+      "l": "https://kuasark.com/files/stations-logos/977-80s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": ".977 Hitz",
+      "s": "http://26283.live.streamtheworld.com:80/977_HITS_SC",
+      "l": "https://kuasark.com/files/stations-logos/977-hitz.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": ".977 Smooth Jazz",
+      "s": "http://17553.live.streamtheworld.com:80/977_SMOOJAZZ_SC",
+      "l": "https://kuasark.com/files/stations-logos/977-smooth-jazz.png",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "WMNF 88.5 (Tampa) - Community Conscious Radio",
+      "s": "http://stream.wmnf.org:8000/wmnf_high_quality",
+      "l": "https://kuasark.com/files/stations-logos/wmnf-885-tampa-community-conscious-radio.png",
+      "g": [
+        "Themes",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "enationFM",
+      "s": "http://198.58.98.83:8308/;",
+      "l": "https://kuasark.com/files/stations-logos/enationfm.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "90.7 WMFE-FM",
+      "s": "http://wmfe.iad.streamguys1.com/wmfe",
+      "l": "https://kuasark.com/files/stations-logos/907-wmfe-fm.png",
+      "g": [
+        "Electronic",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Miami Beach Radio",
+      "s": "https://streaming.radiostreamlive.com/miamibeachradio_devices",
+      "l": "https://kuasark.com/files/stations-logos/miami-beach-radio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "WHNR Boss Hog Radio",
+      "s": "http://ice41.securenetsystems.net/WHNR",
+      "l": "https://kuasark.com/files/stations-logos/whnr-boss-hog-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Chill Lounge Florida",
+      "s": "https://vip2.fastcast4u.com/proxy/chillfla?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/chill-lounge-florida.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Reign Radio Classic",
+      "s": "http://sc1.reignradio.net:8184/;",
+      "l": "https://kuasark.com/files/stations-logos/reign-radio-classic.png",
+      "g": [
+        "Rock",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Ciudad del Mar",
+      "s": "https://icecast.teveo.cu/CL7jRXqn",
+      "l": "https://kuasark.com/files/stations-logos/radio-ciudad-del-mar-cu-16411.png",
+      "g": [
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Alternative Reign",
+      "s": "http://sc1.reignradio.net:8086/;",
+      "l": "https://kuasark.com/files/stations-logos/alternative-reign.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Jaruco - Mayabeque",
+      "s": "https://icecast.teveo.cu/KH9tVwrC",
+      "l": "https://kuasark.com/files/stations-logos/jaruco-mayabeque.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Sagua - Villa Clara",
+      "s": "https://icecast.teveo.cu/wHm3qrMx",
+      "l": "https://kuasark.com/files/stations-logos/sagua-villa-clara.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Bayamo - Granma",
+      "s": "https://icecast.teveo.cu/7hdNcTbM",
+      "l": "https://kuasark.com/files/stations-logos/bayamo-granma.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Jiguani - Granma",
+      "s": "https://icecast.teveo.cu/nkz3TCfR",
+      "l": "https://kuasark.com/files/stations-logos/jiguani-granma.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Banes - Holguin",
+      "s": "https://icecast.teveo.cu/9cMzdkK7",
+      "l": "https://kuasark.com/files/stations-logos/banes-holguin.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Sancti Spiritus",
+      "s": "https://icecast.teveo.cu/NqWrgw7j",
+      "l": "https://kuasark.com/files/stations-logos/sancti-spiritus.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Granma",
+      "s": "https://icecast.teveo.cu/9RLhkmRH",
+      "l": "https://kuasark.com/files/stations-logos/granma.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Victoria - Las Tunas",
+      "s": "https://icecast.teveo.cu/F9tgnJVT",
+      "l": "https://kuasark.com/files/stations-logos/victoria-las-tunas-cu-18876.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "CMDY La Reina Radial del Centro - Villa Clara",
+      "s": "https://icecast.teveo.cu/TsxMM94R",
+      "l": "https://kuasark.com/files/stations-logos/cmdy-la-reina-radial-del-centro-villa-clara.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "La voz del níquel",
+      "s": "https://icecast.teveo.cu/nj4PLTHR",
+      "l": "https://kuasark.com/files/stations-logos/la-voz-del-niquel.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Ciudad Monumento - Granma",
+      "s": "https://icecast.teveo.cu/KR43FF7C",
+      "l": "https://kuasark.com/files/stations-logos/ciudad-monumento-granma.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "WMNF-HD2 \"New Sounds\" Tampa, FL",
+      "s": "https://stream.wmnf.org:4443/wmnf_hd4",
+      "l": "https://kuasark.com/files/stations-logos/wmnf-hd2-new-sounds-tampa-fl.png",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "WRUF - AM 850",
+      "s": "https://ais-sa1.streamon.fm/7644_64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/wruf-am-850.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "WWPR 1490",
+      "s": "http://ice5.securenetsystems.net/WWPR",
+      "l": "https://kuasark.com/files/stations-logos/wwpr-1490.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RNB and Hip Hop Radio",
+      "s": "http://192.99.41.102:5429/;",
+      "l": "https://kuasark.com/files/stations-logos/rnb-and-hip-hop-radio.png",
+      "g": [
+        "Metal",
+        "Electronic",
+        "Rap",
+        "Rock",
+        "R&B and Urban",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Victoria - Las Tunas",
+      "s": "https://icecast.teveo.cu/P77NJX4X",
+      "l": "https://kuasark.com/files/stations-logos/victoria-las-tunas-cu-23957.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Ciudad del Mar",
+      "s": "https://icecast.teveo.cu/CL7jRXqn?1618098425296",
+      "l": "https://kuasark.com/files/stations-logos/radio-ciudad-del-mar-cu-24052.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "202.fm 90's Alternative",
+      "s": "http://listen.livestreamingservice.com:8052/",
+      "l": "https://kuasark.com/files/stations-logos/202fm-90s-alternative.png",
+      "g": [
+        "Alternative",
+        "Other"
+      ]
+    },
+    {
+      "t": "202.fm 020 Alternative",
+      "s": "http://listen.livestreamingservice.com/181-buzz_128k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/202fm-020-alternative.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "HitsRadio 977 - 50s, 60s Hits",
+      "s": "https://24423.live.streamtheworld.com/977_OLDIES_SC",
+      "l": "https://kuasark.com/files/stations-logos/hitsradio-977-50s-60s-hits.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "DOC Radio - Christian Hits",
+      "s": "http://ais-edge106-live365-dal02.cdnstream.com/a08828",
+      "l": "https://kuasark.com/files/stations-logos/doc-radio-christian-hits.png",
+      "g": [
+        "Rock",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Freestyle Music Radio",
+      "s": "https://listen.radioking.com/radio/371092/stream/421177",
+      "l": "https://kuasark.com/files/stations-logos/freestyle-music-radio.png",
+      "g": [
+        "Rap",
+        "Other"
+      ]
+    },
+    {
+      "t": "CMKO Radio Angulo",
+      "s": "https://icecast.teveo.cu/hmVcdgM7",
+      "l": "https://kuasark.com/files/stations-logos/cmko-radio-angulo.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "The JOY FM 88.1FM Jacksonville",
+      "s": "https://rtn.cdnstream1.com/2579_96.aac?rand=10817",
+      "l": "https://kuasark.com/files/stations-logos/the-joy-fm-881fm-jacksonville.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Caibarien",
+      "s": "https://icecast.teveo.cu/srJ4vqkv",
+      "l": "https://kuasark.com/files/stations-logos/radio-caibarien.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "American Ink Radio",
+      "s": "https://centova.amfm247.com:8448/stream",
+      "l": "https://kuasark.com/files/stations-logos/american-ink-radio.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Prensa Latina",
+      "s": "https://cdn4.onstream.audio:9267/stream",
+      "l": "https://kuasark.com/files/stations-logos/prensa-latina.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Cuban Flow Radio",
+      "s": "http://nap.casthost.net:9194/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/cuban-flow-radio.webp",
+      "g": [
+        "Pop",
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Aguada Radio",
+      "s": "https://icecast.teveo.cu/qpMCfv3f",
+      "l": "https://kuasark.com/files/stations-logos/aguada-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Chaparra",
+      "s": "https://icecast.teveo.cu/tW3JjWph",
+      "l": "https://kuasark.com/files/stations-logos/radio-chaparra.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "WQMP 101.9 FM Daytona Beach, FL",
+      "s": "https://prod-174-129-161-40.wostreaming.net/audacy-wqmpfmaac-hlsc.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/wqmp-1019-fm-daytona-beach-fl.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "WPRK 91.5 FM Winter Park, FL",
+      "s": "http://wprk.broadcasttool.stream/stream",
+      "l": "https://kuasark.com/files/stations-logos/wprk-915-fm-winter-park-fl.png",
+      "g": [
+        "Alternative",
+        "Other"
+      ]
+    },
+    {
+      "t": "wshe",
+      "s": "http://colostreaming.com:8094/;",
+      "l": "https://kuasark.com/files/stations-logos/wshe.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Chillout Lounge (fadefm.com USA) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:2720/stream",
+      "l": "https://kuasark.com/files/stations-logos/chillout-lounge-fadefmcom-usa-64k-aac-.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Trance Addict (fadefm.com) 64k aac+",
+      "s": "https://ec4.yesstreaming.net:2785/stream",
+      "l": "https://kuasark.com/files/stations-logos/trance-addict-fadefmcom-64k-aac-.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Mainstage EDM (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:3750/stream",
+      "l": "https://kuasark.com/files/stations-logos/mainstage-edm-fadefmcom-64k-aac-.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Classic Dance Hits (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:3370/stream",
+      "l": "https://kuasark.com/files/stations-logos/classic-dance-hits-fadefmcom-64k-aac-.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Disco Inferno (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:2710/stream",
+      "l": "https://kuasark.com/files/stations-logos/disco-inferno-fadefmcom-64k-aac-.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Trance Addict (fadefm.com USA) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:2780/stream",
+      "l": "https://kuasark.com/files/stations-logos/trance-addict-fadefmcom-usa-64k-aac-.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "98BPM – Destin (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:3300/stream",
+      "l": "https://kuasark.com/files/stations-logos/98bpm-destin-fadefmcom-64k-aac-.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Florida Breakbeats (fadefm.com) 64k aac+",
+      "s": "http://ec2.yesstreaming.net:2370/stream",
+      "l": "https://kuasark.com/files/stations-logos/florida-breakbeats-fadefmcom-64k-aac-.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Freestyle Xpress (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:3260/stream",
+      "l": "https://kuasark.com/files/stations-logos/freestyle-xpress-fadefmcom-64k-aac-.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "BJ105 (70s-Now) (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:3020/stream",
+      "l": "https://kuasark.com/files/stations-logos/bj105-70s-now-fadefmcom-64k-aac-.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "HitList (Pop 40) (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:2690/stream",
+      "l": "https://kuasark.com/files/stations-logos/hitlist-pop-40-fadefmcom-64k-aac-.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "LMAO (Comedy) (fadefm.com) 64k aac+",
+      "s": "http://ec1.yesstreaming.net:2530/stream",
+      "l": "https://kuasark.com/files/stations-logos/lmao-comedy-fadefmcom-64k-aac-.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Real R&B (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:3200/stream",
+      "l": "https://kuasark.com/files/stations-logos/real-rb-fadefmcom-64k-aac-.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Classic R&B (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:3660/stream",
+      "l": "https://kuasark.com/files/stations-logos/classic-rb-fadefmcom-64k-aac-.png",
+      "g": [
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Retro Rock Anthems (fadefm.com) 64k aac+",
+      "s": "http://ec3.yesstreaming.net:1520/stream",
+      "l": "https://kuasark.com/files/stations-logos/retro-rock-anthems-fadefmcom-64k-aac-.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Active Rock (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:2230/stream",
+      "l": "https://kuasark.com/files/stations-logos/active-rock-fadefmcom-64k-aac-.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Classic Alternative X (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:2970/stream",
+      "l": "https://kuasark.com/files/stations-logos/classic-alternative-x-fadefmcom-64k-aac-.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Classic Alternative X (fadefm.com USA) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:1460/stream",
+      "l": "https://kuasark.com/files/stations-logos/classic-alternative-x-fadefmcom-usa-64k-aac-.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Yacht Rock (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:3110/stream",
+      "l": "https://kuasark.com/files/stations-logos/yacht-rock-fadefmcom-64k-aac-.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Hairband Rock (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:3100/stream",
+      "l": "https://kuasark.com/files/stations-logos/hairband-rock-fadefmcom-64k-aac-.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "maxFM – Emo Grunge (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:3070/stream",
+      "l": "https://kuasark.com/files/stations-logos/maxfm-emo-grunge-fadefmcom-64k-aac-.png",
+      "g": [
+        "Rock",
+        "Alternative",
+        "Other"
+      ]
+    },
+    {
+      "t": "Office Mix (fadefm.com) 64k aac+",
+      "s": "http://ec2.yesstreaming.net:2490/stream",
+      "l": "https://kuasark.com/files/stations-logos/office-mix-fadefmcom-64k-aac-.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "RockUmentary (fadefm.com) 64k aac+",
+      "s": "http://ec1.yesstreaming.net:3720/stream",
+      "l": "https://kuasark.com/files/stations-logos/rockumentary-fadefmcom-64k-aac-.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "ASMR Day Spa (fadefm.com) 64k aac+",
+      "s": "http://ec3.yesstreaming.net:1950/stream",
+      "l": "https://kuasark.com/files/stations-logos/asmr-day-spa-fadefmcom-64k-aac-.png",
+      "g": [
+        "New Age",
+        "Classical",
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "Classical Music (fadefm.com) 64k aac+",
+      "s": "http://ec2.yesstreaming.net:1570/stream",
+      "l": "https://kuasark.com/files/stations-logos/classical-music-fadefmcom-64k-aac-.png",
+      "g": [
+        "Classical",
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "ATL Blaze | Tru Hip-Hop (fadefm.com) 64k aac+",
+      "s": "http://ec3.yesstreaming.net:1540/stream",
+      "l": "https://kuasark.com/files/stations-logos/atl-blaze-tru-hip-hop-fadefmcom-64k-aac-.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Old School Throwbacks (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:3210/stream",
+      "l": "https://kuasark.com/files/stations-logos/old-school-throwbacks-fadefmcom-64k-aac-.png",
+      "g": [
+        "Rap",
+        "Other",
+        "Decades",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Party (Hip-Pop) (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:2320/stream",
+      "l": "https://kuasark.com/files/stations-logos/party-hip-pop-fadefmcom-64k-aac-.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Solid Gold Soul (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:2640/stream",
+      "l": "https://kuasark.com/files/stations-logos/solid-gold-soul-fadefmcom-64k-aac-.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Jammin’ Oldies (fadefm.com) 64k aac+",
+      "s": "http://ec4.yesstreaming.net:3180/stream",
+      "l": "https://kuasark.com/files/stations-logos/jammin-oldies-fadefmcom-64k-aac-.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Holguín en vivo",
+      "s": "https://stream1.svrdedicado.org/8334/stream",
+      "l": "https://kuasark.com/files/stations-logos/holguin-en-vivo.png",
+      "g": [
+        "Themes",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio rdmg line",
+      "s": "https://stream1.svrdedicado.org:7175/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-rdmg-line.png",
+      "g": [
+        "Themes",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "CubanDjsPro Radio",
+      "s": "https://servidor21.brlogic.com:7114/live",
+      "l": "https://kuasark.com/files/stations-logos/cubandjspro-radio.png",
+      "g": [
+        "New Age",
+        "Classical",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "stations": [
+    {
+      "t": "Грузинское радио / Tbilisi FM / რადიო თბილისი",
+      "s": "http://iis.ge:8000/radiotbilisi.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/1707/fea26e4218ad0c0640c215a1326b3878_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Amra / რადიო ამრა",
+      "s": "https://streamer.radio.co/s34b5469e0/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/7436/tzl85978406b11390255089785_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Dardimandi / რადიო დარდიმანდი",
+      "s": "https://nue01-edge01.itdc.ge/fm-dardimandi-97.1/mono.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/420265/c6d4e6e53a053b432aaf88a09fe1da8f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "GIPA",
+      "s": "http://217.147.235.142/livemp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7447/ofv95a23f4296975e217281763_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Positive FM / რადიო პოზიტივი",
+      "s": "https://stream.radiojar.com/sr4vzamzfnruv/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/7445/w77c5a23f52037d39780598784_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "России",
+      "s": "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/419007/d08cd7b80571068ea6dc91422dc45dda_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "რადიო NRJ",
+      "s": "https://shaincast.caster.fm:24734/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420266/65f4d217181b7adb7a796ce14f1a3f2e_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Commersant FM / რადიო კომერსანტი",
+      "s": "https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/420264/627ba630562cb0dec6004993abd7c029_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "რადიო ჩვენებური / Chveneburi",
+      "s": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/mono.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428391/36b18c389d4796f1c140033943abd45d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Star FM",
+      "s": "http://stream.it-solutions.ge:8000/mp3-starfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/7437/p1eh5a23f4a7eaab8828468016_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FM 105.5 / რადიო რიონი",
+      "s": "http://silk.rionitv.com:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/420267/7d9aad6ad3d165ee0c55abd53629c607_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "რადიო მაესტრო / Maestro",
+      "s": "https://nue01-edge01.itdc.ge/fm-maestro-94.7/mono.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428389/6e85a67eb2e7043913838099cfd6c72e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DK FM / ძველი ქალაქი",
+      "s": "http://iis.ge:8000/radiodk.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400765/1486298875_-2-_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "რადიო ფორტუნა პლუს / Fortuna Plus",
+      "s": "https://nue01-edge01.itdc.ge/fm-radiofortunaplus-103.4/mono.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/426973/0216d09f7d752f65a837f6817d1ab286_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Voice of Abkhazia / აფხაზეთის ხმა",
+      "s": "http://109.172.136.60:8081/broadwavelow.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/406098/evtb5bee9fba9b209318768516_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Nor",
+      "s": "http://iis.ge:8000/nor.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401242/jzrw599ec2de5b29b877962084_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "GT Radio",
+      "s": "https://nue01-edge01.itdc.ge/fm-georgiantimes-92.3/mono.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428388/1200176c66701a88b5f6a77d3053d966_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Autoradio",
+      "s": "https://nue01-edge01.itdc.ge/fm-autoradio-95.1/mono.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/426972/3efcbf331b1dd2f68775ef9cf911ab89_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ATL Webradio",
+      "s": "http://192.99.4.210:3664/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26043/afd4b8186119f83fb1568fc5e01e994d_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "საზოგადოებრივი რადიო 1 / Radio 1",
+      "s": "https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428393/c2d29974e6a8ac07a811536cfc0fc661_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Ar Daidardo",
+      "s": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-ar-daidardo.png",
+      "g": [
+        "Folk",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dardimandi",
+      "s": "http://109.172.136.60:8080/broadwavehigh.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dardimandi.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 2 (Georgia)",
+      "s": "https://radio.cdn.xsg.ge/gpb-radio1/shoutcast",
+      "l": "https://kuasark.com/files/stations-logos/radio-2-georgia.png",
+      "g": [
+        "Easy Listening",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Maestro",
+      "s": "https://nue01-edge01.itdc.ge/fm-maestro-94.7/tracks-a1/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-maestro-ge.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Commersant",
+      "s": "https://radio.cdn.xsg.ge/fm-commersant-95.5/shoutcast",
+      "l": "https://kuasark.com/files/stations-logos/radio-commersant.png",
+      "g": [
+        "Classical",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Vinyl",
+      "s": "http://62.212.34.4:9000/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-vinyl.png",
+      "g": [
+        "Decades",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Palitra",
+      "s": "https://radio1.palitra.ge:8443/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-palitra.png",
+      "g": [
+        "Decades",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Imedi",
+      "s": "https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-imedi.png",
+      "g": [
+        "Pop",
+        "Classical",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Tbilisi",
+      "s": "https://stream.iis.ge:8443/radiotbilisi.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-tbilisi.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Classical",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Ajara",
+      "s": "https://edge.mixlr.com/channel/bzorq",
+      "l": "https://kuasark.com/files/stations-logos/radio-ajara.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "ავტორადიო /Autoradio 95.1 Fm",
+      "s": "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/avtoradio-autoradio-951-fm.png",
+      "g": [
+        "Pop",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Relax Web Radio",
+      "s": "https://stream.iis.ge:8443/relax.mp3",
+      "l": "https://kuasark.com/files/stations-logos/relax-web-radio.png",
+      "g": [
+        "Easy Listening",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Chveneburi",
+      "s": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-chveneburi.png",
+      "g": [
+        "Pop",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Fortuna Plus",
+      "s": "https://nue01-edge01.itdc.ge/fm-radiofortunaplus-103.4/tracks-a1/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/fortuna-plus.png",
+      "g": [
+        "Pop",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Batumi",
+      "s": "https://nue01-edge01.itdc.ge/fm-batumi-93.7/tracks-a1/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-batumi.png",
+      "g": [
+        "Pop",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dzveli Kalaki",
+      "s": "https://stream.iis.ge:8443/radiodk.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-dzveli-kalaki.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Georgian Times",
+      "s": "https://vobook.ru/http://176.221.147.226:8000/",
+      "l": "https://kuasark.com/files/stations-logos/radio-georgian-times.png",
+      "g": [
+        "Classical",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Fortuna",
+      "s": "https://nue01-edge01.itdc.ge/fm-radiofortuna-106.9/tracks-a1/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-fortuna-ge.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio M7",
+      "s": "http://62.212.34.4:9001/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-m7.png",
+      "g": [
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Citrus",
+      "s": "https://stream.iis.ge:8443/CitrusFm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-citrus.png",
+      "g": [
+        "Pop",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tvistomi Radio",
+      "s": "https://s2.radio.co/sa04dce859/listen",
+      "l": "https://kuasark.com/files/stations-logos/tvistomi-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Star FM",
+      "s": "https://streams.it1.ge/mp3-starfm",
+      "l": "https://kuasark.com/files/stations-logos/star-fm.png",
+      "g": [
+        "Pop",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Electronauts",
+      "s": "https://stream-148.zeno.fm/4d98pq6cwg0uv?zs=an7xVXxoRwawWm9rVPSICw",
+      "l": "https://kuasark.com/files/stations-logos/radio-electronauts.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Red Wine Radio",
+      "s": "https://stream-061.zeno.fm/xg10kafehg0uv?zs=M6uY_CBURFqttgJ2vBBMUQ",
+      "l": "https://kuasark.com/files/stations-logos/red-wine-radio.png",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio SK News",
+      "s": "https://stream.iis.ge:8443/sk.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-sk-news.png",
+      "g": [
+        "Pop",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Argo",
+      "s": "http://45.143.109.51:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-argo.png",
+      "g": [
+        "Pop",
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Hereti",
+      "s": "https://stream.iis.ge:8443/hereti.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hereti-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Classical",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Trialeti",
+      "s": "https://s39.myradiostream.com/10898/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-trialeti.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Classical",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Tzgospel (Georgian)",
+      "s": "https://stream-152.zeno.fm/83ay8nda7ehvv?zs=4Dp7kGMJSCyIWSC9HMWRRg",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-georgian.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Batumi Fm 93.7",
+      "s": "http://45.9.46.110:1515/batumifm",
+      "l": "https://kuasark.com/files/stations-logos/batumi-fm-937.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Palitra 103.9 FM",
+      "s": "http://92.241.82.245:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-palitra-1039-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Marneuli",
+      "s": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm",
+      "l": "https://kuasark.com/files/stations-logos/radio-marneuli.png",
+      "g": [
+        "Classical",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Mutant Radio",
+      "s": "https://listen.radioking.com/radio/282820/stream/328621",
+      "l": "https://kuasark.com/files/stations-logos/mutant-radio.png",
+      "g": [
+        "New Age",
+        "Electronic",
+        "R&B and Urban",
+        "Jazz",
+        "Rock"
+      ]
+    },
+    {
+      "t": "SK Nnews",
+      "s": "http://iis.ge:8000/sk.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sk-nnews.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Georgia One TV",
+      "s": "http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/georgia-one-tv.png",
+      "g": [
+        "Classical",
+        "Other",
+        "News"
+      ]
+    }
+  ]
+}

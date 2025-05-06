@@ -1,0 +1,391 @@
+{
+  "stations": [
+    {
+      "t": "Top Congo FM",
+      "s": "https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3",
+      "l": "https://kuasark.com/files/stations-logos/top-congo-fm.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Tv Mix Congolaise",
+      "s": "http://37.59.42.207:8080/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-tv-mix-congolaise.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Okapi",
+      "s": "https://stream-068.zeno.fm/y9y2bhvzs4zuv?zs=5SEdrbfLTvGYxNBAOdcMRQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-okapi.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Africa Online",
+      "s": "http://136.0.17.26:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-africa-online.png",
+      "g": [
+        "Reggae",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Ngoma",
+      "s": "https://african1paris.ice.infomaniak.ch/african1paris-64.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-ngoma.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "https://dreamsiteradiocp2.com/proxy/rmcongo2?mp=/stream?ver=860933",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-cd.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Urban FM",
+      "s": "http://edge.iono.fm/xice/138_medium.aac",
+      "l": "https://kuasark.com/files/stations-logos/urban-fm-cd.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "UDPSRADIO",
+      "s": "https://stream-052.zeno.fm/5fm8q327e8zuv?zs=U1TApm60R9q7OUR2AsMMMw",
+      "l": "https://kuasark.com/files/stations-logos/udpsradio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "R2CFM Radio Congo Culture",
+      "s": "https://listen.radioking.com/radio/254017/stream/402961",
+      "l": "https://kuasark.com/files/stations-logos/r2cfm-radio-congo-culture.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Millenium radio",
+      "s": "https://stream-150.zeno.fm/vkyhcgfd5f8uv?zs=hXOWB9XXRi-44KT7kWaMWg",
+      "l": "https://kuasark.com/files/stations-logos/millenium-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tamil Panpalai Africa",
+      "s": "https://tamilpanpalai.radioca.st/afr",
+      "l": "https://kuasark.com/files/stations-logos/tamil-panpalai-africa.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tzgospel Radio (DRC CONGO)",
+      "s": "https://stream-151.zeno.fm/swfn5pb4tchvv?zs=vjenAdeTR2W5f45oCtobPw",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-radio-drc-congo.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Gospel Fm",
+      "s": "https://stream-150.zeno.fm/n3sgwrm2mg8uv?zs=GIWA2rGiQqCYrmIDQPm56A",
+      "l": "https://kuasark.com/files/stations-logos/gospel-fm-cd.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Dream fm",
+      "s": "https://stream-058.zeno.fm/bnuliy5kdhstv?zs=8kghLBC9RuKCvOGCxCsbDQ",
+      "l": "https://kuasark.com/files/stations-logos/dream-fm-cd.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Beatus",
+      "s": "https://radiobeatus2.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-beatus.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RMCA",
+      "s": "http://edge.iono.fm/xice/142_medium.aac",
+      "l": "https://kuasark.com/files/stations-logos/rmca.png",
+      "g": [
+        "Inspirational",
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "YouRadio FM",
+      "s": "https://stream-068.zeno.fm/m520wcht54zuv?zs=OluajRnwTB628roxqYNgzA",
+      "l": "https://kuasark.com/files/stations-logos/youradio-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Le Messager Du Peuple (rmp)",
+      "s": "https://stream-150.zeno.fm/zh6b4xttlautv?zs=mG8RCgkWRUyu0KlKrF-sLg",
+      "l": "https://kuasark.com/files/stations-logos/radio-le-messager-du-peuple-rmp.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Interkinois Radio",
+      "s": "https://cast3.asurahosting.com/proxy/deograt1/stream",
+      "l": "https://kuasark.com/files/stations-logos/interkinois-radio.png",
+      "g": [
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Pourim",
+      "s": "https://zoka.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-pourim.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio TAYNA",
+      "s": "https://stream-156.zeno.fm/ide8zzvajbcvv?zs=fZMoLgRoT6y9JbGAjWJqGA",
+      "l": "https://kuasark.com/files/stations-logos/radio-tayna.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RTSM",
+      "s": "https://stream-150.zeno.fm/am4m4acevnhvv?zs=arOD4K5HRgGVk5cIjR8QWA",
+      "l": "https://kuasark.com/files/stations-logos/rtsm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "GEANT RADIO",
+      "s": "https://servidor31.brlogic.com:7070/live",
+      "l": "https://kuasark.com/files/stations-logos/geant-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Lushiactu Radio",
+      "s": "https://cast3.asurahosting.com/proxy/deograti/stream",
+      "l": "https://kuasark.com/files/stations-logos/lushiactu-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Ouragan FM",
+      "s": "https://radio.ouragan.cd/listen/ouragan/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ouragan-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Light Fm Kinshasa",
+      "s": "https://listen.radioking.com/radio/485195/stream/541826",
+      "l": "https://kuasark.com/files/stations-logos/light-fm-kinshasa.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Maendeleo",
+      "s": "http://radiomaendeleobukavu.ice.infomaniak.ch/radiomaendeleobukavu-sk.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-maendeleo.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Happy Radio",
+      "s": "https://stream-150.zeno.fm/pn87ajxqyvpuv?zs=NqsfoHRPQtW7RT9Xjk9l3g",
+      "l": "https://kuasark.com/files/stations-logos/happy-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Bouclier",
+      "s": "https://bouclierdelafoi.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-bouclier.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Eby Radio",
+      "s": "https://rocket.streamradio.fr:8104/stream",
+      "l": "https://kuasark.com/files/stations-logos/eby-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "SN Radio",
+      "s": "https://stream-150.zeno.fm/99sw3kybt7zuv?zs=qgPhjCryQiipR7yLmkyfyA",
+      "l": "https://kuasark.com/files/stations-logos/sn-radio-cd.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Eglise Hebron",
+      "s": "http://kepler.shoutca.st:8099/stream",
+      "l": "https://kuasark.com/files/stations-logos/eglise-hebron.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RTDS",
+      "s": "https://edge.iono.fm/xice/214_medium.aac",
+      "l": "https://kuasark.com/files/stations-logos/rtds.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Interkinois Gospel",
+      "s": "https://cast4.asurahosting.com/proxy/deograt2/stream",
+      "l": "https://kuasark.com/files/stations-logos/interkinois-gospel.png",
+      "g": [
+        "Inspirational",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ndulé World FM",
+      "s": "https://manager5.streamradio.fr:1995/stream",
+      "l": "https://kuasark.com/files/stations-logos/ndule-world-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Top Congo FM 88.4 Kinshasa",
+      "s": "http://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3",
+      "l": "https://kuasark.com/files/stations-logos/top-congo-fm-884-kinshasa.png",
+      "g": [
+        "International",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "RADIO MARIA DEM.REP. CONGO",
+      "s": "http://dreamsiteradiocp.com:8116/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-demrep-congo.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Goma Webradio",
+      "s": "http://stream-061.zeno.fm/4d61wprrp7zuv?zs=z0SRMek6ROCtFasjmIk0tw&rj-ttl=5&rj-tok=AAABfp-99V4AjWjnXlVwBvExng",
+      "l": "https://kuasark.com/files/stations-logos/goma-webradio-cd.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio Kivu1",
+      "s": "http://serveur2.wanastream.com:25000/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/radio-kivu1.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Congo Planète 2",
+      "s": "http://radio.congoplanet.com/Congo_Planet_Radio_Pop",
+      "l": "https://kuasark.com/files/stations-logos/congo-planete-2.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio Mulangane",
+      "s": "http://curiosity.shoutca.st:6130/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-mulangane.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Watoto Radio",
+      "s": "https://stream-47.zeno.fm/xwx18us91k8uv?zs=D6hP5IeET_CVAjQuCUtmkg",
+      "l": "https://kuasark.com/files/stations-logos/watoto-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Kelelo",
+      "s": "http://dione.shoutca.st:8512/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-kelelo.png",
+      "g": [
+        "Inspirational"
+      ]
+    }
+  ]
+}

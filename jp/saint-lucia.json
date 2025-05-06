@@ -1,0 +1,365 @@
+{
+  "stations": [
+    {
+      "t": "Caribbean Kiss FM",
+      "s": "https://auds1.intacs.com/caribbeankissfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/423444/2e594f2aa31705256f89017fca39ba80_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Caribbean Hot FM",
+      "s": "https://auds2.intacs.com/caribbeanhotfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/403263/r1qi59df8f629904a741803056_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Real FM",
+      "s": "http://s7.voscast.com:8840/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423440/7827ab6d370293711dc843c300d5ed14_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Helen FM",
+      "s": "http://listen.htsstlucia.org:8000/radio100",
+      "l": "https://images.radiovolna.net/_files/images/stations/403265/gcul59df8feb4b5b8470112091_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Relaxing Jazz",
+      "s": "http://77.68.84.201/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/25436/4458cf9881c3d95d30705d1131947638_130x130.webp",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "The Wave",
+      "s": "http://ice66.securenetsystems.net/THEWAVE",
+      "l": "https://images.radiovolna.net/_files/images/stations/403270/v6sa59df91cdcdd7d799673623_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fire Online",
+      "s": "http://192.95.39.65/proxy/fireonlineradio?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403264/qkkj59df8fa1584bb146264736_130x130.webp",
+      "g": [
+        "International",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Caribbean International",
+      "s": "https://usa6.fastcast4u.com/proxy/vfzujvaw?mp=/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/403267/snzw59df912135b96740909303_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "DENNERYFM 88.9",
+      "s": "https://c21.radioboss.fm:8062/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/431540/221a1872296199589eb827679ae790fa_130x130.webp",
+      "g": [
+        "Decades",
+        "International",
+        "Pop",
+        "Reggae",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Prayz FM",
+      "s": "http://media.carib.pro/prayz?1392405129940.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403266/ae6h59df90e176ded052803249_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rizzen",
+      "s": "http://38.96.148.38:9668/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403269/ebfa59df91940c9eb911791062_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Meditationz Radio (Meditationz Media Network)",
+      "s": "https://streamingv2.shoutcast.com/meditationz-media-network-meditationz-radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/425538/0b2728c3fb0f6e041a433faa124e0d74_130x130.webp",
+      "g": [
+        "International",
+        "New Age",
+        "Pop",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Hitz",
+      "s": "https://ice1.securenetsystems.net/DEMOSTN?playSessionID=7450A3E3-6EA4-4A8B-B489BFF8947AC6BD",
+      "l": "https://images.radiovolna.net/_files/images/stations/423441/b8ab5d0166e7309c4b3c4b1772873990_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Unity FM",
+      "s": "https://centova12.instainternet.com/proxy/unity905?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403271/pn9f59df922031a74044945694_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Vybe Radio",
+      "s": "http://us2.internet-radio.com:8103/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/423442/a8d9d2a5f8715ee180bc339ee5f65736_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Blazin",
+      "s": "https://streams.radio.co/s5f11a7ef9/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/403262/ixf959df8d532a0ea391926181_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Kairi FM",
+      "s": "http://199.189.115.207:8000/lucia",
+      "l": "https://images.radiovolna.net/_files/images/stations/423443/985f829b56d6fc5c3ae9053074815395_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Power 97.9",
+      "s": "https://usa10.fastcast4u.com/power979fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/428674/c578971c9887018f1835c5854776ca27_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Caribbean Hot FM",
+      "s": "https://audiovs.intacs.com/caribbeanhotfm",
+      "l": "https://kuasark.com/files/stations-logos/caribbean-hot-fm.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "LibertyFm",
+      "s": "https://72.14.98.12/libertyfm",
+      "l": "https://kuasark.com/files/stations-logos/libertyfm.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 100 Live",
+      "s": "http://media.carib.pro/radio100",
+      "l": "https://kuasark.com/files/stations-logos/radio-100-live.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fire Online Radio",
+      "s": "https://usa4.fastcast4u.com/proxy/livefire?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/fire-online-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RelaxingJazz.com - Smooth Jazz",
+      "s": "http://77.68.84.201/stream/3/",
+      "l": "https://kuasark.com/files/stations-logos/relaxingjazzcom-smooth-jazz.png",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Prayz FM",
+      "s": "http://media.carib.pro/prayz",
+      "l": "https://kuasark.com/files/stations-logos/prayz-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RCI",
+      "s": "https://usa6.fastcast4u.com/proxy/vfzujvaw?mp=/1?ver=177224",
+      "l": "https://kuasark.com/files/stations-logos/rci-lc.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "7kings Radio",
+      "s": "http://perseus.shoutca.st:8838/;",
+      "l": "https://kuasark.com/files/stations-logos/7kings-radio.png",
+      "g": [
+        "Inspirational",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Real Strong Radio",
+      "s": "http://158.69.114.190:8028/stream",
+      "l": "https://kuasark.com/files/stations-logos/real-strong-radio.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "The Wave",
+      "s": "https://ice66.securenetsystems.net/THEWAVE",
+      "l": "https://kuasark.com/files/stations-logos/the-wave-lc.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Boom Station SLU",
+      "s": "https://free.rcast.net/67626",
+      "l": "https://kuasark.com/files/stations-logos/boom-station-slu.png",
+      "g": [
+        "Rap",
+        "Reggae",
+        "R&B and Urban",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "88.5 Soufrière Fm",
+      "s": "https://cast1.asurahosting.com/proxy/romanus/stream",
+      "l": "https://kuasark.com/files/stations-logos/885-soufriere-fm.png",
+      "g": [
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "Caribbean Hitz FM",
+      "s": "https://s1.voscast.com:10127/stream",
+      "l": "https://kuasark.com/files/stations-logos/caribbean-hitz-fm.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Unity FM",
+      "s": "http://198.27.68.65:8192/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/unity-fm-lc.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "News"
+      ]
+    },
+    {
+      "t": "RFI 1021 FM",
+      "s": "http://167.114.131.90:5908/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/rfi-1021-fm-lc-127851.png",
+      "g": [
+        "Inspirational",
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "RJL Radio",
+      "s": "https://s3.radio.co/sc5bdee4a4/listen",
+      "l": "https://kuasark.com/files/stations-logos/rjl-radio.png",
+      "g": [
+        "Themes",
+        "Electronic",
+        "Inspirational",
+        "Jazz",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Real FM",
+      "s": "http://s7.voscast.com:8840/;",
+      "l": "https://kuasark.com/files/stations-logos/real-fm-lc.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Zealous Radio",
+      "s": "https://stream-149.zeno.fm/29sctg26gc9uv?zs=2rFxsU7oQWKKiLip6rYfXw",
+      "l": "https://kuasark.com/files/stations-logos/zealous-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "ReggaeFM",
+      "s": "http://s34.myradiostream.com:14148/;",
+      "l": "https://kuasark.com/files/stations-logos/reggaefm.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Meditationz Radio",
+      "s": "https://s1.voscast.com:11065/stream",
+      "l": "https://kuasark.com/files/stations-logos/meditationz-radio.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Reggae",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "RFI 102.1 FM",
+      "s": "http://167.114.131.90:5908/;",
+      "l": "https://kuasark.com/files/stations-logos/rfi-1021-fm-lc-12926.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

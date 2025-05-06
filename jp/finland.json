@@ -1,0 +1,944 @@
+{
+  "stations": [
+    {
+      "t": "Rock",
+      "s": "https://digitacdn.akamaized.net/hls/live/629243/radiorock/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/2979/tm9q59747d8975dcf522871854_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Suomi Rock",
+      "s": "https://stream.bauermedia.fi/suomirock/suomirock_64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401995/v4zc59b2dc3de2613873834557_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Nova",
+      "s": "http://stream.bauermedia.fi/radionova/radionova_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2975/u7d4596c7f572a933800401157_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Suomi Pop",
+      "s": "https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/2976/szp5596d09db4e35c521757778_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Yle Radio Suomi",
+      "s": "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423689/bde721b19f548a9419ea2d287f22515b_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Santa Claus",
+      "s": "https://streaming.radiostreamlive.com/radiosantaclaus_devices",
+      "l": "https://images.radiovolna.net/_files/images/stations/6253/pawg5959eb7d0e826873049370_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "Radio Helsinki",
+      "s": "https://stream.radiohelsinki.fi/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2987/c2b44a74dd4245dcd225483576217a97_130x130.webp",
+      "g": [
+        "Themes",
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRJ Suomihitit",
+      "s": "https://stream.bauermedia.fi/nrj/nrj_64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2977/iwpr595d3ece7bde0392257240_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "City",
+      "s": "https://stream.bauermedia.fi/radiocity/radiocity_64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/9464/fa9p59b2db10810b8160865695_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "YleX",
+      "s": "https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423688/f3eafef3a7277fd70de54b63859425d0_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Yle Puhe",
+      "s": "https://yleradiolive.akamaized.net/hls/live/2027677/in-YlePuhe/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423695/eb0f3bd7a23dd5375ba9d4a5b96916df_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nostalgia",
+      "s": "https://stream.bauermedia.fi/nostalgia/nostalgia_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9465/eqta59b2db6619186658409158_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "HitMix / Metro Helsinki FM",
+      "s": "https://digitacdn.akamaized.net/hls/live/629243/hitmix/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401993/wnr75b190c659bb76907592415_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Sun",
+      "s": "https://st.downtime.fi/sun.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9474/l66w5976ef79e1503249254277_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Me Naiset Radio",
+      "s": "https://digitacdn.akamaized.net/hls/live/629243/radioaalto/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/2978/0db00b69905b419b546378eaa95d32aa_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRJ (Suomi)",
+      "s": "https://stream.radioplay.fi/nrj/nrj_64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2981/wxjw595d3f6d178e0208585176_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Rex",
+      "s": "https://stream.radiorex.fi:8000/radiorex",
+      "l": "https://images.radiovolna.net/_files/images/stations/2982/29fb76fe5a2efa92ab37c74816a6175c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Basso",
+      "s": "https://stream.bauermedia.fi/basso/bassoradio_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9469/4cb63c98298de7d46fbfbd5bbd855934_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vaasa",
+      "s": "https://stream.protonbroadcast.com:8443/radiovaasa.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9471/q53i599c716e753aa445447735_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Pooki",
+      "s": "https://stream.bauermedia.fi/radiopooki/radiopooki_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9478/g3ar59b2e26f7f70f289189721_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Moreeni",
+      "s": "http://153.1.15.29:8080/moreeni.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9475/qf3g59b2df0425df8446629548_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Finest radio",
+      "s": "https://shoutcast.finestfm.fi/stream/1/:80/;stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/427982/dfcf23745d92c7093c11444f250085c9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Steel FM",
+      "s": "https://ice6.securenetsystems.net/STEELFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/427993/21d09be7a9e92767a010a239c9976635_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Yle Radio Suomi (Rovaniemi)",
+      "s": "https://icecast.live.yle.fi/radio/YleRovaniemi/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427986/29562c8f39931ac381189dc639a8ea79_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Helmiradio",
+      "s": "https://digitacdn.akamaized.net/hls/live/629243/radiohelmi/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401989/v45j59b2d6cd16c17748842902_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Ålands Radio",
+      "s": "http://stream.alandsradio.ax/stream.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/427991/447bfd3b57f574f1b66a75c1d93c2833_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "957",
+      "s": "https://stream.bauermedia.fi/radio957/radio957_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423702/9b4aac7b8b01b0868b12297529d18cf0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Yle Radio Vega (Åboland)",
+      "s": "https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427992/32fdb6a1f4212321ac7af0b6fc48bd31_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "SuomiRäp",
+      "s": "https://stream.bauermedia.fi/suomirap/suomirap_128.mp3?context=fHA6LTE",
+      "l": "https://images.radiovolna.net/_files/images/stations/2983/8f1a37cf42537806175f29a8fa508f0a_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "YLE Radio 1",
+      "s": "https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/abr.smil/chunklist_b256000_ao.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423686/352bc86344251e76eec4dc743ac02797_130x130.webp",
+      "g": [
+        "Talk",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Groove FM",
+      "s": "https://digitacdn.akamaized.net/hls/live/629243/groove/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/9463/vuhj599c65ba5525b003788337_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Kantri Radio",
+      "s": "https://supla.digitacdn.net/live/_definst_/supla/kantri/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/427989/5446d8ca6ff3f5b63e170976744e4025_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Yle Sámi Radio",
+      "s": "https://icecast.live.yle.fi/radio/YleSami/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427988/cafd69175ae45601b1882a77cade7e9d_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Top51",
+      "s": "https://stream.bauermedia.fi/top51/top51_128.mp3?context=fHA6LTE",
+      "l": "https://images.radiovolna.net/_files/images/stations/427983/c9fb13d914d3336a39279158ecf1a303_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Yle Radio Suomi",
+      "s": "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423697/2f39c7aa5b344241c65a5b44b45bf3fc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Yle Vega (Österbotten)",
+      "s": "https://icecast.live.yle.fi/radio/YleVegaOsterbotten/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427985/9f9d57ede7e54501a6a87ecfd79bd20f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sea FM",
+      "s": "http://s3.myradiostream.com:4976/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402002/mpo559b2e3051d542140446308_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Auran Aallot",
+      "s": "https://stream.bauermedia.fi/auranaallot/auranaallot_64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/9477/gtb05974729038adf459861858_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Nova",
+      "s": "https://stream.bauermedia.fi/radionova/radionova_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-nova-fi.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Kiss fm",
+      "s": "https://stream.bauermedia.fi/kiss/kiss_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/kiss-fm-fi.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "YLE Klassinen",
+      "s": "https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/yle-klassinen.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "RQL",
+      "s": "https://centova2.cheapshoutcast.com:2199/proxy/rqlweb?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/rql.png",
+      "g": [
+        "Reggae",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Sea FM Radio",
+      "s": "https://s3.myradiostream.com/:4976/listen.mp3?ver=976890",
+      "l": "https://kuasark.com/files/stations-logos/sea-fm-radio.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Sandels",
+      "s": "http://suomiradio.pro:8080/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/radio-sandels.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Võmba FM",
+      "s": "https://c4.radioboss.fm:18123/stream",
+      "l": "https://kuasark.com/files/stations-logos/vomba-fm.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Jarvi Radio",
+      "s": "https://jarviradio.radiotaajuus.fi:9000/jr",
+      "l": "https://kuasark.com/files/stations-logos/jarvi-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bassoradio",
+      "s": "https://stream.bauermedia.fi/basso/bassoradio_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/bassoradio-fi-20408.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "Rap",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ysäri Radio",
+      "s": "https://stream.bauermedia.fi/ysari/ysari_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/ysari-radio.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "MOI Web Radio",
+      "s": "https://everestcast.streams.ovh/MOIWebRadio",
+      "l": "https://kuasark.com/files/stations-logos/moi-web-radio.png",
+      "g": [
+        "R&B and Urban",
+        "Jazz",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "ReggaeNord",
+      "s": "https://centova2.cheapshoutcast.com:2199/proxy/reggaenord?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/reggaenord.png",
+      "g": [
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dei",
+      "s": "https://stream.dei.fi:8443/yleisohjelma",
+      "l": "https://kuasark.com/files/stations-logos/radio-dei.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Aito Iskelmä",
+      "s": "https://supla.digitacdn.net/live/_definst_/supla/aitoiskelma/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/aito-iskelma.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Patmos",
+      "s": "https://s3.yesstreaming.net:7011/radio",
+      "l": "https://kuasark.com/files/stations-logos/radio-patmos.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radioverkko",
+      "s": "http://kuuntele.radioverkko.fi:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/radioverkko.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Voima",
+      "s": "https://cast2.radiovoima.fi/voima.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-voima.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Ålands Radio",
+      "s": "https://stream.alandsradio.ax/stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/alands-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jahrvi Sound",
+      "s": "http://giss.tv:8000/jahrvisound.ogg",
+      "l": "https://kuasark.com/files/stations-logos/jahrvi-sound.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Rap",
+        "Reggae",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Pori",
+      "s": "https://stream.bauermedia.fi/radiopori/radiopori_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-pori.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Hear",
+      "s": "http://hear.fi:8000/hear.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-hear.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Ramona",
+      "s": "http://185.123.117.122:8000/ramona.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-ramona.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Steel FM 95.9",
+      "s": "https://streamdb7web.securenetsystems.net/v5/STEELFM",
+      "l": "https://kuasark.com/files/stations-logos/steel-fm-959.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Inari",
+      "s": "http://radioinari.radioman.fi:8000/radioinari",
+      "l": "https://kuasark.com/files/stations-logos/radio-inari.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "SuomiRäp",
+      "s": "https://stream.radioplay.fi/suomirap/suomirap_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/suomirap.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Kantriradio",
+      "s": "https://supla.digitacdn.net/live/_definst_/supla/kantri/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/kantriradio.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Radio Dei Helsinki",
+      "s": "http://isojako.radiodei.fi:8000/helsinki",
+      "l": "https://kuasark.com/files/stations-logos/radio-dei-helsinki.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dei Kokkola",
+      "s": "http://isojako.radiodei.fi:8000/kruunupyy",
+      "l": "https://kuasark.com/files/stations-logos/radio-dei-kokkola.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dei Pohjanmaa",
+      "s": "http://isojako.radiodei.fi:8000/lapua",
+      "l": "https://kuasark.com/files/stations-logos/radio-dei-pohjanmaa.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dei Oulu",
+      "s": "http://isojako.radiodei.fi:8000/oulu",
+      "l": "https://kuasark.com/files/stations-logos/radio-dei-oulu.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dei Rovaniemi",
+      "s": "http://isojako.radiodei.fi:8000/rovaniemi",
+      "l": "https://kuasark.com/files/stations-logos/radio-dei-rovaniemi.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dei Kemi",
+      "s": "http://isojako.radiodei.fi:8000/tornio",
+      "l": "https://kuasark.com/files/stations-logos/radio-dei-kemi.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dei Turku ja Eurajoki",
+      "s": "http://isojako.radiodei.fi:8000/turkueurajoki",
+      "l": "https://kuasark.com/files/stations-logos/radio-dei-turku-ja-eurajoki.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dei Kristiinankaupunki",
+      "s": "http://isojako.radiodei.fi:8000/kristiinankaupunki",
+      "l": "https://kuasark.com/files/stations-logos/radio-dei-kristiinankaupunki.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Helsinki (128 kb/s)",
+      "s": "http://77.86.233.1:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-helsinki-128-kb-s.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Steel Fm",
+      "s": "http://ice6.securenetsystems.net/STEELFM",
+      "l": "https://kuasark.com/files/stations-logos/steel-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kaaosradio - 24h",
+      "s": "http://stream.kaaosradio.fi:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/kaaosradio-24h.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Kaaosradio - 24h Chill",
+      "s": "http://stream.kaaosradio.fi:8000/chill",
+      "l": "https://kuasark.com/files/stations-logos/kaaosradio-24h-chill.png",
+      "g": [
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Helsinki (256 kb/s)",
+      "s": "http://77.86.233.1:8002/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-helsinki-256-kb-s.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Ramona - Joulurauma",
+      "s": "http://c0.toivon.net:8100/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-ramona-joulurauma.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio KAAKKO",
+      "s": "http://wr2.downtime.fi/kaakko.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-kaakko.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 957",
+      "s": "https://stream.bauermedia.fi/radio957/radio957_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-957.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio SuomiRock",
+      "s": "https://stream.bauermedia.fi/suomirock/suomirock_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-suomirock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Groove FM",
+      "s": "http://digitacdn.akamaized.net/hls/live/629243/groove/master-128000.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/groove-fm-fi.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Loop",
+      "s": "https://digitacdn.akamaized.net/hls/live/629243/loop/master-128000.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/loop-fi-9932.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Natale",
+      "s": "https://streaming.radiostreamlive.com/radionatale_devices",
+      "l": "https://kuasark.com/files/stations-logos/radio-natale.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Suomipop",
+      "s": "https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master-128000.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-suomipop-fi-11565.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Groove FM Business",
+      "s": "https://digitacdn.akamaized.net/hls/live/629243/groove/master-128000.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/groove-fm-business.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Kasari Radio",
+      "s": "https://stream.bauermedia.fi/kasari/kasari_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/kasari-radio.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Rex",
+      "s": "http://stream.radiorex.fi:8000/radiorex",
+      "l": "https://kuasark.com/files/stations-logos/radio-rex.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RÄP",
+      "s": "https://stream.bauermedia.fi/basso/rap_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/rap.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Iskelmä",
+      "s": "https://stream.bauermedia.fi/iskelma/iskelma_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/iskelma.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Savon Aallot",
+      "s": "https://cast.savonaallot.fi/savonaallot",
+      "l": "https://kuasark.com/files/stations-logos/savon-aallot.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Gramofoni",
+      "s": "https://solid9.streamupsolutions.com/proxy/kookmuod?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-gramofoni.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Tuottaja1",
+      "s": "https://kaupunkiradio.radiotaajuus.fi:9013/radio",
+      "l": "https://kuasark.com/files/stations-logos/radio-tuottaja1.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRJ Suomi",
+      "s": "http://stream.bauermedia.fi/nrj/nrj_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nrj-suomi.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "komrad",
+      "s": "https://rad.komrad.live/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/komrad.png",
+      "g": [
+        "Electronic",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Tampereen Kiakkoradio: Ilves",
+      "s": "https://st.downtime.fi/kiakko-ilves.aac",
+      "l": "https://kuasark.com/files/stations-logos/tampereen-kiakkoradio-ilves.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Tampereen Kiakkoradio: Tappara",
+      "s": "https://st.downtime.fi/kiakko-tappara.aac",
+      "l": "https://kuasark.com/files/stations-logos/tampereen-kiakkoradio-tappara.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Jouluradio",
+      "s": "https://server0.toivon.net/proxy/toivon_0_0?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/jouluradio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Classic 128kbps",
+      "s": "https://stream.bauermedia.fi/classic/classic_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-classic-128kbps.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Bassoradio",
+      "s": "https://stream.radioplay.fi/basso/bassoradio_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/bassoradio-fi-74462.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Rock",
+      "s": "https://supla.digitacdn.net/live/_definst_/supla/radiorock/chunklist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-rock-fi-78852.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Yle Radio Suomi, Lappeenranta",
+      "s": "https://yleradiolive.akamaized.net/hls/live/2027711/in-YleLPR/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/yle-radio-suomi-lappeenranta-fi-82497.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kaleva",
+      "s": "https://kalevamedia.digitacdn.net/live/_definst_/kaleva/radio/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/kaleva.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Keskisuomalainen",
+      "s": "https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen",
+      "l": "https://kuasark.com/files/stations-logos/radio-keskisuomalainen.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kaaos Radio Techno Electro",
+      "s": "http://stream.kaaosradio.fi:8000/stream2",
+      "l": "https://kuasark.com/files/stations-logos/kaaos-radio-techno-electro.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Kaaos Radio Chiptune",
+      "s": "http://stream.kaaosradio.fi:8000/chip",
+      "l": "https://kuasark.com/files/stations-logos/kaaos-radio-chiptune.png",
+      "g": [
+        "Other",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Synthwave Radio",
+      "s": "https://icecast.synthwaveradio.eu:8000/live?nocache=122809",
+      "l": "https://kuasark.com/files/stations-logos/synthwave-radio.png",
+      "g": [
+        "Electronic",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Dei Kajaani",
+      "s": "https://stream.dei.fi:8443/kajaani",
+      "l": "https://kuasark.com/files/stations-logos/radio-dei-kajaani.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Dei Lahti",
+      "s": "https://stream.dei.fi:8443/lahti",
+      "l": "https://kuasark.com/files/stations-logos/radio-dei-lahti.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Hamsi FM",
+      "s": "http://radyo.hamsi.fm:8050/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/hamsi-fm-fi.png",
+      "g": [
+        "Other",
+        "News",
+        "International"
+      ]
+    },
+    {
+      "t": "Loop",
+      "s": "https://digitacdn.akamaized.net/hls/live/629243/loop/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/loop-fi-121676.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

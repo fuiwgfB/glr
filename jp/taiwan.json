@@ -1,0 +1,761 @@
+{
+  "stations": [
+    {
+      "t": "ICRT",
+      "s": "https://live.leanstream.co/ICRTFM-MP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/27956/d0f0ecbab1914ca4ade62578925ca0e4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Taiwan International",
+      "s": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti6/chunklist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/430488/ecff476c86c64600a960a47d0e55daee_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "中廣流行網 i like radio",
+      "s": "http://stream.rcs.revma.com/aw9uqyxy2tzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428549/ee4da718098fa13d302cf6e04c78e028_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TAIWAN LOUNGE RADIO",
+      "s": "https://azuracast.conceptradio.fr/radio/8030/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430864/1cda10ee0e7fc2248297214ac15da0e9_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "中廣新聞網 NewsRadio",
+      "s": "http://n03a-eu.rcs.revma.com/78fm9wyy2tzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428551/3bf3c57eb43588d5219890ef61b8b8de_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "正聲廣播公司",
+      "s": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428550/870ca9e2bfd1c0bbf4ccc2cc7c653ffe_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "國立教育廣播電台",
+      "s": "https://cast.ner.gov.tw/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/428546/018e3f2572b9a60f0405f2b1ffe0d76c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "幸福電台",
+      "s": "https://live.tr-radio.com/live/live/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428547/f567b4633155f641348136b5dce1b4fc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "世新廣播電台",
+      "s": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428552/92338337347752f6b96b0e0ff8a4dfc3_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "News 98 FM Radio",
+      "s": "https://stream.rcs.revma.com/pntx1639ntzuv.m4a?1672597573",
+      "l": "https://images.radiovolna.net/_files/images/stations/416136/nmd85c0d7c2e17368366491447_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "飛碟聯播網 UFO Network",
+      "s": "http://stream.rcs.revma.com/4yevzvbeewzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428545/8de23a3533d0b1f47207cfd5a9331c66_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Taiwan Lounge Radio",
+      "s": "https://azuracast.conceptradio.fr/radio/8030/stream.mp3?1596557333",
+      "l": "https://kuasark.com/files/stations-logos/taiwan-lounge-radio.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "城市廣播 - 城市廣播",
+      "s": "http://fm971.cityfm.tw:8080/971.mp3",
+      "l": "https://kuasark.com/files/stations-logos/cheng-shi-guang-bo-cheng-shi-guang-bo.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "臺北廣播電臺",
+      "s": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tai-bei-guang-bo-dian-tai.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Supreme Master Television",
+      "s": "http://radio.suprememastertv.com/mp3_128k",
+      "l": "https://kuasark.com/files/stations-logos/supreme-master-television.png",
+      "g": [
+        "News",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "中廣音樂網i radio",
+      "s": "http://n06a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABiLQIxoUAVppP2RJLBWDgSw",
+      "l": "https://kuasark.com/files/stations-logos/zhong-guang-yin-le-wangi-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "大愛網路電台",
+      "s": "http://38.96.148.28:8156/stream",
+      "l": "https://kuasark.com/files/stations-logos/da-ai-wang-lu-dian-tai.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "佳音經典音樂網",
+      "s": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/jia-yin-jing-dian-yin-le-wang.png",
+      "g": [
+        "Classical",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "PBS Taipei Sub-Station",
+      "s": "http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/pbs-taipei-sub-station.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "佳音電台",
+      "s": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/jia-yin-dian-tai.png",
+      "g": [
+        "Pop",
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Lize Radio",
+      "s": "http://lizeradio.com:8080/;&type=mp3",
+      "l": "https://kuasark.com/files/stations-logos/lize-radio.png",
+      "g": [
+        "Classical",
+        "New Age",
+        "Pop"
+      ]
+    },
+    {
+      "t": "KISSRadio",
+      "s": "http://www.kiss.com.tw/radio_hq.php?radio_id=156",
+      "l": "https://kuasark.com/files/stations-logos/kissradio.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "中廣流行網",
+      "s": "https://hichannel-hp.cdn.hinet.net/radio/",
+      "l": "https://kuasark.com/files/stations-logos/zhong-guang-liu-xing-wang.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MRadio全國廣播FM106",
+      "s": "http://n08a-eu.rcs.revma.com/044q61ha7a0uv?rj-ttl=5&rj-tok=AAABiLP6wYkAJQKpn2hHoAlDkQ",
+      "l": "https://kuasark.com/files/stations-logos/mradio-quan-guo-guang-bofm106.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Taiwan fm 90.5  大 樹下 廣播 電台",
+      "s": "http://60.250.148.112:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-taiwan-fm-905-da-shu-xia-guang-bo-dian-tai.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "GOJOY",
+      "s": "https://play.gojoy.org/audio/stream",
+      "l": "https://kuasark.com/files/stations-logos/gojoy.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fly Radio FM 89.5",
+      "s": "https://n12a-eu.rcs.revma.com/e0tdah74hv8uv?rj-ttl=5&rj-tok=AAABiLQY3NwAPdd41IfT2mtOfw",
+      "l": "https://kuasark.com/files/stations-logos/fly-radio-fm-895.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "淡江之聲 FM88.7",
+      "s": "http://163.13.182.81:8001/votk",
+      "l": "https://kuasark.com/files/stations-logos/dan-jiang-zhi-sheng-fm887.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "CanCheers",
+      "s": "http://us3.internet-radio.com:8232/stream",
+      "l": "https://kuasark.com/files/stations-logos/cancheers.png",
+      "g": [
+        "Classical",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Gogo Radio FM 104.3(桃園)",
+      "s": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/gogo-radio-fm-1043tao-yuan.png",
+      "g": [
+        "Pop",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "金聲廣播電台",
+      "s": "http://60.249.186.105:9000/;?icy=http",
+      "l": "https://kuasark.com/files/stations-logos/jin-sheng-guang-bo-dian-tai.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "佳音聖樂網 CCM FM90.9",
+      "s": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/jia-yin-sheng-le-wang-ccm-fm909.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Love Radio 羅東廣播電台",
+      "s": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm903/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/love-radio-luo-dong-guang-bo-dian-tai.png",
+      "g": [
+        "Pop",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "IC 之音 FM",
+      "s": "http://www.ic975.com/NetRadio/",
+      "l": "https://kuasark.com/files/stations-logos/ic-zhi-yin-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "BCC Country Network",
+      "s": "http://n06a-eu.rcs.revma.com/k6q5h6yy2tzuv?rj-ttl=5&rj-tok=AAABiLP8DTEAyAHb9CJ4gGZj1g",
+      "l": "https://kuasark.com/files/stations-logos/bcc-country-network.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "NBC 美聲廣播電台fm91.5",
+      "s": "http://1.34.23.16:8080/broadwavehigh.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nbc-mei-sheng-guang-bo-dian-taifm915.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "世 新 廣播 電台 SHRS 88.1 FM",
+      "s": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/shi-xin-guang-bo-dian-tai-shrs-881-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio I go 531",
+      "s": "http://n16a-eu.rcs.revma.com/s7hc9kpy2tzuv?rj-ttl=5&rj-tok=AAABiLQIxmsAJqxS_ujEmzWLGQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-i-go-531.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "民本廣播 AM 1296",
+      "s": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/min-ben-guang-bo-am-1296.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "民本廣播 AM 855",
+      "s": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/min-ben-guang-bo-am-855.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Taiwan Good TV Truth",
+      "s": "http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/taiwan-good-tv-truth.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Phate",
+      "s": "https://stream.phate.io/phateio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/phate.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "1766線上電臺-店頭音樂",
+      "s": "http://livestream.1766.today:1781/live2.mp3",
+      "l": "https://kuasark.com/files/stations-logos/1766xian-shang-dian-tai-dian-tou-yin-le.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "1766線上電臺-私房音樂",
+      "s": "http://livestream.1766.today:1769/live1.mp3",
+      "l": "https://kuasark.com/files/stations-logos/1766xian-shang-dian-tai-si-fang-yin-le.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "臺藝之聲 VOTA",
+      "s": "https://votastream.ntua.edu.tw:8443/vota",
+      "l": "https://kuasark.com/files/stations-logos/tai-yi-zhi-sheng-vota.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1766線上電臺-百家知識",
+      "s": "http://livestream.1766.today:1768/live1.mp3",
+      "l": "https://kuasark.com/files/stations-logos/1766xian-shang-dian-tai-bai-jia-zhi-shi.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "城市廣播網•大苗栗廣播",
+      "s": "http://fm983.cityfm.tw:8080/983.mp3",
+      "l": "https://kuasark.com/files/stations-logos/cheng-shi-guang-bo-wangda-miao-li-guang-bo.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "ICRT",
+      "s": "http://live.leanstream.co/ICRTFM?args=tunein_aac",
+      "l": "https://kuasark.com/files/stations-logos/icrt.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "警察廣播電台 - 全國治安交通網",
+      "s": "http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/jing-cha-guang-bo-dian-tai-quan-guo-zhi-an-jiao-tong-wang.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "中廣音樂網",
+      "s": "https://n23a-eu.rcs.revma.com/ks4vsmg3qtzuv?rj-ttl=5&rj-tok=AAABiLP5S5gAiiZULTmfWiJCdw",
+      "l": "https://kuasark.com/files/stations-logos/zhong-guang-yin-le-wang.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "中廣I go 531",
+      "s": "http://n14.rcs.revma.com/s7hc9kpy2tzuv?rj-ttl=5&rj-tok=AAABiLP5XrYAXxlZj6UIHmPyRw",
+      "l": "https://kuasark.com/files/stations-logos/zhong-guangi-go-531.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "警察廣播電台 - 台中台",
+      "s": "http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/jing-cha-guang-bo-dian-tai-tai-zhong-tai.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "IC之音竹科廣播",
+      "s": "https://n13.rcs.revma.com/7mnq8rt7k5zuv?rj-ttl=5&rj-tok=AAABiLP5aGoAB7WD-f6eTKUSAw",
+      "l": "https://kuasark.com/files/stations-logos/ic-zhi-yin-zhu-ke-guang-bo.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Classical 古典音樂台 FM 97.7",
+      "s": "http://59.120.88.155:8000/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/classical-gu-dian-yin-le-tai-fm-977.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "中广流行网",
+      "s": "https://n08a-eu.rcs.revma.com/ks4vsmg3qtzuv?rj-ttl=5&rj-tok=AAABiLP5v6MASk8BWs3zs45mAw",
+      "l": "https://kuasark.com/files/stations-logos/zhong-guang-liu-xing-wang-tw-26115.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "鳳鳴廣播電台1台",
+      "s": "https://am1161.ddns.net:9005/stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/feng-ming-guang-bo-dian-tai1tai.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "鳳鳴廣播電台2台",
+      "s": "https://am981.ddns.net:9005/stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/feng-ming-guang-bo-dian-tai2tai.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "教育廣播電臺-臺北總臺AM臺",
+      "s": "https://cast.ner.gov.tw/2",
+      "l": "https://kuasark.com/files/stations-logos/jiao-yu-guang-bo-dian-tai-tai-bei-zong-taiam-tai.png",
+      "g": [
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "教育廣播電臺-臺中AM臺",
+      "s": "https://cast.ner.gov.tw/3",
+      "l": "https://kuasark.com/files/stations-logos/jiao-yu-guang-bo-dian-tai-tai-zhongam-tai.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "教育廣播電臺-彰化分臺FM",
+      "s": "https://cast.ner.gov.tw/4",
+      "l": "https://kuasark.com/files/stations-logos/jiao-yu-guang-bo-dian-tai-zhang-hua-fen-taifm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "教育廣播電臺-花蓮分臺FM-1",
+      "s": "https://cast.ner.gov.tw/8",
+      "l": "https://kuasark.com/files/stations-logos/jiao-yu-guang-bo-dian-tai-hua-lian-fen-taifm-1.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "教育廣播電臺-花蓮分臺FM-2",
+      "s": "https://cast.ner.gov.tw/9",
+      "l": "https://kuasark.com/files/stations-logos/jiao-yu-guang-bo-dian-tai-hua-lian-fen-taifm-2.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "教育廣播電臺-高雄分臺",
+      "s": "https://cast.ner.gov.tw/5",
+      "l": "https://kuasark.com/files/stations-logos/jiao-yu-guang-bo-dian-tai-gao-xiong-fen-tai.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "教育廣播電臺-臺東分臺FM-1",
+      "s": "https://cast.ner.gov.tw/6",
+      "l": "https://kuasark.com/files/stations-logos/jiao-yu-guang-bo-dian-tai-tai-dong-fen-taifm-1.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "教育廣播電臺-臺東分臺FM-2",
+      "s": "https://cast.ner.gov.tw/7",
+      "l": "https://kuasark.com/files/stations-logos/jiao-yu-guang-bo-dian-tai-tai-dong-fen-taifm-2.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "佳音羅東宜蘭90.3",
+      "s": "http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/jia-yin-luo-dong-yi-lan903.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "佳音現代音樂網",
+      "s": "http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/jia-yin-xian-dai-yin-le-wang.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "News98",
+      "s": "http://n14.rcs.revma.com/55tyxsy4qtzuv.m4a?rj-ttl=5&rj-tok=AAABiLP8o2gAz9pvAALL7CqCpA",
+      "l": "https://kuasark.com/files/stations-logos/news98.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "大樹下廣播電台",
+      "s": "http://61.216.152.235:8000/FM905",
+      "l": "https://kuasark.com/files/stations-logos/da-shu-xia-guang-bo-dian-tai.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "民本電台-2",
+      "s": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/min-ben-dian-tai-2.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "桃園GO GO104.3",
+      "s": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/chunklist_w1108784103.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tao-yuango-go1043.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "M radio",
+      "s": "http://n07.rcs.revma.com/044q61ha7a0uv?rj-ttl=5&rj-tok=AAABiLP-Hz0AskUwwzIInMkmXw",
+      "l": "https://kuasark.com/files/stations-logos/m-radio-tw.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "亞太電台92.3",
+      "s": "https://n07.rcs.revma.com/kydend74hv8uv?rj-ttl=5&rj-tok=AAABiLP-LyMA-qshJf9cNgGXWQ",
+      "l": "https://kuasark.com/files/stations-logos/ya-tai-dian-tai923.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "亞洲廣播電台92.7",
+      "s": "https://n07.rcs.revma.com/xpgtqc74hv8uv?rj-ttl=5&rj-tok=AAABiLP-LtUAGYn8TUPeujg6HA",
+      "l": "https://kuasark.com/files/stations-logos/ya-zhou-guang-bo-dian-tai927.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "東南廣播公司AM585",
+      "s": "https://lhttp.qingting.fm/live/1734/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dong-nan-guang-bo-gong-siam585.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "UFO Radio",
+      "s": "https://n11a-eu.rcs.revma.com/em90w4aeewzuv?rj-ttl=5&rj-tok=AAABiLP-l-0AwAfcCEGAKoargQ",
+      "l": "https://kuasark.com/files/stations-logos/ufo-radio.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "正聲廣播電台FM104",
+      "s": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/zheng-sheng-guang-bo-dian-taifm104.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "華藝廣播公司",
+      "s": "https://lhttp.qtfm.cn/live/20500139/64k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hua-yi-guang-bo-gong-si.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "台中城市廣播",
+      "s": "http://fm901.cityfm.tw:8080/901.mp3",
+      "l": "https://kuasark.com/files/stations-logos/tai-zhong-cheng-shi-guang-bo.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "臺北電台AM",
+      "s": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tai-bei-dian-taiam.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rti Radio Taiwan Internacional",
+      "s": "https://es-static.rti.org.tw/assets/audio/2022/09/19/20220919_2200_0086_es.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rti-radio-taiwan-internacional.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "优视频道",
+      "s": "http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/you-shi-pin-dao.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "幸福廣播電台",
+      "s": "https://live.tr-radio.com/live/live/playklist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/xing-fu-guang-bo-dian-tai.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bravo FM 台北都會音樂台",
+      "s": "https://onair.bravo913.com.tw:9130/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/bravo-fm-tai-bei-dou-hui-yin-le-tai.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RTI 臺灣之音",
+      "s": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rti-tai-wan-zhi-yin.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "B&B Radio",
+      "s": "http://61.216.169.8:8000/airtime_128",
+      "l": "https://kuasark.com/files/stations-logos/bb-radio-tw.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

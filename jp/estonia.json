@@ -1,0 +1,920 @@
+{
+  "stations": [
+    {
+      "t": "Rock FM",
+      "s": "https://stream.skymedia.ee/live/rck",
+      "l": "https://images.radiovolna.net/_files/images/stations/420274/d73bca2c06698ad07160ac729c734800_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Star FM+",
+      "s": "https://ice.leviracloud.eu/volna128-aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/6388/12db9579a6d904a09f6e6dfbf9c72f1d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Народное Радио",
+      "s": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/narodnoe.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/463/718f5f1f39b797a3bf655eea89b32eaf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Raadio Duo (Радио Дуо)",
+      "s": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/dfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/632/2e8d4f3b35af8ce24dab8080f8f90488_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SKY Радио",
+      "s": "https://stream.skymedia.ee/live/SKY",
+      "l": "https://images.radiovolna.net/_files/images/stations/682/csan596f949374cf6694313166_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRJ FM",
+      "s": "https://stream.skymedia.ee/live/NRJ",
+      "l": "https://images.radiovolna.net/_files/images/stations/888/b1484efe568f4471a2fa6da56a7a24b7_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "ERR Klassikaraadio",
+      "s": "http://icecast.err.ee:80/klassikaraadio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/969/1486913888_kr_logo_13.jpg-354472_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Retro FM",
+      "s": "https://stream.skymedia.ee/live/RETRO",
+      "l": "https://images.radiovolna.net/_files/images/stations/2966/kmqw59565ca8b954e784553973_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Raadio Uuno - MyHits",
+      "s": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2967/yz9u596c859c37c72562554524_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Raadio Elmar",
+      "s": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2965/63e57878c7de8f17cb6482c546c37e7a_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Super Радио",
+      "s": "https://skymedia-live.bitflip.ee/RR",
+      "l": "https://images.radiovolna.net/_files/images/stations/495/9f3e65a16a167d2edfadaad2b2a3f75d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Юмор FM",
+      "s": "https://ic6.101.ru:8000/stream/air/aac/64/102",
+      "l": "https://images.radiovolna.net/_files/images/stations/419400/2bd1e12f5cf9dd6fde9698577d2d5a14_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Star FM",
+      "s": "https://ice.leviracloud.eu/star96-aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/5873/63200cb8a255a18fe536fa4b4bcfdbdf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Raadio 4",
+      "s": "http://icecast.err.ee:80/raadio4.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/1222/6cd7d18249d67528d780c3b0fb2fc817_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ERR Vikerraadio",
+      "s": "http://icecast.err.ee:80/vikerraadio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/1494/gh6z597b4869c933c609401890_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Power Hit Radio",
+      "s": "https://ice.leviracloud.eu/phr96-aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/5875/16bbb8de2ba9dfe485fae880ab514b53_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Raadio Kuku",
+      "s": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/5872/yc3j597b62377830c959139758_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sky Plus",
+      "s": "https://stream.skymedia.ee/live/SKYPLUS",
+      "l": "https://images.radiovolna.net/_files/images/stations/5870/af1ccabb4dc17bc6f90a2da4c1352c14_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Семейное радио Эли",
+      "s": "https://icecast.pereraadio.ee:9000/Semeinoje",
+      "l": "https://images.radiovolna.net/_files/images/stations/428020/96d35c43bfbddcebd93b4112bf4710d5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ERR Raadio 2",
+      "s": "https://icecast.err.ee/raadio2.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2968/089e939d08f65be5863783942b978b80_130x130.webp",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "SSS-Radio",
+      "s": "http://217.146.76.112:8000/sss-radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/420276/7bb1cdcd188f9030d75a2bb33c48c3f1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Retro FM Love",
+      "s": "http://stream.skymedia.ee/live/RetroJ6ulud",
+      "l": "https://images.radiovolna.net/_files/images/stations/431333/9d305796d690ae01ddbdbba95273329b_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Raadio Kadi",
+      "s": "http://icecast.mmm.elion.ee:8080/Kadi",
+      "l": "https://images.radiovolna.net/_files/images/stations/2970/ltgh5a2bef50acac4297472414_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Relax Instrumental",
+      "s": "https://stream.relaxfm.ee/instrumental",
+      "l": "https://kuasark.com/files/stations-logos/relax-instrumental.png",
+      "g": [
+        "Classical",
+        "Easy Listening",
+        "Folk",
+        "Jazz",
+        "New Age",
+        "Other"
+      ]
+    },
+    {
+      "t": "Relax FM",
+      "s": "https://stream.relaxfm.ee/relax",
+      "l": "https://kuasark.com/files/stations-logos/relax-fm-ee.png",
+      "g": [
+        "Easy Listening",
+        "Classical",
+        "Jazz",
+        "New Age",
+        "Pop",
+        "Rock",
+        "Soundtracks",
+        "Decades",
+        "Other",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Relax Cafe",
+      "s": "https://stream.relaxfm.ee/cafe",
+      "l": "https://kuasark.com/files/stations-logos/relax-cafe.png",
+      "g": [
+        "Easy Listening",
+        "Classical",
+        "Jazz",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Relax Jazz",
+      "s": "https://stream.relaxfm.ee/jazz",
+      "l": "https://kuasark.com/files/stations-logos/relax-jazz.png",
+      "g": [
+        "Blues",
+        "Easy Listening",
+        "Classical",
+        "Jazz",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Relax International",
+      "s": "https://stream.relaxfm.ee/international",
+      "l": "https://kuasark.com/files/stations-logos/relax-international.png",
+      "g": [
+        "Easy Listening",
+        "New Age",
+        "Pop",
+        "Rock",
+        "Decades",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Retro FM",
+      "s": "https://edge04.cdn.bitflip.ee:8888/RETRO?_i=5f69097c",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-ee.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sky Plus",
+      "s": "https://edge04.cdn.bitflip.ee:8888/SKYPLUS?_i=5f69097c",
+      "l": "https://kuasark.com/files/stations-logos/sky-plus.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rock FM",
+      "s": "https://edge05.cdn.bitflip.ee:8888/rck?_i=5f69097c",
+      "l": "https://kuasark.com/files/stations-logos/rock-fm-ee.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "NRJ",
+      "s": "https://edge02.cdn.bitflip.ee:8888/NRJ?_i=5e295118",
+      "l": "https://kuasark.com/files/stations-logos/nrj.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vikerraadio",
+      "s": "http://icecast.err.ee/vikerraadio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/vikerraadio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Raadio 4 - ER4",
+      "s": "http://icecast.err.ee/raadio4madal.mp3",
+      "l": "https://kuasark.com/files/stations-logos/raadio-4-er4.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "International"
+      ]
+    },
+    {
+      "t": "Radio MyHits",
+      "s": "https://le02.euddn.net/9bdf4ca1e4b0c59ba0f4d0bb9688875d5e07b5e9b85e5b74559f1d3ab6b9183cc1fb2f2e088916b0622289ac304c12298bf4bb355cbc68e86e55fa1b909b15fdbf59646f207f3291aa806ebeda2909f3ca19a8a80534dc19727e17ebbf63688ab878602ba9e7abe7c0538ab9b61af2bc1f1c0368d27531863a80368f6f1658ea13679e3445b88ecb8ecdfba56462e2511ea33f4256bb872bc234737b0ef574f5754ca581a25f9194b208165f19de76bd/myhits.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-myhits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Russkoe Radio",
+      "s": "https://edge04.cdn.bitflip.ee:8888/RR?_i=5f69097c",
+      "l": "https://kuasark.com/files/stations-logos/russkoe-radio-ee.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Raadio Elmar",
+      "s": "https://le10.euddn.net/357f554c34b58b924f426a48318dbdd5648b48a4bedb0dc98fb9a53d026850291291124dbf38e5702d001c30dff8a480a1a6df66e7adaaea5c29383d6b9b671ca9d07333bd933ccae8311bb704ef74995d11b83e8251d82217e2626ae2bc62d8f09f4906c7956473e16f8f925b8e1c5d0ab9a27c1d4d2635c646858cb4e9b887133ed0afda6322739ecd4e710b1f657a53f5eddba5c9ad76f690df21ce403ee849454e3313156a5cc3a98d3336da8552/elmar.aac",
+      "l": "https://kuasark.com/files/stations-logos/raadio-elmar.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Радио Ностальгия",
+      "s": "http://c18.radioboss.fm:8016/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-nostalgia-ee.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "D-FM",
+      "s": "http://le06.euddn.net/82d3332238122e4f4154a9d9d192cf61a9168c63a7d4bdf145e6253e23e535601e3915e330910d0b3c6a016a7eb9bbb4013a30eee756a587ad234815ccc6238ba16c530fd238f6c099c9ecfb94081244136005fb417c0d1b7f5d7f0663e3a98e9ce9953f59f2f53f9575cf8a2025d5131417be92179a26302062f6bf226d68ef56cf225158560c011fe0f891b0a1666979fc7dda5a2e7ab3f4c9b39b99970701/dfm.aac",
+      "l": "https://kuasark.com/files/stations-logos/d-fm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Народное Радио",
+      "s": "https://le02.euddn.net/47d5db5af4b9837f20415bc9a383982a73090d61eca0a24d2f31f567625ff253d615a38e24eec794747fb660af1e911afeb181282e58152b239b4a20d8379ac9bd15f7aa8754d8fde7c6bc57577abf23cf6709c2fafeae507629d181c3961c4f8972e5bfabe60d3d5157a5d02d858016c8b169a2a842e3691bb36ebe76a4b710032f74f9c7534009ed9922a652ae342a5ffe77ee5f263738eb1056fa375f4fd8d8ac45c583d801fa3dca7e93c58da1e0/narodnoe.mp3",
+      "l": "https://kuasark.com/files/stations-logos/narodnoe-radio-ee.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SKY Радио",
+      "s": "https://edge05.cdn.bitflip.ee:8888/SKY?_i=5f69097c",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-ee.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sky Радио",
+      "s": "https://skymedia-live.bitflip.ee/SKY",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "ERR Raadio 2",
+      "s": "http://icecast.err.ee/raadio2.mp3",
+      "l": "https://kuasark.com/files/stations-logos/err-raadio-2.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Радио Волна",
+      "s": "https://ice.leviracloud.eu/volna96-aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-volna.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Retro FM Disco",
+      "s": "https://edge02.cdn.bitflip.ee:8888/retro1.mp3?_i=5e295118",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-disco.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Relax loodus",
+      "s": "https://stream.relaxfm.ee/loodus_hd",
+      "l": "https://kuasark.com/files/stations-logos/relax-loodus.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Raadio Kuku",
+      "s": "https://le02.euddn.net/0ca60ffac7084608c3a4e5b172d8e55fad53c4604a858bc0ceacf0ad7f0b80781cdfca4ed29f4ce16afba4f3d448ebc2b52b9624ab8c40cce964f645936f86a7e0090652261977588ecefda596b215840f4419c22a73d66d57eb28bd8f2a0ff0dc77be538f84e5bf0f8eb37b14b04a505f7a09e5d04f88a2ff36b10aeda60aed8dd22bb20791c9fc21e47996d2cc21e28430216005a219ff99d3639d4fef5eb0/kuku.aac",
+      "l": "https://kuasark.com/files/stations-logos/raadio-kuku.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Hits Radio Online",
+      "s": "http://live.rcast.net:8714/stream",
+      "l": "https://kuasark.com/files/stations-logos/hits-radio-online.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Klassika Raadio",
+      "s": "http://icecast.err.ee/klassikaraadio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/klassika-raadio.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Sky Plus DNB",
+      "s": "https://edge02.cdn.bitflip.ee:8888/NRJdnb?_i=5e295118",
+      "l": "https://kuasark.com/files/stations-logos/sky-plus-dnb.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Retro FM Eestikas",
+      "s": "https://edge02.cdn.bitflip.ee:8888/retro2.mp3?_i=5e295118",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-eestikas.png",
+      "g": [
+        "Folk",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Spin FM",
+      "s": "http://87.110.219.34:8000/spinmp3",
+      "l": "https://kuasark.com/files/stations-logos/spin-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sooviraadio",
+      "s": "http://media.uunox.net:8888/;",
+      "l": "https://kuasark.com/files/stations-logos/sooviraadio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rock FM Metal",
+      "s": "https://edge01.cdn.bitflip.ee:8888/rckmetal?_i=5e295118",
+      "l": "https://kuasark.com/files/stations-logos/rock-fm-metal.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Relax Spa",
+      "s": "https://stream.relaxfm.ee/spa",
+      "l": "https://kuasark.com/files/stations-logos/relax-spa.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Ring FM",
+      "s": "https://cdn.treraadio.ee/ringfm",
+      "l": "https://kuasark.com/files/stations-logos/ring-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Russkoe Radio Rap",
+      "s": "https://edge02.cdn.bitflip.ee:8888/rrap?_i=5e295118",
+      "l": "https://kuasark.com/files/stations-logos/russkoe-radio-rap.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "SKY Радио Gold",
+      "s": "https://edge02.cdn.bitflip.ee:8888/SKYgold?_i=5e295118",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-gold.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Doubleclap Radio",
+      "s": "https://s3.radio.co/scfd7273b2/listen",
+      "l": "https://kuasark.com/files/stations-logos/doubleclap-radio.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Nömme Raadio",
+      "s": "http://149.210.138.12:8000/nommeraadio",
+      "l": "https://kuasark.com/files/stations-logos/nomme-raadio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "HappyU Radio",
+      "s": "https://radio.streemlion.com:2525/stream",
+      "l": "https://kuasark.com/files/stations-logos/happyu-radio.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tartu Family Radio",
+      "s": "http://worker.pereraadio.ee:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/tartu-family-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Raadio Duo",
+      "s": "https://le01.euddn.net/b4805303594451c2c36126afd7581504496ae1f35fcb1f05edf0b95e812374915de10eb12ebe904228d089d64b133138481884bcfaaed47f13ffa40d52ed3b7be77e1fbc630a913acae86b35cec075d535ab4d06d1aedae63829c3d8068f087414a18d05679cb54b5fee303a535f5f04e5109fcc7e45aad9ecd006b472eeb5ba220c6e477063bfbddbfd4c3222da995f2bc4dae08e76820bd903832ee50eb348c2c37e04c6dfed95373aacf2ebff69d5/radioduo.aac",
+      "l": "https://kuasark.com/files/stations-logos/raadio-duo.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Xl Radio - Estonia",
+      "s": "http://live.rcast.net:9172/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/xl-radio-estonia.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Artekon Raadio",
+      "s": "https://listen1.myradio24.com/5566",
+      "l": "https://kuasark.com/files/stations-logos/artekon-raadio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Russkoe Radio Rock",
+      "s": "https://edge02.cdn.bitflip.ee:8888/rrock?_i=5e295118",
+      "l": "https://kuasark.com/files/stations-logos/russkoe-radio-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "SKY Радио Dance",
+      "s": "https://edge02.cdn.bitflip.ee:8888/SKYdance?_i=5e295118",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-dance.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Chat Raadio",
+      "s": "https://server.jasva.com:7878/stream",
+      "l": "https://kuasark.com/files/stations-logos/chat-raadio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sky Plus Gold",
+      "s": "https://edge02.cdn.bitflip.ee:8888/skyplus_gold.mp3?_i=5e295118",
+      "l": "https://kuasark.com/files/stations-logos/sky-plus-gold.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sky Plus Dance",
+      "s": "https://edge02.cdn.bitflip.ee:8888/skyplusdance?_i=5e295118",
+      "l": "https://kuasark.com/files/stations-logos/sky-plus-dance.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sky Plus Top",
+      "s": "https://edge02.cdn.bitflip.ee:8888/skyplus_top40.mp3?_i=5e295118",
+      "l": "https://kuasark.com/files/stations-logos/sky-plus-top.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Raadio Kadi",
+      "s": "https://edge06.cdn.bitflip.ee:8888/kadi",
+      "l": "https://kuasark.com/files/stations-logos/raadio-kadi.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Pereraadio Tartu",
+      "s": "http://bee.pereraadio.ee:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/pereraadio-tartu.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Raadio 7",
+      "s": "https://edge05.cdn.bitflip.ee:8888/R7",
+      "l": "https://kuasark.com/files/stations-logos/raadio-7.png",
+      "g": [
+        "Pop",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "R2 Pop",
+      "s": "http://icecast.err.ee:80/r2popkorge.mp3",
+      "l": "https://kuasark.com/files/stations-logos/r2-pop.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TRE Raadio Põhja-Eesti",
+      "s": "http://sc2.treraadio.ee/pohja-tre",
+      "l": "https://kuasark.com/files/stations-logos/tre-raadio-pohja-eesti.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "R2 Eesti",
+      "s": "http://icecast.err.ee:80/r2eestikorge.mp3",
+      "l": "https://kuasark.com/files/stations-logos/r2-eesti.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kaguraadio",
+      "s": "https://locomanoco.vlevelscdn.net/radio/kaguraadio.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/kaguraadio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Postimees Raadio",
+      "s": "https://le03.euddn.net/cd35277e2466edb26084b72dba5c7ef843dbf990b8f6036ced2b38062e9ed4e952c6ceb2240fcea5529ea39b47230ba678727f4b182ea1eba7d53019582f3fea47521fcb21e098deef253d0dd39c1eccfaea2aae78212c35b1ae9202f181d8242c081d78427a09a510738c0a133647bff6dae00457bfff272331f746dd56a7d3f1c1a81006212958a39b9befd5682f925e5a6e7ce5ba3880e0f4f625422be80af3ff2ffc58bf86c96b5b879aa7b29013dff817551bab52f3985cffc58f6566cd/postimeesraadio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/postimees-raadio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Azathoth Revival",
+      "s": "https://cast4.my-control-panel.com/proxy/aadu/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-azathoth-revival.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Raadio Tallinn",
+      "s": "http://icecast.err.ee/raadiotallinn.mp3",
+      "l": "https://kuasark.com/files/stations-logos/raadio-tallinn.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kuma FM 101.0",
+      "s": "http://5.39.16.62:8004/tre",
+      "l": "https://kuasark.com/files/stations-logos/kuma-fm-1010.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Äripäeva Raadio",
+      "s": "https://liveplay.aripaev.ee/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/aripaeva-raadio.png",
+      "g": [
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Эли",
+      "s": "http://icecast.pereraadio.ee:8000/RadioEli",
+      "l": "https://kuasark.com/files/stations-logos/radio-eli.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "IDA Radio",
+      "s": "https://streams.radio.co/s053b51423/listen",
+      "l": "https://kuasark.com/files/stations-logos/ida-radio.png",
+      "g": [
+        "Alternative",
+        "New Age",
+        "Country",
+        "Electronic",
+        "Rock",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Raadio 2 (HQ)",
+      "s": "http://icecast.err.ee:80/raadio2korge.mp3",
+      "l": "https://kuasark.com/files/stations-logos/raadio-2-hq-ee-77056.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Raadio 2 HQ",
+      "s": "http://icecast.err.ee/raadio2korge.mp3",
+      "l": "https://kuasark.com/files/stations-logos/raadio-2-hq-ee-77061.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Retro FM Estonia",
+      "s": "https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-estonia.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "r2chill",
+      "s": "http://icecast.err.ee/r2chill.opus",
+      "l": "https://kuasark.com/files/stations-logos/r2chill.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "R2Rock",
+      "s": "http://icecast.err.ee/r2rock.opus",
+      "l": "https://kuasark.com/files/stations-logos/r2rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "R2Altpop",
+      "s": "http://icecast.err.ee/r2alternatiiv.opus",
+      "l": "https://kuasark.com/files/stations-logos/r2altpop.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "KlaRa Klassika",
+      "s": "https://icecast.err.ee/klaraklassika.mp3",
+      "l": "https://kuasark.com/files/stations-logos/klara-klassika.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "KlaRa Jazz",
+      "s": "https://icecast.err.ee/klarajazz.mp3",
+      "l": "https://kuasark.com/files/stations-logos/klara-jazz.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "KlaRa Nostalgia",
+      "s": "https://icecast.err.ee/klaranostalgia.mp3",
+      "l": "https://kuasark.com/files/stations-logos/klara-nostalgia.png",
+      "g": [
+        "Classical",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "R2p",
+      "s": "https://icecast.err.ee/r2p.opus",
+      "l": "https://kuasark.com/files/stations-logos/r2p.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Pereraadio Tallinn",
+      "s": "http://icecast.pereraadio.ee:8000/Tallinn",
+      "l": "https://kuasark.com/files/stations-logos/pereraadio-tallinn.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Pereraadio Kuressaare",
+      "s": "http://icecast.pereraadio.ee:8000/Kuressaare",
+      "l": "https://kuasark.com/files/stations-logos/pereraadio-kuressaare.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Semeinoje Radio",
+      "s": "http://icecast.pereraadio.ee:8000/Semeinoje",
+      "l": "https://kuasark.com/files/stations-logos/semeinoje-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Hard FM Estonia",
+      "s": "http://s5.radio.co/s69e02764f/listen",
+      "l": "https://kuasark.com/files/stations-logos/hard-fm-estonia.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "HitMix Estonia",
+      "s": "https://stream.hitmix.ee:8443/HIT_320",
+      "l": "https://kuasark.com/files/stations-logos/hitmix-estonia.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rahvaraadio",
+      "s": "http://streamer.tt.ee:8000/rahvaraadio",
+      "l": "https://kuasark.com/files/stations-logos/rahvaraadio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Duo Gold",
+      "s": "https://le01.euddn.net/988cb1ff7f3dcc2a9a180798f11578cc4db0e2283bd9664432a72abb713b119095d77415baa746acbb6f1dcfb8bead6ad5483a99765f0674bb7afd79786ca0ec983fe4da68e4d123dd59621ca31eccc576eb07a60a2affeff05eb79bfcd39adf348b22c3a06fbdf5db42583f5d301ef24c7e0fb5f1359e46f9af33f48a9bc6fbc80ea5c25a4340c9f88c1300e359a4b1961eece57abe883ee61caaf994446dd6/kuld.aac",
+      "l": "https://kuasark.com/files/stations-logos/duo-gold.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "R&B and Urban"
+      ]
+    }
+  ]
+}

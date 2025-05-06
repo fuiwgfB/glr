@@ -1,0 +1,1935 @@
+{
+  "stations": [
+    {
+      "t": "Schizoid - Psychedelic Trance",
+      "s": "http://94.130.113.214:8000/schizoid",
+      "l": "https://images.radiovolna.net/_files/images/stations/9287/o227595ba4ac75474525006559_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "City Metal",
+      "s": "https://prclive4.listenon.in/Metal",
+      "l": "https://images.radiovolna.net/_files/images/stations/421577/8c9ee1cbf8e9b79235d5ec52cf0dabbb_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Schizoid - Chillout Ambient",
+      "s": "http://94.130.113.214:8000/chill",
+      "l": "https://images.radiovolna.net/_files/images/stations/9288/byc5595ba4938d6f1498584108_130x130.webp",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Vijay Radio",
+      "s": "https://apipermission.southradios.net/play/vijayradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/3505/69b3ad678c5288c3dc178a1df4ac74e3_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Hits of Bollywood",
+      "s": "https://stream.zeno.fm/60ef4p33vxquv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9293/brer59760b90b5e04990448195_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Schizoid - Dub Techno",
+      "s": "http://94.130.113.214:8000/dubtechno",
+      "l": "https://images.radiovolna.net/_files/images/stations/9286/kdiz595ba4b479e5d501457530_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Sayaji FM - It's Rocking",
+      "s": "https://sayajifm.radioca.st/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/9285/e2196e04a5db572e63e97111a15e8ccf_130x130.webp",
+      "g": [
+        "International",
+        "New Age",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sweety Fm",
+      "s": "https://ssl.aloncast.com:1536/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/9295/s68759760bc7d9e3b039662063_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Patturumal Radio",
+      "s": "http://51.15.152.81:8535//;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3507/uinb59760b3ded41d560766315_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "AIR FM Rainbow",
+      "s": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/421612/995bce16ff2948e6d14859d68d2bf90c_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Vividh Bharti",
+      "s": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/421569/0d75039da5c0c4d0ae57dde741769ce6_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Ishq",
+      "s": "https://prclive4.listenon.in/Ishq",
+      "l": "https://images.radiovolna.net/_files/images/stations/421568/f6693f0e2da60d7443f72a54f4057c74_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Star Radio Tamil",
+      "s": "https://stream.radiojar.com/7pzbvyzb7a0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/419020/a13b9a176877b1c1cc7f42bb9b642b7b_130x130.webp",
+      "g": [
+        "Decades",
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "City Dance",
+      "s": "https://prclive4.listenon.in/Dance",
+      "l": "https://images.radiovolna.net/_files/images/stations/421588/e2972b643a81d036d8ae15d7ac8baf4f_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "City Tamil",
+      "s": "https://prclive4.listenon.in/Tamil",
+      "l": "https://images.radiovolna.net/_files/images/stations/421580/74cb7141441c57b461474aea4d640dad_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "MixiFy Evergreen Hits",
+      "s": "https://server.mixify.in/listen/evergreen/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430481/29b8bb3a77a92ef0f987b49b4de5ce71_130x130.webp",
+      "g": [
+        "Decades",
+        "International"
+      ]
+    },
+    {
+      "t": "AIR FM Rainbow",
+      "s": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/421567/20666862f7bc84bb0c498c6029ea61f7_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Mirchi",
+      "s": "http://peridot.streamguys.com:7150/Mirchi",
+      "l": "https://images.radiovolna.net/_files/images/stations/9297/p50559760d9a0fc1d627203548_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "City Punjabi",
+      "s": "https://prclive4.listenon.in/Punjabi",
+      "l": "https://images.radiovolna.net/_files/images/stations/421579/1af0a8a401170a6572cc9623ab165221_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Kuzoo FM (English)",
+      "s": "http://43.241.137.236:8000/Kuzooeng",
+      "l": "https://images.radiovolna.net/_files/images/stations/426180/e27d30b909793290af233bfe4723f7f0_130x130.webp",
+      "g": [
+        "Pop",
+        "International",
+        "Folk",
+        "Electronic",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Noida",
+      "s": "http://180.151.226.202:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421571/a2a5e340de1003bef9ef1d68ac13dbcf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Indies Tamil",
+      "s": "https://redlive1.listenon.in/Tamil",
+      "l": "https://images.radiovolna.net/_files/images/stations/421620/b579bfc576756cda35d2e569fe2e4c12_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "City Freedom",
+      "s": "https://prclive4.listenon.in/Freedom",
+      "l": "https://images.radiovolna.net/_files/images/stations/421575/e6a309184702335a23fdcdb97d59b66e_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "NDTV 24X7",
+      "s": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/405525/ucsp5a4ce82a7b589247004193_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "City Hip Hop",
+      "s": "https://prclive4.listenon.in/HipHop",
+      "l": "https://images.radiovolna.net/_files/images/stations/421578/ee869b5a6deeb528db7c73cd8654c5cd_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Indies Gujarati",
+      "s": "https://redlive1.listenon.in/Gujarati",
+      "l": "https://images.radiovolna.net/_files/images/stations/421617/47eb0da529e0a8a77aaaa299456387e4_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "City Faith (Tamil)",
+      "s": "https://prclive4.listenon.in/Faith",
+      "l": "https://images.radiovolna.net/_files/images/stations/421586/fe85badcfd76ebfe1be7d441f2e4c98b_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Pehla Nasha",
+      "s": "https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/421596/ed6da8ef2f39fd4a6317fce6c5ddb574_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "City Love Guru Bhojpuri",
+      "s": "https://prclive4.listenon.in/Bhojpuri",
+      "l": "https://images.radiovolna.net/_files/images/stations/421581/c2ebe21ed31863b2b4aa7d9c14b8fc6a_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "City Bhakti (TELUGU)",
+      "s": "https://prclive4.listenon.in/Bhakti",
+      "l": "https://images.radiovolna.net/_files/images/stations/421587/9301b9ddbc4c9e301e56195d3b70f651_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "City Ghazal",
+      "s": "https://prclive4.listenon.in/Ghazal",
+      "l": "https://images.radiovolna.net/_files/images/stations/421574/cd31fd349801d5a36d6709f43ce3b7cd_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "City Premaloka",
+      "s": "https://prclive4.listenon.in/Premaloka",
+      "l": "https://images.radiovolna.net/_files/images/stations/421584/67248f0bbd031b768e9ce0562709c2d6_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mirchi Indies Radio",
+      "s": "https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/index_1_a-p.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/421593/aeea8ff323090dd7c60d92f68f9bdecc_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Kannada Hits",
+      "s": "https://kannadahits-lh.akamaihd.net/i/kannadahits_1@492837/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/421608/13d41927e010a31e6733ae359a248cf7_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Girmit",
+      "s": "https://stream.zeno.fm/3u96s1sg1d0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/421618/8145ce6dcbc96e180ab29f946d719ffc_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Hasya Katta Official",
+      "s": "https://stream.zeno.fm/grpa985az98uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426339/3d6090937045b8c6b915972b7ea4f87e_130x130.webp",
+      "g": [
+        "International",
+        "Themes",
+        "News",
+        "Talk",
+        "Soundtracks",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Live Kirtan Sri Harmandir Sahib, Sri Amritsar",
+      "s": "http://live.sgpc.net:8090/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/414428/j7fk5c0d7bb09818c030856172_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "AIR Mumbai Asmita",
+      "s": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio01064kbps.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428445/01d77fbdd8902b444afa63b9d487d20e_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "BBS1",
+      "s": "http://202.144.155.12/radio1",
+      "l": "https://images.radiovolna.net/_files/images/stations/426168/2c8318350f2aeb9a95a86e2a6ecc812e_130x130.webp",
+      "g": [
+        "Pop",
+        "International",
+        "News",
+        "Inspirational",
+        "Talk"
+      ]
+    },
+    {
+      "t": "English Love",
+      "s": "https://radioromancehdli-lh.akamaihd.net/i/RadioRomanceHDLive_1_1@334956/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/421595/94e607f0e563d2c8654e5df499a9782c_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "City Gujarati",
+      "s": "https://prclive4.listenon.in/Gujarati",
+      "l": "https://images.radiovolna.net/_files/images/stations/421583/34450c6e3d90227e59a4b3ea6dfff872_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "City Kannada",
+      "s": "https://prclive4.listenon.in/Kannada",
+      "l": "https://images.radiovolna.net/_files/images/stations/421582/f9614979f6b5380bca515d6d0de41dea_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Narshingbari Radio",
+      "s": "https://stream.zeno.fm/9ur46pyc7ehvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430512/34421c4894307175993c6ef2e958756e_130x130.webp",
+      "g": [
+        "Decades",
+        "International"
+      ]
+    },
+    {
+      "t": "City Electronica",
+      "s": "https://prclive4.listenon.in/Electronica",
+      "l": "https://images.radiovolna.net/_files/images/stations/421576/cec11443452afb0cb1bc7524c43bac99_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Air Mumbai Samvadita",
+      "s": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428446/fc4a3599ae74bb377c1366640bdae188_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Kool FM",
+      "s": "https://kool104hyderabad-lh.akamaihd.net/i/kool104hyderabad_1@838133/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/421609/39023f73b999ffc7495991a44a34da79_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Hindi Desi Bollywood Evergreen Hits",
+      "s": "http://51.68.155.17:8220/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/407974/e8oa5bfea5600b704340691116_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Gurgaon Ki Awaaz",
+      "s": "https://gurgaonradio.out.airtime.pro/gurgaonradio_a",
+      "l": "https://images.radiovolna.net/_files/images/stations/421572/5f456e1dd94a1250231be4a8ffa9dec7_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio City 91.1 FM",
+      "s": "https://prclive1.listenon.in/",
+      "l": "https://kuasark.com/files/stations-logos/radio-city-911-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Retro Bollywood",
+      "s": "https://stream-038.zeno.fm/g372rxef798uv?zs=7saj8B0OR3ahM6Cnn-X_jQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-retro-bollywood.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Hits Of Bollywood",
+      "s": "https://stream-143.zeno.fm/60ef4p33vxquv?zs=Ic7ZKytTQrO_qlYuZYgjMA",
+      "l": "https://kuasark.com/files/stations-logos/hits-of-bollywood.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Club Mirchi Radio",
+      "s": "https://mirchiplaylive.akamaized.net/hls/live/2036929/MUM/CLUBMI_Auto.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/club-mirchi-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "radioBollyFM",
+      "s": "http://stream.radiobollyfm.in:8201/;",
+      "l": "https://kuasark.com/files/stations-logos/radiobollyfm-in-8706.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bollywood Punjabi Radio",
+      "s": "https://stream-158.zeno.fm/1k0y9f0cm0quv?zs=HrcpHZWWT-6yYI5oLmpGJA",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-punjabi-radio.png",
+      "g": [
+        "Country",
+        "Folk",
+        "Pop",
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Bhakti Radio",
+      "s": "http://108.178.13.122:8006/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/bhakti-radio.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Calm Kids",
+      "s": "https://drive.uber.radio/uber/calmkids/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-kids.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Themes"
+      ]
+    },
+    {
+      "t": "New Hits Of Bollywood",
+      "s": "https://stream-140.zeno.fm/q9xkvxc2tfeuv?zs=tiIHEoTcRO2_nsAOWer9eQ",
+      "l": "https://kuasark.com/files/stations-logos/new-hits-of-bollywood.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Calm Meditation",
+      "s": "https://drive.uber.radio/uber/calmmeditation/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-meditation.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Kripalu Bhakti Dhara Radio",
+      "s": "https://kbd.out.airtime.pro/kbd_a",
+      "l": "https://kuasark.com/files/stations-logos/kripalu-bhakti-dhara-radio.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Calm Zen",
+      "s": "https://drive.uber.radio/uber/calmzen/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-zen.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Calm Chill",
+      "s": "https://drive.uber.radio/uber/calm/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-chill.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "PlanetRadioCity - Hindi",
+      "s": "https://stream-142.zeno.fm/pxc55r5uyc9uv?zs=fw2bIkgCT1et4zrYpUeYzg",
+      "l": "https://kuasark.com/files/stations-logos/planetradiocity-hindi.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bollywood Gold Revivals",
+      "s": "https://stream-047.zeno.fm/0xsvm1nr7a5tv?zs=0eMrMGGgT7G0ucHrGpa3Rg",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-gold-revivals.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Air FM Gold",
+      "s": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/air-fm-gold.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Calm Piano",
+      "s": "https://drive.uber.radio/uber/calmpiano/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-piano.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "BollyHits Radio",
+      "s": "http://hoth.alonhosting.com:1080/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/bollyhits-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Calm Classical",
+      "s": "https://drive.uber.radio/uber/calmclassical/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-classical.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Calm Sleep Baby",
+      "s": "https://drive.uber.radio/uber/calmsleepbaby/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-sleep-baby.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Calm Spa",
+      "s": "https://drive.uber.radio/uber/calmspa/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-spa.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Calm Sleepy",
+      "s": "https://drive.uber.radio/uber/calmsleepy/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-sleepy.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Calm Birdsong",
+      "s": "https://drive.uber.radio/uber/calmbirdsong/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-birdsong.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Calm Relaxation",
+      "s": "https://drive.uber.radio/uber/calmrelaxation/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-relaxation.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Calm Soothing Instrumental",
+      "s": "https://drive.uber.radio/uber/calminstrumental/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-soothing-instrumental.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Calm Sleep Classical",
+      "s": "https://drive.uber.radio/uber/calmsleepclassical/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-sleep-classical.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Calm Dreamscape",
+      "s": "https://drive.uber.radio/uber/calmdreamscape/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-dreamscape.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Calm Smooth",
+      "s": "https://drive.uber.radio/uber/calmsmooth/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-smooth.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Calm Bowls",
+      "s": "https://drive.uber.radio/uber/calmbowls/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-bowls.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Calm Ocean",
+      "s": "https://drive.uber.radio/uber/calmocean/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-ocean.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Calm Tai Chi",
+      "s": "https://drive.uber.radio/uber/calmtaichi/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-tai-chi.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Calm Harp",
+      "s": "https://drive.uber.radio/uber/calmharp/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-harp.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Calm Pan Pipes",
+      "s": "https://drive.uber.radio/uber/calmpanpipes/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-pan-pipes.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Calm Stress Relief",
+      "s": "https://drive.uber.radio/uber/calmstressrelief/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-stress-relief.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Calm Massage",
+      "s": "https://drive.uber.radio/uber/calmmassage/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-massage.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "PlanetRadioCity - Ghazal",
+      "s": "https://stream-144.zeno.fm/6xw7vq3uyc9uv?zs=c9vA52U_QSOMi9QP0yOtNQ",
+      "l": "https://kuasark.com/files/stations-logos/planetradiocity-ghazal.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Hindi Desi Bollywood Evergreen Hits - Channel 02",
+      "s": "http://eu1.reliastream.com:7103/stream",
+      "l": "https://kuasark.com/files/stations-logos/hindi-desi-bollywood-evergreen-hits-channel-02.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Calm Chants",
+      "s": "https://drive.uber.radio/uber/calmchants/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-chants.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Calm Reiki",
+      "s": "https://drive.uber.radio/uber/calmreiki/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-reiki.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Calm Gongs",
+      "s": "https://drive.uber.radio/uber/calmgongs/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-gongs.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Radio Schizoid - Progressive Psy",
+      "s": "http://94.130.113.214:8000/prog",
+      "l": "https://kuasark.com/files/stations-logos/radio-schizoid-progressive-psy.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Calm Soundscapes",
+      "s": "https://drive.uber.radio/uber/calmsoundscapes/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-soundscapes.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Dhol Radio",
+      "s": "https://radio.dholradio.co/radio",
+      "l": "https://kuasark.com/files/stations-logos/dhol-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "NDTV India",
+      "s": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/ndtv-india.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Madhur Sangeet",
+      "s": "https://stream-140.zeno.fm/8kqd6dp18vzuv?zs=iQhwWRPzTMyWMcrmlE75yQ",
+      "l": "https://kuasark.com/files/stations-logos/madhur-sangeet-in-122178.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "V V Radio",
+      "s": "http://music2.vvradio.co.in:2802/stream2",
+      "l": "https://kuasark.com/files/stations-logos/v-v-radio.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bhakti World - Ganesh",
+      "s": "https://radio2bindia.out.airtime.pro/radio2bindia_a",
+      "l": "https://kuasark.com/files/stations-logos/bhakti-world-ganesh.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio BongOnet",
+      "s": "https://stream-046.zeno.fm/19xyfyex5x8uv?zs=JT_u4C-PSuyTGkaf2EFLZw",
+      "l": "https://kuasark.com/files/stations-logos/radio-bongonet.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "RadioCity - Love Guru",
+      "s": "https://stream-147.zeno.fm/4dzk8d4uyc9uv?zs=vQvxK0FZTg-QZhrQr9SRxQ",
+      "l": "https://kuasark.com/files/stations-logos/radiocity-love-guru.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Namkin",
+      "s": "https://stream-040.zeno.fm/84h7fsbaqv5tv?zs=68faziOqSSKvTCMjd5Y2ww",
+      "l": "https://kuasark.com/files/stations-logos/radio-namkin-in-124713.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Calm Jungle",
+      "s": "https://drive.uber.radio/uber/calmjungle/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-jungle.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "NDTV Profit",
+      "s": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/ndtv-profit.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bollywood 2010's",
+      "s": "https://drive.uber.radio/uber/bollywood2010s/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-2010s.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Calm Rain",
+      "s": "https://drive.uber.radio/uber/calmrain/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/calm-rain.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Radio Taj",
+      "s": "http://s1.voscast.com:9484/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-taj.png",
+      "g": [
+        "Other",
+        "Decades",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Madhuban",
+      "s": "https://icecast.bkwsu.eu/radiomadhuban.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-madhuban.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "PlanetRadioCity - Smaran",
+      "s": "https://prclive4.listenon.in/Smaran",
+      "l": "https://kuasark.com/files/stations-logos/planetradiocity-smaran.png",
+      "g": [
+        "Easy Listening",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Islam",
+      "s": "https://radioislamin.out.airtime.pro/radioislamin_a",
+      "l": "https://kuasark.com/files/stations-logos/radio-islam.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Indifun Radio",
+      "s": "http://indifun.net:7000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/indifun-radio.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio City  Punjabi",
+      "s": "https://stream-146.zeno.fm/pxc55r5uyc9uv",
+      "l": "https://kuasark.com/files/stations-logos/planetradiocity-punjabi.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bollywood Now",
+      "s": "https://drive.uber.radio/uber/bollywoodnow/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-now.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sunni Online Radio",
+      "s": "http://s7.voscast.com:7812/;stream1655587631277/1",
+      "l": "https://kuasark.com/files/stations-logos/sunni-online-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Bhakti Sangeet",
+      "s": "https://stream-143.zeno.fm/ut3kgm1vsa0uv?zs=70LB3nB4SpKyMYFXA71nsQ",
+      "l": "https://kuasark.com/files/stations-logos/bhakti-sangeet.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Gurdwara Dukh Niwaran Sahib Ludhiana",
+      "s": "http://akalmultimedia.net:8000/GDNSLDH",
+      "l": "https://kuasark.com/files/stations-logos/gurdwara-dukh-niwaran-sahib-ludhiana.png",
+      "g": [
+        "Easy Listening",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Dhaakad",
+      "s": "https://radiodhaakad.com:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-dhaakad.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Punjab Rocks Radio",
+      "s": "http://radio.punjabrocks.com:9988/punjab",
+      "l": "https://kuasark.com/files/stations-logos/punjab-rocks-radio.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Bangla Rock",
+      "s": "https://stream-162.zeno.fm/15wnypt6by8uv?zs=P-K3kWrSR9KVyw7rVDA6jA",
+      "l": "https://kuasark.com/files/stations-logos/radio-bangla-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "PlanetRadioCity - Electronica",
+      "s": "https://stream-145.zeno.fm/77x87u4uyc9uv?zs=B7hjkc0NSfWSQbKiXRyI8Q",
+      "l": "https://kuasark.com/files/stations-logos/planetradiocity-electronica.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Swaminarayan Radio - Kirtan",
+      "s": "http://radio.bhujmandir.org:8000/stream/1/;",
+      "l": "https://kuasark.com/files/stations-logos/swaminarayan-radio-kirtan.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Bollywood Love",
+      "s": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-love.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "PlanetRadioCity - Kannada",
+      "s": "https://stream-143.zeno.fm/m3q5v4dvyc9uv?zs=2oLY7BltRe2UHiQdVrXisQ",
+      "l": "https://kuasark.com/files/stations-logos/planetradiocity-kannada.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hindi Geet Radio",
+      "s": "https://stream-155.zeno.fm/qzkhzzdhva0uv?zs=c5ThY1OdRvGmVRRjmp3y8w",
+      "l": "https://kuasark.com/files/stations-logos/hindi-geet-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Vadivelu Comedy Radio",
+      "s": "http://psrlive3.listenon.in/vadivu?station=vadivelucomedyradio&cb=1682446538",
+      "l": "https://kuasark.com/files/stations-logos/vadivelu-comedy-radio.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio City  Tamil",
+      "s": "http://tamil.crabdance.com:8002/5",
+      "l": "https://kuasark.com/files/stations-logos/planetradiocity-tamil.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "PlanetRadioCity - Bhakti (TELUGU)",
+      "s": "https://stream-144.zeno.fm/b08cq4nvyc9uv?zs=DlPm1kRhSqSfooKaZcnMcQ",
+      "l": "https://kuasark.com/files/stations-logos/planetradiocity-bhakti-telugu.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "My Club Remix",
+      "s": "https://stream-152.zeno.fm/u7eee0hyzp8uv?zs=JfO-18GyQeujGTeAihuP9g",
+      "l": "https://kuasark.com/files/stations-logos/my-club-remix.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Inspirational",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Beat",
+      "s": "https://strw3.openstream.co/673",
+      "l": "https://kuasark.com/files/stations-logos/radio-beat-in.png",
+      "g": [
+        "Pop",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Psalms Radio",
+      "s": "https://s2.citrus3.com:8046/stream",
+      "l": "https://kuasark.com/files/stations-logos/psalms-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Divyavani Sanskrit Radio",
+      "s": "https://divyavani.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/divyavani-sanskrit-radio.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News",
+        "Inspirational",
+        "Talk"
+      ]
+    },
+    {
+      "t": "idhayam fm",
+      "s": "http://stream11.shoutcastsolutions.com:8262/stream",
+      "l": "https://kuasark.com/files/stations-logos/idhayam-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sidhu Moose Wala Radio",
+      "s": "https://stream-149.zeno.fm/e5hahqs7twzuv?zs=W-5nKJIyT_SjF8oDSSPmdA",
+      "l": "https://kuasark.com/files/stations-logos/sidhu-moose-wala-radio.png",
+      "g": [
+        "Folk",
+        "Rap",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Beat Extra",
+      "s": "https://strw3.openstream.co/678",
+      "l": "https://kuasark.com/files/stations-logos/radio-beat-extra.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "MAAYBOLI",
+      "s": "https://stream-145.zeno.fm/swh0m3py72quv?zs=gRLpjUYDRI-CHvFOuG_Jgw",
+      "l": "https://kuasark.com/files/stations-logos/maayboli.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Marudhara Radio",
+      "s": "https://stream-140.zeno.fm/eyxg23ky4x8uv?zs=WAy_CcUsTPuFAGB8vc-3Ug",
+      "l": "https://kuasark.com/files/stations-logos/marudhara-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "PlanetRadioCity - Gujarati",
+      "s": "https://stream-146.zeno.fm/vt48nqpvyc9uv?zs=-J2luPatRZm0fchsJJG2ow",
+      "l": "https://kuasark.com/files/stations-logos/planetradiocity-gujarati.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Hindi International | Those Songs, These Days!",
+      "s": "https://stream-158.zeno.fm/6exr3vbxezzuv?zs=4go9btANR1GNHplkxBDOWg",
+      "l": "https://kuasark.com/files/stations-logos/radio-hindi-international-those-songs-these-days.png",
+      "g": [
+        "Decades",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Jesus Alive Radio",
+      "s": "https://stream-047.zeno.fm/qyb8s75nsceuv?zs=YLB6xeCMR1KhsoImSVkZgA",
+      "l": "https://kuasark.com/files/stations-logos/jesus-alive-radio.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bollywood Dance",
+      "s": "https://drive.uber.radio/uber/bollywooddance/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-dance.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Ajmer Radio",
+      "s": "https://stream-038.zeno.fm/yftb93nbay8uv?zs=Ms2vlRpcSJ6L0BKRaZbNjw",
+      "l": "https://kuasark.com/files/stations-logos/ajmer-radio.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Rock",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Telangana Radio",
+      "s": "http://198.178.123.5:12682/;",
+      "l": "https://kuasark.com/files/stations-logos/telangana-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "ABC Tamil",
+      "s": "https://eu8.fastcast4u.com/proxy/ailevdcu?mp=/1&1593269300475",
+      "l": "https://kuasark.com/files/stations-logos/abc-tamil.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vizhi Fm",
+      "s": "https://stream-156.zeno.fm/03za00n10qruv?zs=X415qx2-QZOwrf-R-_fcVw",
+      "l": "https://kuasark.com/files/stations-logos/vizhi-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bollywood Udit Narayan",
+      "s": "https://drive.uber.radio/uber/bollywooduditnarayan/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-udit-narayan.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Inbam FM Radio",
+      "s": "https://stream.radio.co/sf55ced545/listen",
+      "l": "https://kuasark.com/files/stations-logos/inbam-fm-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Easy 50's",
+      "s": "https://streaming.exclusive.radio/uber/easy50/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/easy-50s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Easy Reggae",
+      "s": "https://streaming.exclusive.radio/uber/easyreggae/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/easy-reggae.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "RAFA Radio",
+      "s": "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/rafa-radio.png",
+      "g": [
+        "Classical",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Sai FM Telugu",
+      "s": "https://stream.sssmediacentre.org:8443/telugu",
+      "l": "https://kuasark.com/files/stations-logos/radio-sai-fm-telugu.png",
+      "g": [
+        "Easy Listening",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio City Dance",
+      "s": "https://stream-143.zeno.fm/ugqasdpvyc9uv?zs=v23n3QDVSH6hUx6VcywP8Q",
+      "l": "https://kuasark.com/files/stations-logos/radio-city-dance.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bollywood Mix",
+      "s": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-mix.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Easy Elvis Presley",
+      "s": "https://streaming.exclusive.radio/uber/easyelvispresley/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/easy-elvis-presley.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Ishq 104.8 FM",
+      "s": "https://nl4.mystreaming.net/uber/bollywoodlove/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/ishq-1048-fm.png",
+      "g": [
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Rainbow",
+      "s": "https://stream-068.zeno.fm/m3g97f8eqm0uv?zs=ZIn18pSlQFyZX8qRPan08Q",
+      "l": "https://kuasark.com/files/stations-logos/radio-rainbow-in.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "PlanetRadioCity -Freedom",
+      "s": "https://stream-140.zeno.fm/685khspd8f0uv?zs=PLcX2FW9QPe2kuJiQCzgxw",
+      "l": "https://kuasark.com/files/stations-logos/planetradiocity-freedom.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Khamma Gani Rajasthan",
+      "s": "https://stream-141.zeno.fm/cc9ez9yydy8uv?zs=siRK7nemQ-W_IojFjqFWeQ",
+      "l": "https://kuasark.com/files/stations-logos/khamma-gani-rajasthan.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Rock",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Bollywood Diwali Party",
+      "s": "https://drive.uber.radio/uber/bollywooddiwali/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-diwali-party.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Easy Mix",
+      "s": "https://streaming.exclusive.radio/uber/easymix/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/easy-mix.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "JRM - Markaz Ki Awaz",
+      "s": "https://stream-061.zeno.fm/z2ryhp76u7zuv?zs=K6sGDnjWRUuW_JYyUxJKOQ",
+      "l": "https://kuasark.com/files/stations-logos/jrm-markaz-ki-awaz.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Mohabbat Radio",
+      "s": "https://stream-163.zeno.fm/t2ekq8zsgtzuv?zs=TJrYhohxRJ-hGHmadXZfJQ",
+      "l": "https://kuasark.com/files/stations-logos/mohabbat-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio City Hip Hop",
+      "s": "https://stream-143.zeno.fm/gut7ff5uyc9uv?zs=bntj2SQ2QDixfsRB7xTfYA",
+      "l": "https://kuasark.com/files/stations-logos/radio-city-hip-hop.png",
+      "g": [
+        "Rap",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Tamil Comedy Radio",
+      "s": "http://psrlive2.listenon.in/tacom?station=tamilcomedyradio&cb=1682446591",
+      "l": "https://kuasark.com/files/stations-logos/tamil-comedy-radio.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sikh Kirtan Radio",
+      "s": "http://radio.punjabrocks.com:9958/kirtan",
+      "l": "https://kuasark.com/files/stations-logos/sikh-kirtan-radio.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Robichhaya | Its All About Tagore!",
+      "s": "https://stream-160.zeno.fm/03tnz1wr6x8uv?zs=czrgACQ9QUijSfRimWoHHA",
+      "l": "https://kuasark.com/files/stations-logos/robichhaya-its-all-about-tagore.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Swara Madhuri Telugu Radio",
+      "s": "https://stream-155.zeno.fm/zman3kqfzeruv?zs=CYIx_Mu8RBaSdgTS1Iv9NA",
+      "l": "https://kuasark.com/files/stations-logos/swara-madhuri-telugu-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bollywood Alka Yagnik",
+      "s": "https://drive.uber.radio/uber/bollywoodalkayagnik/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-alka-yagnik.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bollywood Shreya Ghosal",
+      "s": "https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-shreya-ghosal.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Easy Folk",
+      "s": "https://streaming.exclusive.radio/uber/easyfolk/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/easy-folk.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Bollywood 90s",
+      "s": "https://stream-149.zeno.fm/rm4i9pdex3cuv?zs=wE-WEWAZSZyk8T6nuVFUYw",
+      "l": "https://kuasark.com/files/stations-logos/radio-bollywood-90s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "PlanetRadioCity - Malayalam",
+      "s": "https://prclive4.listenon.in/Malayalam",
+      "l": "https://kuasark.com/files/stations-logos/planetradiocity-malayalam.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Akhand Path Radio",
+      "s": "http://radio.punjabrocks.com:9968/;",
+      "l": "https://kuasark.com/files/stations-logos/akhand-path-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NP 24 Radio",
+      "s": "https://stream-159.zeno.fm/8wk1s0pt008uv?zs=ObD-O6KxS7GVQmhwC3UlsA",
+      "l": "https://kuasark.com/files/stations-logos/np-24-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Shaivam Radio",
+      "s": "https://18093.live.streamtheworld.com/SP_R2925215_SC",
+      "l": "https://kuasark.com/files/stations-logos/shaivam-radio.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Marwar Radio",
+      "s": "https://stream-147.zeno.fm/vq6p5vxb4v8uv?zs=sN4t4kSQT-ehDfVK0KoSAg",
+      "l": "https://kuasark.com/files/stations-logos/marwar-radio.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Bollywood Work Out",
+      "s": "https://drive.uber.radio/uber/bollywoodworkout/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-work-out.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bollywood Aruit Singh",
+      "s": "https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-aruit-singh.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bollywood Nehar Kakkar",
+      "s": "https://drive.uber.radio/uber/bollywoodneharkakkar/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-nehar-kakkar.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bollywood Pritam",
+      "s": "https://drive.uber.radio/uber/bollywoodpritam/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-pritam.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Easy Frank Sinatra",
+      "s": "https://streaming.exclusive.radio/uber/easyfranksinatra/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/easy-frank-sinatra.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Jesus Coming FM - Tamil",
+      "s": "http://live.jesuscomingfm.com:8230/;",
+      "l": "https://kuasark.com/files/stations-logos/jesus-coming-fm-tamil.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Karan Aujla Radio",
+      "s": "https://stream-150.zeno.fm/vrqrkmrfkzzuv?zs=RuL6-wrBRn6E1ieX2il-dQ",
+      "l": "https://kuasark.com/files/stations-logos/karan-aujla-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tamilosai FM",
+      "s": "http://usa15.fastcast4u.com:4566/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/tamilosai-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "BhajanStream - Radio Sai Global Harmony",
+      "s": "https://stream.sssmediacentre.org:8443/bhajan",
+      "l": "https://kuasark.com/files/stations-logos/bhajanstream-radio-sai-global-harmony.png",
+      "g": [
+        "Other",
+        "Inspirational",
+        "Talk"
+      ]
+    },
+    {
+      "t": "PlanetRadioCity - Premaloka",
+      "s": "https://stream-144.zeno.fm/kry3xknvyc9uv?zs=9GMYgO00RY-fJ3z7UT7BNw",
+      "l": "https://kuasark.com/files/stations-logos/planetradiocity-premaloka.png",
+      "g": [
+        "Easy Listening",
+        "New Age",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Amrinder Gill Radio",
+      "s": "https://stream-157.zeno.fm/ntswtgpemzzuv?zs=UyqyMfUtTaSngib0Y8jGDA",
+      "l": "https://kuasark.com/files/stations-logos/amrinder-gill-radio.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Aashiqanaa",
+      "s": "https://sonic.onlineaudience.co.uk/8114/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-aashiqanaa.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Easy 80's",
+      "s": "https://streaming.exclusive.radio/uber/easy80/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/easy-80s.png",
+      "g": [
+        "Easy Listening",
+        "Decades"
+      ]
+    },
+    {
+      "t": "DiscoBani Kolkata",
+      "s": "https://stream-157.zeno.fm/08g8pn2r6x8uv?zs=HNM6F9gjQ02sIYIVf23WAA",
+      "l": "https://kuasark.com/files/stations-logos/discobani-kolkata.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Theophony FM",
+      "s": "https://mediatechnica.com:2020/stream/theophonyenglishaac",
+      "l": "https://kuasark.com/files/stations-logos/theophony-fm.png",
+      "g": [
+        "Inspirational",
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Ala 90.8 F.M",
+      "s": "https://mahi.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-ala-908-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Trance Radio India",
+      "s": "https://stream-034.zeno.fm/cojfxwtd06otv?zs=1MnBGtRITgGpyjl9GfMfBg",
+      "l": "https://kuasark.com/files/stations-logos/trance-radio-india.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Baani.Net Sikh Kirtan Radio",
+      "s": "http://radio.baani.net:8019/stream",
+      "l": "https://kuasark.com/files/stations-logos/baaninet-sikh-kirtan-radio.png",
+      "g": [
+        "Other",
+        "Inspirational",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Beat Retro",
+      "s": "http://5.63.151.52:7142/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-beat-retro.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Easy 70's",
+      "s": "https://streaming.exclusive.radio/uber/easy70/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/easy-70s.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "24/7 Radio Sarab Rog Ka Aukhad Naam",
+      "s": "http://akalmultimedia.net:8000/srkan",
+      "l": "https://kuasark.com/files/stations-logos/24-7-radio-sarab-rog-ka-aukhad-naam.png",
+      "g": [
+        "Easy Listening",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "JehovahRapha FM",
+      "s": "https://c22.radioboss.fm:8532/jehovahrapha",
+      "l": "https://kuasark.com/files/stations-logos/jehovahrapha-fm.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "தமிழ் வானொலி-Tamil Radio",
+      "s": "https://stream-067.zeno.fm/fe9d39a2h8quv?zs=GUneMAOXQjuEZVhALvPj7A",
+      "l": "https://kuasark.com/files/stations-logos/tamil-vanoli-tamil-radio.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sikhnet Radio - Takhat Hazur Sahib",
+      "s": "http://radio2.sikhnet.com:8038/stream",
+      "l": "https://kuasark.com/files/stations-logos/sikhnet-radio-takhat-hazur-sahib.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ephphatha Radio Malayalam",
+      "s": "https://ephphatha.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/ephphatha-radio-malayalam.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Adirai FM 90.4",
+      "s": "https://listen.radioking.com/radio/188161/stream/230320",
+      "l": "https://kuasark.com/files/stations-logos/adirai-fm-904.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "ShyamFM",
+      "s": "https://stream-153.zeno.fm/zug8fwdfmzzuv?zs=TYDYtTavTKOAaQJATvhiBg",
+      "l": "https://kuasark.com/files/stations-logos/shyamfm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Filmat Music",
+      "s": "https://stream-151.zeno.fm/0eukcvcf8tzuv?zs=p5CTwcHwR5mNczbTHs53Aw",
+      "l": "https://kuasark.com/files/stations-logos/filmat-music.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bollywood Shah Rukh Khan",
+      "s": "https://drive.uber.radio/uber/bollywoodshahrukhkhan/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-shah-rukh-khan.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Easy 00's",
+      "s": "https://streaming.exclusive.radio/uber/easy00/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/easy-00s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Easy Jazz",
+      "s": "https://streaming.exclusive.radio/uber/easyjazz/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/easy-jazz.png",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio Divya Jyoti",
+      "s": "https://cast6.asurahosting.com/proxy/divyajyo/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-divya-jyoti.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "AR Radio",
+      "s": "https://stream-150.zeno.fm/8tqmb5gwxwzuv?zs=ZMtWCvAXRXGmHGPB93VPjg",
+      "l": "https://kuasark.com/files/stations-logos/ar-radio.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Gurbani Kirtan Radio",
+      "s": "https://gurbanikirtan.radioca.st/start.mp3",
+      "l": "https://kuasark.com/files/stations-logos/gurbani-kirtan-radio.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio NM Mix HD",
+      "s": "https://stream-149.zeno.fm/v6yf8nyrwk8uv?zs=ehEt7hY4T_iBuzWy6agX7A",
+      "l": "https://kuasark.com/files/stations-logos/radio-nm-mix-hd.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Thennavan Tamil FM",
+      "s": "https://stream-150.zeno.fm/wb76p3mdprhvv?zs=W7EjJHCZT5Cq77Fn_pIbeA",
+      "l": "https://kuasark.com/files/stations-logos/thennavan-tamil-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Korala Maan All Song Radio",
+      "s": "https://stream-160.zeno.fm/hxgarz1594zuv?zs=HDUeiYk7RQWm69JcKMq30A",
+      "l": "https://kuasark.com/files/stations-logos/korala-maan-all-song-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Vitasta",
+      "s": "https://uk7freenew.listen2myradio.com/live.mp3?typeportmount=s1_6506_stream_119627515",
+      "l": "https://kuasark.com/files/stations-logos/radio-vitasta.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Mazhai மழை",
+      "s": "https://stream-158.zeno.fm/yu4c9ms3h2zuv?zs=gGEI6YfcTs2S8ojHv0Vi9A",
+      "l": "https://kuasark.com/files/stations-logos/mazhai-malai.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bollywood Badshah",
+      "s": "https://drive.uber.radio/uber/bollywoodbadshah/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-badshah.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Bollywood Vishal & Shekhar",
+      "s": "https://drive.uber.radio/uber/bollywoodvishalandshekhar/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/bollywood-vishal-shekhar.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Satsahib Radio",
+      "s": "http://www.satsahibradio.in:8424/;stream.mp3/;",
+      "l": "https://kuasark.com/files/stations-logos/satsahib-radio.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rang FM",
+      "s": "https://stream-150.zeno.fm/0qvzkvpgewzuv?zs=WDb3YUR-Qea3iSWFe3wK4g",
+      "l": "https://kuasark.com/files/stations-logos/rang-fm.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Karur Life Fm",
+      "s": "https://stream-048.zeno.fm/k0qrmtts91zuv?zs=1cktqnUqTeKhvlCaXMx0bA",
+      "l": "https://kuasark.com/files/stations-logos/karur-life-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "MixiFy 90’s Hits",
+      "s": "https://server.mixify.in:8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mixify.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Hindi Bible Radio",
+      "s": "https://stream-158.zeno.fm/92dg9vsfnueuv?zs=WBOJ5cOtTvqG7E_69PMOVw",
+      "l": "https://kuasark.com/files/stations-logos/hindi-bible-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio me Malayalam",
+      "s": "https://stream.zeno.fm/me7okotfdxyvv",
+      "l": "https://kuasark.com/files/stations-logos/radio-me-malayalam.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Easy Classical",
+      "s": "https://streaming.exclusive.radio/uber/easyclassical/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/easy-classical.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Easy Motown",
+      "s": "https://streaming.exclusive.radio/uber/easymotown/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/easy-motown.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Retro Bollywood 90's",
+      "s": "https://stream-140.zeno.fm/u0hrd3xkzhhvv?zs=krhzt-eQQdCy9aPnK8wL9w",
+      "l": "https://kuasark.com/files/stations-logos/radio-retro-bollywood-90s.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Mango",
+      "s": "https://eu10.fastcast4u.com/clubfmuae",
+      "l": "https://kuasark.com/files/stations-logos/radio-mango-in.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    }
+  ]
+}

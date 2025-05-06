@@ -1,0 +1,233 @@
+{
+  "stations": [
+    {
+      "t": "Faith FM",
+      "s": "https://stream.eleden.com:443/faithfm.aac/faithfm.aac.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/426244/a60fb2d631e028d05b713942d3578ab6_130x130.webp",
+      "g": [
+        "International",
+        "Latin",
+        "Folk",
+        "News",
+        "Inspirational",
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Love FM",
+      "s": "https://s1.voscast.com:10243/lovefm",
+      "l": "https://images.radiovolna.net/_files/images/stations/426227/01a5b59d3a33523e3b9c0f0fc779002d_130x130.webp",
+      "g": [
+        "International",
+        "Latin",
+        "Folk",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Cvs Radio 1 - Reggae Jam",
+      "s": "http://s8.voscast.com:9128/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/426243/a95b079311a03f7d81586ec9e31cd804_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Mood FM",
+      "s": "https://usa7-vn.mixstream.net/8016/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428796/6f9530660e2ebdbcdd6134778518713b_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Turquesa",
+      "s": "https://stream.miradio.in/proxy/rt1051/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/428795/3f2f1dc2acaa1782385eff5f097fb61e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Krem Radio",
+      "s": "http://159.65.32.199:8016/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/426228/72dd1b9bf209ae2b845f5873e3dd2aeb_130x130.webp",
+      "g": [
+        "International",
+        "Rock",
+        "Latin",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Power FM",
+      "s": "https://stream.rcast.net/61891",
+      "l": "https://images.radiovolna.net/_files/images/stations/426242/c5623e0908d7a65304e47099c59dad92_130x130.webp",
+      "g": [
+        "International",
+        "Latin",
+        "Pop",
+        "News",
+        "Talk",
+        "Rock"
+      ]
+    },
+    {
+      "t": "KREM Radio",
+      "s": "http://159.65.32.199:8016/stream",
+      "l": "https://kuasark.com/files/stations-logos/krem-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "mood fm",
+      "s": "https://usa7-vn.mixstream.net/8016/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mood-fm-bz.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Pop",
+        "R&B and Urban",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Reef Radio",
+      "s": "http://us2freenew.listen2myradio.com:38687/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/reef-radio.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Impacto Musical",
+      "s": "https://stream-150.zeno.fm/x49uaudyvk8uv?zs=yEz7qJ7iQuec0_lSqgq-2g",
+      "l": "https://kuasark.com/files/stations-logos/radio-impacto-musical.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Vision Belize",
+      "s": "https://sonic.radiostreaminglatino.com:10968/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-vision-belize.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Vogue Play | Belize",
+      "s": "https://stream-149.zeno.fm/nczcrdxqc18uv?zs=n9Tal421T0eMIw9vSYOiAQ",
+      "l": "https://kuasark.com/files/stations-logos/vogue-play-belize.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "East Radio 104.9 FM",
+      "s": "https://s1.voscast.com:11401/eastradio",
+      "l": "https://kuasark.com/files/stations-logos/east-radio-1049-fm.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Electronic",
+        "Pop",
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Restauracion De Vida",
+      "s": "https://stream-061.zeno.fm/4zdsczdh9x8uv?zs=G4TPikdVRNCb9KypzA0HIA",
+      "l": "https://kuasark.com/files/stations-logos/radio-restauracion-de-vida-bz-132790.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Restauración De Vida",
+      "s": "https://stream-150.zeno.fm/wxnk4ca3zehvv?zs=XSSFBC_xSU-TIMzMKL1VIQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-restauracion-de-vida-bz-133646.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "My Refuge Christian Radio 93.7FM & 100.5FM",
+      "s": "https://xstreamer.galcom.org:8443/MyRefugeChristianRadio",
+      "l": "https://kuasark.com/files/stations-logos/my-refuge-christian-radio-937fm-1005fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Plus Radio Belize",
+      "s": "https://stream-152.zeno.fm/ffw2uyxp3nhtv?zs=lBnf9u7NRc-ahoM8CaqOzQ",
+      "l": "https://kuasark.com/files/stations-logos/plus-radio-belize.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Maximum radio 104.1",
+      "s": "http://80.67.34.162:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/maximum-radio-1041.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Harmony Christian Radio",
+      "s": "https://stream-149.zeno.fm/v8nzntvdqw2tv?zs=_WNx-CAqQtuoonwaGzDGHg",
+      "l": "https://kuasark.com/files/stations-logos/harmony-christian-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Q'eqchi Laj Jalol Yu'am",
+      "s": "https://stream-150.zeno.fm/cnqf0ca3zehvv?zs=pA1JW9OdSae_5cFKzeNfsw",
+      "l": "https://kuasark.com/files/stations-logos/radio-qeqchi-laj-jalol-yuam.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Christian Faith Ministries 102.3 FM",
+      "s": "https://stream-150.zeno.fm/3uvhtuwdnkhvv?zs=A3NUFNKCRZW5OPfZ623Xag",
+      "l": "https://kuasark.com/files/stations-logos/christian-faith-ministries-1023-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Belize Rising Dawn Radio",
+      "s": "https://stream-148.zeno.fm/sa4ksbzraekuv?zs=vpZiHsNgT0SXjQZiFLFWVA",
+      "l": "https://kuasark.com/files/stations-logos/belize-rising-dawn-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "GATEKEEPER DESTINY RADIO 105.1 FM",
+      "s": "https://stream-152.zeno.fm/3hmxyzcouywvv?zs=1iey4dcWSRCRLNIuBjJDmg",
+      "l": "https://kuasark.com/files/stations-logos/gatekeeper-destiny-radio-1051-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    }
+  ]
+}

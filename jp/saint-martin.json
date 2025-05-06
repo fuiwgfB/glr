@@ -1,0 +1,32 @@
+{
+  "stations": [
+    {
+      "t": "Radio Maranatha",
+      "s": "https://stream.b4c.tv:1443/r-maranatha",
+      "l": "https://kuasark.com/files/stations-logos/radio-maranatha-mf.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "SOS Radio",
+      "s": "http://2stream.dyndns.org:8000/sosradio",
+      "l": "https://kuasark.com/files/stations-logos/sos-radio-mf.png",
+      "g": [
+        "Pop",
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Caribbean Rap Radio",
+      "s": "https://s49.radiolize.com/radio/8200/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/caribbean-rap-radio.png",
+      "g": [
+        "Rap",
+        "Other"
+      ]
+    }
+  ]
+}

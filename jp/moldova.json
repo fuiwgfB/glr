@@ -1,0 +1,1014 @@
+{
+  "stations": [
+    {
+      "t": "Record Moldova",
+      "s": "https://air.radiorecord.md/RecordMD",
+      "l": "https://images.radiovolna.net/_files/images/stations/426162/656b498198fa425bc2e3de78707a5d37_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Micul Samaritean",
+      "s": "https://s5.radio.co/sfff7b7e97/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/454/pslp59917c174d2e3965253928_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Muz FM",
+      "s": "https://live.muzfm.md/muzfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/7487/auij59707931acefc720437742_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "PRO Dj Radio",
+      "s": "http://live.prodjradio.net:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/508/s4n7597a3009e81bc637440023_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "1 радио",
+      "s": "http://pgtrk.ru:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/5742/irr3597b57e41fedd368371275_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Plai",
+      "s": "http://stream.radioplai.md:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/6055/smgr59786763c7293443378755_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "HIT FM",
+      "s": "https://stream.hitfm.md:8443/HitFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/523/142f170f3ba681dff40485a1533d0a77_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Албена",
+      "s": "http://109.185.191.129:49400/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/5658/hfbg596fa0e0a5c7c038597557_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Megapolis FM",
+      "s": "https://megapolisfm.md:8443/886aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/467/qh9x597a30d3ab9bf127874683_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Kiss FM",
+      "s": "https://live.kissfm.md/kissfm.chisinau",
+      "l": "https://images.radiovolna.net/_files/images/stations/4415/fo6s595d096c91c84586845014_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nik FM",
+      "s": "http://217.19.209.228:8005/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/5798/tu9x596f9e834ee81833131687_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Noroc",
+      "s": "https://stream.noroc.tv/radionoroc_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7484/z8jg597867eb7f985636715606_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Vocea Speranței",
+      "s": "http://195.93.219.15:8000/stil",
+      "l": "https://images.radiovolna.net/_files/images/stations/509/ejia5bee708fe8787044731778_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "One",
+      "s": "http://radio1.md:8000/r1",
+      "l": "https://images.radiovolna.net/_files/images/stations/420252/31938b7c726e5c695385290de957f2cd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Дорожное Радио",
+      "s": "https://dorognoe.hostingradio.ru:8000/dorognoe_acc",
+      "l": "https://images.radiovolna.net/_files/images/stations/418863/7336c4f767ff5a8b9dcb7581f4a5804c_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Maestro FM",
+      "s": "http://live.maestrofm.md:8000/maestro",
+      "l": "https://images.radiovolna.net/_files/images/stations/462/crzp595cf048a8d38704430977_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Новое Радио",
+      "s": "http://77.89.206.126:7030/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/400731/1486214023_-2-novoe-radio-moldova_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Европа Плюс",
+      "s": "http://philae.shoutca.st:8270/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/1280/ps0z58cea39d3cc80045494512_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Хит FM",
+      "s": "https://hitfm.hostingradio.ru/hitfm96.aacp",
+      "l": "https://images.radiovolna.net/_files/images/stations/420255/179c8d139463ff7c2e1860fee7c19ed1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Шансон",
+      "s": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400736/1486217768_213_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Mega Hit",
+      "s": "http://91.230.214.92:8000/megahit",
+      "l": "https://images.radiovolna.net/_files/images/stations/428303/36d7e2f50f6cf6aab587a8eb51bc65bc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Moldova Tineret",
+      "s": "http://radiolive.trm.md:8000/RM-tineret-64",
+      "l": "https://images.radiovolna.net/_files/images/stations/7492/xkvj5a26e04c7f5d9727503535_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Trinitas",
+      "s": "http://81.196.25.70:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420254/f9ff9968b671a4cca4d73447cbd18733_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Chișinău",
+      "s": "https://radiochisinau.md/hls/RChisinau.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/9302/ja6n5a26e15743bc9619941533_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Master Class FM",
+      "s": "https://myradio24.org/master1",
+      "l": "https://images.radiovolna.net/_files/images/stations/429985/24384febed5403c9977d89426de5d642_130x130.webp",
+      "g": [
+        "Pop",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Русский Хит",
+      "s": "http://37.233.41.76:8000/ru_hit",
+      "l": "https://images.radiovolna.net/_files/images/stations/400733/8f35fddf605774a766183963dd1ba892_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "России",
+      "s": "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/419006/aa64f51792e833cf708916519d48a793_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Авторадио",
+      "s": "http://185.181.229.197:8000/autoradiolive",
+      "l": "https://images.radiovolna.net/_files/images/stations/419125/9e136d98dffc1414afd5b0c2ec38d7b4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Русское Любимое",
+      "s": "http://live.ruradio.md:8000/ruradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/418750/83cb2bdec895380b6e3c6a8e425a4c02_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "HIT \"NX\"",
+      "s": "https://myradio24.org/musicstyle",
+      "l": "https://images.radiovolna.net/_files/images/stations/426832/7ef173137bf7f12e6d4677d0754da40f_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "OM Radio",
+      "s": "http://188.138.237.167:8002/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429807/282621912b563979f23d05c779a41954_130x130.webp",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio ZUM3",
+      "s": "https://streams.radiozum.md/listen/zum3/ZUM3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429645/34e9583943cd9706f1944875041d4e53_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Relax",
+      "s": "https://stream.hitfm.md:8443/Relax_mp3_320",
+      "l": "https://images.radiovolna.net/_files/images/stations/428304/78887273e9335ae82519dfedb5a08ea0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Deep House Moldova Radio",
+      "s": "https://s0.radioheart.ru:8000/livedeephousemoldovaradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/429855/e91c5aa339f738c55523fed1f13df5eb_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Diaspora FM",
+      "s": "https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/6060/c08b8bdd001d074e882f6d83c6944768_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Publika FM",
+      "s": "http://live.maestrofm.md:8000/publikafm",
+      "l": "https://images.radiovolna.net/_files/images/stations/7493/osms5a26e1d85ab22897473626_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Studentus",
+      "s": "http://radiolive.studentus.md:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/406094/wa1c5bee7528e526b181015815_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Record Moldova",
+      "s": "https://air.radiorecord.md/recordmdhd",
+      "l": "https://kuasark.com/files/stations-logos/record.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Noroc",
+      "s": "https://storage.voceabasarabiei.md:8001/radionoroc.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-noroc.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Muz FM",
+      "s": "https://live.muzfm.md:8000/muzfm",
+      "l": "https://kuasark.com/files/stations-logos/muz-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Moldova",
+      "s": "https://stream.radioplayer.md:8443/PGM1_256kb",
+      "l": "https://kuasark.com/files/stations-logos/radio-moldova.png",
+      "g": [
+        "Folk",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "HIT FM Moldova",
+      "s": "https://stream.hitfm.md:8443/HitFM_mp3",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-md.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Megapolis FM Moldova",
+      "s": "https://megapolisfm.md:8443/886",
+      "l": "https://kuasark.com/files/stations-logos/megapolis-fm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio ONE",
+      "s": "http://live.maestrofm.md:8000/r1",
+      "l": "https://kuasark.com/files/stations-logos/radio-one-moldova.png",
+      "g": [
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Maestro FM",
+      "s": "https://www.radio.md/stream/maestrofm",
+      "l": "https://kuasark.com/files/stations-logos/maestro-fm-md.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Studentus",
+      "s": "https://stream.radioplayer.md:8443/radiolive_studentus",
+      "l": "https://kuasark.com/files/stations-logos/radio-studentus.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jurnal FM",
+      "s": "https://audio.jurnalfm.md/hq",
+      "l": "https://kuasark.com/files/stations-logos/jurnal-fm-md.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vocea Basarabiei Radio",
+      "s": "https://storage.voceabasarabiei.md:8001/radiovb_aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-vocea-basarabiei.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 7",
+      "s": "https://stream.radioplayer.md:8443/radio7_8001",
+      "l": "https://kuasark.com/files/stations-logos/radio-7-413.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Aquarelle FM",
+      "s": "https://www.radio.md/stream/aquarellefm",
+      "l": "https://kuasark.com/files/stations-logos/radio-aquarelle.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "PRO Dj Radio",
+      "s": "http://live.prodjradio.net:8050/;",
+      "l": "https://kuasark.com/files/stations-logos/pro-dj-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio BEAT",
+      "s": "https://ssl.omegahost.ro/9998/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-beat-md.png",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Zum 1",
+      "s": "https://streams.radiozum.md/listen/zum1/ZUM1",
+      "l": "https://kuasark.com/files/stations-logos/radio-zum-1.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио 1 (Радио Приднестровья)",
+      "s": "https://www.radio.md/stream/radio1tiraspol",
+      "l": "https://kuasark.com/files/stations-logos/radio-1-radio-pridnestrova.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "HIT FM - Русское Хитовое",
+      "s": "https://stream.hitfm.md:8443/ru_hit_320",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-russkoe-hitovoe.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Radio 7",
+      "s": "http://5.32.169.229:8000/?1654143173164",
+      "l": "https://kuasark.com/files/stations-logos/radio-7.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Moldova - Tineret",
+      "s": "https://stream.radioplayer.md:8443/RM-tineret-256",
+      "l": "https://kuasark.com/files/stations-logos/radio-moldova-tineret.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Vocea Sperantei",
+      "s": "https://stream.radioplayer.md:8443/rvs_mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-vocea-sperantei-md.png",
+      "g": [
+        "Inspirational",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Orhei FM 97.5",
+      "s": "http://178.76.72.235:8008/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-orhei-fm-975.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Eco FM",
+      "s": "https://astreaming.ecofm.md:8443/stream.aac",
+      "l": "https://kuasark.com/files/stations-logos/eco-fm-md.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Zum 2",
+      "s": "https://streams.radiozum.md/listen/zum2/ZUM2",
+      "l": "https://kuasark.com/files/stations-logos/radio-zum-2.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Албена",
+      "s": "https://www.radio.md/stream/radioalbena",
+      "l": "https://kuasark.com/files/stations-logos/radio-albena.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Logos",
+      "s": "http://asculta.logos.md:10000/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-logos-md.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Chișinău",
+      "s": "http://95.65.9.171:8000/radiochisinau",
+      "l": "https://kuasark.com/files/stations-logos/radio-chisinau.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Beat FM 96.2",
+      "s": "https://drh-connect.dline-media.com/beatfm",
+      "l": "https://kuasark.com/files/stations-logos/beat-fm-962.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Record - Rock",
+      "s": "https://air.radiorecord.md/rock.aacp",
+      "l": "https://kuasark.com/files/stations-logos/record-rock-md.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "\nАвторадио",
+      "s": "https://streams.radiozum.md/listen/autoradio/autoradio",
+      "l": "https://kuasark.com/files/stations-logos/avtoradio-moldova.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio RFI R.",
+      "s": "https://asculta.radiorfi.ro/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-rfi-r.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Moldova - Muzical",
+      "s": "https://stream.radioplayer.md:8443/RM-muzical-256",
+      "l": "https://kuasark.com/files/stations-logos/radio-moldova-muzical.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Love Radio",
+      "s": "http://37.233.41.76:8000/lovefm",
+      "l": "https://kuasark.com/files/stations-logos/love-radio-402.png",
+      "g": [
+        "Pop",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ретро FM 90s",
+      "s": "https://hls-01-retro90.emgsound.ru/retro-90/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-90s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "HIT FM - Best Hits",
+      "s": "https://stream.hitfm.md:8443/best_hits_320",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-best-hits.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "OM Radio",
+      "s": "http://188.138.237.167:8002/;",
+      "l": "https://kuasark.com/files/stations-logos/om-radio.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic",
+        "Classical",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ретро FM 80s",
+      "s": "https://hls-01-retro80.emgsound.ru/retro-80/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-80s.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio JamZONE",
+      "s": "http://jamzone.ddns.net:8080/stream/2/",
+      "l": "https://kuasark.com/files/stations-logos/radio-jamzone.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "HIT FM - Hot Hits",
+      "s": "https://stream.hitfm.md:8443/hothits_320",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-hot-hits.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "MONKEY.FM",
+      "s": "https://monkey.fm:8001/live",
+      "l": "https://kuasark.com/files/stations-logos/monkeyfm.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Relax - Instrumental",
+      "s": "https://stream.dixi.md:9443/Relax_Instrumental_mp3_320",
+      "l": "https://kuasark.com/files/stations-logos/radio-relax-instrumental.png",
+      "g": [
+        "Easy Listening",
+        "Classical",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Drive FM",
+      "s": "https://stream.radioplayer.md:8443/DriveFM192",
+      "l": "https://kuasark.com/files/stations-logos/drive-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Амор",
+      "s": "https://listen7.myradio24.com/vitaxa",
+      "l": "https://kuasark.com/files/stations-logos/radio-amor.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Themes",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Ретро FM Вечеринка",
+      "s": "https://hls-01-retro-vecherinka.emgsound.ru/retro-vecherinka/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-vecerinka.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Ретро FM 70s",
+      "s": "https://hls-01-retro70.emgsound.ru/1/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-70s.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ретро FM Сан Ремо",
+      "s": "https://hls-01-sanremo.emgsound.ru/retro-sanremo/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-san-remo.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Relax - International",
+      "s": "https://stream.hitfm.md:8443/Relax_int_mp3_320",
+      "l": "https://kuasark.com/files/stations-logos/radio-relax-international.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Deep House",
+      "s": "http://s0.radioheart.ru:8000/livedeephousemoldovaradio",
+      "l": "https://kuasark.com/files/stations-logos/radio-deep-house.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio ROKS",
+      "s": "https://stream.hitfm.md:8443/Roks_mp3_320",
+      "l": "https://kuasark.com/files/stations-logos/radio-roks.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Dar Moldova",
+      "s": "http://188.138.191.214:8000/RadioDar",
+      "l": "https://kuasark.com/files/stations-logos/radio-dar-moldova.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "HIT FM - Tricolor de Hituri",
+      "s": "https://stream.hitfm.md:8443/Tricolor_320",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-tricolor-de-hituri.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "FM Radio Manele",
+      "s": "http://213.141.131.10:8000/manele",
+      "l": "https://kuasark.com/files/stations-logos/fm-radio-manele.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Fresh MD",
+      "s": "https://stream-150.zeno.fm/ttofovumhg1vv?zs=iZ0hEIvORCyKFzvV62Af4w",
+      "l": "https://kuasark.com/files/stations-logos/radio-fresh-md.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Relax - Contemporan",
+      "s": "https://stream.dixi.md:9443/Relax_Cont_mp3_320",
+      "l": "https://kuasark.com/files/stations-logos/radio-relax-contemporan.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Relax - Funk & Soul",
+      "s": "https://stream.dixi.md:9443/Relax_Funk_Soul_320",
+      "l": "https://kuasark.com/files/stations-logos/radio-relax-funk-soul.png",
+      "g": [
+        "Easy Listening",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Retro FM Radio",
+      "s": "https://stream.dixi.md:9443/Retro_FM_320",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Relax - Tricolor",
+      "s": "https://stream.hitfm.md:8443/Relax_Tricolor_mp3_320",
+      "l": "https://kuasark.com/files/stations-logos/radio-relax-tricolor.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Dance FM",
+      "s": "https://stream.radioplayer.md:8443/dancefm",
+      "l": "https://kuasark.com/files/stations-logos/dance-fm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "HIT FM 2000s Hits",
+      "s": "https://stream.hitfm.md:8443/00_hits_mp3_320",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-2000s-hits.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "HIT FM - Summer Hits",
+      "s": "https://stream.hitfm.md:8443/summer_hits_320",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-summer-hits.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dar",
+      "s": "https://stream.radioplayer.md:8443/RadioDar",
+      "l": "https://kuasark.com/files/stations-logos/radio-dar.jpg",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Zdob si Zdub Радио",
+      "s": "https://stream02.pcradio.ru/Zdob_si_Zdub-med",
+      "l": "https://kuasark.com/files/stations-logos/zdob-si-zdub-radio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Kamonoff Radio",
+      "s": "https://lk.castnow.ru:8100/kamonoffm-320.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kamonoff-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио 1 Плюс Тирасполь",
+      "s": "https://radio.pgtrk.com:8443/radio2_192?d=1678904582122",
+      "l": "https://kuasark.com/files/stations-logos/radio-1-plus-tiraspol.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Интер FM",
+      "s": "http://217.19.211.252:8022/InterFM",
+      "l": "https://kuasark.com/files/stations-logos/inter-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Relax - R&B",
+      "s": "https://stream.dixi.md:9443/relax_rnb_mp3_320",
+      "l": "https://kuasark.com/files/stations-logos/radio-relax-rb.png",
+      "g": [
+        "Easy Listening",
+        "Rap",
+        "R&B and Urban",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Master Class FM",
+      "s": "https://listen3.myradio24.com/master1",
+      "l": "https://kuasark.com/files/stations-logos/master-class-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "xTream Radio",
+      "s": "https://stream-152.zeno.fm/z35nzzcnuqruv?zs=3fC51lv6QRC-CjuQiV_arA",
+      "l": "https://kuasark.com/files/stations-logos/xtream-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Nativ",
+      "s": "https://listen3.myradio24.com/58717",
+      "l": "https://kuasark.com/files/stations-logos/radio-nativ.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Pulse FM",
+      "s": "https://listen3.myradio24.com/vitarash24",
+      "l": "https://kuasark.com/files/stations-logos/pulse-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Albena Taraclia",
+      "s": "http://109.185.191.129:49400/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-albena-taraclia.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "imago.fm",
+      "s": "http://109.233.192.78:8000/_a",
+      "l": "https://kuasark.com/files/stations-logos/imagofm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио 1 Плюс (Радио Приднестровья)",
+      "s": "http://217.19.211.252:8022/Radio1Plus",
+      "l": "https://kuasark.com/files/stations-logos/pgtrk-radio-1-plus-radio-pridnestrova.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Pro FM",
+      "s": "https://edge126.rcs-rds.ro/profm/profm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/pro-fm-md.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "GRT FM - Радио Гагаузии",
+      "s": "https://a9.radioheart.ru:8010/RH76673",
+      "l": "https://kuasark.com/files/stations-logos/grt-fm-gagauzradiosu.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    }
+  ]
+}

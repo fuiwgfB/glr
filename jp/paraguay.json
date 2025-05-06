@@ -1,0 +1,1968 @@
+{
+  "stations": [
+    {
+      "t": "Radio Exclusiva",
+      "s": "https://stream.zeno.fm/mxu3ru3zud0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429174/555a0721806fca7e0b4013bb3459a940_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Siete",
+      "s": "https://rss1.siete.com.py:9433/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402951/17c180cc839bef9374b9980f8f3d70db_130x130.webp",
+      "g": [
+        "Classical",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Rock&Pop",
+      "s": "https://rds3.desdeparaguay.net/transrockandpop/transrockandpop/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402942/wwr159d489b1b6c08617721543_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Fe y Alegría",
+      "s": "https://rds3.desdeparaguay.net/movfeyalegria/movfeyalegria.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429180/96c81b0ebbdf80efbbddb3ce4485f593_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Montecarlo",
+      "s": "https://rds3.desdeparaguay.net/movmontecarlo/movmontecarlo.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402945/g4pm59d4a5351cfd2735014572_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chaco Boreal",
+      "s": "https://rds3.desdeparaguay.net/mov1330/mov1330.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423224/4091330ae24964724bd050284583bf4b_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "MIX",
+      "s": "https://cors-proxy.elfsight.com/http://65.108.124.70:8108/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423215/502163e178c624fd43cb41d164cc3306_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "FM Popular",
+      "s": "https://gruponacion.radioca.st/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402948/nbjs59d4a67a90792762760690_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radio 1000 AM",
+      "s": "https://rds3.desdeparaguay.net/mov1000/mov1000.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402959/dsml59d4aa311dfa5297560789_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Vibras 92.7",
+      "s": "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429168/1326e7db1c924597101fa643794239d1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ABC Cardinal",
+      "s": "https://rds3.desdeparaguay.net:8002/730",
+      "l": "https://images.radiovolna.net/_files/images/stations/402953/azz959d4a8b226888999718101_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Concierto",
+      "s": "https://rds3.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429182/52a7ad2a106abf84737db259ac37e7dc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chic Radio",
+      "s": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=4357&type=ice&mount=stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/425749/a73da9bf7b6b05e003f349bd47976896_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "Easy Listening",
+        "Electronic",
+        "Rap"
+      ]
+    },
+    {
+      "t": "S Mateo 9.1",
+      "s": "https://stream.zeno.fm/f97n1c6t1zhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430013/c65474777837647975e2a2bdca46e9fc_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "Corazón",
+      "s": "https://corazon.radioca.st/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402943/cbhj59d4a48eb044a110124420_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Aspen Radio",
+      "s": "https://streaming2.hostingmontevideo.com:7010/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402947/e1fd59d4a5f52ba69170003881_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Estación 40",
+      "s": "https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402938/pth359d4873ce51a8133228106_130x130.webp",
+      "g": [
+        "Latin",
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Reggaeton Radio",
+      "s": "https://stream.zeno.fm/8wup8yd9dm0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427063/cc7b97ddf18541c9372b912fa5a76e36_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "La Unión",
+      "s": "https://rds3.desdeparaguay.net/mov800/mov800.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402956/q7t359d4a96d79514057186193_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Digital 88.5 FM Paraguay",
+      "s": "https://radio.host.com.py:7226/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429550/522fcb6994bea854303724bc0bd9f221_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Farra",
+      "s": "https://rfs1.farra.com.py:9433/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423221/b9d6990da0ef86b62645c2da0bf6c55b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Cámara",
+      "s": "https://rds3.desdeparaguay.net/transcamara/transcamara/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429175/25ae4473a925b019a7844705738db66b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Universo",
+      "s": "https://proxy01.servidorenlinea.net/cdehosting/8042/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429184/f0d03e4287e35ea86c0303f4630abb32_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "La Calentona Radio",
+      "s": "https://stream.zeno.fm/fwacpf26gaotv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429925/ca7c62d326e736d449c1c941b84fa4cf_130x130.webp",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Uno",
+      "s": "https://rus1.radiouno.com.py:9433/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402952/wmdj59d4a853c703f339918008_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "FM Azul y Oro",
+      "s": "http://aliasdns.info:8064/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/402941/wqtk59d48956a4e82992459441_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Conquistador FM",
+      "s": "https://sonic.dattalive.com/8394/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429165/a4b05ee2724de77cbb2a43e8210caec9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RQP Paraguay",
+      "s": "https://d3hqvnvbxqe9o.cloudfront.net/rqp.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429169/8b1bb1a2374555e5868bf2be7f5ef75d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cáritas",
+      "s": "http://200.1.201.244:8000/680AM",
+      "l": "https://images.radiovolna.net/_files/images/stations/423223/78d92cab18bdda40f5654465439a2a48_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Venus",
+      "s": "https://rds3.desdeparaguay.net/movvenus/movvenus.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429177/370f060bed27cf321ab7b5687bff9f71_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Corpus",
+      "s": "https://proxy01.servidorenlinea.net/cdehosting/8024/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429183/d36f63d466eb2f899ea4708dc367109e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Top Milenium",
+      "s": "https://sonic.dattalive.com/8398/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429166/cf70b396feaced221d6b2530c01747c2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "HEi Radio",
+      "s": "https://rds3.desdeparaguay.net/movhei/movhei.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429167/612282a0f926fc953680d5e965e262e5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Ysapy",
+      "s": "https://streamsoymedios.com/8014/stream/",
+      "l": "https://images.radiovolna.net/_files/images/stations/423216/d54970524f970e7095816459cb195013_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Ñemby",
+      "s": "https://rds3.desdeparaguay.net/mov883/mov883.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429164/d4058437e1e0dc3ce5dddc566b183368_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nacional del Praguay",
+      "s": "https://rds3.desdeparaguay.net/trans920/trans920/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402957/rel359d4a9bd52d44841623148_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "María",
+      "s": "http://dreamsiteradiocp.com:8090/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423222/30d8f895fa1df0515c3f43c20ee85051_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Go Radio",
+      "s": "https://rds3.desdeparaguay.net:8002/go",
+      "l": "https://images.radiovolna.net/_files/images/stations/402939/8e2bdb48d2de22762c7ab6d63c5833cf_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Interacción",
+      "s": "https://stream.radiosenpy.net/8096/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429181/81cea2c035272f57415c330efa4ebf75_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nuevo Tiempo",
+      "s": "https://stream.live.novotempo.com/radio/smil:rntAsuncionPY.smil/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423220/568e690fd25180edbf2577a013c45031_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Amor",
+      "s": "https://rds3.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429170/c02d8ea33be2184fdce84075e44e767d_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Urbana 106.9",
+      "s": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402950/78031f7251c258f294f289c433bf806e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tropicalia Radio",
+      "s": "https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402940/b4193ab90205bb4df875f53a74d2d58a_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Latina",
+      "s": "https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423219/0f379a8535edfe5aa45d72f93acceb2f_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Cumbia Para Recordar con Monchi Bogarin Radio",
+      "s": "https://stream.zeno.fm/d4gm2mcym18uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427064/02e6a8d9ec14e315d9f441b81e2f5b80_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radio power virtual",
+      "s": "https://stream.zeno.fm/id8idyknezrtv",
+      "l": "https://images.radiovolna.net/_files/images/stations/431009/3cc4138a51fccbe90d6a3cabb071b38c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "La Voz de la Policía Nacional",
+      "s": "http://45.182.127.243:8025/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402954/ploi59d4a8eba4e99526712405_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Monumental",
+      "s": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402961/sz7f59d4aab121a24151778321_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Positiva",
+      "s": "https://ssl.srvstm.com:7320/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429192/8d39fc7379c271ca027d69451cdf1593_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Emisoras Paraguay",
+      "s": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/429178/5d4d93dde2532844cb1d056e6663d65b_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Night Club Radio",
+      "s": "https://stream.zeno.fm/du6dnwww9u8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/425938/cbd168db2f960e3a9e9da2af90c40e48_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Itapirú",
+      "s": "https://proxy01.servidorenlinea.net/cdehosting/8002/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429188/0db33c039e24ef9b2726f6acd7a9ef03_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Palma FM",
+      "s": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402949/d61e3056fe3df83c05fb068435878ba9_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "1º de Marzo",
+      "s": "https://rds3.desdeparaguay.net/mov780/mov780.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402955/wh9059d4a9281e2d0107144895_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "CFA Radio",
+      "s": "https://rds3.desdeparaguay.net/movcfa/movcfa.stream/chunklist_w1922980709.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402944/bi4k59d4a4d54ddb8385588401_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "América / Iglesia",
+      "s": "https://radioiglesia.com/audio.php",
+      "l": "https://images.radiovolna.net/_files/images/stations/402963/gf9t59d4ac072042f124673436_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Disney Latinoamérica",
+      "s": "https://rds1.radiomagic.com.py:9433/stream",
+      "l": "https://kuasark.com/files/stations-logos/disney-latinoamerica.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Palma FM",
+      "s": "https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=q3SvJ10ggXXwjgKBmFtebgJd4kCw5nvw&sid=IDVjgSLczJelZLavLolizXTTQCZP0c2j&uid=jhCUULOaSudUh6oxWHId9QlCU9kIfnNp&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1695205469964&ot=d03wNBO1RXWiNao2doMRlA&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81d48f5ef320830c8becf&listenerId=jhCUULOaSudUh6oxWHId9QlCU9kIfnNp",
+      "l": "https://kuasark.com/files/stations-logos/palma-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "FM Popular",
+      "s": "https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/fm-popular.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Latin",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Del Este",
+      "s": "https://proxy01.servidorenlinea.net/cdehosting/8040/;",
+      "l": "https://kuasark.com/files/stations-logos/del-este-py.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio OBEDIRA",
+      "s": "http://play.obedira.com.py:8300/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-obedira.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "https://dreamsiteradiocp2.com/proxy/rmparaguay2?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-py.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Estacion 40",
+      "s": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=3iYMifjIGZzhbydKmWvIRQPcz9QvY0WL&sid=I7tdUEzD1MXAQRYzvC0nRvN5DShjfMG5&uid=nA6Bc6uZi2yn7uSf0NLxwG2bWKRZRLUv&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1695204514618&ot=BtJNH0e9Eo0Ira5Q2Q--Rw&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81cfbbfbcee0837ba1b60&listenerId=nA6Bc6uZi2yn7uSf0NLxwG2bWKRZRLUv",
+      "l": "https://kuasark.com/files/stations-logos/estacion-40.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Exitos de Ayer",
+      "s": "https://stream-021.zeno.fm/wqdx2d5uebruv?zs=zjQsmcymRI6vg-rkSpUk8Q",
+      "l": "https://kuasark.com/files/stations-logos/radio-exitos-de-ayer.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Universo 970 AM",
+      "s": "https://rds3.desdeparaguay.net/trans970/trans970/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/universo-970-am.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Ñanduti",
+      "s": "https://cp9.serverse.com/proxy/naduti1020/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-nanduti.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Monumental AM",
+      "s": "https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=J9763BiHVirNoVU5A1z0IJswExsZqYql&sid=YMtMgkwTwP7nxBQdFiNblZoupgwuaMX4&uid=ZSRSnhUMfAZqFhJVJyWIcwX0tqzpYEng&es=us-b5-p-e-wo1-audio.cdn.mdstrm.com&ote=1695204503594&ot=UVk3QzZshB_zYqiI3r3s5g&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81ca6a459e4082203c95b&listenerId=ZSRSnhUMfAZqFhJVJyWIcwX0tqzpYEng",
+      "l": "https://kuasark.com/files/stations-logos/monumental-am.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Pop",
+      "s": "https://rps1.radiopop.com.py:9433/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-pop-py.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Romanticas Del Ayer Radio",
+      "s": "https://stream-107.zeno.fm/ge6pacdcreruv?zs=_M8RKpiwQLaSU6xlXM7Vjg",
+      "l": "https://kuasark.com/files/stations-logos/romanticas-del-ayer-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "ABC FM 98.5",
+      "s": "https://media.streambrothers.com:8350/stream",
+      "l": "https://kuasark.com/files/stations-logos/abc-fm-985.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Vallenatos Clasicos",
+      "s": "https://stream-151.zeno.fm/z07vyxbqz8quv?zs=Mt6renq_R6mh-Rwz4hl5Nw",
+      "l": "https://kuasark.com/files/stations-logos/radio-vallenatos-clasicos.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "100% Reggaeton Radio",
+      "s": "https://stream-140.zeno.fm/qmhf2yd9dm0uv?zs=XgVSuxGfTX6-VcPLzjAjUA",
+      "l": "https://kuasark.com/files/stations-logos/100-reggaeton-radio.png",
+      "g": [
+        "Reggae",
+        "Latin",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Música Paraguaya RS1",
+      "s": "https://streamsoymedios.com/8052/stream",
+      "l": "https://kuasark.com/files/stations-logos/musica-paraguaya-rs1.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Rock and Pop",
+      "s": "https://cp9.serverse.com/proxy/rockandpop/stream",
+      "l": "https://kuasark.com/files/stations-logos/rock-and-pop-py.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Urbana",
+      "s": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=rpnk2OmisspYCNScoqVtXofVlocTkyNH&sid=xs5AnmQJtwWjrIrM3LiiQXajlCjNVsiq&uid=iI0OMT3G950l0rSSJI4htO55kBV9ciqW&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1695204498185&ot=r59V-SbplWkbYweG4bG6Wg&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81cdabff0bc082f8f1a24&listenerId=iI0OMT3G950l0rSSJI4htO55kBV9ciqW",
+      "l": "https://kuasark.com/files/stations-logos/urbana.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Adult contemporary music relaxing",
+      "s": "https://stream-023.zeno.fm/7evvcp3u0p8uv?zs=kdtIJ4vlQ4WBTy9CjbOd8w",
+      "l": "https://kuasark.com/files/stations-logos/adult-contemporary-music-relaxing.png",
+      "g": [
+        "Easy Listening",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Itapua FM",
+      "s": "http://aire.itacom.com.py:8000/itapuafm",
+      "l": "https://kuasark.com/files/stations-logos/radio-itapua-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Ysapy",
+      "s": "https://streamsoymedios.com/8014/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-ysapy.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Amazing 90s Music",
+      "s": "https://stream-107.zeno.fm/ytvegfm048quv?zs=fUQK0BbnS8-tcwN9w8J_wQ",
+      "l": "https://kuasark.com/files/stations-logos/amazing-90s-music.png",
+      "g": [
+        "Electronic",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Fiesta",
+      "s": "http://stream.radiios.com:8004/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-fiesta-py.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Colmenar",
+      "s": "https://server5.hostipy.com:2020/stream/8018/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-colmenar.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "FM Concert",
+      "s": "https://cp9.serverse.com/proxy/concertfm/stream",
+      "l": "https://kuasark.com/files/stations-logos/fm-concert.png",
+      "g": [
+        "Classical",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio Metro",
+      "s": "https://radio.host.com.py/8110/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-metro.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Onda Verde",
+      "s": "https://stream.radiosenpy.net/8812/;",
+      "l": "https://kuasark.com/files/stations-logos/onda-verde.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Esto es KchaK con Monchi Bogarin Radio",
+      "s": "https://stream-107.zeno.fm/kd0p50swchruv?zs=9xoY0fWzSNyQJtOtHgb7LA",
+      "l": "https://kuasark.com/files/stations-logos/esto-es-kchak-con-monchi-bogarin-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 1º de Marzo",
+      "s": "https://megacadena.com.py/web/",
+      "l": "https://kuasark.com/files/stations-logos/radio-1º-de-marzo.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "La Deportiva 1120 AM",
+      "s": "https://ladeportiva.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/la-deportiva-1120-am.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Cumbia Villera (la vieja escuela) Radio",
+      "s": "https://stream-151.zeno.fm/0f4cs2u1krruv?zs=r29MMcqKRYyhXThGMdQ4LQ",
+      "l": "https://kuasark.com/files/stations-logos/cumbia-villera-la-vieja-escuela-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "24/7 Deep Sleep Music Relaxing",
+      "s": "https://stream-140.zeno.fm/30drqrdsyc9uv?zs=4lRyuVSDQ2ezAtYGkc_2nQ",
+      "l": "https://kuasark.com/files/stations-logos/24-7-deep-sleep-music-relaxing.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio ZP30",
+      "s": "http://184.154.43.106:8019/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-zp30.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kokue Poty",
+      "s": "https://radio.host.com.py:7089/;",
+      "l": "https://kuasark.com/files/stations-logos/kokue-poty.png",
+      "g": [
+        "Folk",
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "FM Horizonte",
+      "s": "https://stream.radiosenpy.net:7018/;",
+      "l": "https://kuasark.com/files/stations-logos/fm-horizonte.png",
+      "g": [
+        "Classical",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Guaira FM 103.5",
+      "s": "https://streaming3.locucionar.com/proxy/radioguaira?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-guaira-fm-1035.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Corazón",
+      "s": "https://rds3.desdeparaguay.net/movcorazon/movcorazon.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/corazon-py.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Educación",
+      "s": "https://proxy01.servidorenlinea.net/cdehosting/8050/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-educacion-py.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Vol40",
+      "s": "https://stream-058.zeno.fm/by6gw572mqzuv?zs=vv0HmjVaQZWSnmWGF1hG7Q",
+      "l": "https://kuasark.com/files/stations-logos/vol40.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Carapegua FM",
+      "s": "https://streamsoymedios.com/8012/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-carapegua-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Nacional del Paraguay",
+      "s": "http://audio.radionacional.gov.py:8085/920",
+      "l": "https://kuasark.com/files/stations-logos/radio-nacional-del-paraguay-35924.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Santa Rita FM",
+      "s": "https://ssl.srvstm.com:9622/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-santa-rita-fm-py.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Venus",
+      "s": "https://www.venus.com.py/en-vivo-mira-el-lanzamiento-de-blue-origin-en-donde-el-actor-de-star-trek-william-shatner-viajara-al-espacio",
+      "l": "https://kuasark.com/files/stations-logos/radio-venus.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Invasiva Radio",
+      "s": "https://fm.restream593.online:8020/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/invasiva-radio.png",
+      "g": [
+        "Electronic",
+        "Folk",
+        "Pop",
+        "Reggae",
+        "Latin",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Pasion Hits",
+      "s": "https://stream-149.zeno.fm/x6nuvnmd508uv?zs=Th_2F6_RQ8GhNay36M4xsg",
+      "l": "https://kuasark.com/files/stations-logos/pasion-hits.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Panamericana de Carapegua",
+      "s": "https://v.orlandohugo.com:10915/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-panamericana-de-carapegua.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Chic Radio",
+      "s": "https://stream-058.zeno.fm/ybz4m57t7druv?zs=Bu4y7tTjR1mGSzOzf_EADw",
+      "l": "https://kuasark.com/files/stations-logos/chic-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Centenario",
+      "s": "https://stream.radiosenpy.net:7007/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-centenario.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio HitMix",
+      "s": "https://stream-149.zeno.fm/4t9keucrquhvv?zs=DHgQ6WdFSUmWDmOf-2RaCQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-hitmix.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Ita Pora",
+      "s": "https://stream-058.zeno.fm/4mt3gnywz08uv?zs=SOJsd0vCQyGY8t_gnWcZ-Q",
+      "l": "https://kuasark.com/files/stations-logos/radio-ita-pora.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Encarnacion",
+      "s": "http://s23.myradiostream.com:6646/;",
+      "l": "https://kuasark.com/files/stations-logos/encarnacion.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Paraguay Kape",
+      "s": "https://stream-050.zeno.fm/x1bcd137y5quv?zs=4wvUIdR_T0eBo7KmVZ8fMA",
+      "l": "https://kuasark.com/files/stations-logos/paraguay-kape.png",
+      "g": [
+        "R&B and Urban",
+        "Reggae",
+        "Latin",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Fananpy Radio",
+      "s": "https://stream-150.zeno.fm/8p9ypyq537zuv?zs=QlQG0lYQTRKpJYuLRHy7Fw",
+      "l": "https://kuasark.com/files/stations-logos/fananpy-radio.png",
+      "g": [
+        "Themes",
+        "Rock",
+        "Pop",
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Radio Neuland",
+      "s": "https://radio.host.com.py/8058/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-neuland.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Naranjaty",
+      "s": "http://35.211.228.170/radio/8000/player.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-naranjaty.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "VINT Radio",
+      "s": "https://stream-148.zeno.fm/qz4r5fc059duv?zs=u-IuBIgsQ8iNORlDkzorsQ",
+      "l": "https://kuasark.com/files/stations-logos/vint-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Suena Paraguay",
+      "s": "https://stream-153.zeno.fm/77nxt9zruzzuv?zs=FgkZmAasRsmDZZ2F8ICimQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-suena-paraguay.png",
+      "g": [
+        "Folk",
+        "Reggae",
+        "Latin",
+        "Rock",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Guarani Fm 103.3",
+      "s": "https://stream-052.zeno.fm/u6bce7ppvzzuv?zs=wccVC_MDRAuYhe2c7nOpEQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-guarani-fm-1033.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Lata Pararâ",
+      "s": "https://stream.radiosenpy.net/8188/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-lata-parara.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Más",
+      "s": "https://stream.radiosenpy.net/8002/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-mas.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Parque",
+      "s": "https://proxy01.servidorenlinea.net/cdehosting/8032/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-parque-py.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Suceso",
+      "s": "http://stm11.srvstm.com:7020/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-suceso.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Sonica Paraguay",
+      "s": "https://streamsoymedios.com/8034/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-sonica-paraguay.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Potrerito",
+      "s": "https://stream-148.zeno.fm/43q0e9rgytzuv?zs=cQCjnkVYS9ORJbaeFvPM_Q",
+      "l": "https://kuasark.com/files/stations-logos/radio-potrerito.png",
+      "g": [
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "Polca Paraguaya Online",
+      "s": "https://stream-068.zeno.fm/tvsx850x1f8uv?zs=2ncra5mbRdm2OoIvfENF8w",
+      "l": "https://kuasark.com/files/stations-logos/polca-paraguaya-online.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Musica Para tomar y Recordar entre Cumbia y Vallenatos Radio",
+      "s": "https://stream-140.zeno.fm/ew91g7eb2hhvv?zs=dTvNXGMHRx6YjMSEK6gRxA",
+      "l": "https://kuasark.com/files/stations-logos/musica-para-tomar-y-recordar-entre-cumbia-y-vallenatos-radio.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vallenatos Romanticos con Monchi Bogarin Radio",
+      "s": "https://stream-151.zeno.fm/4neferxbzy8uv?zs=L9Spibn5QUu3x1zZ8KWk5Q",
+      "l": "https://kuasark.com/files/stations-logos/vallenatos-romanticos-con-monchi-bogarin-radio.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Yerutí",
+      "s": "https://stream.radiosenpy.net/10390/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-yeruti.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tereré Mix Paraguay",
+      "s": "https://stream-148.zeno.fm/x5rkh2be8f0uv?zs=yjlxtaOHTpuPfgqVgYhbAw",
+      "l": "https://kuasark.com/files/stations-logos/terere-mix-paraguay.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Katueté FM",
+      "s": "https://stream.radiosenpy.net/8830/;",
+      "l": "https://kuasark.com/files/stations-logos/katuete-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Misiones FM",
+      "s": "http://streaming.camaronhosting.com:9444/;",
+      "l": "https://kuasark.com/files/stations-logos/misiones-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Reggaeton Exitos de Hoy",
+      "s": "https://stream-046.zeno.fm/z6hdhgcpq18uv?zs=JrH-2YMOS1OZij9f1EzeGA",
+      "l": "https://kuasark.com/files/stations-logos/reggaeton-exitos-de-hoy.png",
+      "g": [
+        "Reggae",
+        "Latin",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Romanticos Inolvidables",
+      "s": "http://195.154.241.35:7213/stream",
+      "l": "https://kuasark.com/files/stations-logos/romanticos-inolvidables.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Fernando de la Mora",
+      "s": "https://www.desdeparaguay.com/fernando",
+      "l": "https://kuasark.com/files/stations-logos/fernando-de-la-mora.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio StudioFm 92.1",
+      "s": "https://rds3.desdeparaguay.net/movstudio/movstudio.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-studiofm-921.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RCC Radio",
+      "s": "http://streaming.camaronhosting.com:9526/;",
+      "l": "https://kuasark.com/files/stations-logos/rcc-radio-py.png",
+      "g": [
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Radio Web Virtual Internacional",
+      "s": "https://stm21.srvaudio.com.br:11214/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-web-virtual-internacional.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Stereo Pop",
+      "s": "https://laradiossl.online:10740/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/stereo-pop.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Cumbia Gruperas exitos inmortales Radio",
+      "s": "https://stream-143.zeno.fm/thzq84ehbpquv?zs=-gXQufxiT-yvUwt8Npgt-A",
+      "l": "https://kuasark.com/files/stations-logos/cumbia-gruperas-exitos-inmortales-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Mensajero 100.9 FM",
+      "s": "https://radio.host.com.py:7146/spanish",
+      "l": "https://kuasark.com/files/stations-logos/radio-mensajero-1009-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Luz",
+      "s": "http://167.114.116.223:9960/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-luz-py.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Espíritu Santo",
+      "s": "http://stream.radiios.com:8838/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-espiritu-santo-py.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Itakaru FM",
+      "s": "https://stream-040.zeno.fm/c4zvrrvh02quv?zs=IusDW1iAR3-x3M9xSQX0HQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-itakaru-fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Web Clasicos",
+      "s": "https://stream-148.zeno.fm/x1et8y8xh2zuv?zs=wl_J8sewRi6a9qxbZDLSzg",
+      "l": "https://kuasark.com/files/stations-logos/radio-web-clasicos.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Night club Radio",
+      "s": "https://stream-148.zeno.fm/gd1dewww9u8uv?zs=M2zuhqnETXuP6QdhVN5aAw",
+      "l": "https://kuasark.com/files/stations-logos/night-club-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Show Full Mix",
+      "s": "https://stream-050.zeno.fm/2zrmb02zmv8uv?zs=atTOo5XbSRaJPhtkROen6g",
+      "l": "https://kuasark.com/files/stations-logos/radio-show-full-mix.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Cumbia Para Recordar con Monchi Bogarin",
+      "s": "https://stream-107.zeno.fm/hc09xmcym18uv?zs=-oEu5gdbRaOdaTiL1F7Pxg",
+      "l": "https://kuasark.com/files/stations-logos/cumbia-para-recordar-con-monchi-bogarin.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Musica de Bad Bunny Radio",
+      "s": "https://stream-151.zeno.fm/rebfuhvwcuhvv?zs=GDn8LzIqTEOX9QcQvBJboQ",
+      "l": "https://kuasark.com/files/stations-logos/musica-de-bad-bunny-radio.png",
+      "g": [
+        "Reggae",
+        "Latin",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Friesland",
+      "s": "https://max.miradio.in/proxy/stf0/chillout.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-friesland.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Monte Horeb Fm",
+      "s": "https://radio.host.com.py:7206/;",
+      "l": "https://kuasark.com/files/stations-logos/monte-horeb-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Capiata Music",
+      "s": "https://stream-153.zeno.fm/vtmqzahq6tzuv?zs=eyRhhuOSS92dK_MuNUd6hw",
+      "l": "https://kuasark.com/files/stations-logos/radio-capiata-music.png",
+      "g": [
+        "Reggae",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radio Guaira AM 840",
+      "s": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-guaira-am-840.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hits Classic Rock,Pop & Disco",
+      "s": "https://stream-143.zeno.fm/r1ek0ge23hhvv?zs=SKJuJZr6SU2dEMAuaUfhVg",
+      "l": "https://kuasark.com/files/stations-logos/hits-classic-rockpop-disco.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Mburucuyá",
+      "s": "https://stream.hostipar.com/proxy/mburucuya/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-mburucuya.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Nacional del Paraguay",
+      "s": "http://audio2.radionacional.gov.py:8084/951fm",
+      "l": "https://kuasark.com/files/stations-logos/radio-nacional-del-paraguay-81196.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio SOL FM",
+      "s": "https://radio.host.com.py:7205/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-sol-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Clasica Online",
+      "s": "http://109.169.76.104:8306/;",
+      "l": "https://kuasark.com/files/stations-logos/clasica-online.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "La Calentona Radio",
+      "s": "https://stream-148.zeno.fm/fwacpf26gaotv?zs=4TZcYsqcSjauZruNUhuj5Q",
+      "l": "https://kuasark.com/files/stations-logos/la-calentona-radio.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Continental",
+      "s": "http://publish.desdeparaguay.net:9220/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-continental-py.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Aguai Poty",
+      "s": "http://108.161.131.200:8004//;",
+      "l": "https://kuasark.com/files/stations-logos/radio-aguai-poty.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Estación 101.3",
+      "s": "https://v.orlandohugo.com:10910/;",
+      "l": "https://kuasark.com/files/stations-logos/estacion-1013.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Coparaguay",
+      "s": "https://stream-148.zeno.fm/3uu1z6tr11zuv?zs=oAqrHsjORqGYoWmWAhN27w",
+      "l": "https://kuasark.com/files/stations-logos/radio-coparaguay.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Monarca FM",
+      "s": "https://stream-148.zeno.fm/5b0up3aerd0uv?zs=um6radhDRKKb-utfeEAwzg",
+      "l": "https://kuasark.com/files/stations-logos/monarca-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Horqueta FM 88.5",
+      "s": "https://stream.radiosenpy.net:7054/;",
+      "l": "https://kuasark.com/files/stations-logos/horqueta-fm-885.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Okarapoty",
+      "s": "https://stream-148.zeno.fm/7a3k8ct9z4zuv?zs=gaqtCIJPRtyIFLt-jf07jQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-okarapoty.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Positiva",
+      "s": "https://stm11.srvstm.com:7320/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-positiva-py.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "FM Union",
+      "s": "https://radio.hostingparaguay.net:9006/stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/fm-union.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Geração Gospel Fm",
+      "s": "https://stm20.srvaudio.com.br:10672/stream",
+      "l": "https://kuasark.com/files/stations-logos/geracao-gospel-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Mangore",
+      "s": "http://207.244.77.236:26642/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-mangore.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "La Voz Del Nazareno",
+      "s": "https://server5.hostipy.com:2020/stream/8026",
+      "l": "https://kuasark.com/files/stations-logos/la-voz-del-nazareno.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Flash FM",
+      "s": "https://stream-149.zeno.fm/3f48wfn52mzuv?zs=16hKqj84Txih37nlhz8Kbw",
+      "l": "https://kuasark.com/files/stations-logos/flash-fm-py.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Reggae",
+        "Latin",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio La Movida FM 87.7",
+      "s": "http://freeuk30.listen2myradio.com:32600/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-la-movida-fm-877.png",
+      "g": [
+        "Reggae",
+        "Latin",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Pionero 97.3 Fm Stereo",
+      "s": "https://stream-150.zeno.fm/uwe7qg4h6a0uv?zs=GXOisTaOS12XhZIOB-os8A",
+      "l": "https://kuasark.com/files/stations-logos/radio-pionero-973-fm-stereo.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Ñopotyvo 89.3 Fm",
+      "s": "http://streaming.camaronhosting.com:8070/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-nopotyvo-893-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Electrolevel Radiomix",
+      "s": "https://stream-149.zeno.fm/rt4yt74n7k8uv?zs=IAMWTQGXTaWsVtlIJ1_2LQ",
+      "l": "https://kuasark.com/files/stations-logos/electrolevel-radiomix.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Expresso Minga Guazú",
+      "s": "https://stream-068.zeno.fm/w486dkhc2wzuv?zs=lk1wxHu4TrWaUfhjFkkPRA",
+      "l": "https://kuasark.com/files/stations-logos/radio-expresso-minga-guazu.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Fulgencio Yegros 88.7",
+      "s": "https://stream-149.zeno.fm/dkkysk1r01zuv?zs=sy3oQn4ORe2dY3zlronX5A",
+      "l": "https://kuasark.com/files/stations-logos/radio-fulgencio-yegros-887.png",
+      "g": [
+        "Reggae",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radio Ultrasonix",
+      "s": "https://sonicpanel.totalstreaming.net/8006/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-ultrasonix.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RPP Radio Polca Paraguaya",
+      "s": "https://stream-058.zeno.fm/cr7m9czvp68uv?zs=JNWadNIZQTCUUXYct1QnNA",
+      "l": "https://kuasark.com/files/stations-logos/rpp-radio-polca-paraguaya.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "24horasmusica",
+      "s": "http://sc.dattalive.com:8160/stream",
+      "l": "https://kuasark.com/files/stations-logos/24horasmusica.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "TOP 40 PY FM",
+      "s": "https://stream-061.zeno.fm/b09nq6ddnxhvv?zs=yqxa2MH1SKOEL8zQEghk4A",
+      "l": "https://kuasark.com/files/stations-logos/top-40-py-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "La Explosiva 90.1",
+      "s": "http://109.169.76.155:36440/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/la-explosiva-901.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Reggae",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radio Libre",
+      "s": "https://www.desdeparaguay.com/1200",
+      "l": "https://kuasark.com/files/stations-logos/radio-libre.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Yvytu",
+      "s": "https://www.desdeparaguay.com/yvytu",
+      "l": "https://kuasark.com/files/stations-logos/radio-yvytu.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Evenezer FM 107.1",
+      "s": "https://server5.hostipy.com:8034/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-evenezer-fm-1071.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RadioTV Polca Paraguaya Online",
+      "s": "https://stream-150.zeno.fm/cmz8e60x1f8uv?zs=IUe-Vd78TKy4aGWHEwyqbg",
+      "l": "https://kuasark.com/files/stations-logos/radiotv-polca-paraguaya-online.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Fantasia",
+      "s": "http://109.73.65.69:25731/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-fantasia.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Uninorte FM Estéreo",
+      "s": "http://cactus2.uninorte.edu.co:1755/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/uninorte-fm-estereo.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Vida",
+      "s": "https://ssl.streaming.com.py:7014/;/;?1638629186485",
+      "l": "https://kuasark.com/files/stations-logos/radio-vida-py.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Itapiru",
+      "s": "https://proxy01.servidorenlinea.net/cdehosting/8004/;",
+      "l": "https://kuasark.com/files/stations-logos/itapiru.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Arandú",
+      "s": "https://rds3.desdeparaguay.net/movarandu/movarandu.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-arandu-py-101759.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "La Paz",
+      "s": "https://v.orlandohugo.com:10916/;",
+      "l": "https://kuasark.com/files/stations-logos/la-paz.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Pirelli",
+      "s": "https://stream-150.zeno.fm/3rw524c8bzzuv?zs=SyyOmr3IRWyE95W2cIYlOQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-pirelli.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Jhonny Gaspar Online",
+      "s": "https://stream-150.zeno.fm/wq2qrm0fxa0uv?zs=_qp6TLZoQkuBRkLq-gMiJA",
+      "l": "https://kuasark.com/files/stations-logos/jhonny-gaspar-online.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mística Online",
+      "s": "https://stream-068.zeno.fm/1w0qcm1kua0uv?zs=21aw7ZL5RSKzOHkWoeK9yw",
+      "l": "https://kuasark.com/files/stations-logos/mistica-online-py-125363.png",
+      "g": [
+        "Reggae",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Popeye Radio Monarca 102.5 Fm",
+      "s": "https://stream-148.zeno.fm/wudxt3aerd0uv?zs=uykzaxrfQ82A0V5A7FPL0Q",
+      "l": "https://kuasark.com/files/stations-logos/popeye-radio-monarca-1025-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Yvytyruzu 100.7 Fm",
+      "s": "https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=8288&type=ice&mount=stream&1670624254727",
+      "l": "https://kuasark.com/files/stations-logos/radio-yvytyruzu-1007-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Repatriación Py 100.1 Fm",
+      "s": "https://stream.radiosenpy.net/3050/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-repatriacion-py-1001-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Primaveral 107.1 Fm",
+      "s": "https://stream.radiosenpy.net:7015/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-primaveral-1071-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Classic FM Online",
+      "s": "https://stream-149.zeno.fm/nfuuy82hd18uv?zs=-N7SWNY4S5OkcwBEoIfucw",
+      "l": "https://kuasark.com/files/stations-logos/classic-fm-online.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Monchi Bogarin y su repertorio musical",
+      "s": "https://stream-107.zeno.fm/ezc6s3cnzc9uv?zs=mJLk8vmkRXGVmuSlMtVkvw",
+      "l": "https://kuasark.com/files/stations-logos/monchi-bogarin-y-su-repertorio-musical.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Decades",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "TOP 100 Reggaeton Exitos del Momento Radio",
+      "s": "https://stream-151.zeno.fm/46umbszyuxhvv?zs=Lg-3OYOmQiCg332PwejCEA",
+      "l": "https://kuasark.com/files/stations-logos/top-100-reggaeton-exitos-del-momento-radio.png",
+      "g": [
+        "Reggae",
+        "Latin",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tereré Mix Difusión",
+      "s": "https://stream-149.zeno.fm/y03k2qh2mglvv?zs=YSJUBloDTweI9rKgraer_w",
+      "l": "https://kuasark.com/files/stations-logos/terere-mix-difusion.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Today's Hits Top 40 Music",
+      "s": "https://stream-147.zeno.fm/tonckcb5bfruv?zs=xqnZZrTVTRqo0Ne8LbymWg",
+      "l": "https://kuasark.com/files/stations-logos/todays-hits-top-40-music.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Corpus",
+      "s": "https://proxy01.servidorenlinea.net/cdehosting/8026/;",
+      "l": "https://kuasark.com/files/stations-logos/corpus.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Regional",
+      "s": "https://www.regional660.com/",
+      "l": "https://kuasark.com/files/stations-logos/radio-regional-37181.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Progreso 94.3 Fm",
+      "s": "https://stream-149.zeno.fm/afy2cdpv8k0uv?zs=7eKnK80oQBeA1JkFALzr3A",
+      "l": "https://kuasark.com/files/stations-logos/radio-progreso-943-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Stilo 88.5 Fm",
+      "s": "https://stream-149.zeno.fm/gofyvgfojhrvv?zs=kq2aHB3cQSyp6JrsIPmBiQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-stilo-885-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio San Isidro Fm",
+      "s": "https://stream-149.zeno.fm/p075xecgnxhvv?zs=yI1unL2aToOkZ-jJIzZyEQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-san-isidro-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "OH Radio - OrlandoHugo",
+      "s": "https://v.orlandohugo.com:10900/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/oh-radio-orlandohugo.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RADIO DRAC REMIX MUSIC FM",
+      "s": "https://stream-151.zeno.fm/qtbt6vqrta0uv?zs=tqTXu2jVRWOsnRsxlXVbUA",
+      "l": "https://kuasark.com/files/stations-logos/radio-drac-remix-music-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Triunfo",
+      "s": "https://panel.wilhost.com:8078/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-triunfo-py.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Regi Gospel",
+      "s": "https://stm28.srvaudio.com.br:9718/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-regi-gospel.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Fama FM",
+      "s": "https://stream.radiosenpy.net/8266/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fama-fm-py.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Jardin 88.1 FM",
+      "s": "https://stream.radiosenpy.net:7040/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-jardin-881-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Cielo Spa Online",
+      "s": "http://cdn.streaming.com.py:7062/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-cielo-spa-online.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Mica TV Radio Online",
+      "s": "https://stream-150.zeno.fm/kknv2edchg8uv?zs=UrVWMtGhSSyn-azKkav1uA",
+      "l": "https://kuasark.com/files/stations-logos/mica-tv-radio-online.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Sur Fm 104.7",
+      "s": "http://streaming.camaronhosting.com:9896/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-sur-fm-1047.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Yacare",
+      "s": "https://radioyacare.stream.laut.fm/radio_yacare?t302=2023-04-25_20-26-46&uuid=23f50059-840a-4eec-9a56-75895946cefc",
+      "l": "https://kuasark.com/files/stations-logos/radio-yacare.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vintage Radio",
+      "s": "https://stream-148.zeno.fm/u7gu6urnd18uv?zs=y6_pCfFKQzGQXaKNP-wh5Q",
+      "l": "https://kuasark.com/files/stations-logos/vintage-radio-py.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "CM Music Pilar",
+      "s": "https://stream-061.zeno.fm/tdq6z9qvwchvv?zs=lJa6xq1MTzajAPA20EknQg",
+      "l": "https://kuasark.com/files/stations-logos/cm-music-pilar.png",
+      "g": [
+        "Reggae",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Ritmo Tropical Online",
+      "s": "https://stream-150.zeno.fm/8h1b4rexvchvv?zs=UT_SNTZNSnudGAFwTNpyiQ",
+      "l": "https://kuasark.com/files/stations-logos/ritmo-tropical-online.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Yvyty Rokê",
+      "s": "https://v.orlandohugo.com:10911/;",
+      "l": "https://kuasark.com/files/stations-logos/yvyty-roke.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Reggae",
+        "Latin"
+      ]
+    },
+    {
+      "t": "DJ Christian Candia PY",
+      "s": "https://stream-061.zeno.fm/nc5skzkxcfhvv?zs=wLjEV5W9RV-SnfX5enCJCg",
+      "l": "https://kuasark.com/files/stations-logos/dj-christian-candia-py.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Paraná",
+      "s": "https://rds3.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-parana.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

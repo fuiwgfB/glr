@@ -1,0 +1,306 @@
+{
+  "stations": [
+    {
+      "t": "Quran in Vietnamese",
+      "s": "https://www.qurantranslations.net/sound/English/AbdulBaset_AbdulSamad/002.mp3?type=.mp3/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/quran-in-vietnamese.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "VOH 99.9",
+      "s": "https://strm.voh.com.vn/radio/channel3/chunklist_w309271778.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/voh-999.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": " VOV 5",
+      "s": "https://static.vovworld.vn/Uploaded/kimlan/2016_07_23/lan_het.mp3",
+      "l": "https://kuasark.com/files/stations-logos/-vov-5.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "VOV 1",
+      "s": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vov-1.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Scientific Sound Asia Radio",
+      "s": "https://carol.epichosts.co.uk:8270/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/scientific-sound-asia-radio.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Rap",
+        "Reggae",
+        "Inspirational",
+        "New Age"
+      ]
+    },
+    {
+      "t": "VOV 2",
+      "s": "http://media.kythuatvov.vn:7003/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/vov-2.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "VOV 4",
+      "s": "http://media.kythuatvov.vn:7035/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/vov-4.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "VOH 95.6",
+      "s": "https://strm.voh.com.vn/radio/channel1/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/voh-956.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "VOH 610 AM",
+      "s": "https://strm.voh.com.vn/radio/channel2/chunklist_w290535666.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/voh-610-am.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hanoi90",
+      "s": "http://14.162.146.90:8000/HANOI90",
+      "l": "https://kuasark.com/files/stations-logos/hanoi90.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RFI Tiếng Việt",
+      "s": "http://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rfi-tieng-viet.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Cai Luong Viet Nam",
+      "s": "https://stream-158.zeno.fm/0trm6wrnga0uv?zs=RXv2nebKQU6b6Cla4chKqA",
+      "l": "https://kuasark.com/files/stations-logos/cai-luong-viet-nam.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "VOV 5 World 24/7 English",
+      "s": "https://stream.vovmedia.vn/vov247",
+      "l": "https://kuasark.com/files/stations-logos/vov-5-world-24-7-english.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tây Ninh",
+      "s": "http://202.43.109.142:1935/radio11/tnradio/chunklist_w697011492.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tay-ninh.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Hoa Binh TV",
+      "s": "http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/hoa-binh-tv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Ba Ria-Vung Tau Radio",
+      "s": "http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/ba-ria-vung-tau-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Tien Giang Radio",
+      "s": "http://thtg.vn/live/radio/radiolive.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tien-giang-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Đồng Tháp",
+      "s": "http://202.43.109.144:1935/thdtradio/thdtradio/chunklist_w200358279.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/dong-thap.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Da Nang TV-2",
+      "s": "http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/da-nang-tv-2.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Tien Giang TV",
+      "s": "http://thtg.vn:8001/stream_hi.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tien-giang-tv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Da Nang Radio",
+      "s": "http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/da-nang-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Vietnam ANTV",
+      "s": "http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vietnam-antv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "VOV2",
+      "s": "http://media.kythuatvov.vn:7003/;stream/",
+      "l": "https://kuasark.com/files/stations-logos/vov2.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "VOV Giao Thông Hà Nội",
+      "s": "http://media.kythuatvov.vn:7025/;stream/",
+      "l": "https://kuasark.com/files/stations-logos/vov-giao-thong-ha-noi.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "VOV3",
+      "s": "http://media.kythuatvov.vn:7005/;stream/",
+      "l": "https://kuasark.com/files/stations-logos/vov3.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "VOV1",
+      "s": "http://media.kythuatvov.vn:7001/;stream/",
+      "l": "https://kuasark.com/files/stations-logos/vov1.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "VOVMedia - VOV Giao thông Hồ Chí Minh",
+      "s": "http://media.kythuatvov.vn:7023/;stream/",
+      "l": "https://kuasark.com/files/stations-logos/vovmedia-vov-giao-thong-ho-chi-minh.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "VOVMedia - VOV5 Phát thanh đối ngoại",
+      "s": "http://media.kythuatvov.vn:7007/;stream/",
+      "l": "https://kuasark.com/files/stations-logos/vovmedia-vov5-phat-thanh-doi-ngoai.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "TNT Radio",
+      "s": "http://162.244.80.118:3092/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/tnt-radio-vn.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Test Radio",
+      "s": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "l": "https://kuasark.com/files/stations-logos/test-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Xonefm",
+      "s": "https://vnno-pt-1-tf-playlist-live-zmp3.zadn.vn/hpOx2UjqVEQ/zhls/live/standard-audio/855a669d5ad8b386eac9/standard-audio.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/xonefm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Current Time FM",
+      "s": "http://stream-050.zeno.fm/psymefk0hd0uv?zs=kIuTjYgdTTqaPgdpfplxig",
+      "l": "https://kuasark.com/files/stations-logos/current-time-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Lainzine",
+      "s": "https://radio.lainzine.org:8443/music",
+      "l": "https://kuasark.com/files/stations-logos/lainzine.png",
+      "g": [
+        "Other",
+        "Electronic",
+        "Rock"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "stations": [
+    {
+      "t": "Capp FM",
+      "s": "https://cappfm.ice.infomaniak.ch/cappfm-96.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423837/5a919184c88028f1da444d5f627f24b7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Planète",
+      "s": "https://listen.radioking.com/radio/111193/stream/150295",
+      "l": "https://images.radiovolna.net/_files/images/stations/423835/9804a2d9f342cbdb6c6745008e5c3f58_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "ORTB Radio Bénin",
+      "s": "https://listen.radioking.com/radio/47608/stream/84430",
+      "l": "https://images.radiovolna.net/_files/images/stations/423833/85215b1abc2952adcd347815bc94fce2_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Immaculée Conception",
+      "s": "http://uk1.streamingpulse.com:7091/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423836/892672f72f0ed73380c51e4c01a23330_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Hémicycle",
+      "s": "https://listen.radioking.com/radio/117355/stream/156709",
+      "l": "https://images.radiovolna.net/_files/images/stations/423839/cdd9b81e98122d92ff118508df16dd6b_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "ORTB Atlantic FM",
+      "s": "https://listen.radioking.com/radio/25120/stream/57844",
+      "l": "https://images.radiovolna.net/_files/images/stations/423832/647a98531656f38713606b0980d8ce74_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Aluwasio",
+      "s": "https://studio22.radiolize.com/radio/8090/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427563/ab8ffd2ba3e37ec2e73f7096eb48610b_130x130.webp",
+      "g": [
+        "International",
+        "Country",
+        "Folk",
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "AXIMIN",
+      "s": "https://listen.radioking.com/radio/333013/stream/381412",
+      "l": "https://images.radiovolna.net/_files/images/stations/425427/02910952174521eec69e4427b3f8fd36_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Frissons Radio",
+      "s": "https://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423834/5443675269e6e1b9cced6195072957d1_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Crystal News",
+      "s": "https://listen.radioking.com/radio/311507/stream/358646",
+      "l": "https://kuasark.com/files/stations-logos/crystal-news.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "KULTU RADIO",
+      "s": "https://kulturadio2019.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/kultu-radio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "bip radio",
+      "s": "https://ice.creacast.com/bipradio",
+      "l": "https://kuasark.com/files/stations-logos/bip-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Osolo Web Radio",
+      "s": "https://stream-068.zeno.fm/dupwliw2mravv?zs=HAPn20RYS6G9YWhviJyvDQ",
+      "l": "https://kuasark.com/files/stations-logos/osolo-web-radio.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4147 @@
+{
+  "stations": [
+    {
+      "t": "Planet Rock",
+      "s": "https://edge-bauerall-01-gos2.sharp-stream.com/planetrock.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3255/j3sr594d239a8ca28045166783_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Heart London",
+      "s": "https://media-ssl.musicradio.com/HeartLondon",
+      "l": "https://images.radiovolna.net/_files/images/stations/3185/c4ub597c72a3124d7081157676_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Offshore Music Radio",
+      "s": "http://www.bitsmitter.com:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3239/tghi594d255a91c58718307622_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rock UK",
+      "s": "https://stream.radiojar.com/5exb2mtkunhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/30465/a93597147cf6341dcdc97989554cc956_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Smooth Jazz 24/7",
+      "s": "https://jking.cdnstream1.com/b75154_128mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7034/ksrm59566c3d468f1091278857_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Classic FM",
+      "s": "https://media-ice.musicradio.com/ClassicFMMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3115/xr7k595bfa3d68cb4433894032_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Rock Radio1",
+      "s": "http://192.99.147.61:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/1387/zvzs597d9c3e54a45144404990_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Absolute Classic Rock",
+      "s": "http://ais.absoluteradio.co.uk/absoluteclassicrockhigh.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/3066/dy3m597c85355c5b1642437804_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Diva Radio Funk",
+      "s": "https://stream.deevaradio.net:10443/divaradiofunk",
+      "l": "https://images.radiovolna.net/_files/images/stations/3139/yxvq597ce276829a6068249709_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "BBC World Service News",
+      "s": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1625737749&e=1625752149&h=2af859babab50b034016b77471137562",
+      "l": "https://images.radiovolna.net/_files/images/stations/615/ufmo595bc6e6db801298380867_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Diva Radio Disco",
+      "s": "https://stream.deevaradio.net:10443/divaradiodisco",
+      "l": "https://images.radiovolna.net/_files/images/stations/3138/kg5o597ce23cdf5e8495885103_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Discover Trance Radio",
+      "s": "http://chicago.discovertrance.com:9216/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3137/yi38597d9596d87f3173587044_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Rock Radio UK",
+      "s": "https://securestreams6.autopo.st:2516/main",
+      "l": "https://images.radiovolna.net/_files/images/stations/430729/9d9321797953b3b0b1d8bd017a3c70e3_130x130.webp",
+      "g": [
+        "Rock",
+        "Metal",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "S-Dance",
+      "s": "http://188.165.240.90:8976/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/24215/bf0cd964ad30275bbf1a1f6311ec2fea_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Giants of Jazz Radio",
+      "s": "https://streaming.radio.co:80/s297e618a7/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/794/uzda597d952d202fa397507391_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio X Manchester",
+      "s": "https://media-ice.musicradio.com/RadioXManchesterMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3351/du3y597da788ee402092926635_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Angel Radio",
+      "s": "http://s6.viastreaming.net:7030/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3079/ussi597d9a280d25c746817621_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Viking FM",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/viking.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401219/gu7a599eaabfd9f79534270289_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Capital FM",
+      "s": "https://media-ice.musicradio.com/CapitalMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3109/rnw6597ce3fae0824337092360_130x130.webp",
+      "g": [
+        "Pop",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1 Mix Radio Trance",
+      "s": "http://fr1.1mix.co.uk:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3033/lg6a597d973d88a18310186313_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Absolute Radio 80s",
+      "s": "https://tx.planetradio.co.uk/icecast.php?i=absolute80s.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3063/v661597c849321f9b447172110_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radioalfa5 Latin hits",
+      "s": "https://stream.zeno.fm/x9y4ytkavqzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/425741/c96b3d962f07385a2e1f122dc31dd478_130x130.webp",
+      "g": [
+        "International",
+        "Latin"
+      ]
+    },
+    {
+      "t": "talkSPORT",
+      "s": "https://radio.talksport.com/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/3318/ckpm597f1fac3880c000831004_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Deepvibes",
+      "s": "http://deepvibes.co.uk:9106/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3131/iw86597da4f843162194343011_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Rother Radio",
+      "s": "https://listen.rotherradio.co.uk",
+      "l": "https://images.radiovolna.net/_files/images/stations/405143/b7ccec5d7f12c3717088ab0906b8fb56_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "KISS FM UK",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/kiss100.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/10662/1642f9544bf8a2bef8a0bab96fa348eb_130x130.webp",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radioalfa20 latin hits",
+      "s": "https://stream.zeno.fm/nh4m3mpm0d0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/425856/483aa5e849bcf1da59a1b65ffee816c0_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Heart 70s",
+      "s": "http://media-the.musicradio.com:80/Heart70sMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421146/8384ce7efed1440ca356c144f76f12bc_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Fun Kids Junior",
+      "s": "https://edge-ads-03-gos2.sharp-stream.com/funkidsjunior.mp3?",
+      "l": "https://images.radiovolna.net/_files/images/stations/421128/cf527dccdc9eed562517ae8e5b1f25a2_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Heart Dance",
+      "s": "http://media-the.musicradio.com:80/HeartDanceMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421145/2930e5957f6bae0d5cb9d681a674a14c_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "PirateRevival",
+      "s": "http://87.117.201.160:8400/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3254/hb7k597da5c44ef82472522021_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Kerrang! Radio",
+      "s": "https://stream-al.planetradio.co.uk/kerrang.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/409290/o5jx5bffa74cc2d84434707728_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "PARTY VIBE RADIO: Psychedelic Trance Radio Station",
+      "s": "http://94.130.242.5:8010/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3248/qx98594a93480a913022795019_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Smooth Radio London",
+      "s": "https://media-ice.musicradio.com/SmoothLondonMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3294/pisf597d9d70c02c5973194137_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Retro Soul Radio",
+      "s": "http://46.28.49.164:7504/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/9041/bufv597dd82f561e4911002843_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Best Smooth Jazz",
+      "s": "http://64.95.243.43:8002/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7019/ontn597d9e0c362ec267466365_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Heartland FM",
+      "s": "https://teamradioearn.radioca.st/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/3184/x4p2597c73241643c207184250_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Absolute Radio 90s",
+      "s": "https://tx.planetradio.co.uk/icecast.php?i=absolute90s.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3064/jxc5597c84c3f402b923207634_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Black Cat Radio",
+      "s": "https://s5.voscast.com:9097/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/3097/5eb75c97188323407a6a7f97722f9fad_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Affinity Radio",
+      "s": "https://stream.radio.co/s038d07e75/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/3067/bhv5597dd790d7e3a196742592_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Nour Aleman 105.7 FM",
+      "s": "https://stream.zeno.fm/r6eprdta6nhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430961/77346ff30c5b58c9bcfb96bd36291146_130x130.webp",
+      "g": [
+        "Inspirational",
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radioalfa10 Latin hits",
+      "s": "http://stream.zeno.fm/1vdk4k7ksqzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422458/bd9fd2d245b05397589fcbf8c5c3dac0_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Non Stop Play",
+      "s": "http://stream.nonstopplay.co.uk/nsp-128k-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/1075/sfns597d9bf2d2701244384720_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chill / Help me Chill",
+      "s": "http://media-ice.musicradio.com/ChillMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3021/h19h597dac03a2bf7351636413_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Heart 90s",
+      "s": "http://media-the.musicradio.com:80/Heart90sMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421147/27323b4b7c0a26b8a81ea1bcc44f3363_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "PARTY VIBE RADIO: Drum & Bass, Jungle and Breakbeat music",
+      "s": "http://www.partyviberadio.com:8004/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3241/ziv2594a910c0b9bb627141548_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "LBC London",
+      "s": "http://media-ice.musicradio.com/LBC973MP3Low",
+      "l": "https://images.radiovolna.net/_files/images/stations/3225/vksg597dd970cacbf732716456_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Birdsong Radio",
+      "s": "https://streaming.radio.co/s5c5da6a36/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/3096/y7kp597efb1532c6d135883033_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Global Funk Radio",
+      "s": "http://91.121.139.194:8184/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3165/y9el597dcc75980b3547232678_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "BBC Radio 6 Music",
+      "s": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p",
+      "l": "https://images.radiovolna.net/_files/images/stations/9064/am4k59804db52fbc2977670592_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Easy Radio (Wales)",
+      "s": "https://listen-nation.sharp-stream.com/tcbay.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3014/e62aa339cd60a0d8c9f8afa62184e5d7_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "BBC Radio 2",
+      "s": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two?s=1625771576&e=1625785976&h=97f04329edf9e5aac40f5ba9abc38552",
+      "l": "https://images.radiovolna.net/_files/images/stations/9128/j65i598052595bad8553445721_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "BBC Radio 4",
+      "s": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/6402/ncvh59804ca94621a591325651_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Sub FM",
+      "s": "https://subcast.radioca.st/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3317/lfjm597daad4b7728936378766_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Demon FM",
+      "s": "https://uk2.internet-radio.com/proxy/demonfm?mp=/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/3133/od4z597da7dfcdccf585391680_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Turk Beats",
+      "s": "https://a9.asurahosting.com/listen/turk_beats_radio_/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429780/ab84e10fae5d3a051995d14522d88066_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Jackie",
+      "s": "http://radiojackie.com:12614/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3027/igwi597ddd6214978973216912_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "House Music Vibes Radio",
+      "s": "https://pegasus.nucast.co.uk/stream/8064",
+      "l": "https://images.radiovolna.net/_files/images/stations/429566/f673fa58335488db4b0fa64cde77011d_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Energy FM Old School Classics",
+      "s": "http://162.244.80.106:8024/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/22964/f19a3cf4903cd858d1e198ca4b3b15f9_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Gold",
+      "s": "http://ice-sov.musicradio.com:80/GoldMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3168/zxx4597efbd423fbe143726059_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Punk FM",
+      "s": "http://94.23.26.22:8090/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/26153/e10f8c75a9ea2e3ca9b98cf9a35ed53d_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Afro Diaspora Radio Online",
+      "s": "https://s3.radio.co/s7eb0bf746/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/426577/c4a3d877f0e6bfd71322bce79f428f37_130x130.webp",
+      "g": [
+        "International",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Unity Radio",
+      "s": "http://live.audiospace.co/unityradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/31595/6ee5d5b5ec8045fd5d6acb6ff8710e94_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Pure Radio",
+      "s": "https://listen-pureradio.sharp-stream.com/pure_radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3345/b9ef58c1d599341b4dc6344d14b03267_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "UK Bass Radio",
+      "s": "http://stream.sonixcast.com:8016/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3342/vj77597daa7b58cee378633179_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Slice Audio",
+      "s": "http://europa.shoutca.st:8490/; ",
+      "l": "https://images.radiovolna.net/_files/images/stations/406057/o4ul5be34cec0ccb7940710334_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "Country"
+      ]
+    },
+    {
+      "t": "106 Jack FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/JACK_FM.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3022/oesz597eea8f9a74f288577236_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Hit Music Radio",
+      "s": "http://149.255.59.3:8158/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/417694/a78220ca3e08c7568ea66dd78dcf33a8_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Nula",
+      "s": "http://streaming.radionula.com:8800/classics",
+      "l": "https://images.radiovolna.net/_files/images/stations/9196/nurn597ee85ecfd31859377054_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "BBC Radio 3",
+      "s": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three",
+      "l": "https://images.radiovolna.net/_files/images/stations/9129/fomx598053222e2ab546939711_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "frantic vybes radio",
+      "s": "https://usa6.fastcast4u.com/proxy/danny0787?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430223/edeee0306f64ca6021ed05bb2e1e939a_130x130.webp",
+      "g": [
+        "International",
+        "Decades",
+        "Electronic",
+        "Reggae",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Beyond the Beat Generation",
+      "s": "http://86.94.213.59:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3093/rjjp597da86c8e5cb430710329_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "The Soul of London",
+      "s": "https://tsogradio.out.airtime.pro/tsogradio_a?_ga=1.20850107.284854457.1439095306",
+      "l": "https://images.radiovolna.net/_files/images/stations/3330/ei1x597da9eb441ce656495354_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Dark Asylum",
+      "s": "http://91.121.165.137:8020/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3125/jlky597dde0d9ffce402095995_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "The Indie Show",
+      "s": "http://199.101.51.168:8008/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/22131/89835b4bf4f0d3a7f4c5e1be6a329b1d_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "House FM.net",
+      "s": "https://streamer.radio.co/s0de514535/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/3024/qp6d597f1c6cb3eaa243200888_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Waves Radio",
+      "s": "http://webradio.radiomonitor.com/stream/WavesRadio",
+      "l": "https://images.radiovolna.net/_files/images/stations/3346/qys7597dd07ae8e6c511736783_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Swinging Radio England.uk",
+      "s": "https://streamingv2.shoutcast.com/SwingingRadioEngland3",
+      "l": "https://images.radiovolna.net/_files/images/stations/30925/cd0c2a8ba7c6a5b60cb1feaa71818b02_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "REBEL RADIO ONLINE",
+      "s": "http://5.45.124.178:8000/",
+      "l": "https://images.radiovolna.net/_files/images/stations/420505/eb1d207b0d82559f468e2a2b28ddd8ee_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "PARTY VIBE RADIO: Ambient, Chill Out and Relaxation music",
+      "s": "http://www.partyviberadio.com:8056/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3243/lyfi594a91604afda729054597_130x130.webp",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Oldiesproject",
+      "s": "http://178.19.127.144/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/24815/7389002b28762dad59c62bf8a7ce8f3e_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "PARTY VIBE RADIO: Jazz Radio Station",
+      "s": "http://94.130.242.5:8020/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3246/dduu594a9302a8bfd718595757_130x130.webp",
+      "g": [
+        "Country",
+        "Jazz",
+        "Folk",
+        "Blues"
+      ]
+    },
+    {
+      "t": "PARTY VIBE RADIO: Rock, Alternative and Psychedelic music",
+      "s": "http://94.130.238.52:8032/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3250/jco7594a908ae36c2922163276_130x130.webp",
+      "g": [
+        "Rock",
+        "Electronic",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "CAM FM",
+      "s": "https://stream.camfm.co.uk/camfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/3108/nvou597ddcfcae36b781620312_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Heart Scotland",
+      "s": "http://media-ice.musicradio.com/HeartGlasgowMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401281/ppz5599fe87b8dd57477125012_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Oxide - Oxford University Student Radio",
+      "s": "http://uk3.internet-radio.com:8032/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/22135/18593bbc6eb221ed4894cb019c7a24d3_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Queerly Radio",
+      "s": "https://play.queerlyradio.com/radio/8000/queerly256.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427644/2a130a633a3e7d232538f595b886b8f0_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Soul Radio UK",
+      "s": "https://proxima.shoutca.st:8656/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/25447/c0f519bb4e9ce479ba4e6986be825714_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Magic Soul",
+      "s": "https://tx.planetradio.co.uk/icecast.php?i=magicsoul.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401301/e37759a131b8a3c5e844728507_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Phoenix FM",
+      "s": "http://hyades.shoutca.st:8555/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/3253/h960597f3f763490d595895181_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "JFS Radio",
+      "s": "https://s2.radio.co/s22ae5a8a6/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/32666/60fba8c5eb13cd5c44a8e8ea34898126_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Kool London",
+      "s": "http://uk1-pn.webcast-server.net:8698/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26786/4e850845d8c19b399635bc50bd122d0a_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "PARTY VIBE RADIO: Reggae Radio Station",
+      "s": "http://www.partyviberadio.com:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3247/yftm594a922408be8786989598_130x130.webp",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "NEON Radio",
+      "s": "http://91.121.178.222:5670/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3235/sfqk59d20739bd688779797447_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Eagle Radio",
+      "s": "https://fg6.sad.ukrd.com/eagle-dab.mp3?ts=1588067411&norequeue=1",
+      "l": "https://images.radiovolna.net/_files/images/stations/10122/atg35a22e6c3dd951594640441_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "3FM",
+      "s": "https://stream.rcs.revma.com/0kv9v43t87zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/401313/f3u259a13d3781132884050237_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ferry FM",
+      "s": "http://comet.shoutca.st:8378/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/417774/bd9e138882a52fb034eed5459f8e4107_130x130.webp",
+      "g": [
+        "Pop",
+        "Country",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Absolute Radio 00s",
+      "s": "https://tx.planetradio.co.uk/icecast.php?i=absolute00s.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3065/hdln597c84f6bea8a367091326_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "PARTY VIBE RADIO: Techno, House, Trance and Electronic music",
+      "s": "http://www.partyviberadio.com:8046/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3244/na5z594a919903d42473685356_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Black Country Radio",
+      "s": "https://edge-audio-02-gos1.sharp-stream.com/blackcountryradio.mp3?",
+      "l": "https://images.radiovolna.net/_files/images/stations/3016/uk96597dce74ed235325476313_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Sunshine",
+      "s": "http://radiocentre.duckdns.org:8000/sunshine",
+      "l": "https://images.radiovolna.net/_files/images/stations/421220/f1a9f91f71df77dfcf33e61badbc53e1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "wicked beats radio",
+      "s": "https://usa14.fastcast4u.com/proxy/danny08?mp=/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/430728/616a750a8ad0d77982a56561c0c566a8_130x130.webp",
+      "g": [
+        "Decades",
+        "Reggae",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Free Radio",
+      "s": "http://live-bauer-al.sharp-stream.com/freecoventry.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/3326/nu42597f08959332c400997679_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nation Radio (Wales)",
+      "s": "https://listen-nation.sharp-stream.com/tcnation.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3233/nx2f597dcd204b2b6664309719_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dancefmlive UK Hardcore",
+      "s": "https://broadcast.dancefmlive.com/radio/8030/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424059/8d7dd4e196c8515bec0574964ac1b0de_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Faza",
+      "s": "http://209.97.134.54:8000/radiofaza",
+      "l": "https://images.radiovolna.net/_files/images/stations/3127/s02m597ee4aee9c40251426375_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Solid Gold Gem AM",
+      "s": "http://4483.cloudrad.io:8130/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/32820/a9209d3214d156822ea4f0f064c01420_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Free Radio",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/freebirmingham.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401206/ys2a599ea03b79e54892731260_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hits Radio (Manchester)",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/key.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401244/c1f2189d42933f44feb4d72a7dd99108_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Lionheart Radio",
+      "s": "http://icecast.commedia.org.uk:8000/lionheart.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3000/acze597f2095945e6791484424_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Beverley FM",
+      "s": "https://beverleyfm.radioca.st/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401225/ljyp599eaf502b0c3268524557_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Naviar Radio",
+      "s": "https://studio25.radiolize.com/radio/8020/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426753/9eb5ede9f72279bdc5381bc7ea5d8372_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Like Radio",
+      "s": "http://likeradiostreaming.co.uk/likebirmingham",
+      "l": "https://images.radiovolna.net/_files/images/stations/31587/06d63788fab4ce3aadeec8b022700fae_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sabras Radio",
+      "s": "https://radio.canstream.co.uk:8025/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3135/tp1v597efe27210b0511059336_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "NME 2",
+      "s": "https://svr1.msmn.co:8118/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/23482/0d1d6712e3f6163fe280a5eaa5dd9651_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Colourful",
+      "s": "http://streaming.colourfulradio.com:80/colourful",
+      "l": "https://images.radiovolna.net/_files/images/stations/3117/s4x7597f01e34e2f6153204850_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "1Mix - House",
+      "s": "http://fr5.1mix.co.uk:8014/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/25176/4450542e2a23853b05763923f66df536_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Bute FM",
+      "s": "http://live.canstream.co.uk:8000/bute.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3105/o1oz597f4007d4ae6624222399_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Awaz FM",
+      "s": "http://live.canstream.co.uk:8000/awaz.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3082/ryv0597f1dfd68278124813441_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Cross Rhythms",
+      "s": "http://stream.crossrhythms.co.uk:80/plymouth/hq.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421195/7ae55b6a2ae0f1dcd3796374f1962ffd_130x130.webp",
+      "g": [
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Stray FM",
+      "s": "https://fg5.sad.ukrd.com/stray?ts=1588032809&norequeue=1",
+      "l": "https://images.radiovolna.net/_files/images/stations/401228/k39o599eb166ce092731810925_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vision Radio UK",
+      "s": "http://108.163.197.114:8053/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/24191/48ef9603a29283c3f87e9377b281b588_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Cheshire's Silk",
+      "s": "https://edge-audio-04-gos1.sharp-stream.com/tcsilk.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/28015/ktzq599ecc4f4a482741806631_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Caroline Flashback",
+      "s": "http://sc2.radiocaroline.net:10558/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/30923/67405a1f946d29e26b30eab89475cec8_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Eirewave",
+      "s": "http://eirewave.ice.infomaniak.ch/eirewave-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420341/cd1f48bcc4073d0ea3057b4667644452_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Reverse FM UK",
+      "s": "https://streaming.live365.com/a20311",
+      "l": "https://images.radiovolna.net/_files/images/stations/420356/971086353141e9d8d763e1737cc20a92_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "All FM",
+      "s": "http://icecast.commedia.org.uk:8000/allfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3069/wzd3597ee57fa224a040860670_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Takeover Radio",
+      "s": "http://icecast.commedia.org.uk:8000/takeover.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3136/wumm597f1e6517137254336440_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "10Radio",
+      "s": "http://live.canstream.co.uk:8000/10radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3030/feng597eeb5929bca552156333_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Diverse FM",
+      "s": "http://media-ice.co.uk:8000/Diverse",
+      "l": "https://images.radiovolna.net/_files/images/stations/3140/w08p59d205b3c3fcb659648186_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mon",
+      "s": "https://mfmcast.radioca.st/streams/128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/27289/e86aec1f360c7d4fccb279e4f423cfa9_130x130.webp",
+      "g": [
+        "Themes",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Country Hits Radio",
+      "s": "https://stream-al.planetradio.co.uk/countryhits.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421153/19f06f4c0d33fd31f82c5b4fdcf23b97_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Pulse 2",
+      "s": "https://gbradio.cdn.tibus.net/BFDPulse2",
+      "l": "https://images.radiovolna.net/_files/images/stations/3092/utte597dd3c178bfb425200449_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Spice FM",
+      "s": "http://philae.shoutca.st:8212/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401255/r23v599ecfc00db67565946633_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "I'M IN RADIO",
+      "s": "https://s3.radio.co/sbdae33131/listen#.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/24261/cc55af93a908179888cc9c877ff6bedb_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Select UK Radio",
+      "s": "http://78.129.228.187:8005/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/24216/da87472d4612f01d34ddea4573aa7aea_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Spice Radio 1",
+      "s": "http://198.101.15.90:8016/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/25532/9acfb13f547077a9f13c34f2b1dc62b4_130x130.webp",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Reprezent Radio",
+      "s": "http://radio.canstream.co.uk:8022/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/26818/1b5f313f62f6de10fca3c8a05948e24d_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "totallyradio",
+      "s": "https://direct.sharp-stream.com/totallyradio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421190/cc6457f02302fb5c1a854fa5d0b76cde_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Greatest Hits Radio (S Yorkshire)",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/magicam.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401265/299c4e6fb619219d54a597a6e9756913_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "MoveDaHouse",
+      "s": "http://uk7.internet-radio.com:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/25246/7d4be6c8d198b8eca6c22ab73399b029_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Bridge FM",
+      "s": "https://tx.sharp-stream.com/icecast.php?i=tcbridgei.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401273/ejw1599ede8f494e8737312715_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Uniqueradio Plus",
+      "s": "https://stream.zeno.fm/968dfkb0mfhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426754/22504c7dcb5d371db693bd64c5738424_130x130.webp",
+      "g": [
+        "International",
+        "R&B and Urban",
+        "Reggae",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "TWR - UK",
+      "s": "https://icy-e-03-boh.sharp-stream.com/twruk.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/30115/2ef8875c00e6e5d07079994228beee2f_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Capital XTRA",
+      "s": "http://media-ice.musicradio.com/CapitalXTRALondonMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401094/fujt597cea0f4066d800606019_130x130.webp",
+      "g": [
+        "Rap",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Peak FM",
+      "s": "https://gbradio.cdn.tibus.net/CFPeak",
+      "l": "https://images.radiovolna.net/_files/images/stations/3251/en5d597dd31ae2368516676373_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Broadgreen",
+      "s": "http://europa.shoutca.st:8324/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/3214/sktu597f733b1ed1b731344040_130x130.webp",
+      "g": [
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Wish FM",
+      "s": "https://gbradio.cdn.tibus.net/WIGWish",
+      "l": "https://images.radiovolna.net/_files/images/stations/3348/fmuu597dd23f3c3b5402391565_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "WBPL Wow Blackpool",
+      "s": "https://uksouth.streaming.broadcast.radio:16190/wowblackpool",
+      "l": "https://images.radiovolna.net/_files/images/stations/428040/8d91237531dbb69e7b8d62eb007340bf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pembrokeshire",
+      "s": "https://listen-nation.sharp-stream.com/tcpembrokeshire.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3268/a6fy597f1b306c19f417407226_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "GHR Midlands UK",
+      "s": "http://music.ghrmidlands.com:8000/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3170/cqzu5bea90db84030097215639_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Signal 1",
+      "s": "https://gbradio.cdn.tibus.net/STKSig1",
+      "l": "https://images.radiovolna.net/_files/images/stations/3288/wjgz597dd122318b9528332771_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Armagh City Radio",
+      "s": "http://philae.shoutca.st:8051/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/425907/f9d7d721718a44d4c742ecfd3dd3b34e_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Magic Chilled",
+      "s": "https://tx.planetradio.co.uk/icecast.php?i=magicchilled.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401293/wzuz59a12d49ed061077928539_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sheffield Live!",
+      "s": "http://live.sheffieldlive.org:8000/shefflive.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3121/q4ij597f8cbe0c886046007668_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Futuredrumz Radio",
+      "s": "http://5.39.71.159:8625/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/26802/af5e1d3cc76b69b9782f07c9a5e794d3_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Select Radio",
+      "s": "http://149.255.59.164:8047/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428027/09d03efe6cfe204f72090ea8c6008aaf_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Amber Sound FM",
+      "s": "http://92.27.32.159:8400/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/401261/aqrs599ed5fcb9aaf755980602_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Noods Radio",
+      "s": "https://noodsradio.out.airtime.pro/noodsradio_b",
+      "l": "https://images.radiovolna.net/_files/images/stations/421165/a2e56ebcbee5a67cd83ce1ab2dae8007_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Future Radio",
+      "s": "https://radio.canstream.co.uk:8007/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421186/84a5bfc22525df1a230db83a7eb082d3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Khushkhabri",
+      "s": "https://icy-e-01.sharp-stream.com/khushkhabri.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/27501/3545fe109eced3918b7002bdab4f1536_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Greatest Hits Radio (West Yorkshire)",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/net2national.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401227/ee1186a740dc0209ee23b735520b9cd4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Smooth Chill",
+      "s": "http://media-ice.musicradio.com/SmoothChillMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421155/019c060d24f77159f1076f11a2db4b86_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Raaj FM",
+      "s": "http://live.canstream.co.uk:8000/raajfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401205/l74y599e9f3f39966341878563_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Newark",
+      "s": "http://rss-streaming.co.uk:8016/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421168/fe4c23e9dfabbf5364bbe9d6054367a3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Strange Fruit Radio",
+      "s": "http://212.159.60.105:8002/pls",
+      "l": "https://images.radiovolna.net/_files/images/stations/423213/f82f85c0de4a59813c69f250680d4575_130x130.webp",
+      "g": [
+        "Themes",
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Nation Radio (Scotland)",
+      "s": "https://listen-nation.sharp-stream.com/nationscotland.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421215/510b0e9b900f339c414f70eca4a0b1e7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rainbow Radio",
+      "s": "https://node-18.zeno.fm/wv4tseqxk8quv",
+      "l": "https://images.radiovolna.net/_files/images/stations/421122/1997f2624854017363c32dc5b3ab08ec_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Fresh Leeds",
+      "s": "https://freshleeds2020-freshleeds.radioca.st//streams/192kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/428045/96fedd55073e9b620d4f91d258a853d0_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Big City Radio",
+      "s": "http://198.27.66.225:8282/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421157/2f4070a88c0d1afd2bec47ba570561bc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sanskar Radio",
+      "s": "https://radio.canstream.co.uk:8024/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3134/ftou597f882591305673981458_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Greatest Hits Radio (Norfolk)",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/net2norfolk.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/421183/519e0468ab0adeae335c22441a4549fc_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Manx Radio",
+      "s": "http://tx.sharp-stream.com/http_live.php?i=manxradioam.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/32893/4ac5573dba044fc49c32aead70fce8c3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Up",
+      "s": "http://stream.westeurope.cloudapp.azure.com:80/up",
+      "l": "https://images.radiovolna.net/_files/images/stations/421132/df8300daf032817f4fbce3d10f95dae4_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Greatest Hits Radio (NE)",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/magic1152n.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401258/56bf8bf13c402c5efeebcf391865f487_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "URN",
+      "s": "https://live.urn1350.net/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/3128/nu6j597f6f56376dc914801869_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Sunoh Radio",
+      "s": "https://streams.radio.co/sb82905b73/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/421213/d794a6b22d9bae5bb38ec9468c38aa18_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Back2BackFM",
+      "s": "https://a11.streamgb.com:9108/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/25432/cb13c4053cb7c72055e69c589d3e0e98_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Mearns FM",
+      "s": "http://broadcast1.streammachine.co.uk:8002/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/401291/xy3n59a12b7048793697120904_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Rother FM",
+      "s": "http://lincs.planetwideradio.com:8025/rotherfmaac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401263/mxeo599ed7734def5494556130_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dancefmlive",
+      "s": "https://broadcast.dancefmlive.com/radio/8000/radio.mp3 ",
+      "l": "https://images.radiovolna.net/_files/images/stations/424055/d527443c39f8d7c119f5bc7aeea57c42_130x130.webp",
+      "g": [
+        "Themes",
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Kingdom FM",
+      "s": "https://stream8.considerit.co.uk/kingdomfm128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/22215/973c58cca7a8014fc4ab4990e8a60095_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Quay FM",
+      "s": "http://quayfm.ci-servers.gg:1071/quay-fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/401314/hacg59a13ec2d0100757135575_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ikhlas",
+      "s": "http://live.canstream.co.uk:8000/radioikhlas.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3265/b89t597f8a0c9ff81746955228_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Westside Radio (Hanwell)",
+      "s": "https://listen-westside.sharp-stream.com/westside.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3347/x2z7597f07cbcb303004632169_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "The Wave",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/net1swansea.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/3332/lmau597dd0169af39450776194_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hillz FM",
+      "s": "http://195.10.228.4:8000/watch",
+      "l": "https://images.radiovolna.net/_files/images/stations/3325/bxev597f09237db70190597624_130x130.webp",
+      "g": [
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Redroad FM",
+      "s": "http://s45.myradiostream.com:13784/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401264/bv8z599ed7f3c61ce865114935_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "KCC Live",
+      "s": "http://play.kcclive.com:8000/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3217/p2cw597f21015ed79501108071_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Aspen Waite Radio",
+      "s": "https://listen-awaite.sharp-stream.com/aspenwaiteprem.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/428051/7b34370f50b5ad6fbdcbbadec017fd62_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fix Radio",
+      "s": "https://edge-audio-04-gos1.sharp-stream.com/fixradio.mp3?",
+      "l": "https://images.radiovolna.net/_files/images/stations/421151/80768c2c7ed1a891607c3282f5f56d54_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ambur Radio",
+      "s": "http://s33.myradiostream.com:8388/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401210/xnqr599ea2632c7f1962764520_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Belfast",
+      "s": "http://mp3streaming.planetwideradio.com:9030/belfastfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/401305/qqfr59a138b523c55537179888_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Hermitage FM",
+      "s": "http://live.canstream.co.uk:8000/hermitage.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3200/ctx5597f09a14bd40917428909_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Delph Radio",
+      "s": "https://cp11.shoutcheap.com:18022/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422245/916a73da4325040d8621a8b581e79387_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Cumbernauld FM",
+      "s": "http://radio.canstream.co.uk:8104/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421216/68a073125feecd24e26626aa3d3f66b1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Union Jack",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/JACK_DAB.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401292/t62q59a12c9d8e7a0247947114_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Lyca Radio",
+      "s": "https://listen-lycaradio.sharp-stream.com/1458.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401201/b5mn599e9cc8d9113948478122_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Sonic Stream Radio",
+      "s": "http://2319.cloudrad.io/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/23501/dcb2a48db48b8ccf716673d987b55d1d_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Rangoli Radio",
+      "s": "https://www.radioking.com/play/rangoli-radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/428048/06b3f6d9aa928641df4c8042b3461f41_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "FOM RADIO",
+      "s": "https://stream.zeno.fm/aedagsqxu07uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/431117/00f75fb70f6eda3e5b53c04dbf0b4412_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Halton Community Radio",
+      "s": "http://s1.rss-streaming.co.uk:8034/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401240/p4kz599ebe7324648425633770_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Paranormal Radio",
+      "s": "https://mars.streamerr.co/8278/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429806/2f64a9681e85b4ff8377d5c0ccb45c7b_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Delite Radio",
+      "s": "http://live3.istoikona.net:8152/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421138/3f2b1c2490c4d785e21c4c0d8db3ca67_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Eagle 80s",
+      "s": "https://str2.sad.ukrd.com/eagle-80s.mp3?ts=1588048339&norequeue=1",
+      "l": "https://images.radiovolna.net/_files/images/stations/421126/aec3f42b66f5f636f155452b0a48e24c_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Flex FM",
+      "s": "http://142.4.215.64:8116/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428029/dc76ffd89dbdc02b20d0b34016cb1726_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Signal 2",
+      "s": "https://gbradio.cdn.tibus.net/STKSig2",
+      "l": "https://images.radiovolna.net/_files/images/stations/3289/a5oy597dd1e5d48ee386075753_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Big Hits Radio UK",
+      "s": "https://sslproxy.hippynet.co.uk/iloveradioni/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420353/f9e3484cd368ce67f83bbd98c4418b39_130x130.webp",
+      "g": [
+        "Pop",
+        "Country",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Zone 1 Radio",
+      "s": "https://15913.live.streamtheworld.com/SAM01AAC148.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/421124/f62850edcce8b50158d32e3d63dd5064_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "House Nation UK",
+      "s": "http://a10.streamgb.com:8006/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/417051/loui5c1905b294fcd727773956_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "The Beat",
+      "s": "https://stream.zeno.fm/x59sz6hkev8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/401196/op6a599e9664878ff092927079_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Strawberry",
+      "s": "http://rss-streaming.co.uk:8070/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421180/ba85cf7c197d2e636c1751aad3b58269_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TD1 Radio",
+      "s": "http://178.62.58.48:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27738/91b7fe396c0aada517d28d8d6b263666_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "FRL - French Radio London",
+      "s": "https://radio.canstream.co.uk:8100/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/28040/da2b05be96b898f3acc8d2468d1e104c_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mansfield",
+      "s": "http://stream.audiospace.co/mansfield1032",
+      "l": "https://images.radiovolna.net/_files/images/stations/421192/18fbe1252b75a90ef361c383f4022711_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "45 Radio",
+      "s": "http://81.136.155.183:8000/45Radio32k",
+      "l": "https://images.radiovolna.net/_files/images/stations/421158/ad2e3ffb5910511355d1a61ae6d2b3bb_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Jack 3",
+      "s": "https://20873.live.streamtheworld.com/JACK_3_OXFORDSHIRE.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421194/db29cb69eb5b38a316740e5b1747a0de_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "103 The Eye",
+      "s": "http://live.canstream.co.uk:8000/theeyefm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3018/b2je597f8765a9b40653931293_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Corby Radio",
+      "s": "http://live.corbyradio.stream:7669/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/3119/nceb597ee5e75a861001546072_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Virgin Radio Groove",
+      "s": "https://radio.virginradio.co.uk/stream-groove",
+      "l": "https://images.radiovolna.net/_files/images/stations/421137/5b93744d02febe15a851afbfa80a57a0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Premier Gospel",
+      "s": "https://edge-audio-01-cr.sharp-stream.com/premiergospellow.mp3?device=internetradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/27522/1e1d95c45d259b7b6d8375e6fc610de2_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Scottish Sun Greatest Hits Radio",
+      "s": "https://gbradio.cdn.tibus.net/SUNGRTHITS",
+      "l": "https://images.radiovolna.net/_files/images/stations/421211/05e333e6df227f9fa2b11014f275b61a_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Wire FM",
+      "s": "https://gbradio.cdn.tibus.net/WIGWire",
+      "l": "https://images.radiovolna.net/_files/images/stations/3075/tkpd597dd44a99f31696336390_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nintendo",
+      "s": "http://play.radionintendo.com/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/30972/83f09f7be5039ca05832499cc6de0276_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Gorgeous FM",
+      "s": "https://radio.canstream.co.uk:8108/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421161/387bf19fa1c18b7e473de5f1752cde03_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Tameside Radio",
+      "s": "https://listen-tamesideradio.sharp-stream.com/tamesideradio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401250/uihl599ecb86c9425437206740_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Nation Radio (South)",
+      "s": "https://listen-nation.sharp-stream.com/samfmhampshire.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/22034/14ba4b9d09fc830b044a218140e7ead3_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Magic at the Musicals",
+      "s": "https://stream-mz.planetradio.co.uk/magicmusicalshigh.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/421154/3e4915642adbb70630cfafb9a7330b6a_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Coast & County Radio",
+      "s": "https://streams.radio.co/se225495a7/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/421166/659320ac82d17264d773e45f3e332626_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "talkRADIO",
+      "s": "https://radio.talkradio.co.uk/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/30163/21c9026e6a4e3477a49dd597b26724b6_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Compass FM",
+      "s": "http://lincs.planetwideradio.com:8005/compassfmaac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401218/yzkq599eaa4dd6a54238703440_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "BBC Hausa",
+      "s": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-hausa_backup",
+      "l": "https://images.radiovolna.net/_files/images/stations/410074/din75c0a412b2ef92616477338_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nova Radio North East",
+      "s": "http://novaradione.radioca.st/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401256/09bd7c4baaec627227ddc83436a1609e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hub Radio",
+      "s": "http://stream.hubradio.co.uk:8000/hub-hq.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401217/gyt4599ea92709130525742100_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Minster",
+      "s": "https://fg4.sad.ukrd.com/minster?ts=1588032241&norequeue=1",
+      "l": "https://images.radiovolna.net/_files/images/stations/29862/b6fe3b4b803d8c2c1d8da4af4e78fad6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fever FM",
+      "s": "https://radio.canstream.co.uk:8115/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3259/32d3b79cf25cb6b031bf3b2a64bb44f9_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Ramadan 365",
+      "s": "https://s3.radio.co/s3315d28a6/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/428056/a942557eacfa259bc187bfad4340e96e_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Soul Radio UK",
+      "s": "https://sirius.shoutca.st:8804/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421414/b7154edc88ac639cd42461289e9f2bfa_130x130.webp",
+      "g": [
+        "Pop",
+        "Easy Listening",
+        "Decades",
+        "International"
+      ]
+    },
+    {
+      "t": "Smooth Country",
+      "s": "http://media-ice.musicradio.com/SmoothCountryMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421143/f4930f7e43d57be41a3a6c2c76d057d4_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Snowflake",
+      "s": "http://www.whooshserver.net:8056/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/31292/i1k65a22e8988df5f531702368_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "Cosoro Radio",
+      "s": "https://listen.radioking.com/radio/12237/stream/23945",
+      "l": "https://images.radiovolna.net/_files/images/stations/421177/fe39420aebb99868fd3e9d36bac607bd_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "First FM",
+      "s": "http://stream.firstfm.uk:8000/first2",
+      "l": "https://images.radiovolna.net/_files/images/stations/421193/a2f6342b7b71731b3b1a6004bc5aff8f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Greatest Hits Radio (Manchester)",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/magic1152m.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401251/c033f15a156b608fe695689403aaa1b8_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Starpoint Radio - The Real Alternative",
+      "s": "http://stream2.hippynet.co.uk:8084/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421162/1ed3478d9a83843996ce06527af0a8f7_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Cool FM",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/coolfm.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401307/ac7x59a139777e1ae663431061_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "BFBS UK",
+      "s": "https://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3094/a84a5f07a951b855c6971f45e610b3eb_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Central FM",
+      "s": "http://webradio.radiomonitor.com/stream/CentralFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/421207/385d83274216da888a259df5151fd0d6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Love 80's",
+      "s": "http://rss-streaming.co.uk:8062/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421175/5ff95cae0101209585ef1329fef50052_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "The UK 1940s Radio Station",
+      "s": "http://91.121.134.23:8100/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/417169/h4nj5c0e7e574debd570873477_130x130.webp",
+      "g": [
+        "Decades",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Greatest Hits Radio (W Yorkshire)",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/magic828.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401233/4c2e48383c8e09a721bc566dd89dfee9_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Gloucester FM",
+      "s": "http://live.canstream.co.uk:8000/gloucesterfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3166/pe3t597f73013689d942580601_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fáilte",
+      "s": "http://icecast.commedia.org.uk:8000/raidiofailte.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401310/hcvi59a13b2a54fb4505660775_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "CoastalSound",
+      "s": "http://188.165.192.5:8497/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/32894/19b090605dc44e159ef7b60ab210f5ea_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "London Greek Radio",
+      "s": "http://live3.istoikona.net:8203/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401194/52e707dd347e0fa9b1dcf5dd34873244_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Goldmine Radio",
+      "s": "https://streamer.radio.co/s5330d9b6a/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/421164/5d6abdb891c146f84bcfc65b31fbe279_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Scottish Sun Hits",
+      "s": "https://gbradio.cdn.tibus.net/SUNHITS",
+      "l": "https://images.radiovolna.net/_files/images/stations/421212/6f13c896040a1cb71d8c861befce5fb7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Like Radio Herefordshire & Worcestershire",
+      "s": "http://likeradiostreaming.co.uk/likehereford",
+      "l": "https://images.radiovolna.net/_files/images/stations/31588/c8faea755f8ce4db78bd874174dcce61_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "House Party Radio",
+      "s": "https://www.housepartyradio.net/stream/mp3/secure/safe/",
+      "l": "https://images.radiovolna.net/_files/images/stations/428037/05a13ef1b5400b01e09a8c2efbf8499a_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Jambo! Radio",
+      "s": "https://radio.canstream.co.uk:9129/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428057/4906699179a12a2ed3b941f72365bd95_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sonarbeats Radio",
+      "s": "https://s2.citrus3.com:8012/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/32836/a5a5dc34d86a943d2400679c20b60fec_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Gravity FM",
+      "s": "http://live.audiospace.co:80/gravityfm4",
+      "l": "https://images.radiovolna.net/_files/images/stations/3169/vgfb597f8e89681eb896588082_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Energy FM",
+      "s": "https://uksouth.streaming.broadcast.radio/energyfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/401312/slg359a13ce8a98d2554362802_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "CamGlen Radio",
+      "s": "https://radio.canstream.co.uk:8087/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401287/p8tx599fec971135c164700847_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mellow Magic",
+      "s": "http://live-bauer-mz.sharp-stream.com/magicmellow.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401294/tkar59a12d9f974dc901306200_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Supreme FM",
+      "s": "http://87.98.130.255:8240/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/25533/ac83dbb62700b3fde683cad3b65b4081_130x130.webp",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "The Strictly Upfront House channel",
+      "s": "http://hearme.fm:9003/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/26643/pxx35a22edb02b609221233570_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Park Radio",
+      "s": "http://fr1.nexuscast.com:8026/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421185/033b4fbb4f571b0008a94acd7ccd71fc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Leisure FM",
+      "s": "http://lfmradio.countybroadband.net:8002/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3226/c5qu597f1cb928e3d396682792_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Switch Radio",
+      "s": "https://listen.switchradio.co.uk/switchradio_high",
+      "l": "https://images.radiovolna.net/_files/images/stations/401209/f8o7599ea1d86bac4472226504_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Shuffle Radio UK",
+      "s": "http://184.75.223.178:8097/stream?type=.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401174/o9ri59908227b586d571963939_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Revolution",
+      "s": "http://webradio.radiomonitor.com/stream/Revolution",
+      "l": "https://images.radiovolna.net/_files/images/stations/401249/ksbv599eca19295f1876148448_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Unity FM",
+      "s": "http://live.canstream.co.uk:8000/unity.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3143/euc7597f22b84b5d6611600306_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jack Radio",
+      "s": "https://21283.live.streamtheworld.com/JACK_RADIO.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421133/30846c7e527e574c44fb9c7add663a6b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "AsianFX Radio",
+      "s": "http://91.121.77.158:8492/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421148/d05c50acbbecd85ead5cba842bac09d2_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Greatest Hits Radio (South Wales)",
+      "s": "https://edge-bauerall-01-gos2.sharp-stream.com/net2southwales.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/3015/d90d4e8fe007952ffec85052fca87fde_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "LDC Radio",
+      "s": "https://securestreams5.autopo.st:1959/aac1",
+      "l": "https://images.radiovolna.net/_files/images/stations/428042/21c3e2519e9d4e6f51e862ca887264d4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Signal 107",
+      "s": "https://gbradio.cdn.tibus.net/WLVWlv",
+      "l": "https://images.radiovolna.net/_files/images/stations/401126/zpzy597dd50f18e2c835884375_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pulse FM",
+      "s": "http://live.canstream.co.uk:8000/PULSE-STL.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401284/atyp599fead054c6c571973863_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Diamond",
+      "s": "http://192.95.18.39:5824/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421178/4b50ec7a1927174b3dc004b8f7f65d0a_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Paisley FM",
+      "s": "https://radio.canstream.co.uk:8123/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421217/840c109b9345fd61c25397602ec0c8cf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio XL",
+      "s": "https://xlradio.co.uk:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401212/up5s599ea382e2eb5027332604_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "J-Idols Project Radio - All Japanese Idols",
+      "s": "http://agnes.torontocast.com:8011/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/30789/90c1555e1f0c11164b3abfed8e1f2000_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Blackwood fm",
+      "s": "http://server-21.stream-server.nl:8326/0",
+      "l": "https://images.radiovolna.net/_files/images/stations/22439/ddb5ae2dabf5016c694a4f233ae8acde_130x130.webp",
+      "g": [
+        "Alternative",
+        "Folk",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Ruach Radio",
+      "s": "http://mp3streaming.planetwideradio.com:9125/ruach",
+      "l": "https://images.radiovolna.net/_files/images/stations/3284/n26g597f1dba81bae961303169_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Downtown Country",
+      "s": "http://live-bauer-al.sharp-stream.com/downtowncountry.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401311/teuq59a13c114d2e2213730067_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Sunny G Radio",
+      "s": "http://149.255.59.3:8118/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401286/yztz599feba9b652e246052277_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hull Kingston Radio",
+      "s": "http://hyades.shoutca.st:8031/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401224/otif599eaed0a19d8429767914_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "playbackuk",
+      "s": "http://198.245.62.81:9992/different1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/25155/c1382be5a5ae4cac692f1755350e2199_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Happy Radio UK",
+      "s": "https://playoutonestreaming.com/proxy/happy?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428036/d35b7b95dc90656b6b137160c68fbe6a_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Dancefmlive Trance",
+      "s": "https://broadcast.dancefmlive.com/radio/8010/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424056/b8506ee81e62fbe37c8ac20da27d90d6_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Pirate FM",
+      "s": "https://fg5.sad.ukrd.com/pirate?ts=1588049826&norequeue=1",
+      "l": "https://images.radiovolna.net/_files/images/stations/22136/065f8284641a48aca8ed39997ddb553d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Variety 80s",
+      "s": "https://everestcast.shoutcastservices.com:1265/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/417414/d11754402aa9b6c07dc3c57d0ff14ef1_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Tiverton Community Radio",
+      "s": "https://stream.tcrradio.net/stream?type=.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31189/bd421b746cbcc99e99914909a89b7c3b_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Coast FM",
+      "s": "https://stream1.coastfm.co.uk/radio/8000/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/24493/cw2o594ce167e8a20616504061_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Lincs FM",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/net1lincoln.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/28078/h2p9599eac769ef91307776348_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "PARTY VIBE RADIO: Pop, Indie, Top 40 and Dance music",
+      "s": "http://www.partyviberadio.com:8024/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3249/onae594a92a2d59aa183275577_130x130.webp",
+      "g": [
+        "Pop",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Erewash Sound",
+      "s": "http://radio.canstream.co.uk:8094/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/3151/u0xy597f86bcd77f5062063847_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Voice of Islam",
+      "s": "http://s6.voscast.com:9980/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421142/5d9091973447525aff9cbf444f3859bb_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Premier Christian Radio",
+      "s": "https://streams.radiomast.io/4d0743b5-b63a-43f1-9f7f-e8a04abe9367",
+      "l": "https://images.radiovolna.net/_files/images/stations/401200/v4zo599e9c6c2b279072122712_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Ridings FM",
+      "s": "http://lincs.planetwideradio.com:8020/ridingsfmaac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401231/cvix599eb3bb87c64445146076_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pulse 88",
+      "s": "https://stream.radio.co/s172d637eb/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/26017/098b6fc793d11dcd5b5f9d8a1600e3f7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "UK Roots FM",
+      "s": "https://streaming03.zfast.co.uk/proxy/william2?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/25598/b22a4f4fe4daae00d345089db55a96d9_130x130.webp",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Mighty Radio (Leeds)",
+      "s": "http://proxima.shoutca.st:8122/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428047/43be76e492ccc88668dc7bdd8a48defb_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rookwood Sound",
+      "s": "http://52.48.10.100:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401274/c2by599edf0914bb5590551479_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "City",
+      "s": "http://protostar.shoutca.st:9006/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401276/a2z8599fe15bc34cc612055807_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Sound Radio",
+      "s": "https://uksoutha.streaming.broadcast.radio/thesoundradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/428059/218cca90979539d931e1bc7ad5774137_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Downtown Radio",
+      "s": "https://edge-bauerall-03-gos2.sharp-stream.com/downtown.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401308/l84g59a139d7ea73a288316498_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Northsound 1",
+      "s": "http://live-bauer-mz.sharp-stream.com/northsound1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401289/b99559a12a2181489746219738_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Smooth Radio",
+      "s": "https://media-ssl.musicradio.com/SmoothLondonMP3",
+      "l": "https://kuasark.com/files/stations-logos/smooth-radio.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Capital FM",
+      "s": "https://media-ssl.musicradio.com/Capital",
+      "l": "https://kuasark.com/files/stations-logos/capital-fm-gb.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Classic FM",
+      "s": "https://media-ssl.musicradio.com/ClassicFM",
+      "l": "https://kuasark.com/files/stations-logos/classic-fm-gb.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Heart FM",
+      "s": "https://media-ssl.musicradio.com/HeartUK",
+      "l": "https://kuasark.com/files/stations-logos/heart-fm-gb.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dance UK Radio",
+      "s": "https://dancestream.danceradiouk.com/;",
+      "l": "https://kuasark.com/files/stations-logos/dance-uk-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Gold Radio",
+      "s": "https://media-ssl.musicradio.com/Gold",
+      "l": "https://kuasark.com/files/stations-logos/gold-radio-gb.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Smooth - Chill",
+      "s": "https://media-ssl.musicradio.com/SmoothChill",
+      "l": "https://kuasark.com/files/stations-logos/smooth-chill.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "LBC",
+      "s": "https://media-ssl.musicradio.com/LBCLondon",
+      "l": "https://kuasark.com/files/stations-logos/lbc-gb-8297.png",
+      "g": [
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Absolute Chillout",
+      "s": "https://ais-edge89-dal02.cdnstream.com/b05055_128mp3",
+      "l": "https://kuasark.com/files/stations-logos/absolute-chillout.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Energy FM - Dance Music Radio",
+      "s": "https://radio.streemlion.com:1875/stream",
+      "l": "https://kuasark.com/files/stations-logos/energy-fm-dance-music-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Caroline",
+      "s": "http://sc6.radiocaroline.net:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-caroline-gb-8156.png",
+      "g": [
+        "Country",
+        "Folk",
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "House Nation UK",
+      "s": "https://streaming.radio.co/s06bd9d805/listen",
+      "l": "https://kuasark.com/files/stations-logos/house-nation-uk.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Soul Groove Radio",
+      "s": "http://stream6.hippynet.co.uk:8023/silence",
+      "l": "https://kuasark.com/files/stations-logos/soul-groove-radio.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Heart - 80s",
+      "s": "https://media-ssl.musicradio.com/Heart80sMP3",
+      "l": "https://kuasark.com/files/stations-logos/heart-80s.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Magic Radio",
+      "s": "https://edge-bauerall-01-gos2.sharp-stream.com/magic1054.aac",
+      "l": "https://kuasark.com/files/stations-logos/magic-radio-gb.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jazz FM",
+      "s": "http://edge-bauerall-01-gos2.sharp-stream.com/jazzhigh.aac",
+      "l": "https://kuasark.com/files/stations-logos/jazz-fm-gb.png",
+      "g": [
+        "Blues",
+        "Easy Listening",
+        "Jazz",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "BLUES@",
+      "s": "https://bluesserver.rock-radio.uk/stream",
+      "l": "https://kuasark.com/files/stations-logos/blues-gb.png",
+      "g": [
+        "Blues",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio X",
+      "s": "https://media-ssl.musicradio.com/RadioXLondon",
+      "l": "https://kuasark.com/files/stations-logos/radio-x-gb.jpg",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Virgin Radio",
+      "s": "https://radio.virginradio.co.uk/stream",
+      "l": "https://kuasark.com/files/stations-logos/virgin-radio-gb-1388.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Golden Oldies",
+      "s": "http://philae.shoutca.st:8161/;",
+      "l": "https://kuasark.com/files/stations-logos/golden-oldies-gb.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Love 80's - DAB",
+      "s": "https://stream1.themediasite.co.uk:7018/;",
+      "l": "https://kuasark.com/files/stations-logos/love-80s-dab.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Fun Kids",
+      "s": "https://listen-funkids.sharp-stream.com/funkids.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fun-kids.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Planet Rock",
+      "s": "https://edge-bauerall-01-gos2.sharp-stream.com/planetrock.aac",
+      "l": "https://kuasark.com/files/stations-logos/planet-rock-gb-88364.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Hits Radio",
+      "s": "https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac",
+      "l": "https://kuasark.com/files/stations-logos/hits-radio-gb-10111.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "BritCom One",
+      "s": "https://cast2.asurahosting.com/proxy/britcom1/stream",
+      "l": "https://kuasark.com/files/stations-logos/britcom-one.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rockabilly Radio",
+      "s": "https://rradio.fastserv.com/hifi",
+      "l": "https://kuasark.com/files/stations-logos/rockabilly-radio-gb.png",
+      "g": [
+        "Rock",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Best Smooth Jazz",
+      "s": "https://bsj.lucasmultimedia.com:8002/stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/best-smooth-jazz.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Greatest Hits Radio",
+      "s": "https://edge-bauerall-01-gos2.sharp-stream.com/net2london.aac",
+      "l": "https://kuasark.com/files/stations-logos/greatest-hits-radio-gb.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Discover Trance Radio",
+      "s": "http://paris.discovertrance.com:8008/;",
+      "l": "https://kuasark.com/files/stations-logos/discover-trance-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "24-7 Rock 'N' Roll",
+      "s": "https://ssl.shoutcaststreaming.us:8038/;",
+      "l": "https://kuasark.com/files/stations-logos/24-7-rock-n-roll-gb-17632.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "1940s Radio",
+      "s": "http://199.189.111.28:8012/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/1940s-radio.png",
+      "g": [
+        "Jazz",
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Capital XTRA UK",
+      "s": "https://media-ssl.musicradio.com/CapitalXTRANational",
+      "l": "https://kuasark.com/files/stations-logos/capital-xtra-uk.png",
+      "g": [
+        "Electronic",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Energy 106",
+      "s": "https://patmos.cdnstream.com/proxy/energybe/?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/energy-106.png",
+      "g": [
+        "Electronic",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "BOX : Kiddiestream Kids Radio",
+      "s": "https://ss-edge.joeycast.com/kids.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-kiddiestream-kids-radio.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Energy FM - Old School Classics",
+      "s": "https://radio.streemlion.com:1045/stream",
+      "l": "https://kuasark.com/files/stations-logos/energy-fm-old-school-classics.png",
+      "g": [
+        "R&B and Urban",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "RockRadio1",
+      "s": "http://144.217.77.176:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/rockradio1.png",
+      "g": [
+        "Rock",
+        "Metal",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "24-7 Northern Soul",
+      "s": "https://ssl.shoutcaststreaming.us:8048/;",
+      "l": "https://kuasark.com/files/stations-logos/24-7-northern-soul.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "NonStopRadio 80s",
+      "s": "http://live.audiospace.co/ns80saac",
+      "l": "https://kuasark.com/files/stations-logos/nonstopradio-80s.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "NME Radio 1",
+      "s": "https://listen-nme.sharp-stream.com/nme1.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nme-radio-1.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Takeover UK",
+      "s": "https://strw1.openstream.co/1576?aw_0_1st.collectionid%3D4802%26stationId%3D4802%26publisherId%3D1600%26k%3D1682445659",
+      "l": "https://kuasark.com/files/stations-logos/takeover-uk.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "QMR Kids Radio",
+      "s": "https://qmr.ddns.net/listen/kids/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-kids-radio.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Drum And Bass Radio",
+      "s": "https://dnbww.com:8443/dnbww128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/drum-and-bass-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Star Kidz Norfolk",
+      "s": "https://stream-150.zeno.fm/k4rwcb4b8ehvv?zs=wAe2yOjqSi-rRWnYtGKUXg",
+      "l": "https://kuasark.com/files/stations-logos/star-kidz-norfolk.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Futuredrumz Jungle Drum & Bass Radio",
+      "s": "https://futuredr.radioca.st/;",
+      "l": "https://kuasark.com/files/stations-logos/futuredrumz-jungle-drum-bass-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "The World Wont Listen",
+      "s": "https://the-world-wont-listen.stream.laut.fm/the-world-wont-listen",
+      "l": "https://kuasark.com/files/stations-logos/the-world-wont-listen.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "BOX : Lofi Radio - Chill study & sleep beats",
+      "s": "https://ss-edge.joeycast.com/lofi.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-lofi-radio-chill-study-sleep-beats.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "24-7 Dreamboats & Petticoats",
+      "s": "https://ssl.shoutcaststreaming.us:8036/;",
+      "l": "https://kuasark.com/files/stations-logos/24-7-dreamboats-petticoats.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Jazz London Radio",
+      "s": "https://radio.canstream.co.uk:8075/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/jazz-london-radio.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "24-7 Motown",
+      "s": "https://ssl.shoutcaststreaming.us:8034/;",
+      "l": "https://kuasark.com/files/stations-logos/24-7-motown.png",
+      "g": [
+        "R&B and Urban",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "talkSPORT2",
+      "s": "https://radio.talksport.com/stream2",
+      "l": "https://kuasark.com/files/stations-logos/talksport2.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Strictly House",
+      "s": "http://radio.strictly.house:9500/stream",
+      "l": "https://kuasark.com/files/stations-logos/strictly-house.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Caroline Flashback",
+      "s": "http://sc2.radiocaroline.net:10558/;.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-caroline-flashback.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mi-Soul Music Radio",
+      "s": "https://securestreams4.autopo.st:1607/stream?type=http&nocache=86337",
+      "l": "https://kuasark.com/files/stations-logos/mi-soul-music-radio.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Christmas Hits",
+      "s": "https://strw1.openstream.co/655?aw_0_1st.collectionid%3D4169%26stationId%3D4169%26publisherId%3D679%26k%3D1682446216%26aw_0_azn.pcountry%3D%5B%22GB%22%2C%22US%22%5D%26aw_0_azn.planguage%3D%5B%22en%22%5D%26aw_0_azn.pgenre%3D%5B%22Christmas%22%5D",
+      "l": "https://kuasark.com/files/stations-logos/christmas-hits.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Innersence radio drum and bass",
+      "s": "http://hubble.shoutca.st:8004/;",
+      "l": "https://kuasark.com/files/stations-logos/innersence-radio-drum-and-bass.png",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Heart - Dance",
+      "s": "https://media-ssl.musicradio.com/HeartDance",
+      "l": "https://kuasark.com/files/stations-logos/heart-dance.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Islamic Lectures Centre",
+      "s": "https://islamicl.radioca.st/;",
+      "l": "https://kuasark.com/files/stations-logos/islamic-lectures-centre.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "BOX : 80s",
+      "s": "https://ss-edge.joeycast.com/80s.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-80s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Capital Dance",
+      "s": "https://media-ssl.musicradio.com/CapitalDance",
+      "l": "https://kuasark.com/files/stations-logos/capital-dance.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "trancetechnique",
+      "s": "http://s11.ssl-stream.com:8034/;",
+      "l": "https://kuasark.com/files/stations-logos/trancetechnique.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RSTV RnB",
+      "s": "https://stream-061.zeno.fm/kdy6q69vqnhvv?zs=qNwEbgO6QvGT3am4JIBtRA",
+      "l": "https://kuasark.com/files/stations-logos/rstv-rnb.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Wonderful Radio London 266",
+      "s": "http://109.169.54.86:8003/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/wonderful-radio-london-266.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Power Radio UK",
+      "s": "https://thisispowerradio.radioca.st/;",
+      "l": "https://kuasark.com/files/stations-logos/power-radio-uk.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Heart - 90s",
+      "s": "https://media-ssl.musicradio.com/Heart90s",
+      "l": "https://kuasark.com/files/stations-logos/heart-90s.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Heart - 70s",
+      "s": "https://media-ssl.musicradio.com/Heart70s",
+      "l": "https://kuasark.com/files/stations-logos/heart-70s.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "BOX : Reggae Republic",
+      "s": "https://ss-edge.joeycast.com/reggae.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-reggae-republic.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "BOX : Afrofusion Plus",
+      "s": "https://ss-edge.joeycast.com/plus.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-afrofusion-plus.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "BOX : Pop Music Radio",
+      "s": "https://ss-edge.joeycast.com/pop.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-pop-music-radio.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "BOX : Santa Christmas Radio",
+      "s": "https://ss-edge.joeycast.com/santa.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-santa-christmas-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "QMR Soundtrack",
+      "s": "https://qmr.ddns.net/listen/movies/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-soundtrack.png",
+      "g": [
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "BOX : Laugh Network",
+      "s": "https://ss-edge.joeycast.com/laugh.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-laugh-network.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "BOX : Mash Up Dancehall",
+      "s": "https://ss-edge.joeycast.com/mashup.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-mash-up-dancehall.png",
+      "g": [
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "BOX : Radio 6 90s Hip Hop",
+      "s": "https://ss-edge.joeycast.com/radio6.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-radio-6-90s-hip-hop.png",
+      "g": [
+        "Rap",
+        "Decades"
+      ]
+    },
+    {
+      "t": "BOX : Afrofusion",
+      "s": "https://ss-edge.joeycast.com/afro.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-afrofusion.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Totally 80s Radio",
+      "s": "https://totally80snew1.radioca.st/320",
+      "l": "https://kuasark.com/files/stations-logos/totally-80s-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Reggae",
+        "R&B and Urban",
+        "Decades",
+        "Themes"
+      ]
+    },
+    {
+      "t": "BOX : Hits Country",
+      "s": "https://ss-edge.joeycast.com/country.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-hits-country.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "BOX : Spirit",
+      "s": "https://ss-edge.joeycast.com/spirit.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-spirit.png",
+      "g": [
+        "Easy Listening",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Nation Radio",
+      "s": "http://edge-ads-01-gos2.sharp-stream.com/thamesradio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nation-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "BOX : Gospel Plus",
+      "s": "https://ss-edge.joeycast.com/gospelplus.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-gospel-plus.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "80s Zoom",
+      "s": "https://26383.live.streamtheworld.com:443/SAM03AAC226.mp3",
+      "l": "https://kuasark.com/files/stations-logos/80s-zoom.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Splinterwood Rock n Roll Radio",
+      "s": "https://securestreams6.autopo.st:2302/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/splinterwood-rock-n-roll-radio.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "BOX : Radio Jazz!",
+      "s": "https://ss-edge.joeycast.com/jazz.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-radio-jazz.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Serenade Radio",
+      "s": "http://149.202.22.75:8284/;",
+      "l": "https://kuasark.com/files/stations-logos/serenade-radio.png",
+      "g": [
+        "Easy Listening",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "24-7's Best Of The 60's",
+      "s": "https://ssl.shoutcaststreaming.us:8047/;",
+      "l": "https://kuasark.com/files/stations-logos/24-7s-best-of-the-60s.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "BOX : NCS Radio",
+      "s": "https://ss-edge.joeycast.com/ncs.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-ncs-radio.png",
+      "g": [
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "LBC News",
+      "s": "https://media-ssl.musicradio.com/LBCNewsUK",
+      "l": "https://kuasark.com/files/stations-logos/lbc-news.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Swinging Radio England.uk",
+      "s": "https://jenny.torontocast.com:9004/stream",
+      "l": "https://kuasark.com/files/stations-logos/swinging-radio-englanduk.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "BOX : Afrofusion Gold",
+      "s": "https://ss-edge.joeycast.com/gold.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-afrofusion-gold.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "BOX : Afrofusion Max",
+      "s": "https://ss-edge.joeycast.com/max.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-afrofusion-max.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "121Radio",
+      "s": "https://streaming.broadcastradio.com:10655/121radio",
+      "l": "https://kuasark.com/files/stations-logos/121radio.png",
+      "g": [
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RSTV Radio",
+      "s": "https://stream-021.zeno.fm/0ndha3ctduhvv?zs=YOexeqVQRSih1CfkL6FcwA",
+      "l": "https://kuasark.com/files/stations-logos/rstv-radio.png",
+      "g": [
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "ProgZilla",
+      "s": "https://proxy.progzilla.com/live",
+      "l": "https://kuasark.com/files/stations-logos/progzilla.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "RSTV Dance Classics",
+      "s": "https://stream-154.zeno.fm/dedeh9k49ehvv?zs=s6AyXdLYStq3u1Vwtuib-w",
+      "l": "https://kuasark.com/files/stations-logos/rstv-dance-classics.png",
+      "g": [
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Celtic Music Radio",
+      "s": "https://uksoutha.streaming.broadcast.radio/celtic",
+      "l": "https://kuasark.com/files/stations-logos/celtic-music-radio.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "BOX : Afrofusion Xtra",
+      "s": "https://ss-edge.joeycast.com/xtra.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-afrofusion-xtra.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "RSTV Lo-Fi",
+      "s": "https://stream-157.zeno.fm/bs042vg3668uv?zs=nGKSKbMISuWPbq8ic5B5sw",
+      "l": "https://kuasark.com/files/stations-logos/rstv-lo-fi.png",
+      "g": [
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dance Attack FM",
+      "s": "http://streaming04.liveboxstream.uk:8045/1",
+      "l": "https://kuasark.com/files/stations-logos/dance-attack-fm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Pop Hits",
+      "s": "http://pollux.shoutca.st:8939/1",
+      "l": "https://kuasark.com/files/stations-logos/pop-hits-gb.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RSTV Dance",
+      "s": "https://stream-156.zeno.fm/8qbwgru7568uv?zs=1vKbBObsRtW4g1j2B9Wx5g",
+      "l": "https://kuasark.com/files/stations-logos/rstv-dance.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Different Drumz DnB Radio",
+      "s": "https://differentdrumz.radioca.st/stream%20;",
+      "l": "https://kuasark.com/files/stations-logos/different-drumz-dnb-radio.png",
+      "g": [
+        "Electronic",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rainbow Radio",
+      "s": "https://stream-149.zeno.fm/dtbgwan9sd0uv?zs=E1-2BfYrSW-oWfxFHXz9Ng",
+      "l": "https://kuasark.com/files/stations-logos/rainbow-radio-gb-135424.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rainbow Radio Wales KIDS!",
+      "s": "https://stream-052.zeno.fm/ycdkr81pvxhvv?zs=rpjXIOySQl6_dZEVByosqg",
+      "l": "https://kuasark.com/files/stations-logos/rainbow-radio-wales-kids.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "BOX : X Rock",
+      "s": "https://ss-edge.joeycast.com/rock.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-x-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Boom Radio",
+      "s": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_192",
+      "l": "https://kuasark.com/files/stations-logos/boom-radio-gb.png",
+      "g": [
+        "Easy Listening",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Heart - Xmas",
+      "s": "https://media-ssl.musicradio.com/HeartXmas",
+      "l": "https://kuasark.com/files/stations-logos/heart-xmas.png",
+      "g": [
+        "Other",
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "KOOL FM",
+      "s": "https://admin.stream.rinse.fm/proxy/kool/stream",
+      "l": "https://kuasark.com/files/stations-logos/kool-fm-35075.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Bitter Sweet Music UK",
+      "s": "http://91.121.236.34:8520/uk",
+      "l": "https://kuasark.com/files/stations-logos/bitter-sweet-music-uk.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "RSTV Christmas",
+      "s": "https://stream-149.zeno.fm/m30epu2hx98uv?zs=G_vMiN6jSEGZSAJQRKh-5w",
+      "l": "https://kuasark.com/files/stations-logos/rstv-christmas.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Diverse FM",
+      "s": "https://carol.epichosts.co.uk:8570/;",
+      "l": "https://kuasark.com/files/stations-logos/diverse-fm.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Surf Rock Radio",
+      "s": "https://radio.dripfeed.net/radio/8020/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/surf-rock-radio-gb.png",
+      "g": [
+        "Classical",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Big L",
+      "s": "https://eastlondonradio.com:8702/biglh.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-big-l.png",
+      "g": [
+        "Rock",
+        "R&B and Urban",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "RSTV Classics",
+      "s": "https://stream-151.zeno.fm/an8e78sde78uv?zs=C6U4G_RVRhGcEwH6gukqAA",
+      "l": "https://kuasark.com/files/stations-logos/rstv-classics.png",
+      "g": [
+        "Classical",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Fantasy FM",
+      "s": "https://eu4.fastcast4u.com/proxy/fantasyfm?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/fantasy-fm.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "24-7 Reggae",
+      "s": "https://ssl.shoutcaststreaming.us:8045/;",
+      "l": "https://kuasark.com/files/stations-logos/24-7-reggae.png",
+      "g": [
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Energy FM - Non Stop Mixes",
+      "s": "https://radio.streemlion.com:2365/stream",
+      "l": "https://kuasark.com/files/stations-logos/energy-fm-non-stop-mixes.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "24-7 Legends Classic Rock",
+      "s": "https://ssl.shoutcaststreaming.us:8043/;",
+      "l": "https://kuasark.com/files/stations-logos/24-7-legends-classic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "24-7 Psychedelic Rock",
+      "s": "https://ssl.shoutcaststreaming.us:8040/;",
+      "l": "https://kuasark.com/files/stations-logos/24-7-psychedelic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RSTV Dance Chilled",
+      "s": "https://stream-154.zeno.fm/9w7xp1e5xnhvv?zs=60bgMpCxTmyjWcnTp0UtNA",
+      "l": "https://kuasark.com/files/stations-logos/rstv-dance-chilled.png",
+      "g": [
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "MoveDaHouse",
+      "s": "https://uk7.internet-radio.com/proxy/movedahouse?mp=//stream",
+      "l": "https://kuasark.com/files/stations-logos/movedahouse.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Joy Hits",
+      "s": "http://stream.joyhits.online:8070/joyhits.mp3",
+      "l": "https://kuasark.com/files/stations-logos/joy-hits.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "QMR Country",
+      "s": "https://qmr.ddns.net/listen/country/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-country.png",
+      "g": [
+        "Country",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Eyesee",
+      "s": "https://icecast.bkwsu.eu/radio-eyesee.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-eyesee.png",
+      "g": [
+        "Easy Listening",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Buzzislam",
+      "s": "https://tunein.buzzislam.com/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/buzzislam.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "JB's Rock n Roll - Doowop Jukebox",
+      "s": "https://streamer.radio.co/sa7bf61271/listen",
+      "l": "https://kuasark.com/files/stations-logos/jbs-rock-n-roll-doowop-jukebox.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "QMR Classic Gold 60",
+      "s": "https://qmr.ddns.net/listen/gold60/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-classic-gold-60.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "BritCom Two - Pumpkin FM",
+      "s": "https://cast2.asurahosting.com/proxy/britcom2/stream",
+      "l": "https://kuasark.com/files/stations-logos/britcom-two-pumpkin-fm.png",
+      "g": [
+        "Other",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mellow Magic",
+      "s": "https://edge-bauerall-01-gos2.sharp-stream.com/magicmellow.aac",
+      "l": "https://kuasark.com/files/stations-logos/mellow-magic.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Playback UK",
+      "s": "https://chilledstreaming.com:8650/pb.mp3",
+      "l": "https://kuasark.com/files/stations-logos/playback-uk.png",
+      "g": [
+        "Blues",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Solar FM",
+      "s": "http://msmn5.co:8330/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/solar-fm.png",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Times Radio",
+      "s": "https://timesradio.wireless.radio/stream",
+      "l": "https://kuasark.com/files/stations-logos/times-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Greatest Hits Non-Stop",
+      "s": "https://s8.myradiostream.com:58238/listen.mp3?nocache=1682446645",
+      "l": "https://kuasark.com/files/stations-logos/greatest-hits-non-stop.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Forward Radio",
+      "s": "https://stream-153.zeno.fm/z49t2w1vb0hvv?zs=iGocxWw7ThCOMxaj3x52MQ",
+      "l": "https://kuasark.com/files/stations-logos/forward-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "American Gold",
+      "s": "https://cast2.asurahosting.com/proxy/americangold/stream",
+      "l": "https://kuasark.com/files/stations-logos/american-gold.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Psychedelicized Radio",
+      "s": "https://ais-edge105-live365-dal02.cdnstream.com/a37043",
+      "l": "https://kuasark.com/files/stations-logos/psychedelicized-radio.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Soul Central Radio",
+      "s": "https://cast2.asurahosting.com/proxy/soulcen1/stream",
+      "l": "https://kuasark.com/files/stations-logos/soul-central-radio.png",
+      "g": [
+        "R&B and Urban",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Absolute Radio - 00s",
+      "s": "https://edge-bauerabsolute-05-gos2.sharp-stream.com/absolute00shigh.aac",
+      "l": "https://kuasark.com/files/stations-logos/absolute-radio-00s.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "QMR Dance",
+      "s": "https://qmr.ddns.net/listen/dance/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-dance.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Venture FM Radio",
+      "s": "http://68.168.101.146:8714/.mp3",
+      "l": "https://kuasark.com/files/stations-logos/venture-fm-radio.png",
+      "g": [
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Select Radio",
+      "s": "https://streaming05.liveboxstream.uk/proxy/selectr1/stream",
+      "l": "https://kuasark.com/files/stations-logos/select-radio-gb.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "QMR Classic Gold 50",
+      "s": "https://qmr.ddns.net/listen/gold50/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-classic-gold-50.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "QMR Rock",
+      "s": "https://qmr.ddns.net/listen/rock/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Magic Soul",
+      "s": "https://edge-bauerall-01-gos2.sharp-stream.com/magicsoul.aac",
+      "l": "https://kuasark.com/files/stations-logos/magic-soul.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Premier Christian Radio",
+      "s": "https://audio-edge-3mayu.fra.h.radiomast.io/4d0743b5-b63a-43f1-9f7f-e8a04abe9367",
+      "l": "https://kuasark.com/files/stations-logos/premier-christian-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "QMR One",
+      "s": "https://qmr.ddns.net/listen/one/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-one.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "QMR Easy",
+      "s": "https://qmr.ddns.net/listen/easy/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-easy.png",
+      "g": [
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "QMR Jazz",
+      "s": "https://qmr.ddns.net/listen/jazz/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-jazz.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "NME Radio 2",
+      "s": "https://msmn3.co/proxy/x2mp33/stream",
+      "l": "https://kuasark.com/files/stations-logos/nme-radio-2.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Soul Legends Radio",
+      "s": "https://streamer.radio.co/s60f3e59d1/listen",
+      "l": "https://kuasark.com/files/stations-logos/soul-legends-radio.png",
+      "g": [
+        "R&B and Urban",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Radio Retro",
+      "s": "http://64.150.176.42:8098/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-retro-gb.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Linn Classical",
+      "s": "http://radio.linn.co.uk:8004/autodj",
+      "l": "https://kuasark.com/files/stations-logos/linn-classical.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "QMR Classic Gold 70",
+      "s": "https://qmr.ddns.net/listen/gold70/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-classic-gold-70.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Punk FM",
+      "s": "http://carol.epichosts.co.uk:8430/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/punk-fm.png",
+      "g": [
+        "Electronic",
+        "Rock"
+      ]
+    },
+    {
+      "t": "QMR Classic Gold 80",
+      "s": "https://qmr.ddns.net/listen/gold80/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-classic-gold-80.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "QMR Rewind 90s",
+      "s": "https://qmr.ddns.net/listen/rewind90/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-rewind-90s.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "QMR Rewind 00 's",
+      "s": "https://qmr.ddns.net/listen/rewind00/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-rewind-00-s.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "QMR Chart Radio",
+      "s": "https://qmr.ddns.net/listen/chart/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-chart-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Uk Roots FM",
+      "s": "http://ukrootsfm.mywire.org:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/uk-roots-fm.png",
+      "g": [
+        "Inspirational",
+        "Reggae",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Matryoshka",
+      "s": "http://213.159.214.57:8000/matryoshka",
+      "l": "https://kuasark.com/files/stations-logos/matryoshka.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sonatica™ classical radio",
+      "s": "http://148.251.43.231:8742/160.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sonatica-classical-radio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "VisionRadioUK",
+      "s": "http://mscp3.live-streams.nl:8200/live/",
+      "l": "https://kuasark.com/files/stations-logos/visionradiouk.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "London Soul Radio",
+      "s": "https://londonsoulradio.out.airtime.pro/londonsoulradio_b",
+      "l": "https://kuasark.com/files/stations-logos/london-soul-radio.png",
+      "g": [
+        "Blues",
+        "Easy Listening",
+        "R&B and Urban",
+        "Inspirational",
+        "Electronic",
+        "Jazz",
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "QMR Classic Gold",
+      "s": "https://qmr.ddns.net/listen/gold/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-classic-gold.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "24-7 Just Rock",
+      "s": "https://antares.dribbcast.com/proxy/s8170/stream/",
+      "l": "https://kuasark.com/files/stations-logos/24-7-just-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "QMR Cinema",
+      "s": "https://qmr.ddns.net/listen/cinema/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-cinema.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Smooth - Country",
+      "s": "https://media-ssl.musicradio.com/SmoothCountry",
+      "l": "https://kuasark.com/files/stations-logos/smooth-country.png",
+      "g": [
+        "Country",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "QMR Two",
+      "s": "https://qmr.ddns.net/listen/two/stream",
+      "l": "https://kuasark.com/files/stations-logos/qmr-two.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Box Office Radio",
+      "s": "https://s2.citrus3.com:8400/stream",
+      "l": "https://kuasark.com/files/stations-logos/box-office-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Party Vibe - Psychedelic Trance Radio",
+      "s": "https://www.partyvibe.com:8062/;listen.pls?sid=1",
+      "l": "https://kuasark.com/files/stations-logos/party-vibe-psychedelic-trance-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Tonic Ska Radio",
+      "s": "https://eu10.fastcast4u.com/tonicska",
+      "l": "https://kuasark.com/files/stations-logos/tonic-ska-radio.png",
+      "g": [
+        "Rock",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "KISS DANCE",
+      "s": "https://edge-bauerall-01-gos2.sharp-stream.com/webcast6high.aac",
+      "l": "https://kuasark.com/files/stations-logos/kiss-dance-81920.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Oldskool UK",
+      "s": "http://185.4.176.124:9302/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/oldskool-uk.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Party Vibe - Drum & Bass Radio",
+      "s": "https://www.partyviberadio.com:8061/;listen.pls?sid=1",
+      "l": "https://kuasark.com/files/stations-logos/party-vibe-drum-bass-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "NonStopRadio 90s",
+      "s": "http://live.audiospace.co/ns90saac",
+      "l": "https://kuasark.com/files/stations-logos/nonstopradio-90s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "1Mix Radio Trance",
+      "s": "http://fr1.1mix.co.uk:8060/320",
+      "l": "https://kuasark.com/files/stations-logos/1mix-radio-trance.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stations": [
+    {
+      "t": "Tzgospel (Tokelau)",
+      "s": "https://stream-152.zeno.fm/7zzwyncnffhvv?zs=E7DZM7VQT4SMXdoCP9oCLw",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-tokelau.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Station Beta",
+      "s": "https://stream-151.zeno.fm/iv0c7hzepzntv?zs=w1QBO4hWSYWcXa0GzpVaCw",
+      "l": "https://kuasark.com/files/stations-logos/station-beta-124876.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

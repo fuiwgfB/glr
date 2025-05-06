@@ -1,0 +1,23 @@
+{
+  "stations": [
+    {
+      "t": "RADIO CORAN",
+      "s": "https://www.radiomauritanie.mr/sites/default/files/audio/chre.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-coran-mr.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Mauritanie",
+      "s": "https://radiomauritaniechaine1.ice.infomaniak.ch/radiomauritaniechaine1.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-mauritanie.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    }
+  ]
+}

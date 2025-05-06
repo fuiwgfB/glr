@@ -1,0 +1,91 @@
+{
+  "stations": [
+    {
+      "t": "Isle 95",
+      "s": "https://jkc.streamguys1.com/WJKC",
+      "l": "https://kuasark.com/files/stations-logos/isle-95.png",
+      "g": [
+        "Rap",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "The Reef - WAXJ",
+      "s": "http://147.135.84.28/waxj-fm",
+      "l": "https://kuasark.com/files/stations-logos/the-reef-waxj.png",
+      "g": [
+        "Reggae",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "104.9 The Mongoose",
+      "s": "https://jkc.streamguys1.com/WMNG",
+      "l": "https://kuasark.com/files/stations-logos/1049-the-mongoose.png",
+      "g": [
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "WDHP The Reef",
+      "s": "http://ic2.mainstreamnetwork.com/wdhp-am?type=.mp3/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/wdhp-the-reef.png",
+      "g": [
+        "Country",
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "WTJC-LP",
+      "s": "http://s9.viastreaming.net:7820/;011411476069954stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/wtjc-lp.png",
+      "g": [
+        "Inspirational",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sunny FM-WVIQ",
+      "s": "https://jkc.streamguys1.com/WVIQ-FM",
+      "l": "https://kuasark.com/files/stations-logos/sunny-fm-wviq.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "WSTX-AM 970 Christiansted",
+      "s": "http://wstxradio2.serverroom.net:8340/;",
+      "l": "https://kuasark.com/files/stations-logos/wstx-am-970-christiansted.png",
+      "g": [
+        "Reggae",
+        "Inspirational",
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "WSTX-FM 100.3 Christiansted",
+      "s": "http://wstxradio.serverroom.net:7490/;",
+      "l": "https://kuasark.com/files/stations-logos/wstx-fm-1003-christiansted.png",
+      "g": [
+        "Reggae",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "BRN Radio - Arabic Channel",
+      "s": "http://192.241.185.108:8094/stream",
+      "l": "https://kuasark.com/files/stations-logos/brn-radio-arabic-channel.png",
+      "g": [
+        "Inspirational"
+      ]
+    }
+  ]
+}

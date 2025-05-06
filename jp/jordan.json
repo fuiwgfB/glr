@@ -1,0 +1,321 @@
+{
+  "stations": [
+    {
+      "t": "Melody FM",
+      "s": "http://s3.voscast.com:9966/;stream.mp3?sid=1",
+      "l": "https://images.radiovolna.net/_files/images/stations/421685/d72d323c25fde90ef296d12a9af31b07_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jordan Radio",
+      "s": "https://jrtv-live.ercdn.net/jrradio/englishradio.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428400/35bac292da0bf91a9a5bee42b167379f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mazaj FM",
+      "s": "https://ice5.securenetsystems.net/MAZAJFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/405419/x4275a450cb42b8b9400067037_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Beat FM",
+      "s": "https://securestreams2.autopo.st:1242/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/24326/6b004cbc3a0a5aba921a023f006039e6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Yaqeen FM",
+      "s": "https://stream.zeno.fm/uzu059s00f8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405424/mu605a4510800e721969410800_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "JBC Radio",
+      "s": "http://test.jbcradio.com:8080/stream/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428399/4c83038ed053ed1e6ecad1f142d906b8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hayat FM",
+      "s": "http://104.194.9.142:8302/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/405426/xcg75a45119d07bf7634664893_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Watar FM",
+      "s": "http://stream.streamgenial.stream/8t0947m00f8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405414/lbq95a45095587f68656316530_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Amman Net",
+      "s": "http://198.178.123.8:8964/stream/1/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405416/wpa05a450a90b87fc627023443_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Fann",
+      "s": "http://188.247.86.67:8000/2",
+      "l": "https://images.radiovolna.net/_files/images/stations/405420/uoma5a450da7952f7387764837_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Play",
+      "s": "https://play995.radioca.st//stream?type=http&nocache=4",
+      "l": "https://images.radiovolna.net/_files/images/stations/421687/4a2725e9cf99ea220c065d290ce9b29e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "JU Fm",
+      "s": "http://jufmstreaming.ju.edu.jo/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421686/086b228374781155bbbecdc2afac7980_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mood FM",
+      "s": "https://securestreams2.autopo.st:1241/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/405415/hmva5a450a2603697105507298_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hala",
+      "s": "http://us10a.serverse.com:8027/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405423/uv6n5a45100bb0cf4302078994_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nashama",
+      "s": "https://nashama.radioca.st/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428401/f24cbb8254115dbbdba5ccfe3318f852_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bliss",
+      "s": "http://66.55.145.43:7008/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405425/bla15a4510f41b3ae055152049_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dahab",
+      "s": "https://dahab.ice.infomaniak.ch/dahab-192.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405418/z3ev5a450b684cd26781569268_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Watan FM",
+      "s": "http://46.43.64.50:8091/wattan",
+      "l": "https://images.radiovolna.net/_files/images/stations/421688/aa2e3c5f24bb4e272dd2b89240a7f8ee_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Husna FM",
+      "s": "https://s2.voscast.com:10445/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405417/zvcb5a450b18e6a93631287765_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sawt EL Ghad",
+      "s": "https://edge.mixlr.com/channel/llhwd",
+      "l": "https://images.radiovolna.net/_files/images/stations/421689/6ddef7f8384d8099cf714cb75e5e9477_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Hala",
+      "s": "http://us10a.serverse.com:8027/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-hala.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mazaj FM - مزاج اف ام",
+      "s": "https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mazaj-fm-mzaj-af-am.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Rabee Al Qloub",
+      "s": "http://radio-ssl.com:8006/stream",
+      "l": "https://kuasark.com/files/stations-logos/rabee-al-qloub.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rotana FM",
+      "s": "http://rotanaradio.jo/listen",
+      "l": "https://kuasark.com/files/stations-logos/rotana-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "International"
+      ]
+    },
+    {
+      "t": "Play FM",
+      "s": "https://play995.radioca.st//stream",
+      "l": "https://kuasark.com/files/stations-logos/play-fm-jo.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Mazaj FM - عالرايق",
+      "s": "https://mazajsoft.ice.infomaniak.ch/mazajsoft-192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mazaj-fm-alrayq.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mazaj FM - كاسيت",
+      "s": "https://mazajgoldhits.ice.infomaniak.ch/mazajgoldhits-192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mazaj-fm-kasyt.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mazaj FM -  جديد",
+      "s": "https://mazajtop40.ice.infomaniak.ch/mazajtop40-192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mazaj-fm-jdyd.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Al-Balad 92.5 راديو البلد",
+      "s": "http://s3.voscast.com:8964/;stream1653312509934/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-al-balad-925-radyw-albld.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Decades",
+        "International"
+      ]
+    },
+    {
+      "t": "Balad 92.4 fm",
+      "s": "http://s3.voscast.com:8964/;stream1573914925787/1",
+      "l": "https://kuasark.com/files/stations-logos/balad-924-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Husna FM",
+      "s": "http://s2.voscast.com:10444/stream",
+      "l": "https://kuasark.com/files/stations-logos/husna-fm.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mazaj FM - مخلوطة",
+      "s": "https://mazajalternative.ice.infomaniak.ch/mazajalternative-192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mazaj-fm-mkhlwtt.png",
+      "g": [
+        "Alternative",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tzgospel swahili (Jordan)",
+      "s": "https://stream-150.zeno.fm/c69xzeba7ehvv?zs=64E3RyBRRWSSq9svIHk4Ng",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-swahili-jordan.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Hawa Dijlah Radio",
+      "s": "https://listen.radioking.com/radio/96766/stream/136030",
+      "l": "https://kuasark.com/files/stations-logos/hawa-dijlah-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Noursat Jordan TV",
+      "s": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/noursat-jordan-tv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Jordan Melody FM",
+      "s": "http://s3.voscast.com:9966/;",
+      "l": "https://kuasark.com/files/stations-logos/jordan-melody-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Jordan 96.3",
+      "s": "https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-jordan-963.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

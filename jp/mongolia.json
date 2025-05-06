@@ -1,0 +1,138 @@
+{
+  "stations": [
+    {
+      "t": "Гэр бүлийн радио",
+      "s": "https://c2.radioboss.fm/stream/394",
+      "l": "https://images.radiovolna.net/_files/images/stations/405622/lmry5a50c3ae0ff52177321522_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Best FM",
+      "s": "http://103.48.116.109:9000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405619/z93h5a50c1780ad19466454358_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MGL Радио",
+      "s": "http://74.91.125.187:8096/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405621/pswx5a50c330a6912280755600_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Радио Шинэ Долгион",
+      "s": "https://s2.radio.co/s68086363c/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/428560/9efed67153742a99068c5b910c607138_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Business Radio",
+      "s": "http://202.131.233.34:8014/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405620/qqa85a50c221b01ab149665103_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "P3 FM 100.9",
+      "s": "http://103.14.38.108:8000/radio2",
+      "l": "https://images.radiovolna.net/_files/images/stations/428559/e754ada70226662f95b084461e1d6805_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mongolian Music Radio",
+      "s": "https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=10153&type=s1",
+      "l": "https://kuasark.com/files/stations-logos/mongolian-music-radio.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Music Radio",
+      "s": "https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=10764&type=s1",
+      "l": "https://kuasark.com/files/stations-logos/music-radio.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "MGL Radio",
+      "s": "http://74.91.125.187:8096/stream",
+      "l": "https://kuasark.com/files/stations-logos/mgl-radio-78811.png",
+      "g": [
+        "Easy Listening",
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Эден хотын Христийн радио (на русском)",
+      "s": "https://listen7.myradio24.com/cityeden",
+      "l": "https://kuasark.com/files/stations-logos/eden-hotyn-hristijn-radio-na-russkom.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Монголын радио",
+      "s": "http://103.14.38.108:8000/radio1",
+      "l": "https://kuasark.com/files/stations-logos/mongolyn-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Voice of Mongolia",
+      "s": "http://www.vom.mn/mn/c/-1?t=4",
+      "l": "https://kuasark.com/files/stations-logos/voice-of-mongolia.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "MGL Radio",
+      "s": "http://stream17.shoutcastsolutions.com:8096/;",
+      "l": "https://kuasark.com/files/stations-logos/mgl-radio.png",
+      "g": [
+        "Easy Listening",
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "BESTTIME",
+      "s": "http://103.48.116.109:9000/;?listening-from-radio-garden=1608463364113",
+      "l": "https://kuasark.com/files/stations-logos/besttime.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

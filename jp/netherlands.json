@@ -1,0 +1,3923 @@
+{
+  "stations": [
+    {
+      "t": "Fantasy Radio",
+      "s": "http://italo.live-streams.nl:80/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/3758/bf06594a81bd4e297418625296_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Intense Radio, we love Dance",
+      "s": "https://secure.live-streams.nl/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/4568/1487795225_15974958_1350661398341895_2544208033257784447_o_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Veronica Rock Radio",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR11.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4722/hgi7594e06b2acbc0599728138_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Stad Den Haag",
+      "s": "https://stream.radiostaddenhaag.com/stream/1/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/831/j3xi594e5578a6d5c950798412_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Deep Radio",
+      "s": "https://stream.deep.radio/sd",
+      "l": "https://images.radiovolna.net/_files/images/stations/4542/r6f8594e55fbd6796458652535_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "SLAM!",
+      "s": "https://stream.slam.nl/slam",
+      "l": "https://images.radiovolna.net/_files/images/stations/4706/f28g594df64f73f93001433089_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hardcore Radio",
+      "s": "http://81.18.165.235:80/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/689/scu3594e5689851aa323912914_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Dance FM",
+      "s": "https://streams.dancefm.net/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4539/td64594e56f800f14196143886_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "10 - 60's & 70's Hits",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4620/v0h9594dfd72a511a602606129_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Dreamscape Radio",
+      "s": "http://www.dreamscaperadio.nl/dreamscape.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4468/p8vf596de70d98387153725194_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "ALEX FM DE/NL",
+      "s": "https://stream-33.zeno.fm/8rpszhr6wp8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/419316/cf758fbb2b51630c59bf53d75c2e471a_130x130.webp",
+      "g": [
+        "Pop",
+        "Seasonal and Holiday",
+        "Decades"
+      ]
+    },
+    {
+      "t": "SLAM! The Boom Room",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB12_AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/9629/gy11594e21fa26bb1158575098_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio 538",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538AAC_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/4627/ltka594e42a1573a1812513755_130x130.webp",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "100% NL",
+      "s": "https://stream.100p.nl/100pctnl.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4493/z3he594e019ec1ae9613460918_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TrendFM",
+      "s": "https://trendfm.live-streams.nl:18030/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/4718/qyji594e59315f7f1402365704_130x130.webp",
+      "g": [
+        "Decades",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "goldenmusicstream",
+      "s": "http://everestcast.streamkeuze.nl:1620/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421276/ad0b6739b67d26b1a76e71182287a852_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kleine Piraat",
+      "s": "http://kleinepiraat.ic-stream.nl:7030/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4580/ubip594e576e5d767324240074_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio SchlagerNL",
+      "s": "https://live.schlager.nl/schlagernl",
+      "l": "https://images.radiovolna.net/_files/images/stations/4451/bafc045cc8096c2c4a64552cf3d27ccf_130x130.webp",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "KINK Alt Rock",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428110/afd5a77a7233dac686fb9bf3a5ca4623_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Sky Radio Hits",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/9519/pg7a594e38ccdf4b4233285079_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sky Radio 90s Hits",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/25917/980138b04546b033815c23417bffa4b4_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "NPO Radio 4 Concerten",
+      "s": "https://icecast.omroep.nl/radio4-eigentijds-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8717/qr22594e1a3750ffd144643053_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "SLAM! HARDSTYLE",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB11_AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/27587/eb33a6ad0b41ce96d60ec84727371613_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "NPO FunX Latin",
+      "s": "https://icecast.omroep.nl/funx-latin-bb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4552/qkbk594d57aa27bc8584436643_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Freak31",
+      "s": "http://stream.freak31.com:8322/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/25197/652782cdcf1a3fb42c2944a7d4b6c23d_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Sky Radio 80's Hits",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/25032/ef546fe8cbd1684e73b0aef2a85a9437_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "10 Disco Classics",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4618/mhrx594dfcfbed6ba488848314_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "ALEX FM NON-STOP",
+      "s": "https://stream-52.zeno.fm/yrk32mrv6eavv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427719/9d3c410bbf2db0270f1c2215e6a4b195_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "L1 Radio",
+      "s": "https://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4581/nt2h5a27084e164c4908167745_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nova Classic Rock",
+      "s": "http://212.48.126.146:8040/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/4601/ugde5974c0088a7d2288348270_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Sunrise FM",
+      "s": "http://stream.sunrisefm.nl:9600/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9560/hghl5a26f36b784be872327636_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "NPO Klassiek",
+      "s": "https://icecast.omroep.nl/radio4-bb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4626/2ca945c1bed871621be7ba4d7a9e2107_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "NPO Radio 2",
+      "s": "https://icecast.omroep.nl:80/radio2-sb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4624/c00822a025a976eb03af1daab3691b8c_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Nostalgia",
+      "s": "https://kathy.torontocast.com:2250/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/4661/ngx45954a68bacd70869354084_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "laut.fm / bluestarradio",
+      "s": "https://bluestarradio.stream.laut.fm/bluestarradio?t302=2020-04-23_11-20-40&uuid=54f97e26-d576-4667-bc81-23b7a8c31702",
+      "l": "https://images.radiovolna.net/_files/images/stations/4454/ivdb5a26eef195dfc405895660_130x130.webp",
+      "g": [
+        "Blues"
+      ]
+    },
+    {
+      "t": "HappyHits",
+      "s": "https://mediacp.audiostreamen.nl:8150/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430669/2ae672c7cf4fc5d311b696d862d7c774_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Jamz Den Haag",
+      "s": "http://262.cloudrad.io:8440/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4570/1401962513_s167740q_130x130.webp",
+      "g": [
+        "Decades",
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Magic FM",
+      "s": "https://stream.magicfm.nl/magicfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/428103/1d4866e37c48a8526d7ab83915f170d1_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Jamm FM",
+      "s": "http://stream.jammfm.nl:8221/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9495/af8v594e46e380e3b793140848_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Glow FM",
+      "s": "https://stream.glowfm.nl/glowfm.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/9561/fgo5594e4ff83cffd199929491_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "538 Top 50",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4630/s9xo594e44726409c012304647_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "New Dance Radio",
+      "s": "https://modspeedy.radioca.st/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27583/72b2d5abadb60ee36b2eefcfd9bf7262_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Veronica Alternative",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR12.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4565/dbdc7404e2171f88ef7a4c425c305b9e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "CeltCast",
+      "s": "http://caster04.streampakket.com:8982/1_mp3_192?type=http&nocache=7/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/25620/587bdd64fc75ea26706ba32b155ee6fb_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Concertzender Hard Bop",
+      "s": "http://streams.greenhost.nl:8080/hardbop",
+      "l": "https://images.radiovolna.net/_files/images/stations/4530/ryd9597c70e9529f3935067553_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Sky Radio Running Hits Stretch Relax",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/400890/n2ar594e417450266375089840_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "ALEX FM ROERMOND",
+      "s": "https://stream-23.zeno.fm/q9tsuds6wp8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427716/e8a851df912e615facdf6f1cf01022e4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Delta Radio",
+      "s": "http://streamdelta.lokaalradio.nl:9005/;mountpoint",
+      "l": "https://images.radiovolna.net/_files/images/stations/4543/jmjn594fa5c28590b451979399_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "NPO FunX Reggae",
+      "s": "https://icecast.omroep.nl/funx-reggae-bb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4554/ffs7594d580e190fc735084941_130x130.webp",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "NPO FunX Arab",
+      "s": "https://icecast.omroep.nl/funx-arab-bb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4549/zqea594d4ffe70f96193264642_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Classicnl Opera",
+      "s": "https://stream.classic.nl/classicnl-opera.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430442/575f8b06fab50caae2249581ee7e8e6e_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "93.7 PINOY FM RADIO.NL",
+      "s": "https://usa3.server2028.com/listen/93.7_pinoy_fm_radio.nl_/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430479/dbd2e408aefcc53a0ff446b10b1ec122_130x130.webp",
+      "g": [
+        "Decades",
+        "News"
+      ]
+    },
+    {
+      "t": "NPO Radio 2 Soul & Jazz",
+      "s": "https://icecast.omroep.nl/radio6-sb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4637/rju5594e1ac73d654007205120_130x130.webp",
+      "g": [
+        "International",
+        "Jazz",
+        "Blues"
+      ]
+    },
+    {
+      "t": "NPO FunX Slow Jamz",
+      "s": "https://icecast.omroep.nl/funx-slowjamz-bb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4556/pj74594d583b39627516789710_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Sky Radio Christmas",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/8953/atej594e387121849044945042_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "NPO 3FM KX Radio",
+      "s": "https://icecast.omroep.nl/3fm-serioustalent-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8712/u4i9594e1f6dc24dd366444395_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "West",
+      "s": "https://d3jhv0ayn0z3fg.cloudfront.net/icecast/omroepwest/radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/9554/gllb594e479777f64126087527_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "RTV Katwijk",
+      "s": "http://stream.rtvkatwijk.nl:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9516/ebdx5a27bfa1e2e1a277973304_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Concertzender Nieuwe Muziek",
+      "s": "http://streams.greenhost.nl:8080/nieuwemuziek",
+      "l": "https://images.radiovolna.net/_files/images/stations/4533/o662597c71071213a651926599_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Concertzender Geen dag zonder Bach",
+      "s": "http://streams.greenhost.nl:8080/bach",
+      "l": "https://images.radiovolna.net/_files/images/stations/24144/ql72597c7138a33b1811481709_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Intergalactic FM - The Dream Machine",
+      "s": "http://radio.intergalactic.fm:80/3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4474/kdbw595bb1f0125a3551142940_130x130.webp",
+      "g": [
+        "New Age",
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "ZAP! FM",
+      "s": "https://zapstream.nl/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/4734/ell95a26f6e7d68e4614953221_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RAM FM - Eighties Hit Radio",
+      "s": "http://uk1-vn.mixstream.net:9866/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4677/rssy5a26f2ecb9b2e889526430_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Andy's 80s",
+      "s": "http://ct5.fast-serv.com:9844/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/6228/iki459f06feeabcf4615464389_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "538 Non Stop",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/9479/fk6f594e44b46f107675800125_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Double Z - Internet Piraten",
+      "s": "http://81.173.4.66:8004/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/4544/bhzh5978de0e375fa270412550_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "db962",
+      "s": "https://radio.db962.nl:9615/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/9490/9715217b4139c3790f76ef3e451fd0b6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Beat FM",
+      "s": "http://radioheiloo.no-ip.info:8010/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9486/al6f5957510537300125078843_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Meerradio",
+      "s": "http://stream.meerradio.nl:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4593/n1f65a27b8c43e97a354371197_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Omroep",
+      "s": "http://icecast.omroepgroesbeek.nl:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/4605/f3cs5a27ba45cefb9444191576_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Veronica",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400874/xrb4594e0724f1163943068573_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ALEX FM WORKOUT",
+      "s": "https://stream-54.zeno.fm/cnqyuvgvnsguv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427727/0119bf2a33b6ba66df5ced8aa7c271ed_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Sky Radio Love Songs",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/8954/c9rx594e38a487d5b348229289_130x130.webp",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Sky Radio Lounge",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/28266/9a4ce428cf0f4210e4f9d0ae64ff5db4_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Pro FM Dance",
+      "s": "http://stream.pro-fm.net:8200/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4613/qatr597a4f7a3a652980480184_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Pinguin Pluche",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591410_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/31635/462c2a02938c7e2af7d3768acfb2b540_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Emmen",
+      "s": "https://fre.stream.laut.fm/fre",
+      "l": "https://images.radiovolna.net/_files/images/stations/4647/pf955a27d3ad2317c635477383_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Veronica Non Stop",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400875/a2d4fc27c6008e4330ea9c81f8b22b53_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Omroep",
+      "s": "http://stream.click2.nl:8065/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4606/b72h5a27ce7be71d0795643578_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Veronica Top 1000 Allertijden",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR10.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4671/ku93594e062d27cfa004942628_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SALTO Caribbean FM",
+      "s": "https://d1x0scdnoh33b7.cloudfront.net/olonradio/7fb21f1b/audio-nl-aaclc128/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/400883/365b2ab3df6d0cccf00afae9ddc632b0_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Concertzender World",
+      "s": "http://streams.greenhost.nl:8080/wereldmuziek",
+      "l": "https://images.radiovolna.net/_files/images/stations/4450/wq98597c70b4e1d84128165098_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "ShoutedFM mth.Black",
+      "s": "http://black.mthn.net:8300/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4698/sn8i594e59bf3a609749087153_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "ALEX FM CHRISTMAS",
+      "s": "https://stream-41.zeno.fm/picxao7j4zpvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427720/c9cd220bd252bcec28e503461f72b071_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "Ally-Radio",
+      "s": "https://hazel.torontocast.com:2640/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/425472/038b79bdfaee330b7e76a4bfbb053871_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Den Haag FM",
+      "s": "http://server3.radio-streams.net/proxy/haagseomroep?mp=/denhaagfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/9529/oaj0594e4d216f3c6486906020_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Freeminded FM",
+      "s": "http://freemindedfmstream.nl/fm/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/30474/5571bbfead4d3c21515af274e9a24aae_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Nunspeet",
+      "s": "http://37.59.195.28:8214/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4662/dktj5a27018053f6a544881331_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Continu",
+      "s": "https://stream.radiocontinu.nl/radiocontinu",
+      "l": "https://images.radiovolna.net/_files/images/stations/4643/50bdc9dc47ce422bb87f85519e74a0fa_130x130.webp",
+      "g": [
+        "Decades",
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Intergalactic FM - Main",
+      "s": "http://radio.intergalactic.fm/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/4471/ecxt595bb1e020321994173800_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "ALEX FM DIE VERRÜCKTE STUNDE!",
+      "s": "https://stream-59.zeno.fm/vutabghtrfhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427730/4685e4312ebac4dceb34c16f6c3af690_130x130.webp",
+      "g": [
+        "Folk",
+        "Pop",
+        "Decades",
+        "International"
+      ]
+    },
+    {
+      "t": "ALEX FM SUMMER",
+      "s": "https://stream-39.zeno.fm/edcocr8ygnftv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427728/35dba03cc291a9c9660517148430d6b5_130x130.webp",
+      "g": [
+        "Alternative",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Feel Good Radio",
+      "s": "http://feelgoodmedia2.shoutcaststream.com:8344/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/9532/k1zr5a27c0fc21e92855374428_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sky Radio Bootcamp Tracks",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR17AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/400889/j6zm594e4119ad9aa865993767_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Golden Oldies Radio",
+      "s": "https://sonic.magicdragon.nl:7016/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428118/fe0b448d1e5f08560fa326eb648d1354_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Your Latin Radio",
+      "s": "https://stream.radiojar.com/ktsf994gtp8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/425784/9cc50cc506b5b1a84fdb465e8c4e0b90_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "NPO 3FM",
+      "s": "https://icecast.omroep.nl/3fm-sb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/3036/l7y9594e1ea338dfd800803001_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Olympia Classics",
+      "s": "https://streams.olympia-classics.nl/classics",
+      "l": "https://images.radiovolna.net/_files/images/stations/23712/2b1ef527936c4ecdf3ee3307ba770e5f_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Realdance Radio NL",
+      "s": "https://cc6.beheerstream.com/8002//;radiotype;audio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/32390/4ded2735f326fc65015db4e29f999835_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Decibel - Noord-Holland",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODECIBEL.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4644/7e5c56fcf1208b7cea4bf27260750e5e_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "3 FM Live",
+      "s": "https://icecast.omroep.nl/3fm-bb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/10215/0d136284c946fb65afc9f22fc614031e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Groove95",
+      "s": "https://mediaserv68.live-streams.nl:18053/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430146/9faf7c5ea259beabc50cf5f7b1130e53_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "247 Spice Radio",
+      "s": "https://247spice.mysecurestream.eu/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428098/769d4a9eccbebf9aadc8396635b48db4_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "9 Oostzaan (Oostzaan)",
+      "s": "http://caster01.streampakket.com:9350/sz=radio9oostzaan=Radio-9Oostzaan",
+      "l": "https://images.radiovolna.net/_files/images/stations/9502/ukdz5a27daf63dc4e604692230_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Alkmaar",
+      "s": "http://radioalkmaar.ddnsfree.com:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423112/898fe87480212593ae700ffea9094328_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Jazz",
+        "Rock",
+        "Easy Listening",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Lelystad",
+      "s": "http://live.radiolelystad.nl:8000/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/9587/asst5a27030da1433805976478_130x130.webp",
+      "g": [
+        "Folk",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Roulette FM",
+      "s": "http://stream.roulettefm.nl/roulettefm",
+      "l": "https://images.radiovolna.net/_files/images/stations/9514/i4kz5a27c43fa3614576470810_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Intergalactic FM - Disco Fetish",
+      "s": "http://radio.intergalactic.fm/2",
+      "l": "https://images.radiovolna.net/_files/images/stations/4472/fo68595bb1e89b500928839168_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Midvliet FM",
+      "s": "http://midvliet.shoutcaststream.com:8210/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9538/slix5a27c90aec586864097772_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "RADIONL - Zuidoost-Brabant",
+      "s": "https://stream.radionl.fm/rnlzuidoostbrabant",
+      "l": "https://images.radiovolna.net/_files/images/stations/9576/6445709701d31ad45c514008d319b98e_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "ALEX FM SOUL & JAZZ",
+      "s": "https://stream-55.zeno.fm/uvc1ktc8hrcvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427722/320a23756cde0a386b535a1b722452c8_130x130.webp",
+      "g": [
+        "Jazz",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "A1 Radio",
+      "s": "http://stream.a1mediagroep.nl/a1radio_256",
+      "l": "https://images.radiovolna.net/_files/images/stations/9583/eb35f83119618f6707a698a6c83d55a9_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "jungletrain.net",
+      "s": "http://stream6.jungletrain.net:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4480/yzvd5979e7323362e773509717_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "BesteHitsNL",
+      "s": "https://luister.bestehits.nl/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430948/3d621d54045ba54c9670a525bd9e38c6_130x130.webp",
+      "g": [
+        "Country",
+        "Folk",
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "ALEX FM DEEP RADIO",
+      "s": "https://stream-52.zeno.fm/9qz6adhtrfhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427723/a9aa93f266c5307bfa0b2f51c599c694_130x130.webp",
+      "g": [
+        "Latin",
+        "Easy Listening",
+        "R&B and Urban",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Keizerstad FM",
+      "s": "https://stream.keizerstad.nl/classics.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4575/xt0s5a2702c50fafb352811745_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "QMusic Foute Uur",
+      "s": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_32.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/400884/mspe594e35f1b3a65125712948_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "APCS Radio",
+      "s": "http://server3.digital-webstream.de:8415/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4459/c2ze595b9eef4b45a483665682_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Holland Online",
+      "s": "https://mediaserv68.live-streams.nl:18062/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/4652/888520bb5c4ec908f5529265a6f28ecf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NPO 3FM Alternative",
+      "s": "https://icecast.omroep.nl/3fm-alternative-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8713/h2hv594e1fa41df99723476599_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "NPO FunX Hiphop",
+      "s": "https://icecast.omroep.nl/funx-hiphop-sb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8707/nyyy594d585b9de91171083040_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Concertzender Oude Muziek",
+      "s": "http://streams.greenhost.nl:8080/oudemuziek",
+      "l": "https://images.radiovolna.net/_files/images/stations/4535/gwwi597c711a277d2342477942_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "WOS Radio",
+      "s": "http://stream.wos.nl:8000/wos876",
+      "l": "https://images.radiovolna.net/_files/images/stations/4729/jqqi5a27ad8462329497326434_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Amor FM",
+      "s": "https://stream.zeno.fm/p133a804xp8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9526/dczu594e4cbd04d2e362505945_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Pure Twenty Four (Pure 24)",
+      "s": "https://c32.radioboss.fm:8775/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/431504/6b0cd28f60d9c993be57699a78b4d573_130x130.webp",
+      "g": [
+        "Pop",
+        "Country",
+        "Decades",
+        "International"
+      ]
+    },
+    {
+      "t": "Apeldoorn",
+      "s": "http://stream.rtv-apeldoorn.nl:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/9585/njhz5a27c1392c0dd189940120_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Omroep Venlo",
+      "s": "http://icecast.streamone.net/2ZYEDcIAN8Yw",
+      "l": "https://images.radiovolna.net/_files/images/stations/31137/b4e005de7e947e49436baa6a74382db5_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "KINK Classics",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNAAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/428111/154d24d37111af93605398145a2257a7_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Harderwijk FM",
+      "s": "http://stream.harderwijkfm.nl:8000/HKFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/9581/kos55a27c353196b7728935014_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Omroep Vlaardingen FM",
+      "s": "http://media04.streampartner.nl:8036/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/9542/w8rl5a27cfb352f03361268856_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Hoogeveen",
+      "s": "http://mediaserv38.live-streams.nl:8026/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/4653/em175a27ba86ec868173780791_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DFM RTV INT",
+      "s": "http://stream.dfm.nu:8205/dfm_1",
+      "l": "https://images.radiovolna.net/_files/images/stations/26825/4685fd157a60c9c22fcde3f7c40694fd_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Ideaal",
+      "s": "https://ice.cr5.streamzilla.xlcdn.com:8000/sz=radioideaal=livestream",
+      "l": "https://images.radiovolna.net/_files/images/stations/4655/g8em5a270f5918279266146797_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Concertzender Folk it!",
+      "s": "http://streams.greenhost.nl:8080/folkit",
+      "l": "https://images.radiovolna.net/_files/images/stations/4528/wukt597c70d469906970949837_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "HITZZZ!!",
+      "s": "https://stream.hitzzz.nl/hitzzz",
+      "l": "https://images.radiovolna.net/_files/images/stations/428115/48f30c5d6961d75d288ec5b37dc2bf33_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Concertzender November Music",
+      "s": "http://streams.greenhost.nl:8080/novembermusic",
+      "l": "https://images.radiovolna.net/_files/images/stations/4534/dlqc597c710ecf6dd735577204_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Golfbreker Radio",
+      "s": "http://31.186.169.92:8007/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4558/s5jm5a27c953725a4825989883_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Groot Nieuws Radio",
+      "s": "http://media02.streampartner.nl:8050/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/4560/m7kk5a27b0e87ad45892858835_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Yellowbird",
+      "s": "http://server-06.stream-server.nl:8606/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4676/m1ny5a26f1cc11c05097050697_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ridderkerk",
+      "s": "https://icecast.streamone.net/pwQMh64SKx0S",
+      "l": "https://images.radiovolna.net/_files/images/stations/9558/nd8j5a27d7113804f018424275_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Coastline",
+      "s": "http://onair.coastlinefm.nl/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420333/9d6f5b41514627f4bda40e0234882dc6_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "R&B and Urban",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Grand Prix Radio",
+      "s": "https://eu-player-redirect.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIOAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/31125/142235b9aac6513ea62265fd9e84a0a5_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "ShoutedFM mth.Electro",
+      "s": "http://electro.mthn.net:8400/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4700/futi594e59d2cfdf9976619675_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Back 2 the 90s",
+      "s": "https://back2-the90s.stream.laut.fm/back2-the90s?t302=2020-04-23_04-26-03&uuid=618fdca8-3d54-4067-823f-bdd8f0a91570",
+      "l": "https://images.radiovolna.net/_files/images/stations/4460/gewj5a26fa337614f732440342_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Concertzender Jazz",
+      "s": "http://streams.greenhost.nl:8080/jazz",
+      "l": "https://images.radiovolna.net/_files/images/stations/4531/m6w3597c70f40fe05245944307_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Arrow Classic Rock",
+      "s": "https://stream.gal.io/arrow",
+      "l": "https://images.radiovolna.net/_files/images/stations/4506/e4ju5a26ed5ccd462026837348_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rijnmond",
+      "s": "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9557/utsv5a27be7a68636924974336_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sky Radio",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/4704/k34k594e37f93b8dc588801727_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTV Papendrecht",
+      "s": "https://icecast.streamone.net/fzYMFYYTDBUW",
+      "l": "https://images.radiovolna.net/_files/images/stations/9550/xf775a27ddf60b8be395013657_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Purmerend",
+      "s": "http://stream.zxp.nl:8000/radiopurmerend_bb",
+      "l": "https://images.radiovolna.net/_files/images/stations/4664/evlo5a27bdcba0218962768769_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Bo - de omroep van de Bollenstreek",
+      "s": "http://stream.bollenstreekomroep.nl:80/live-mp3-128-stereo",
+      "l": "https://images.radiovolna.net/_files/images/stations/9488/i3915a27022345559085769083_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rick FM",
+      "s": "http://stream.rickfm.nl:8000/studio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9513/bn855a27dce548019218425031_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dodoshow Radio",
+      "s": "https://icecast.streamone.net/AAIMNKcDO5Y0",
+      "l": "https://images.radiovolna.net/_files/images/stations/31413/edb61708a7e84598a7d9a9ddf1c4b159_130x130.webp",
+      "g": [
+        "Metal",
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "NoordZij",
+      "s": "http://server-23.stream-server.nl:8154/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9507/hdzj5a26ffef0ee8e595482029_130x130.webp",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "JND",
+      "s": "https://stream.radiojnd.nl/radiojnd.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423091/15fbcbca8e760ab39209826ee8c6524b_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "6FM",
+      "s": "http://6fm.nl:8000/mp3live",
+      "l": "https://images.radiovolna.net/_files/images/stations/4497/kvjq5a26ee945751a487697521_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SALTO Mokum Radio",
+      "s": "https://d1x0scdnoh33b7.cloudfront.net/olonradio/87898b66/audio-nl-aaclc128/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/400880/6411a0e58144a0e41054132c2924fc39_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "MIX 724",
+      "s": "http://stream.mix724.nl:9168/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4596/dyqx5a27012666428500555842_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "L-FM",
+      "s": "http://stream.l-fm.nl:8002/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/9563/dln05a27bd946588c881676230_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "TaksimFM Rap",
+      "s": "http://95.211.162.32:8018/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/29412/d6a2740b6a2644b6bcd994f8e30cf2ef_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "TaksimFM ClubMix",
+      "s": "http://95.211.162.32:8016/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/26458/6d58f89ec282a1bf0fe785e12ba47435_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Zaanradio",
+      "s": "http://stream.zaanradio.nl:80/zaanradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/4733/cnf45a27d53ddbe33764264394_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "X 104.3 fm",
+      "s": "http://stream.sxmradio.com:8060/1043.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31600/02fa704e9d5f905c0c6180cfee93f4d6_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Pop",
+        "Rap"
+      ]
+    },
+    {
+      "t": "GOD Radio",
+      "s": "https://stream.wildfm.nl/GOD_Radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/428105/ce0af2b20953442baa8b5312d0b86098_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "leuk.fm",
+      "s": "http://stream.leuk.fm/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/32972/c26c075cff2e8bd277e51545642f69a9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Grunn FM",
+      "s": "https://stream.grunn.fm/grunnfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/423093/afa5164ecc52337f663f66d5794f7518_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "538 Ibiza",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9482/alyk594e45812eaec657620779_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Hi On Line Radio - Jazz",
+      "s": "http://mediaserv38.live-streams.nl:8006/",
+      "l": "https://images.radiovolna.net/_files/images/stations/25291/c75a0a8086bfefce15a0307cab5ad559_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Slotstad RTV",
+      "s": "http://icecast.streamone.net/8SZkOK0bgFSS",
+      "l": "https://images.radiovolna.net/_files/images/stations/4708/bt3r5a27bd10aa5cc062286236_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Efteling Kids Radio",
+      "s": "https://18973.live.streamtheworld.com/TLPSTR07.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9491/gau25a270f9bb3f98191549733_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Kerstradio",
+      "s": "https://audiostreamen.nl/piratenplaten.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/26401/58ff024291654a9a3d5f26b0ac1cf939_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "Pinguin Grooves",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591867_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/31568/192d59fc814aebb4b3642b7d7461ab01_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Akasanoma",
+      "s": "http://radioakasanoma.com:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9504/trnm5a27dd2bbe4d2556809768_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "RTW FM",
+      "s": "http://rtw.shoutcaststream.com:8054/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/9549/bh085a27cf42b875b687752065_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "ALEX FM 00'S",
+      "s": "https://stream-59.zeno.fm/gvavwrjcadbtv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427724/4120a17aaac4273ae022b930ffaee56a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Joy Radio",
+      "s": "https://stream.joyradio.nl/joyradio-gron",
+      "l": "https://images.radiovolna.net/_files/images/stations/400894/jqc6594e52dbad95c110829350_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hitstream.Fm",
+      "s": "http://www.streamhit.nl:443/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/28194/5c6fbd102ea413fcf4caf1fd5b47e668_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NPO FunX NL",
+      "s": "https://icecast.omroep.nl/funx-bb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4553/komf594d57d14ed02471311411_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Schouwen-Duiveland",
+      "s": "http://s32.myradiostream.com:17098/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4666/bpt75a27ad33d1f9d228583414_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "251",
+      "s": "http://s7.myradiostream.com:5230/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/21872/9ad86436c9b8a3202e0cc2ea76804287_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "QMusic Summer",
+      "s": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_classics_32.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/400886/d49l594e36d7157c5298462675_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "NPO Klassiek",
+      "s": "http://icecast.omroep.nl/radio4-bb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428100/46e5ca965feae260dc70e672d07d5ab8_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Classicnl Soundtracks",
+      "s": "https://stream.classic.nl/classicnl-soundtracks.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430441/0a671f0de7e5a4f62b039303e8f2a51e_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "RTV Horizon",
+      "s": "https://www.rtvhorizon.nl/radiostream/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9575/qqop5a270c3ab0539829053163_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "90FM",
+      "s": "http://radio90fm.shoutcaststream.com:8126/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/21207/76699a1f5e65472868fe504c458ad68e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Classicnl Mind Radio",
+      "s": "https://stream.classic.nl/classicnl-mindradio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430440/67b2ace5ed10086bc722a66b353e8b00_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "laut.fm / radiomassalsa",
+      "s": "https://radiomassalsa.stream.laut.fm/radiomassalsa?t302=2020-04-23_02-04-01&uuid=5d7d2cae-1fd9-44b2-be75-afdcc6a69c8e",
+      "l": "https://images.radiovolna.net/_files/images/stations/4455/kyql5a27028b0ea06328071608_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Hofstreek Omroep",
+      "s": "https://server-20.stream-server.nl/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/4566/hmuf5a27af9a8dd1c709617739_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Omroep Venray",
+      "s": "http://stream.omroepvenray.nl/lov.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4608/ymok5a26f72e27f07120416067_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "ATOS",
+      "s": "https://ice.cr5.streamzilla.xlcdn.com:8000/sz%3Datoszwijndrecht%3Dliveatosrtv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9528/awrg5a27bf1d469ff533773486_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gelre FM",
+      "s": "http://stream.gelre.fm/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/33019/40dd1d56d959b60e434e65cc8cdc4ee8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Traffic Radio",
+      "s": "http://2.trafficstream.nl/proxy/traffic_main?mp=/traffic_main",
+      "l": "https://images.radiovolna.net/_files/images/stations/9522/voay5a27bb52deb25137515401_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Simone FM",
+      "s": "https://stream.simone.nl/simone",
+      "l": "https://images.radiovolna.net/_files/images/stations/4702/30b0e6e421a0e65695997e83389e293b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Lokale Omroep Goirle",
+      "s": "http://stream.click2.nl:8015/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4588/avk35a270e91dea59082359609_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ISKC Rock Radio",
+      "s": "https://mediaserv38.live-streams.nl:18008/rockradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/4477/j76k59747ab790e83027620013_130x130.webp",
+      "g": [
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Omroep P&M",
+      "s": "https://ms7.mx-cd.net/radio/153-660301/Radio_Peel_en_Maas.smil/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/9570/unm55a27be376c683206062189_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Tukker FM (Sneek)",
+      "s": "https://stream.tukkerfm.nl/tukkerfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/428113/3d97989f3fbf8c290441bf4f9020b101_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Drenthe",
+      "s": "https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/4684/b1hh5a27d432c5510428709338_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Centraal Weststellingwerf (Noordwolde)",
+      "s": "https://mcp-2.mm-stream.nl:8017/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27965/a01075c930cc2e6272791df781c18106_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Schagen FM",
+      "s": "http://icecast.streamone.net/8RYEO4YCToQy",
+      "l": "https://images.radiovolna.net/_files/images/stations/4694/fcz65a26f83d04b48373835176_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "NPO Radio 5",
+      "s": "https://icecast.omroep.nl/radio5-sb-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8720/viba594e1cdf8ec95518797014_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Kinderradio FM",
+      "s": "https://stream.laut.fm/kinderradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/4578/knuk5979a8da38d26809267467_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Lokaal 7",
+      "s": "http://stream.lokaal7.nl/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/9564/ec2v5a27c4b7e085a508232877_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Studio Alphen",
+      "s": "http://icecast.streamone.net/6LJFmKMSLY4S",
+      "l": "https://images.radiovolna.net/_files/images/stations/4502/qyg75a270adc191fd480159862_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Waddenzee",
+      "s": "http://radiowaddenzee.net:8000/seagull",
+      "l": "https://images.radiovolna.net/_files/images/stations/4672/kzqc5a270ff9daa6b648185822_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rivierenland Radio",
+      "s": "https://rivierenlandradio.stream-server.nl/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/427098/a7aa3f36a8b568fc255b6b84aca7aacb_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Puur NL Noordoost-Brabant",
+      "s": "https://stream.radionl.fm/rnlnoordoostbrabant",
+      "l": "https://images.radiovolna.net/_files/images/stations/9577/stwy594e4f3d5bf2d997407673_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Lokale Omroep Mill",
+      "s": "http://icecast.streamone.net/kDIENI4De4U0",
+      "l": "https://images.radiovolna.net/_files/images/stations/9566/pdlc5a27cc3620eae353951124_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Noord",
+      "s": "https://media.rtvnoord.nl/icecast/rtvnoord/radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/27735/4d413732dd1b74455b1f31e8a55946d5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jouw FM",
+      "s": "http://jouwfm.nl/media/song.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9496/pq0q5a27d611b4ebd139017773_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "GirlPower Radio",
+      "s": "https://solid67.streamupsolutions.com/proxy/ssblgbze?mp=/Girlpower",
+      "l": "https://images.radiovolna.net/_files/images/stations/428107/6b21d7913d41eb2cad3a9d5d47aba6b8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "OSU-Radio",
+      "s": "http://84.22.99.112/osu",
+      "l": "https://images.radiovolna.net/_files/images/stations/9499/d35u5a27cb4ee9170220408519_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kempen FM",
+      "s": "http://audiostreamen.nl/musicbiz",
+      "l": "https://images.radiovolna.net/_files/images/stations/4576/umwj5a27bf4eeb37c160826290_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TaksimFM Oyun",
+      "s": "http://95.211.162.32:8012/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/27374/182dd476aecb2655aae55dafaeffefc0_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Candlelight Radio",
+      "s": "https://candlelight.live-streams.nl/candlelight",
+      "l": "https://images.radiovolna.net/_files/images/stations/4520/kjab5a26f40d668de757603399_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Regio FM",
+      "s": "http://audiostreamen.nl:8030/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428116/d57f5d1ad86895a0e4cd56e7a3017c8c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Concertzender Klassieke Muziek",
+      "s": "http://streams.greenhost.nl:8080/klassiek",
+      "l": "https://images.radiovolna.net/_files/images/stations/4532/u3yh597c70fcc77d1931031092_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "NPO SterrenNL",
+      "s": "https://icecast.omroep.nl/radio2-sterrennl-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/8711/ab23594e16e09085a280119989_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Midland FM",
+      "s": "http://qxjr001.digiplay.nl:9188/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9498/uudq5a27dede234e0104041719_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SpeedyRadio",
+      "s": "http://server-07.stream-server.nl:8312/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/23685/7775a29c7ee7eda2b88d8e430401e15b_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Country",
+        "Folk"
+      ]
+    },
+    {
+      "t": "RAZOR FM",
+      "s": "http://radio.razorfm.nl:443/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27729/6b64d4f8d235b52c18947ad12b7a5a66_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Seagull",
+      "s": "http://stream.radioseagull.net:8000/seagull",
+      "l": "https://images.radiovolna.net/_files/images/stations/22010/aa83b3200fa42287c0685a8b675bf4be_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rock",
+        "Alternative",
+        "Blues"
+      ]
+    },
+    {
+      "t": "ZO!34",
+      "s": "https://mcp-2.mm-stream.nl:7000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/4657/d9pl5a2710ae78120691310164_130x130.webp",
+      "g": [
+        "Themes",
+        "News"
+      ]
+    },
+    {
+      "t": "SCHIE FM",
+      "s": "https://d2rblkohyqwgyi.cloudfront.net/olonradio/schiefm/audio-nl-aaclc128/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428117/786419a3e02dfc540d50f1cfe836366e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTV Albrandswaard",
+      "s": "http://stream.rodney.it/rtvalbrandswaard",
+      "l": "https://images.radiovolna.net/_files/images/stations/9553/g0265a270c88efeef786260786_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "GLXY Radio - Home of RAP!",
+      "s": "https://mediaserv73.live-streams.nl:18044/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428106/6acf79592936f1bcf884ec4b1ab82825_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Langstraat FM",
+      "s": "https://mediaserv30.live-streams.nl:18005/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/9535/ehuv5a27d2189d1fa456101357_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Tijdloos",
+      "s": "https://streamingV2.shoutcast.com/Radio-Tijdloos",
+      "l": "https://images.radiovolna.net/_files/images/stations/4669/lksk5a26edb1c8d6c061046868_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Accent FM",
+      "s": "http://caster02.streampakket.com:8091/low",
+      "l": "https://images.radiovolna.net/_files/images/stations/4499/tkc95a26fee7e9752000213759_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTV Krimpenerwaard",
+      "s": "https://icecast.streamone.net/94YBB-OSGkQW",
+      "l": "https://images.radiovolna.net/_files/images/stations/9552/fl435a27dc2d2382a546623319_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Omroep Drimmelen",
+      "s": "http://icecast.streamone.net/8JEJEO0JatUk",
+      "l": "https://images.radiovolna.net/_files/images/stations/9540/yl445a27d4a9dc2b0450022563_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Sublime FM",
+      "s": "http://stream.sublimefm.nl/SublimeFM_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/4715/554a61316f1b0faec600d79d56b812f9_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "RTV 1 Stadskanaal",
+      "s": "http://rtvstadskanaal.ic-stream.nl:30103/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/25021/0b55f2431372ce5dec62449c2638e978_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Twente FM",
+      "s": "http://caster02.streampakket.com:8004/high",
+      "l": "https://images.radiovolna.net/_files/images/stations/4720/ef2d5a270ee35d99a954284355_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Concertzender Pop",
+      "s": "http://streams.greenhost.nl:8080/pop",
+      "l": "https://images.radiovolna.net/_files/images/stations/4536/pim6597c71223c36e692524199_130x130.webp",
+      "g": [
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pinguin Radio",
+      "s": "http://178.18.137.246/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4612/l9px5974ca1951f0f866118675_130x130.webp",
+      "g": [
+        "Alternative",
+        "Rock"
+      ]
+    },
+    {
+      "t": "AFM",
+      "s": "http://stream.radioafm.nl:8000/afm128",
+      "l": "https://images.radiovolna.net/_files/images/stations/9543/uxpo5a27c512573f7044644228_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hi On Line Radio - Classical",
+      "s": "http://mediaserv30.live-streams.nl:8088/",
+      "l": "https://images.radiovolna.net/_files/images/stations/25105/bbe56f534cebfa70568807d766be4fe1_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Omroep Schijndel",
+      "s": "http://losradio.entrydns.org:950/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/9571/zjm65a27d8043b887171614519_130x130.webp",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sublime FM - Smooth Jazz",
+      "s": "https://20133.live.streamtheworld.com/SUBLIME_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/417332/1395896b08afd577d99d95afe2100965_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Pure 24",
+      "s": "https://c16.radioboss.fm/stream/209",
+      "l": "https://images.radiovolna.net/_files/images/stations/418075/353d7597ee17ce6538384e2a9ef94a01_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "MARIA NEDERLAND & VLAANDEREN",
+      "s": "http://87.233.180.73:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4658/klpm5a27104656931523627453_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Pinguin on the Rocks",
+      "s": "http://37.247.41.43/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/31461/8d81f5b947d236860376d0ad4b8905ae_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RPL FM",
+      "s": "https://qxjr001.digiplay.nl/stream/9101/stream/2;",
+      "l": "https://images.radiovolna.net/_files/images/stations/9515/dcfcc95cde780f9ee59cc1c06afdd136_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Lokale Omroep Almelo",
+      "s": "http://stream.aafm.nl:8000/aafm?1441708391945.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/28403/9cd4b63bf682fbf1a0eed4657eeaebc2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Aalsmeer",
+      "s": "https://radioaalsmeer.nl:8443/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/9503/c56x5a27d159ab195205726184_130x130.webp",
+      "g": [
+        "International",
+        "Themes"
+      ]
+    },
+    {
+      "t": "RTV Noordoost-Friesland",
+      "s": "http://media02.streampartner.nl:8056/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/4688/n0u55a2700e4a12ed291597429_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "BaarnFM",
+      "s": "http://icecast.streamone.net/IJAFJ-oRIZUy",
+      "l": "https://images.radiovolna.net/_files/images/stations/9485/oowz5a27dc9590cd8161839443_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "GL8 Media",
+      "s": "http://stream.rodney.it/gl8media",
+      "l": "https://images.radiovolna.net/_files/images/stations/21860/01d2c75f78606b88e6228724b381ba60_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hi On Line Radio - Pop",
+      "s": "http://mediaserv30.live-streams.nl:8086/",
+      "l": "https://images.radiovolna.net/_files/images/stations/4470/m1kv5974741eb2d46257509478_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Soulshow Radio",
+      "s": "http://icecast-soulshow.cdp.triple-it.nl/soulshow_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/25530/26efbb36485c0645577250600105ade8_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Hollands Palet",
+      "s": "http://mediaserv21.live-streams.nl:8061/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/30834/23722b6ef7eec9dc62d0638a434aa890_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Hi On Line Radio - Latin",
+      "s": "https://mediaserv33.live-streams.nl:8034/",
+      "l": "https://images.radiovolna.net/_files/images/stations/25776/01b049066fdeb7128b97c03c5632a47d_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Pureradio.one",
+      "s": "https://pureradio.one:8010/pure_128aacp",
+      "l": "https://images.radiovolna.net/_files/images/stations/424014/e5c0f4e8f49ba4fbf853cfee00fdce9a_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "538 Verrückte Stunden",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/9483/j89g594e45b2efc4f217871508_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "laut.fm / el-dorado",
+      "s": "https://el-dorado.stream.laut.fm/el-dorado?t302=2020-04-23_05-52-19&uuid=74d5a59a-3f2f-4e77-9ea4-62cc5820af7e",
+      "l": "https://images.radiovolna.net/_files/images/stations/4457/re235a26fc5fcc8b9433017300_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTV Love FM",
+      "s": "https://webstream.rtvlove.nl:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/9517/la175a27ca91bc0d9143119140_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hollands Midden",
+      "s": "http://95.211.190.231:8032/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9506/h5d85a27d2ccd9fd8424184870_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gouwestad",
+      "s": "http://178.20.171.36:8042/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/9533/vglx5a27db6ea38bd401623965_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "wonderlandradio",
+      "s": "http://server-27.stream-server.nl:8388/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420511/08461e5f791d6147f258455325f7d2af_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Omroep Zeeland",
+      "s": "http://livestream.zeelandnet.nl:8000/omroepzeeland_radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/27156/581650f4df61792a46a1844ccbe0db97_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Salland1 de omroep voor Salland",
+      "s": "https://stream.and-stuff.nl:8443/live-airplay_320",
+      "l": "https://images.radiovolna.net/_files/images/stations/4689/wj0s5cc95db5d14d7752853107_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 4 Brainport",
+      "s": "https://server-66.stream-server.nl:18852/; ",
+      "l": "https://images.radiovolna.net/_files/images/stations/428112/f69038f9a25d1efc57c8d29cc472e543_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Deep Dance Radio",
+      "s": "https://cast1.torontocast.com:1855/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429748/eba13a22655e32ad3e3b9f4d3739f9c0_130x130.webp",
+      "g": [
+        "Electronic",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Roger van den Akker",
+      "s": "https://server-23.stream-server.nl/stream/Rivierenland-radio/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/427004/cbeab33de75d9b17743c64083bc85f9d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SALTO",
+      "s": "https://d1x0scdnoh33b7.cloudfront.net/olonradio/28dd168a/audio-nl-aaclc128/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/400882/d7491efa07f3594cbceddde74bb4b90b_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Omroep Reindonk",
+      "s": "https://ms5ic.mx-cd.net/157-661257/Radio_Reindonk",
+      "l": "https://images.radiovolna.net/_files/images/stations/9584/u9u25a27bfde23a50300990294_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "ALEX FM PARTY",
+      "s": "https://stream-52.zeno.fm/fj4cpbed08puv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427729/10b9172d39435b69efbd5eaa9d882e84_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Optimaal FM",
+      "s": "http://radio.optimaal.fm:9000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4609/v4jt5a26ff39ae1c5105046953_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Stanvaste Radio",
+      "s": "http://stanvasteradio.gkstreamen.nl:8120/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9546/z2gd5a27ce3ce5043970531703_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Old Men's Radio",
+      "s": "https://server-10.stream-server.nl:18140/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/4602/ddh05a26f2974830f014214815_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Omroep Veldhoven",
+      "s": "http://77.166.186.207:8000/Veldhoven",
+      "l": "https://images.radiovolna.net/_files/images/stations/4670/z0bv5a26ead59341b329945983_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "SALTO Razo",
+      "s": "https://d1x0scdnoh33b7.cloudfront.net/olonradio/537b9f27/audio-nl-aaclc128/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/400881/a909f6de5c1003c7fe71dba6114532b2_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Omroep Helmond",
+      "s": "http://stream.omroephelmond.nl:8024/",
+      "l": "https://images.radiovolna.net/_files/images/stations/4711/kbq95a27bd5900d5e234136068_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Achterhoek FM",
+      "s": "https://ms3ic.mx-cd.net/169-699187/AchterhoekFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/4500/ndv35a27b02b86c4c539832105_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "K-GOLDEN",
+      "s": "https://k-radio.stream.laut.fm/k-radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/4577/jxdg5a26fe2056075760711196_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Nashville FM",
+      "s": "http://server-10.stream-server.nl:8300/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4598/m6kl595a0932ee069784892762_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "100% NL FEEST",
+      "s": "https://stream.radiocorp.nl/100pnl_feest_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400871/kjsp594e029ae4dac805462768_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "10 - 80's Hits",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect//TLPSTR20.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4621/yrew594dfdf45d6a9504933020_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Dance Radio",
+      "s": "http://stream.danceradio.nl:9920/",
+      "l": "https://images.radiovolna.net/_files/images/stations/423089/b85d39d2a99c946ac8365853fc364d16_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "10 - Lovesongs",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400868/ko5c594dfec63a4a8551807391_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Ujala Radio",
+      "s": "https://stream2.ujala.nl/stream/2/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9523/a8f2594e228cf16f9652216551_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Sleutelstad FM",
+      "s": "http://icecast.sleutelstad.nl:8000/sleutelstad.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9520/aoks5a27b0a1af8a8961404199_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Houten FM",
+      "s": "http://icecast.omroephouten.nl:8000/houtenfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/9582/dehc5a27d7c35d45a366982257_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Unity FM",
+      "s": "http://icecast.unityfm.nl/unityfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9524/gpfa5a27b9335d7b8717813621_130x130.webp",
+      "g": [
+        "News",
+        "Pop"
+      ]
+    },
+    {
+      "t": "SLAM!",
+      "s": "https://25333.live.streamtheworld.com/SLAM_MP3_SC",
+      "l": "https://kuasark.com/files/stations-logos/slam.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sky Radio",
+      "s": "https://22593.live.streamtheworld.com:443/SKYRADIOAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-nl.png",
+      "g": [
+        "Classical",
+        "Easy Listening",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 538",
+      "s": "https://23623.live.streamtheworld.com:443/RADIO538AAC_SC",
+      "l": "https://kuasark.com/files/stations-logos/radio-538-nl.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 10",
+      "s": "https://21303.live.streamtheworld.com:443/RADIO10.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-10-nl.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Veronica",
+      "s": "https://22613.live.streamtheworld.com:443/VERONICAAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-veronica-nl.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "NPO Radio 1",
+      "s": "https://icecast.omroep.nl/radio1-sb-mp3",
+      "l": "https://kuasark.com/files/stations-logos/npo-radio-1.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Arrow Classic Rock",
+      "s": "https://stream.player.arrow.nl/arrow",
+      "l": "https://kuasark.com/files/stations-logos/arrow-classic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio 10 60’s & 70’s Hits",
+      "s": "https://25293.live.streamtheworld.com:443/TLPSTR18.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-10-60s-70s-hits.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "NPO Radio 2",
+      "s": "https://icecast.omroep.nl/radio2-bb-mp3",
+      "l": "https://kuasark.com/files/stations-logos/npo-radio-2.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Q Music",
+      "s": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac",
+      "l": "https://kuasark.com/files/stations-logos/q-music-nl.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Disco Classic Radio",
+      "s": "https://cc6.beheerstream.com/proxy/discoclassicradio1?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/disco-classic-radio.png",
+      "g": [
+        "R&B and Urban",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Deep Radio",
+      "s": "https://25303.live.streamtheworld.com:443/DEEP_RADIO.mp3",
+      "l": "https://kuasark.com/files/stations-logos/deep-radio-nl-91459.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Soul Radio",
+      "s": "https://25333.live.streamtheworld.com:443/SOULRADIO_SC",
+      "l": "https://kuasark.com/files/stations-logos/soul-radio-nl.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Sinterklaas Radio",
+      "s": "https://stream.tbmp.nl:8000/sinterklaasradiohigh.aac",
+      "l": "https://kuasark.com/files/stations-logos/sinterklaas-radio.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Classic FM",
+      "s": "https://25303.live.streamtheworld.com:443/CLASSICFM.mp3",
+      "l": "https://kuasark.com/files/stations-logos/classic-fm-nl-nl-76478.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Efteling Kids Radio",
+      "s": "https://ice.cr1.streamzilla.xlcdn.com:8000/sz=efteling=hdstream",
+      "l": "https://kuasark.com/files/stations-logos/efteling-kids-radio-nl-24905.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "NPO Radio 5",
+      "s": "https://icecast.omroep.nl/radio5-bb-mp3",
+      "l": "https://kuasark.com/files/stations-logos/npo-radio-5.png",
+      "g": [
+        "Easy Listening",
+        "Decades",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Veronica192",
+      "s": "https://192radio.stream-server.nl/stream?1667918016514",
+      "l": "https://kuasark.com/files/stations-logos/veronica192.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Roya",
+      "s": "https://strw1.openstream.co/1209?aw_0_1st.collectionid%3D4372%26stationId%3D4372%26publisherId%3D1233%26k%3D1682446149",
+      "l": "https://kuasark.com/files/stations-logos/radio-roya.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "AMW Amsterdams Most Wanted",
+      "s": "http://piratenstreams.nl:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/amw-amsterdams-most-wanted.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Jazz de Ville Jazz",
+      "s": "https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/jazz-de-ville-jazz.png",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Amsterdam Funk Channel",
+      "s": "https://live.afc.fm/tunein/afcfm",
+      "l": "https://kuasark.com/files/stations-logos/amsterdam-funk-channel.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Fantasy Radio",
+      "s": "https://italo.italo.nu/",
+      "l": "https://kuasark.com/files/stations-logos/fantasy-radio-nl.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Goud van Oud",
+      "s": "https://server-23.stream-server.nl:18118/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-goud-van-oud.png",
+      "g": [
+        "Classical",
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Caroline 319 Gold",
+      "s": "http://www.rmgoldserver.eu:8313/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-caroline-319-gold-nl-73401.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Housebeats FM",
+      "s": "https://mediaserv38.live-streams.nl:18048/stream",
+      "l": "https://kuasark.com/files/stations-logos/housebeats-fm.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "100 % NL",
+      "s": "https://22613.live.streamtheworld.com:443/100PNL_AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/100-nl.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "SLAM! Hardstyle",
+      "s": "https://25283.live.streamtheworld.com:443/WEB11_AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/slam-hardstyle.png",
+      "g": [
+        "Electronic",
+        "Folk",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dolfijntjes",
+      "s": "http://mediaserv21.live-streams.nl:8037/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-dolfijntjes.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "RADIO ALEX FM KIDS",
+      "s": "https://stream-159.zeno.fm/f6fw6dpeps8uv?zs=q5G5WTeRRSmrNuk0WEgdFg",
+      "l": "https://kuasark.com/files/stations-logos/radio-alex-fm-kids.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Classic FM Opera",
+      "s": "https://22663.live.streamtheworld.com:443/SRGSTR27.mp3",
+      "l": "https://kuasark.com/files/stations-logos/classic-fm-opera.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "SLAM! Non Stop",
+      "s": "https://22593.live.streamtheworld.com:443/WEB10_AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/slam-non-stop.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Oldies project",
+      "s": "http://178.19.127.144/;",
+      "l": "https://kuasark.com/files/stations-logos/oldies-project-nl.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Sublime",
+      "s": "https://25243.live.streamtheworld.com:443/SUBLIME.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sublime.png",
+      "g": [
+        "Easy Listening",
+        "R&B and Urban",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "C-Dance Retro",
+      "s": "https://s45.myradiostream.com/:18304/;",
+      "l": "https://kuasark.com/files/stations-logos/c-dance-retro.png",
+      "g": [
+        "Electronic",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Hardcore Radio",
+      "s": "https://stream.hardcoreradio.nl:9000/hcr.ogg",
+      "l": "https://kuasark.com/files/stations-logos/hardcore-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Sky Radio 80's Hits",
+      "s": "https://25283.live.streamtheworld.com:443/SRGSTR04AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-80s-hits.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "SLAM! Boom Room",
+      "s": "https://22593.live.streamtheworld.com:443/WEB12_AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/slam-boom-room.png",
+      "g": [
+        "Electronic",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Q-dance Radio",
+      "s": "https://22723.live.streamtheworld.com:443/Q_DANCEAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/q-dance-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 538 Dance Department",
+      "s": "https://25353.live.streamtheworld.com:443/TLPSTR01AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-538-dance-department.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "RADIO ALEX FM DE/NL",
+      "s": "https://stream-156.zeno.fm/8rpszhr6wp8uv?zs=F_mWxmBpSZGA8pafrVLKkQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-alex-fm-de-nl-nl.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Candlelight Radio",
+      "s": "https://25323.live.streamtheworld.com:443/CANDLELIGHT_SC",
+      "l": "https://kuasark.com/files/stations-logos/candlelight-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fnoob Techno Radio",
+      "s": "https://audio-edge-5bkfj.fra.h.radiomast.io/8846a94e-9874-4692-a1a0-ec7aadbe2771",
+      "l": "https://kuasark.com/files/stations-logos/fnoob-techno-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 10 Lovesongs",
+      "s": "https://25293.live.streamtheworld.com:443/TLPSTR04.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-10-lovesongs.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio 10 Non-Stop",
+      "s": "https://25343.live.streamtheworld.com:443/TLPSTR15.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-10-non-stop.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 538 Non Stop",
+      "s": "https://22613.live.streamtheworld.com:443/TLPSTR09AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-538-non-stop.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "SLAM! MixMarathon",
+      "s": "https://22553.live.streamtheworld.com:443/WEB13_AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/slam-mixmarathon.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Monique 963 Gold",
+      "s": "http://www.rcgoldserver.eu:8199/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-monique-963-gold.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "BNR Nieuwsradio",
+      "s": "https://20863.live.streamtheworld.com:443/BNR_NIEUWSRADIO.mp3",
+      "l": "https://kuasark.com/files/stations-logos/bnr-nieuwsradio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Veronica Rock Radio",
+      "s": "https://25333.live.streamtheworld.com:443/SRGSTR11.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-veronica-rock-radio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Decibel",
+      "s": "https://25433.live.streamtheworld.com:443/RADIODECIBEL.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-decibel.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 538 Ibiza",
+      "s": "https://22543.live.streamtheworld.com:443/TLPSTR19.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-538-ibiza.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Pinguin Radio",
+      "s": "https://streams.pinguinradio.com/PinguinRadio192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/pinguin-radio.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Grolloo Radio",
+      "s": "https://uk1.streamingpulse.com/ssl/7053",
+      "l": "https://kuasark.com/files/stations-logos/grolloo-radio.png",
+      "g": [
+        "Blues",
+        "Country",
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 10 Disco classics",
+      "s": "https://25283.live.streamtheworld.com:443/TLPSTR23.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-10-disco-classics.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "RADIONL",
+      "s": "https://stream.radionl.fm/radionl",
+      "l": "https://kuasark.com/files/stations-logos/radionl.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Bitter Sweet Music NL",
+      "s": "http://91.121.236.34:8520/nl",
+      "l": "https://kuasark.com/files/stations-logos/bitter-sweet-music-nl.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Sky Radio Lovesongs",
+      "s": "https://25323.live.streamtheworld.com:443/SRGSTR03AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-lovesongs.png",
+      "g": [
+        "Pop",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Old Men's Radio",
+      "s": "http://server-10.stream-server.nl:8140/;",
+      "l": "https://kuasark.com/files/stations-logos/old-mens-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Nashville FM",
+      "s": "https://nashvillefm.stream-server.nl:8300/stream",
+      "l": "https://kuasark.com/files/stations-logos/nashville-fm.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Sky Radio Nice & Easy",
+      "s": "https://25323.live.streamtheworld.com:443/SRGSTR07AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-nice-easy.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Nova Classic Rock",
+      "s": "http://server-51.stream-server.nl:8427/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/nova-classic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Veronica  Top 1000 Aller Tijden",
+      "s": "https://22663.live.streamtheworld.com:443/SRGSTR10.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-veronica-top-1000-aller-tijden.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Synthetic FM Synth",
+      "s": "https://mediaserv38.live-streams.nl:18040/live",
+      "l": "https://kuasark.com/files/stations-logos/synthetic-fm-synth.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Extra Gold",
+      "s": "http://stream.extragold.nl:8210/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-extra-gold.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "RADIO ALEX FM ROERMOND",
+      "s": "https://stream-033.zeno.fm/gxgqudnurfhvv?zs=ChtURMfcQQaOn85NIjGTVA",
+      "l": "https://kuasark.com/files/stations-logos/radio-alex-fm-roermond.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 538 Party",
+      "s": "https://25303.live.streamtheworld.com:443/TLPSTR16AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-538-party.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sweet Radio",
+      "s": "http://cdn.tvoetoradio.net:8000/sweet-low",
+      "l": "https://kuasark.com/files/stations-logos/sweet-radio-nl.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Classic FM Chill Out",
+      "s": "https://25323.live.streamtheworld.com:443/SRGSTR25AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/classic-fm-chill-out.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "NPO Soul & Jazz",
+      "s": "https://icecast.omroep.nl/radio6-bb-mp3",
+      "l": "https://kuasark.com/files/stations-logos/npo-soul-jazz.png",
+      "g": [
+        "Jazz",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Italo Party Crew FM",
+      "s": "https://italo.live-streams.nl/live",
+      "l": "https://kuasark.com/files/stations-logos/italo-party-crew-fm.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Continu",
+      "s": "http://stream.radiocontinu.nl/radiocontinu",
+      "l": "https://kuasark.com/files/stations-logos/radio-continu.png",
+      "g": [
+        "Classical",
+        "Country",
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 10 90’s Hits",
+      "s": "https://22723.live.streamtheworld.com:443/TLPSTR22.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-10-90s-hits.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Concertzender - Geen dag zonder Bach",
+      "s": "https://streams.greenhost.nl:8006/bach",
+      "l": "https://kuasark.com/files/stations-logos/concertzender-geen-dag-zonder-bach.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "Latin"
+      ]
+    },
+    {
+      "t": "PokoeFM",
+      "s": "https://sonic.magicdragon.nl/8024/stream",
+      "l": "https://kuasark.com/files/stations-logos/pokoefm.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Piratenhits.FM",
+      "s": "https://mscp3.live-streams.nl:8332/radio",
+      "l": "https://kuasark.com/files/stations-logos/piratenhitsfm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Sky Radio 90's Hits",
+      "s": "https://22593.live.streamtheworld.com:443/SRGSTR05AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-90s-hits.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Intense Radio",
+      "s": "https://intenseradio.live-streams.nl:18000/live",
+      "l": "https://kuasark.com/files/stations-logos/intense-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sky Radio Christmas",
+      "s": "https://22613.live.streamtheworld.com:443/SRGSTR08AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-christmas.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "ISKC Rock Radio",
+      "s": "https://443-1.autopo.st/79/RockRadio",
+      "l": "https://kuasark.com/files/stations-logos/iskc-rock-radio.png",
+      "g": [
+        "Classical",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Sky Radio Hits",
+      "s": "https://22613.live.streamtheworld.com:443/SRGSTR01AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-hits-9369.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Mi Amigo International",
+      "s": "https://stan319stream3.radioca.st/AAC",
+      "l": "https://kuasark.com/files/stations-logos/radio-mi-amigo-international-nl.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Chill-Out Radio Gaia",
+      "s": "http://fred.torontocast.com:2160/;",
+      "l": "https://kuasark.com/files/stations-logos/chill-out-radio-gaia.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Piraten Radio",
+      "s": "https://azura.piratenradio.nl:8000/prradio",
+      "l": "https://kuasark.com/files/stations-logos/piraten-radio.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Dancegroove Radio",
+      "s": "https://server7.streamserver24.com:8080/proxy/marasalf?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/dancegroove-radio.png",
+      "g": [
+        "Blues",
+        "R&B and Urban",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Q Music Foute Uur",
+      "s": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_low.aac?aw_0_1st.playerId=redirect",
+      "l": "https://kuasark.com/files/stations-logos/q-music-foute-uur.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Piratenkanjers",
+      "s": "https://ex52.voordeligstreamen.nl/8095/stream",
+      "l": "https://kuasark.com/files/stations-logos/piratenkanjers.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "X-Clusief FM",
+      "s": "https://linux26.live-streams.nl:18000/",
+      "l": "https://kuasark.com/files/stations-logos/x-clusief-fm.png",
+      "g": [
+        "Classical",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Amsterdam Music Electronic",
+      "s": "https://stream-047.zeno.fm/cfpp8xvs6neuv?zs=zqho1VEfRcCf_d_pu9vWug",
+      "l": "https://kuasark.com/files/stations-logos/amsterdam-music-electronic.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "80s ALIVE",
+      "s": "https://stream.80sa.live/80s-alive.aac",
+      "l": "https://kuasark.com/files/stations-logos/80s-alive-nl.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Caroline 259 Gold",
+      "s": "http://www.rcgoldserver.eu:8313/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-caroline-259-gold-nl.png",
+      "g": [
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "ADM Hardstyle Radio",
+      "s": "https://kathy.torontocast.com:2930/stream",
+      "l": "https://kuasark.com/files/stations-logos/adm-hardstyle-radio-nl-105222.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Q Music nonstop",
+      "s": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop.mp3?aw_0_1st.playerId=redirect",
+      "l": "https://kuasark.com/files/stations-logos/q-music-nonstop.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Gelderland",
+      "s": "https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland",
+      "l": "https://kuasark.com/files/stations-logos/radio-gelderland.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "80s Hitradio",
+      "s": "https://s22.myradiostream.com/:7728/listen.mp3?nocache=1666624834",
+      "l": "https://kuasark.com/files/stations-logos/80s-hitradio.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Veronica Vintage",
+      "s": "https://25273.live.streamtheworld.com:443/SRGSTR09.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-veronica-vintage.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Soundtrack Radiostation",
+      "s": "https://igor.torontocast.com:1795/stream",
+      "l": "https://kuasark.com/files/stations-logos/soundtrack-radiostation.png",
+      "g": [
+        "Classical",
+        "Soundtracks",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Lazer House Radio",
+      "s": "http://streams.lazernet.be:3730/;",
+      "l": "https://kuasark.com/files/stations-logos/lazer-house-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Disco Factory FM",
+      "s": "https://i1.cdn.jetstre.am:8001/sz=dtvmaasland=mfm1",
+      "l": "https://kuasark.com/files/stations-logos/disco-factory-fm.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Real Hardstyle Radio",
+      "s": "https://stream.rhr.fm/",
+      "l": "https://kuasark.com/files/stations-logos/real-hardstyle-radio.png",
+      "g": [
+        "Electronic",
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Jazz de Ville Groove",
+      "s": "https://onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/jazz-de-ville-groove.png",
+      "g": [
+        "R&B and Urban",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Synthwave City FM",
+      "s": "http://188.40.97.185:8179/stream",
+      "l": "https://kuasark.com/files/stations-logos/synthwave-city-fm.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "De Piraten Familie",
+      "s": "https://stream1.icehosting.nl/depiratenfamilie/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/de-piraten-familie.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Feel Good Radio",
+      "s": "https://cc5.beheerstream.com/proxy/feelgoodmedia4?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/feel-good-radio-nl.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Baars Classic Rock",
+      "s": "https://stream.iceradio.nl/baarsclassicrock",
+      "l": "https://kuasark.com/files/stations-logos/baars-classic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Q-Music Limburg",
+      "s": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_qlmb_32.aac",
+      "l": "https://kuasark.com/files/stations-logos/q-music-limburg.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "De Hollandse Piraten Gigant",
+      "s": "https://securestream2.digipal.nl:1813/;type=mp3",
+      "l": "https://kuasark.com/files/stations-logos/de-hollandse-piraten-gigant.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Acacia",
+      "s": "https://securestream3.digipal.nl:2259/;192kbs.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-acacia.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "K-Golden Radio",
+      "s": "https://kathy.torontocast.com:3445/stream",
+      "l": "https://kuasark.com/files/stations-logos/k-golden-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Gouden Piratenhits",
+      "s": "https://mcp-1.streampanel.nl:8034/stream",
+      "l": "https://kuasark.com/files/stations-logos/gouden-piratenhits.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Heuvellandexpress",
+      "s": "https://server-28.stream-server.nl:8840/stream",
+      "l": "https://kuasark.com/files/stations-logos/heuvellandexpress.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "DutchCore.FM",
+      "s": "http://centova.pure-isp.eu:8100/high",
+      "l": "https://kuasark.com/files/stations-logos/dutchcorefm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DeeJays Music",
+      "s": "https://sc.cast-control.eu/stream/8056",
+      "l": "https://kuasark.com/files/stations-logos/deejays-music.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Hete Hits",
+      "s": "https://mcp-2.mm-stream.nl:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/hete-hits.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Back to the 90s",
+      "s": "https://back2-the90s.stream.laut.fm/back2-the90s?t302=2023-04-25_20-04-25&uuid=a943e995-eac5-4f3b-8417-e0c94c02d6a3",
+      "l": "https://kuasark.com/files/stations-logos/back-to-the-90s-nl.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Omroep Brabant",
+      "s": "https://av.omroepbrabant.nl/icecast/omroepbrabant/mp3hq",
+      "l": "https://kuasark.com/files/stations-logos/omroep-brabant.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Nostalgia Amsterdam",
+      "s": "https://fred.torontocast.com:1395/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-nostalgia-amsterdam.png",
+      "g": [
+        "Country",
+        "Jazz",
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Classic FM Soundtracks",
+      "s": "https://22593.live.streamtheworld.com:443/SRGSTR26AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/classic-fm-soundtracks.png",
+      "g": [
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Masters of Hardcore Radio",
+      "s": "https://25233.live.streamtheworld.com:443/MASTERSOFHARDCORE.mp3",
+      "l": "https://kuasark.com/files/stations-logos/masters-of-hardcore-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Lovetunes",
+      "s": "https://server-51.stream-server.nl:18354/stream",
+      "l": "https://kuasark.com/files/stations-logos/lovetunes.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "ISKC Blues Cafe",
+      "s": "https://443-1.autopo.st/79/BluesCafe",
+      "l": "https://kuasark.com/files/stations-logos/iskc-blues-cafe.png",
+      "g": [
+        "Blues",
+        "Rock"
+      ]
+    },
+    {
+      "t": "PerfectMoods",
+      "s": "https://listen.radioking.com/radio/64968/stream/102579",
+      "l": "https://kuasark.com/files/stations-logos/perfectmoods.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 538 Hitzone",
+      "s": "https://25323.live.streamtheworld.com:443/TLPSTR11AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-538-hitzone.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 538 90'S",
+      "s": "https://25343.live.streamtheworld.com:443/TLPSTR21AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-538-90s.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Sky Radio ",
+      "s": "https://25353.live.streamtheworld.com:443/SRGSTR24.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sublime Soul",
+      "s": "https://22343.live.streamtheworld.com:443/SUBLIMESOUL.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sublime-soul.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Sublime Jazz",
+      "s": "https://22613.live.streamtheworld.com:443/SUBLIMEARROWJAZZ.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sublime-jazz.png",
+      "g": [
+        "Easy Listening",
+        "R&B and Urban",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Gigant FM",
+      "s": "https://stream.gigantfm.nl/gigantfm",
+      "l": "https://kuasark.com/files/stations-logos/gigant-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Deep Dance Radio",
+      "s": "https://igor.torontocast.com:1825/stream",
+      "l": "https://kuasark.com/files/stations-logos/deep-dance-radio.png",
+      "g": [
+        "Classical",
+        "Electronic",
+        "Other",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Jazz de Ville Chill",
+      "s": "https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/jazz-de-ville-chill.png",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Golden Oldies Radio",
+      "s": "https://sonic.magicdragon.nl/8034/stream",
+      "l": "https://kuasark.com/files/stations-logos/golden-oldies-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Jiida Fm Bakel",
+      "s": "https://stream-037.zeno.fm/5a0614rr9mruv?zs=GAsCTqvUQrWKGbA8930ngQ",
+      "l": "https://kuasark.com/files/stations-logos/jiida-fm-bakel.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Pinguin Aardschok",
+      "s": "https://streams.pinguinradio.com/Aardschok192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/pinguin-aardschok.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Delta Radio Nijmegen",
+      "s": "https://sslstreamen.nl/stream/delta/",
+      "l": "https://kuasark.com/files/stations-logos/delta-radio-nijmegen-nl-3969.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "SLAM! JUIZE",
+      "s": "https://25323.live.streamtheworld.com:443/WEB09_AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/slam-juize.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Sky Radio Movie Hits",
+      "s": "https://22723.live.streamtheworld.com:443/SRGSTR28.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-movie-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Piratenhits Internetradio",
+      "s": "https://piratenhits.com:8052/live",
+      "l": "https://kuasark.com/files/stations-logos/piratenhits-internetradio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "077 Radio 60XL",
+      "s": "https://60xl.stream.laut.fm/60xl?t302=2023-09-19_12-22-24&uuid=c787ebe5-e0e8-425e-83c7-59ff2072cdea",
+      "l": "https://kuasark.com/files/stations-logos/077-radio-60xl.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sublime Smooth",
+      "s": "https://22713.live.streamtheworld.com:443/SUBLIMESMOOTH.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sublime-smooth.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Pinguin Blues",
+      "s": "https://19293.live.streamtheworld.com:443/SP_R2406394_SC",
+      "l": "https://kuasark.com/files/stations-logos/pinguin-blues.png",
+      "g": [
+        "Blues",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Pinguin Classics",
+      "s": "https://streams.pinguinradio.com/PinguinClassics192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/pinguin-classics.png",
+      "g": [
+        "Alternative",
+        "R&B and Urban",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Concertzender - Oude Musiek",
+      "s": "https://streams.greenhost.nl:8006/oudemuziek",
+      "l": "https://kuasark.com/files/stations-logos/concertzender-oude-musiek.png",
+      "g": [
+        "Classical",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio 538 Top 50",
+      "s": "https://22343.live.streamtheworld.com:443/TLPSTR13.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-538-top-50.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ISKC Rock Radio XXL",
+      "s": "https://443-1.autopo.st/79/XXL",
+      "l": "https://kuasark.com/files/stations-logos/iskc-rock-radio-xxl.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "De Beste Piratenhits",
+      "s": "https://radio.streampanel.nl:1415/stream",
+      "l": "https://kuasark.com/files/stations-logos/de-beste-piratenhits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Planet 90",
+      "s": "https://planet90.beheerstream.nl:8010/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/planet-90.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Power Radio",
+      "s": "http://86.105.24.112:8000/mp3",
+      "l": "https://kuasark.com/files/stations-logos/power-radio-nl.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Q Music Top 40",
+      "s": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40_high.aac?aw_0_1st.playerId=redirect",
+      "l": "https://kuasark.com/files/stations-logos/q-music-top-40.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Foute Muziek Radio",
+      "s": "https://cloud-faro.beheerstream.com/proxy/foutemuziekradio?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/foute-muziek-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Joe",
+      "s": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_1_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/joe-nl.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RadioSBS",
+      "s": "http://live.radiosbs.nl:8272/radiosbs",
+      "l": "https://kuasark.com/files/stations-logos/radiosbs.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Veronica Alternative XL",
+      "s": "https://25333.live.streamtheworld.com:443/SRGSTR12.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-veronica-alternative-xl.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "LAYZER",
+      "s": "https://stream.layzer.nl/layzer.mp3",
+      "l": "https://kuasark.com/files/stations-logos/layzer.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Amor FM",
+      "s": "https://amorfm_192.streampartner.nl/stream",
+      "l": "https://kuasark.com/files/stations-logos/amor-fm-nl.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "100 % NL Feest",
+      "s": "https://22593.live.streamtheworld.com:443/WEB01_AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/100-nl-feest.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "JAMM FM",
+      "s": "https://ats.jammfm.nl:9221/;",
+      "l": "https://kuasark.com/files/stations-logos/jamm-fm.png",
+      "g": [
+        "R&B and Urban",
+        "Inspirational",
+        "Jazz",
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Monique",
+      "s": "https://radiomonique918.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-monique.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "FunX Amsterdam",
+      "s": "https://icecast.omroep.nl/funx-amsterdam-sb-mp3",
+      "l": "https://kuasark.com/files/stations-logos/funx-amsterdam.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "KINK",
+      "s": "https://22323.live.streamtheworld.com:443/KINK_SC",
+      "l": "https://kuasark.com/files/stations-logos/kink.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Freak31",
+      "s": "https://stream.31media.net/freak31",
+      "l": "https://kuasark.com/files/stations-logos/freak31.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Jazz",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "FunX Latin",
+      "s": "https://icecast.omroep.nl/funx-latin-sb-aac",
+      "l": "https://kuasark.com/files/stations-logos/funx-latin.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "RADIO ALEX FM CHRISTMAS",
+      "s": "https://stream-151.zeno.fm/picxao7j4zpvv?zs=gWSSmO8MSrqTRehdxus-tQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-alex-fm-christmas.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sky Radio Smooth Hits",
+      "s": "https://22723.live.streamtheworld.com:443/SRGSTR15.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-smooth-hits.png",
+      "g": [
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio M Utrecht",
+      "s": "https://media.rtvutrecht.nl/radiomutrecht-bb-mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-m-utrecht.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pidi Radio - Your Queer Radio",
+      "s": "https://mobile.pidiradio.nl/",
+      "l": "https://kuasark.com/files/stations-logos/pidi-radio.png",
+      "g": [
+        "Electronic",
+        "Other",
+        "News"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "stations": [
+    {
+      "t": "TDM Sports TV",
+      "s": "http://61.244.22.4/ch4/sport_ch4.live/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tdm-sports-tv.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "TDM Macao TV",
+      "s": "http://61.244.22.4/ch1/ch1.live/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tdm-macao-tv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "TDM Info News TV",
+      "s": "http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tdm-info-news-tv.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "RADIO MARIA MACAU",
+      "s": "http://dreamsiteradiocp2.com:8038/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-macau.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "TDM Portuguese TV",
+      "s": "http://61.244.22.4/ch2/ch2.live/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tdm-portuguese-tv.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "TDM Satellite TV",
+      "s": "http://61.244.22.4/ch3/ch3.live/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tdm-satellite-tv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "TDM HD TV",
+      "s": "http://61.244.22.4/ch6/hd_ch6.live/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/tdm-hd-tv.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

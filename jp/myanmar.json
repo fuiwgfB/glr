@@ -1,0 +1,76 @@
+{
+  "stations": [
+    {
+      "t": "Cherry FM",
+      "s": "http://150.95.80.54:8000/stream/89/;",
+      "l": "https://kuasark.com/files/stations-logos/cherry-fm-mm.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "MIRadio",
+      "s": "http://laylio.radioactive.sg/?p=5846a51bb1c7f88c9621b37ffe0271c9",
+      "l": "https://kuasark.com/files/stations-logos/miradio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DWG Radio Burmese",
+      "s": "https://server32349.streamplus.de/;?type=http&nocache=227",
+      "l": "https://kuasark.com/files/stations-logos/dwg-radio-burmese.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Nichijou Shuffle",
+      "s": "https://stream-149.zeno.fm/tncreqmcwnhvv?zs=l8Nyvhu0QO2ChO4uI1B2Zg",
+      "l": "https://kuasark.com/files/stations-logos/nichijou-shuffle.png",
+      "g": [
+        "Themes",
+        "Soundtracks",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Derti 98.6",
+      "s": "http://derti.live24.gr/derty1000",
+      "l": "https://kuasark.com/files/stations-logos/derti-986.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Myanmar National TV",
+      "s": "http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/myanmar-national-tv.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "DWG Radio Bumese",
+      "s": "http://server32349.streamplus.de/;?type=http&nocache=227",
+      "l": "https://kuasark.com/files/stations-logos/dwg-radio-bumese.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Радио Голос Бирмы / မြန်မာ့အသံရေဒီယိ / Radio Voice of Burma",
+      "s": "https://listen4.myradio24.com/39982",
+      "l": "https://kuasark.com/files/stations-logos/radio-golos-birmy-radio-voice-of-burma.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    }
+  ]
+}

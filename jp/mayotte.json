@@ -1,0 +1,140 @@
+{
+  "stations": [
+    {
+      "t": "RADIO DZIANI",
+      "s": "https://listen.radioking.com/radio/3331/stream/10187",
+      "l": "https://kuasark.com/files/stations-logos/radio-dziani.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Mirereni Ville RMV",
+      "s": "http://51.210.148.30:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-mirereni-ville-rmv.png",
+      "g": [
+        "Reggae",
+        "Other",
+        "Latin",
+        "International"
+      ]
+    },
+    {
+      "t": "Mayotte 1ère",
+      "s": "https://mayotte.ice.infomaniak.ch/mayotte-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mayotte-1ere.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nour Webradio",
+      "s": "https://nour-webradio.ice.infomaniak.ch/nour-webradio.mayotte-32.aac",
+      "l": "https://kuasark.com/files/stations-logos/nour-webradio.png",
+      "g": [
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "CHICONI FM",
+      "s": "https://radio.mayotte-streaming.com/8004/stream",
+      "l": "https://kuasark.com/files/stations-logos/chiconi-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RF Mayotte",
+      "s": "https://radio.mayotte-streaming.com/8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/rf-mayotte.png",
+      "g": [
+        "Reggae",
+        "International"
+      ]
+    },
+    {
+      "t": "Réa FM",
+      "s": "https://streaming.radio.co/s59aedb575/listen",
+      "l": "https://kuasark.com/files/stations-logos/rea-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mayotte FM",
+      "s": "http://manager6.streamradio.fr:2330/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/mayotte-fm.png",
+      "g": [
+        "Reggae",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Koudjouni",
+      "s": "https://radio.mayotte-streaming.com/8002/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-koudjouni.png",
+      "g": [
+        "Reggae",
+        "International"
+      ]
+    },
+    {
+      "t": "RADIO MAWOUA",
+      "s": "https://mawoua.ice.infomaniak.ch/mawoua-32.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-mawoua.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "R-OI",
+      "s": "https://radio.mayotte-streaming.com/8010/stream",
+      "l": "https://kuasark.com/files/stations-logos/r-oi.png",
+      "g": [
+        "Reggae",
+        "International",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Mayotte One",
+      "s": "https://live.myradio.yt/mayotteone",
+      "l": "https://kuasark.com/files/stations-logos/mayotte-one.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RIM-Mayotte",
+      "s": "https://radio.mayotte-streaming.com/8006/stream",
+      "l": "https://kuasark.com/files/stations-logos/rim-mayotte.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RS Mayotte",
+      "s": "https://radio.mayotte-streaming.com/8008/stream",
+      "l": "https://kuasark.com/files/stations-logos/rs-mayotte.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    }
+  ]
+}

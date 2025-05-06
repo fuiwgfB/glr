@@ -1,0 +1,1987 @@
+{
+  "stations": [
+    {
+      "t": "Rock",
+      "s": "https://live-bauerno.sharp-stream.com/radiorock_no_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423139/9d824f3e8b454e4f422a50b9eac1e696_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Metal Express Radio",
+      "s": "http://s39.myradiostream.com:11590/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/22317/de9ac2e12616e2797fa8de3b1f5da32c_130x130.webp",
+      "g": [
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "NRK mp3",
+      "s": "https://httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive2/41/0/hls/nrk_mp3/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/4781/fvmg595b8c264830a944728424_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "P6 Rock",
+      "s": "https://p6.p4groupaudio.com/P06_MH",
+      "l": "https://images.radiovolna.net/_files/images/stations/24657/0386033fb7b62b86b4fda26d4b955adf_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "NRK Jazz",
+      "s": "http://lyd.nrk.no:80/nrk_radio_jazz_mp3_h",
+      "l": "https://images.radiovolna.net/_files/images/stations/4778/new7595b8ba46556b955109893_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "ROX",
+      "s": "https://stream.oneplay.no/rox128",
+      "l": "https://images.radiovolna.net/_files/images/stations/4813/34a2e2ac664da180bf64f9e517969041_130x130.webp",
+      "g": [
+        "Metal",
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "NRK Folkemusikk",
+      "s": "https://lyd.nrk.no/nrk_radio_folkemusikk_mp3_m",
+      "l": "https://images.radiovolna.net/_files/images/stations/4777/rft3595b8b971f36e069185930_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "NRK Alltid Nyheter",
+      "s": "https://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_h",
+      "l": "https://images.radiovolna.net/_files/images/stations/4771/tt31595b8b2a5e858502450368_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "P11 Bandit",
+      "s": "https://p11.p4groupaudio.com/P11_MH",
+      "l": "https://images.radiovolna.net/_files/images/stations/9446/nav4595f4e2f26f36048164129_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Energy - NRJ Norge",
+      "s": "https://nrj.p4groupaudio.com/NRJ_MH",
+      "l": "https://images.radiovolna.net/_files/images/stations/4774/bqox596d143a50c7b734357915_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Revolt",
+      "s": "https://streamer.radiorevolt.no/revolt",
+      "l": "https://images.radiovolna.net/_files/images/stations/401719/j1q259a97319186ff055097343_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "NRK P2",
+      "s": "https://lyd.nrk.no/nrk_radio_p2_mp3_h",
+      "l": "https://images.radiovolna.net/_files/images/stations/4783/hi18595b8ccf40ef4791501034_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Clásico",
+      "s": "https://stream.scansat.no/clasico_mq",
+      "l": "https://images.radiovolna.net/_files/images/stations/428010/504d729edcd06856433203a3b4188ee9_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "P9 Retro",
+      "s": "https://p9.p4groupaudio.com/P09_MH",
+      "l": "https://images.radiovolna.net/_files/images/stations/30933/5c05afc905b8f0598ad414b83a4c9106_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "P4 Radio Norge",
+      "s": "https://p4.p4groupaudio.com/P04_MM",
+      "l": "https://images.radiovolna.net/_files/images/stations/4791/rwps595f4d978011a286119669_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Norge",
+      "s": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4810/cba120cd872fb59472b49ba5d3183a28_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Beat",
+      "s": "https://stream.oneplay.no/beatoslo128",
+      "l": "https://images.radiovolna.net/_files/images/stations/4770/8b40ef17d2eecf084667fd449c8de11a_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "NRK P3",
+      "s": "https://lyd.nrk.no/nrk_radio_p3_mp3_h",
+      "l": "https://images.radiovolna.net/_files/images/stations/4772/oltu595b8b66ad6c4364721046_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRK Super",
+      "s": "https://lyd.nrk.no/nrk_radio_super_mp3_m",
+      "l": "https://images.radiovolna.net/_files/images/stations/4789/huwb595b8deeaecb5077131315_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bø",
+      "s": "http://nettradio.radiobo.com:80/radiobo-med",
+      "l": "https://images.radiovolna.net/_files/images/stations/4797/lym6596deef8d539e468849747_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "NRK Sport",
+      "s": "https://nrk-sport.akamaized.net/45/0/hls/nrk_sport/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423132/15a89d7ac4aed8ec2d45b093225b59fd_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Øst",
+      "s": "https://stream.radio-ost.no/radioost_hq",
+      "l": "https://images.radiovolna.net/_files/images/stations/9454/hwhm5a27f8f7cd092747719212_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "SriB - Studentradioen i Bergen",
+      "s": "https://radio.srib.no/radio/8000/srib.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/4817/cawn5a27f787e615e802658272_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Orakel",
+      "s": "https://stream.radionova.no/fm993.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401710/hiqs59a96092b3c81860240378_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Tønsberg",
+      "s": "http://stream.jaerradiogruppen.no:8004/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/4816/spfk599c050ed5403592739271_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Beiarn",
+      "s": "http://173.236.19.90:8008/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9455/lvnw5a27f92ea819a030210548_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "KSU 24/7",
+      "s": "https://c4.radioboss.fm:18099/stream2",
+      "l": "https://images.radiovolna.net/_files/images/stations/423149/ae47cc3f7ebfe8895024ef08246ce6f8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "P24-7 Mix",
+      "s": "https://live-bauerno.sharp-stream.com/p247mix_no_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423137/0ad5bea1430afe76b9ecfec1bc7ff3bf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Voice of Tibet",
+      "s": "https://www.vot.org/wp-content/uploads/2017/01/tib_18_01_2017.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9448/qowj5a27f738af5f7546320294_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Misjonssradioen",
+      "s": "http://5195.cloudrad.io:8136/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423150/017b0e378655d624e9e91f63edce2ecc_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Haugaland Hits",
+      "s": "http://radioh.no:8000/hits48.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423156/377cdd4f7c39bf466d8992abf2201e1b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRK P3 Urort",
+      "s": "https://lyd.nrk.no/nrk_radio_p3_urort_mp3_m",
+      "l": "https://images.radiovolna.net/_files/images/stations/4787/b5b8595b8d9adc52b192598110_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Sotra (Straume)",
+      "s": "https://streaming.radiosotra.no:8443/radiosotra",
+      "l": "https://images.radiovolna.net/_files/images/stations/423145/8b748e6766e79df95d84c78a91faa8d1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sandnes",
+      "s": "http://stream.jaerradiogruppen.no:8016/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423153/cd319e7142c060e3e8eef6bb734fae5b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Riks",
+      "s": "http://mms-live.online.no/radioriksoslo_1_h",
+      "l": "https://images.radiovolna.net/_files/images/stations/423128/d4bb740d2f6de7834e634541ad7e63e0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Inter FM",
+      "s": "https://stream.interfm.no/interfm_hq",
+      "l": "https://images.radiovolna.net/_files/images/stations/423129/766cd594c39d65cfac3db0975ceb462c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Scandi Radioen",
+      "s": "http://91.189.181.115:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/21967/1c3f4fcd47315a150b3b7313a5f25fa0_130x130.webp",
+      "g": [
+        "Themes",
+        "Rock"
+      ]
+    },
+    {
+      "t": "P7 Kristen Riksradio",
+      "s": "https://radio.p7.no/radio/8020/kristen_riksradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/423130/804b02af937d365f94fbde234a6d45db_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "NRK P1 Finnmark",
+      "s": "https://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_m",
+      "l": "https://images.radiovolna.net/_files/images/stations/9472/rh7x595b8e888beeb048705411_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NRK P3 Radioresepsjonen",
+      "s": "https://lyd.nrk.no/nrk_radio_p3_radioresepsjonen_mp3_m",
+      "l": "https://images.radiovolna.net/_files/images/stations/4786/fkmd595b8d731de4a033183604_130x130.webp",
+      "g": [
+        "Themes",
+        "News"
+      ]
+    },
+    {
+      "t": "NRK Sápmi",
+      "s": "https://lyd.nrk.no/nrk_radio_sami_mp3_h",
+      "l": "https://images.radiovolna.net/_files/images/stations/423133/8a1dc440557013646f9ed8b33cc3b3fd_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Nordsjø",
+      "s": "http://stream.jaerradiogruppen.no:8010/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423152/cada35ad77b3364c9cfdc4fe2b53914b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "pTro",
+      "s": "http://5186.cloudrad.io:8048/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401716/71dd3123e884d4f1c20af13e06696157_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Modum",
+      "s": "http://media.radiomodum.no/radio_modum_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9461/l2rn5a27f85779161811290737_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Guovdageainnu Lagasradio",
+      "s": "https://streaming.radio.co/s5b773f8d3/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/401180/k3ao5990a40316e6f535790353_130x130.webp",
+      "g": [
+        "Talk",
+        "News"
+      ]
+    },
+    {
+      "t": "Latin Amerika",
+      "s": "https://stream.radiolatinamerika.no/latam_hq",
+      "l": "https://images.radiovolna.net/_files/images/stations/9444/g1wq5979b4c486890169568166_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Hallingdal",
+      "s": "http://audio.visto.no/radiohallingdal",
+      "l": "https://images.radiovolna.net/_files/images/stations/4800/gqdl5a27f88e57006952956534_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "RAD1O2",
+      "s": "https://stream.radio102.no/radio102_hq",
+      "l": "https://images.radiovolna.net/_files/images/stations/4794/goss5a27f6b34d06f067792981_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Siddis Radio",
+      "s": "http://stream.radioh.no:443/siddis.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423158/99813643e1237ec0bffb34917ab791b2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Haugaland",
+      "s": "http://radioh.no:8000/rh128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423154/fe02661c40ba3378c25f840a695d48cc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nova",
+      "s": "http://stream.radionova.no:80/fm993.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9445/jv0m59a96036195a9390962951_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Kos",
+      "s": "https://stream.theradiohub.com/?server=radioip.no&port=443&type=mp3&mount=kos.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423157/d71b1d02cd1f8678137d5e4e658644a0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "JærRadioen",
+      "s": "https://audio.jaerradioen.no/jaerradioen_hq",
+      "l": "https://images.radiovolna.net/_files/images/stations/423151/6198c74124d65a799eaaf6f72482c905_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Topp 40",
+      "s": "https://live-bauerno.sharp-stream.com/top40_no_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423140/8466904013f13a8e2778453fcfa60572_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nea Radio",
+      "s": "http://nettradio.nearadio.no:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/9453/dwb25a27f5472f109803535150_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "DJ Scratch",
+      "s": "https://canopus.dribbcast.com:8032/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/31306/ae00de041dd23bde3a0cc6a468543ce7_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Filadelfia",
+      "s": "https://streaming.radio.co/se326fb378/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/423148/7119f9ef35fab9920ac35f057515b1b8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ScanSat - Scandinavian Satellite Radio",
+      "s": "http://radioh.no:8000/scan128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423144/4cfd5d73370d3b1517a5991d4f8c949b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRK Klassisk",
+      "s": "https://lyd.nrk.no/nrk_radio_klassisk_mp3_h",
+      "l": "https://images.radiovolna.net/_files/images/stations/4780/z7fs595b8bf58c5f0742577791_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "NRK Julemusikk",
+      "s": "https://lyd.nrk.no/nrk_radio_weblyd03_mp3_h",
+      "l": "https://images.radiovolna.net/_files/images/stations/4779/ww1r595b8bd26b5ed621327979_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "Radio Loland",
+      "s": "https://stream.radiololand.no/rlohq",
+      "l": "https://images.radiovolna.net/_files/images/stations/428012/c1aaf23613062f2cfc5980e6aeb2b5a6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ordentlig Radio",
+      "s": "http://mms-live.online.no/oradio_mp3_m",
+      "l": "https://images.radiovolna.net/_files/images/stations/423142/1c4c62c92f3cb40de439a7eb8345f9a3_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Atlantic",
+      "s": "http://stream.jaerradiogruppen.no:8018/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401717/l98a59a9663f0cd64613505221_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Norea Pluss Radio",
+      "s": "http://149.202.22.75:8168/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423131/12ef0e3df05e2992d8f7c98e8c936bc8_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "P24-7 Kos",
+      "s": "https://live-bauerno.sharp-stream.com/p247kos_no_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428007/b71cbb235010a129e7a15e08a30fc70a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "P24-7 Fun",
+      "s": "https://live-bauerno.sharp-stream.com/station10_no_hq",
+      "l": "https://images.radiovolna.net/_files/images/stations/428008/34e6485352f736d452185bf900317ae5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 3,16",
+      "s": "https://streaming.radio.co/se326fb378/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/428009/6c44d882ec7e20b56d01d6bdf3507a52_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FnF.fm",
+      "s": "https://eu2.fastcast4u.com/proxy/fnffm00?mp=/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/21131/51013c17f923628b0181aa033257af77_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sunnmore",
+      "s": "https://ipradio.no/RS_48",
+      "l": "https://images.radiovolna.net/_files/images/stations/9450/rsar5a27f8c8b6efe757574819_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Norsk Pop",
+      "s": "https://live-bauerno.sharp-stream.com/norskpop_no_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423135/5efbbc59a858942fdd0d35200a6c7859_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "5000 Bergen Radio",
+      "s": "https://streamer.radio.co/sd17fc9620/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/428011/1ed44d1dfa1fa260f8db6fd9ecb07025_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Metro",
+      "s": "https://stream.radiometro.no/metro128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4806/0716ef528b8bcf7686ebf6db91f44e86_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nano",
+      "s": "https://s2.yesstreaming.net:17157/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/21836/e9148d3e53125f7429220f8e7a577ea3_130x130.webp",
+      "g": [
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "Askøy",
+      "s": "https://radioaskoy.radioca.st/sender",
+      "l": "https://images.radiovolna.net/_files/images/stations/401712/uyf159a962f63798e960376731_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Metro Sørlandet",
+      "s": "https://stream.radiometro.no/stream/83/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401714/8bcb85d6ae89610761d3aba8c11b8489_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Randsfjord",
+      "s": "https://stream.radiorandsfjord.no/randsfjord_hq",
+      "l": "https://images.radiovolna.net/_files/images/stations/9447/i6a95a27f68418f79685197725_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Alesund",
+      "s": "http://stream.jaerradiogruppen.no:8008/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9458/uw6q5a27f6539c1c5157910856_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "KISS - Norge",
+      "s": "https://live-bauerno.sharp-stream.com/kiss_no_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423134/c6df14e0c1342650d9b1c04b45b08fc0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ElverumsRadioen",
+      "s": "https://lyd.radioene.no/elverum.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9460/ha2y5a27f4be3e12e496487403_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRK P1+",
+      "s": "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_l",
+      "l": "https://images.radiovolna.net/_files/images/stations/9440/an2m595b8e33b0e9c485066610_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "FM 8000",
+      "s": "https://radio8000.radioca.st/radio8000",
+      "l": "https://images.radiovolna.net/_files/images/stations/9457/dvfs59a96350e55e9179815109_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Metal Express Radio",
+      "s": "https://s39.myradiostream.com/:11590/listen.mp3?nocache=1682442418",
+      "l": "https://kuasark.com/files/stations-logos/metal-express-radio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Jæren Misjonsradio",
+      "s": "http://radioip.no:443/jm",
+      "l": "https://kuasark.com/files/stations-logos/jaeren-misjonsradio.png",
+      "g": [
+        "Inspirational",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Bitter Sweet Music NO",
+      "s": "http://91.121.236.34:8520/no",
+      "l": "https://kuasark.com/files/stations-logos/bitter-sweet-music-no.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "NRK P1 Oslo og Akershus",
+      "s": "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_m",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-oslo-og-akershus.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NRJ Norway",
+      "s": "https://nrj.p4groupaudio.com/NRJ_MM",
+      "l": "https://kuasark.com/files/stations-logos/nrj-norway.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK Jazz",
+      "s": "https://lyd.nrk.no/nrk_radio_jazz_mp3_m",
+      "l": "https://kuasark.com/files/stations-logos/nrk-jazz.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio Metro",
+      "s": "https://stream.oneplay.no/oslo128",
+      "l": "https://kuasark.com/files/stations-logos/radio-metro-no.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NRK mP3",
+      "s": "https://lyd.nrk.no/nrk_radio_mp3_mp3_m",
+      "l": "https://kuasark.com/files/stations-logos/nrk-mp3.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK Klassisk",
+      "s": "https://lyd.nrk.no/nrk_radio_klassisk_mp3_m",
+      "l": "https://kuasark.com/files/stations-logos/nrk-klassisk.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Dansbandradioen",
+      "s": "https://radio.hm24.no/listen/dansband/db128",
+      "l": "https://kuasark.com/files/stations-logos/dansbandradioen.png",
+      "g": [
+        "Country",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P2",
+      "s": "https://lyd.nrk.no/nrk_radio_p2_mp3_m",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p2.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "P8 Pop",
+      "s": "https://p8.p4groupaudio.com/P08_MH",
+      "l": "https://kuasark.com/files/stations-logos/p8-pop.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "P4 Radio Hele Norge",
+      "s": "https://p4.p4groupaudio.com/P04_MH",
+      "l": "https://kuasark.com/files/stations-logos/p4-radio-hele-norge.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "P5 Hits",
+      "s": "https://p5.p4groupaudio.com/P05_MH",
+      "l": "https://kuasark.com/files/stations-logos/p5-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRK Folkemusikk",
+      "s": "https://lyd.nrk.no/nrk_radio_folkemusikk_mp3_h",
+      "l": "https://kuasark.com/files/stations-logos/nrk-folkemusikk.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1+",
+      "s": "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_m",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Tromso",
+      "s": "https://stream.radio3.no/radiotromso",
+      "l": "https://kuasark.com/files/stations-logos/radio-tromso.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRK P13",
+      "s": "https://lyd.nrk.no/nrk_radio_p13_mp3_m",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p13.png",
+      "g": [
+        "Alternative",
+        "Rock"
+      ]
+    },
+    {
+      "t": "P5 Nonstop Hits",
+      "s": "https://p5n.p4groupaudio.com/P05AMH",
+      "l": "https://kuasark.com/files/stations-logos/p5-nonstop-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kos",
+      "s": "https://lyd.radiokos.no/kos_hq",
+      "l": "https://kuasark.com/files/stations-logos/radio-kos.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Northern Star",
+      "s": "http://5866.cloudrad.io:8018/northernstar.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-northern-star.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "1FM",
+      "s": "https://s2.radio.co/s914ffa700/listen",
+      "l": "https://kuasark.com/files/stations-logos/1fm-no.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ScanSat",
+      "s": "https://stream.scansat.no/scansat_hq",
+      "l": "https://kuasark.com/files/stations-logos/scansat.png",
+      "g": [
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "P7 Klem",
+      "s": "https://p7.p4groupaudio.com/P07_MH",
+      "l": "https://kuasark.com/files/stations-logos/p7-klem.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "P10 Country",
+      "s": "https://p10.p4groupaudio.com/P10_MM",
+      "l": "https://kuasark.com/files/stations-logos/p10-country.png",
+      "g": [
+        "Country",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "NRK P3 Urørt",
+      "s": "https://nrk-radio-live.telenorcdn.net/37/0/hls/nrk_p3_urort/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p3-urort.png",
+      "g": [
+        "Alternative",
+        "News"
+      ]
+    },
+    {
+      "t": "Ordentlig Radio",
+      "s": "https://stream.oradio.no/oradio_hq",
+      "l": "https://kuasark.com/files/stations-logos/ordentlig-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Norge 80s",
+      "s": "https://live-bauerno.sharp-stream.com/radionorge_80s_no_vip",
+      "l": "https://kuasark.com/files/stations-logos/radio-norge-80s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Nano",
+      "s": "http://s2.yesstreaming.net:7157/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-nano.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gylne Hits Radio",
+      "s": "http://comet.shoutca.st:8692/;",
+      "l": "https://kuasark.com/files/stations-logos/gylne-hits-radio.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "1FM Jazz",
+      "s": "http://81.167.255.66:2016/1fmjazz_med",
+      "l": "https://kuasark.com/files/stations-logos/1fm-jazz.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio Randsfjord",
+      "s": "https://stream.radiorandsfjord.no/randsfjord_lq",
+      "l": "https://kuasark.com/files/stations-logos/radio-randsfjord.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Bø",
+      "s": "https://nettradio.radiobo.com/radiobo-high",
+      "l": "https://kuasark.com/files/stations-logos/radio-bo.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RadiOs",
+      "s": "https://streaming.radio.co/s4e23b7af2/listen",
+      "l": "https://kuasark.com/files/stations-logos/radios.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Norge Topp 1000",
+      "s": "https://live-bauerno.sharp-stream.com/radionorge_t1000_no_vipaac",
+      "l": "https://kuasark.com/files/stations-logos/radio-norge-topp-1000.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "pTro",
+      "s": "http://5186.cloudrad.io:8048/;",
+      "l": "https://kuasark.com/files/stations-logos/ptro.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Inthemixstyle Radio",
+      "s": "https://s4.radio.co/see8af2dc7/listen",
+      "l": "https://kuasark.com/files/stations-logos/inthemixstyle-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "5000 Bergen",
+      "s": "https://bergen5000.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/5000-bergen.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Lyngdal",
+      "s": "https://live.radiolyngdal.com/rly_hq",
+      "l": "https://kuasark.com/files/stations-logos/radio-lyngdal.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio 2 Bergen",
+      "s": "https://stream.radio.co/s81da37707/listen",
+      "l": "https://kuasark.com/files/stations-logos/radio-2-bergen.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Countryradioen",
+      "s": "https://radio.hm24.no/radio/8010/countryh",
+      "l": "https://kuasark.com/files/stations-logos/countryradioen.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Radio P24-7 Fun",
+      "s": "https://live-bauerno.sharp-stream.com/station10_no_aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-p24-7-fun.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Thuthi FM",
+      "s": "https://streams.radio.co/s790fe269d/listen",
+      "l": "https://kuasark.com/files/stations-logos/thuthi-fm.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Trysil Radioen",
+      "s": "https://lyd.radioene.no/trysil.mp3",
+      "l": "https://kuasark.com/files/stations-logos/trysil-radioen.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Trøndelag",
+      "s": "https://nettradio.radiotrondelag.no:8443/radio_trondelag",
+      "l": "https://kuasark.com/files/stations-logos/radio-trondelag.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Kongsvinger",
+      "s": "https://lyd.radioene.no/kongsvinger.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-kongsvinger.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Tordenskrall",
+      "s": "https://free.rcast.net/66643",
+      "l": "https://kuasark.com/files/stations-logos/radio-tordenskrall.png",
+      "g": [
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio111Fm",
+      "s": "https://driver.radio111fm.com/radio/8000/low",
+      "l": "https://kuasark.com/files/stations-logos/radio111fm.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Rehoboth",
+      "s": "https://audio.rehoboth.no/rehoboth_mq",
+      "l": "https://kuasark.com/files/stations-logos/radio-rehoboth-no.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Studentradioen",
+      "s": "https://radio.srib.no/listen/studentradioen_i_bergen/srib.mp3",
+      "l": "https://kuasark.com/files/stations-logos/studentradioen.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "SolørRadioen pluss",
+      "s": "https://lyd.radioene.no/solorpluss.mp3",
+      "l": "https://kuasark.com/files/stations-logos/solorradioen-pluss.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Noxx Radio",
+      "s": "https://clare.shoutca.st/radio/8230/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/noxx-radio.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Nea Radio",
+      "s": "https://nettradio.nearadio.no:8100/stream",
+      "l": "https://kuasark.com/files/stations-logos/nea-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Nordkapp",
+      "s": "http://audio.visto.no/radionordkapp.ogg",
+      "l": "https://kuasark.com/files/stations-logos/radio-nordkapp.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "P7 Kristen Riksradio",
+      "s": "https://radio.p7.no/radio/8020/kristen_riksradio?1616927958",
+      "l": "https://kuasark.com/files/stations-logos/p7-kristen-riksradio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Misjonsradioen Agder",
+      "s": "http://5195.cloudrad.io:8136/;",
+      "l": "https://kuasark.com/files/stations-logos/misjonsradioen-agder.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Solør Radioen",
+      "s": "https://lyd.radioene.no/solor.mp3",
+      "l": "https://kuasark.com/files/stations-logos/solor-radioen.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "ØsterdalsRadioen",
+      "s": "https://lyd.radioene.no/osterdal.mp3",
+      "l": "https://kuasark.com/files/stations-logos/osterdalsradioen.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Inter FM",
+      "s": "https://stream.interfm.no/interfm_mq",
+      "l": "https://kuasark.com/files/stations-logos/inter-fm-no.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Headcleaner",
+      "s": "https://headcleaner.stream.laut.fm/headcleaner",
+      "l": "https://kuasark.com/files/stations-logos/headcleaner.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Duen Radio",
+      "s": "https://streams.radio.co/s07e510a23/listen",
+      "l": "https://kuasark.com/files/stations-logos/duen-radio.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Jul i Innlandet",
+      "s": "https://lyd.radioene.no/jul.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-jul-i-innlandet.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Tromso Hits",
+      "s": "https://stream.radiotromso.no/rthits48",
+      "l": "https://kuasark.com/files/stations-logos/radio-tromso-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Norea Pluss Mediemisjon",
+      "s": "http://149.202.22.75:8168/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-norea-pluss-mediemisjon.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio 3",
+      "s": "https://stream.radio3.no/Radio3Bodo128",
+      "l": "https://kuasark.com/files/stations-logos/radio-3.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Toten",
+      "s": "https://lyd.radioene.no/radiototen-mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-toten.png",
+      "g": [
+        "Country",
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Kvinesdal",
+      "s": "https://stream.radiolyd.no/rkhq",
+      "l": "https://kuasark.com/files/stations-logos/radio-kvinesdal.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Z",
+      "s": "https://straumod.blindeforbundet.no/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-z-no.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Grenland",
+      "s": "https://audio.radiogrenland.no/grenland_hq",
+      "l": "https://kuasark.com/files/stations-logos/radio-grenland.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio PS",
+      "s": "http://149.202.22.75:8072/;?_=0.2752407058031985",
+      "l": "https://kuasark.com/files/stations-logos/radio-ps.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ariel Radio",
+      "s": "https://streams.radio.co/sf069f3c03/listen",
+      "l": "https://kuasark.com/files/stations-logos/ariel-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "BIG HipHop & RnB",
+      "s": "https://live-bauerno.sharp-stream.com/bm_popup3_no_vip",
+      "l": "https://kuasark.com/files/stations-logos/big-hiphop-rnb.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "1FM Rock",
+      "s": "http://81.167.255.66:2016/1fmrock_high",
+      "l": "https://kuasark.com/files/stations-logos/1fm-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "HamarRadioen",
+      "s": "https://lyd.radioene.no/hamar.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hamarradioen.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "P7 Kristen pop",
+      "s": "https://radio.p7.no/listen/p7_kristen_pop/kristen_pop_web",
+      "l": "https://kuasark.com/files/stations-logos/p7-kristen-pop.png",
+      "g": [
+        "Pop",
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bygderadio Vest",
+      "s": "http://radio.bygderadiovest.no:8000/radio",
+      "l": "https://kuasark.com/files/stations-logos/bygderadio-vest.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "FM101",
+      "s": "http://ipradio.no:8000/FM101",
+      "l": "https://kuasark.com/files/stations-logos/fm101.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Ålesund",
+      "s": "https://audio.radioaalesund.no/aalesund_hq",
+      "l": "https://kuasark.com/files/stations-logos/radio-alesund.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Bardufoss",
+      "s": "https://stream.radio3.no/radiobardufoss192",
+      "l": "https://kuasark.com/files/stations-logos/radio-bardufoss.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RadioSignal",
+      "s": "https://streamer.radio.co/sd0ae56707/listen",
+      "l": "https://kuasark.com/files/stations-logos/radiosignal.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Vest",
+      "s": "https://stream.theradiohub.com/?server=radioip.no&port=8000&type=mp3&mount=stream/6/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-vest-no.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gudbrandsdals Radioen",
+      "s": "https://lyd.radioene.no/gdal.mp3",
+      "l": "https://kuasark.com/files/stations-logos/gudbrandsdals-radioen.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio L",
+      "s": "http://stream.radio-l.no:5100/radiol128",
+      "l": "https://kuasark.com/files/stations-logos/radio-l.png",
+      "g": [
+        "Jazz",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1FM Gull",
+      "s": "http://81.167.255.66:2016/1fmgull_high",
+      "l": "https://kuasark.com/files/stations-logos/1fm-gull.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MC Radio Classic",
+      "s": "https://server4p.com/8026/stream",
+      "l": "https://kuasark.com/files/stations-logos/mc-radio-classic.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio P24-7 KOS",
+      "s": "https://live-bauerno.sharp-stream.com/p247kos_no_hq",
+      "l": "https://kuasark.com/files/stations-logos/radio-p24-7-kos.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Haugaland",
+      "s": "http://radioip.no:8000/stream/1/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-haugaland.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Adikanfo FM",
+      "s": "http://adikanforadio.org:1040/;",
+      "l": "https://kuasark.com/files/stations-logos/adikanfo-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Nord-Salten",
+      "s": "http://nettradio.radionordsalten.no:8000/high",
+      "l": "https://kuasark.com/files/stations-logos/radio-nord-salten.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Rjukan",
+      "s": "https://stream.radiorjukan.no/rjukan_hq",
+      "l": "https://kuasark.com/files/stations-logos/radio-rjukan.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "P7 Kristen Evangeliske sanger",
+      "s": "https://radio.p7.no/radio/8010/evangeliske_sanger",
+      "l": "https://kuasark.com/files/stations-logos/p7-kristen-evangeliske-sanger.png",
+      "g": [
+        "Pop",
+        "Inspirational",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Sabbath Radio",
+      "s": "https://listen.radioking.com/radio/460760/stream/516014",
+      "l": "https://kuasark.com/files/stations-logos/sabbath-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "MC Radio",
+      "s": "https://server4p.com/8012/stream",
+      "l": "https://kuasark.com/files/stations-logos/mc-radio-no.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Snowflake FM",
+      "s": "http://cast5.magicstreams.gr:8015/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/snowflake-fm.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio E6",
+      "s": "http://93.89.112.234:88/broadwavehigh.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-e6.png",
+      "g": [
+        "Country",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Narkanalen",
+      "s": "https://stream.radiomeloy.no:8003/high",
+      "l": "https://kuasark.com/files/stations-logos/radio-narkanalen.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Rana",
+      "s": "http://77.110.230.210:8000/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-rana.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Sandnes",
+      "s": "https://audio.jaerradiogruppen.no/sandnes_hq",
+      "l": "https://kuasark.com/files/stations-logos/radio-sandnes.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "ICPRM RADIO Norway",
+      "s": "https://stream-052.zeno.fm/71be2x2429duv?zs=MVfldpPkQ1qm9pXGS3ZLVA",
+      "l": "https://kuasark.com/files/stations-logos/icprm-radio-norway.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRK P1 Hordaland",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_hordaland_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-hordaland.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Buskerud",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_buskerud_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-buskerud.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Finnmark",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_finnmark_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-finnmark.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Hedmark og Oppland",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_hedmark_og_oppland_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-hedmark-og-oppland.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Møre og Romsdal",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_more_og_romsdal_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-more-og-romsdal.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Nordland",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_nordland_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-nordland.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Sogn og Fjordane",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_sogn_og_fjordane_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-sogn-og-fjordane.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Sørlandet",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_sorlandet_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-sorlandet.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Telemark",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_telemark_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-telemark.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Troms",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_troms_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-troms.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Vestfold",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_vestfold_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-vestfold.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Østfold",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_ostfold_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-ostfold.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Rogaland",
+      "s": "http://lyd.nrk.no/nrk_radio_p1_rogaland_mp3_m",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-rogaland.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P3 Urørt",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p3_urort_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p3-urort-no-5015.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P13 (Lav Kvalitet)",
+      "s": "http://lyd.nrk.no/nrk_radio_p13_mp3_l",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p13-lav-kvalitet.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Tønsberg",
+      "s": "https://audio.radiotonsberg.no/tonsberg_hq",
+      "l": "https://kuasark.com/files/stations-logos/radio-tonsberg.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NRK P3 (Høy Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p3_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p3-hoy-kvalitet.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NRK mP3 (Høy Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_mp3_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-mp3-hoy-kvalitet.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK Klassisk (Høy Kvalitet)",
+      "s": "http://nrk-mms-live.telenorcdn.net/nrk_radio_klassisk_mp3_h",
+      "l": "https://kuasark.com/files/stations-logos/nrk-klassisk-hoy-kvalitet.png",
+      "g": [
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK Jazz (Høy Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_jazz_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-jazz-hoy-kvalitet.png",
+      "g": [
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P3 (Lav Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p3_mp3_l?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p3-lav-kvalitet.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NRK P1+ (Lav Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1pluss_mp3_l?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-lav-kvalitet.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "NRK Jazz (Lav Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_jazz_mp3_l?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-jazz-lav-kvalitet.png",
+      "g": [
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P2 (Lav Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p2_mp3_l?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p2-lav-kvalitet.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NRK Klassisk (Lav Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_klassisk_mp3_l?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-klassisk-lav-kvalitet.png",
+      "g": [
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK Alltid Nyheter (Lav Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_alltid_nyheter_mp3_l?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-alltid-nyheter-lav-kvalitet.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "NRK mP3 (Lav Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_mp3_mp3_l?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-mp3-lav-kvalitet.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1+ (Høy Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1pluss_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-hoy-kvalitet.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "NRK P13 (Høy Kvalitet)",
+      "s": "http://lyd.nrk.no/nrk_radio_p13_mp3_h",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p13-hoy-kvalitet.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Østlandssendingen (Lav Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_ostlandssendingen_mp3_l?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-ostlandssendingen-lav-kvalitet.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK Alltid Nyheter (Høy Kvalitet)",
+      "s": "http://nrk-mms-live.telenorcdn.net/nrk_radio_alltid_nyheter_mp3_h",
+      "l": "https://kuasark.com/files/stations-logos/nrk-alltid-nyheter-hoy-kvalitet.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "NRK Folkemusikk (Høy Kvalitet)",
+      "s": "http://nrk-mms-live.telenorcdn.net/nrk_radio_folkemusikk_mp3_h",
+      "l": "https://kuasark.com/files/stations-logos/nrk-folkemusikk-hoy-kvalitet.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "NRK mP3",
+      "s": "http://lyd.nrk.no/nrk_radio_mp3_aac_h",
+      "l": "https://kuasark.com/files/stations-logos/nrk-mp3-no-7712.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRK Folkemusikk (Lav Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_folkemusikk_mp3_l?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-folkemusikk-lav-kvalitet.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "NRK P1 Østlandssendingen (Høy Kvalitet)",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_ostlandssendingen_mp3_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-ostlandssendingen-hoy-kvalitet.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P2 (Høy Kvalitet)",
+      "s": "http://nrk-mms-live.telenorcdn.net/nrk_radio_p2_mp3_h",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p2-hoy-kvalitet.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Rock",
+      "s": "http://edge-bauerno-06-thn.sharp-stream.com/radiorock_no_hq",
+      "l": "https://kuasark.com/files/stations-logos/radio-rock-no-9811.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "NRK P1 Trøndelag (aac)",
+      "s": "http://lyd.nrk.no/nrk_radio_p1_trondelag_aac_l",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-trondelag-aac.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1 Trøndelag",
+      "s": "http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_l",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1-trondelag.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Vinyl",
+      "s": "http://live-bauerno.sharp-stream.com/vinyl_no_hq",
+      "l": "https://kuasark.com/files/stations-logos/radio-vinyl-12019.jpg",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P3X",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p3x_aac_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p3x.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Valdres Radio",
+      "s": "http://stream.east.no:8000/valdres.mp3",
+      "l": "https://kuasark.com/files/stations-logos/valdres-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P3 Urørt",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p3_urort_aac_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p3-urort-no-12573.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bandit",
+      "s": "https://p11.p4groupaudio.com/P11_MM",
+      "l": "https://kuasark.com/files/stations-logos/bandit.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Nova",
+      "s": "http://stream.radionova.no/mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-nova-no.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NRK P1",
+      "s": "http://lyd.nrk.no:80/nrk_radio_p1_ostlandssendingen_aac_h?_hdr=0",
+      "l": "https://kuasark.com/files/stations-logos/nrk-p1.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio-Topp 40",
+      "s": "http://live-bauerno.sharp-stream.com/top40_no_aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-topp-40-no-15955.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "radiOrakel",
+      "s": "https://stream.radiorakel.no/fm993.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radiorakel.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

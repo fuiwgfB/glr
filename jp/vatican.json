@@ -1,0 +1,246 @@
+{
+  "stations": [
+    {
+      "t": "Vatican News - English",
+      "s": "https://radio.vaticannews.va/stream-en",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-english.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Español",
+      "s": "https://radio.vaticannews.va/stream-es",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-espanol.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Українська",
+      "s": "https://radio.vaticannews.va/stream-uk",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-ukrainska.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Italiano",
+      "s": "https://radio.vaticannews.va/stream-it",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-italiano.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Slovenčina",
+      "s": "https://radio.vaticannews.va/stream-sk",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-slovencina.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Polski",
+      "s": "https://radio.vaticannews.va/stream-pl",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-polski.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Български",
+      "s": "https://radio.vaticannews.va/stream-bg",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-blgarski.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Français",
+      "s": "https://radio.vaticannews.va/stream-fr",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-francais.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Hrvatski  (Croatian)",
+      "s": "https://radio.vaticannews.va/stream-hr",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-hrvatski-croatian.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News -  简体中文  (Simplified Chinese)",
+      "s": "https://radio.vaticannews.va/stream-zh",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-jian-ti-zhong-wen-simplified-chinese.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Tzgospel ( Vatican)",
+      "s": "https://stream-152.zeno.fm/wc7ttw11uchvv?zs=HLrRG9BGTDCgTYLredx_ww",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-vatican.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Vatican News - Português",
+      "s": "https://radio.vaticannews.va/stream-pt",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-portugues.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - हिंदी  (Hindi)",
+      "s": "https://radio.vaticannews.va/stream-hi",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-hindi-hindi.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Română",
+      "s": "https://radio.vaticannews.va/stream-ro",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-romana.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Čeština  (Czech)",
+      "s": "https://radio.vaticannews.va/stream-cs",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-cestina-czech.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Русский",
+      "s": "https://radio.vaticannews.va/stream-ru",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-russkij.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Tiếng việt",
+      "s": "https://radio.vaticannews.va/stream-vi",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-tieng-viet.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Magyar  (Hungarian)",
+      "s": "https://radio.vaticannews.va/stream-hu",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-magyar-hungarian.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News -  Slovenščina  (Slovenian)",
+      "s": "https://radio.vaticannews.va/stream-sl",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-slovenscina-slovenian.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - العربية  (Arabic)",
+      "s": "https://radio.vaticannews.va/stream-ar",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-alrbyt-arabic.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Latviešu",
+      "s": "https://radio.vaticannews.va/stream-lv",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-latviesu.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - മലയാളം  (Malayalam)",
+      "s": "https://radio.vaticannews.va/stream-ml",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-malayalam-malayalam.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Deutsch",
+      "s": "https://radio.vaticannews.va/stream-de",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-deutsch.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Հայերէն  (Armenian)",
+      "s": "https://radio.vaticannews.va/stream-hy",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-hayeren-armenian.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Lietuvių  (Lithuanian)",
+      "s": "https://radio.vaticannews.va/stream-lt",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-lietuviu-lithuanian.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - Shqip (Albanian)",
+      "s": "https://radio.vaticannews.va/stream-sq",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-shqip-albanian.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Vatican News - தமிழ்  (Tamil)",
+      "s": "https://radio.vaticannews.va/stream-ta",
+      "l": "https://kuasark.com/files/stations-logos/vatican-news-tamil-tamil.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "stations": [
+    {
+      "t": "Gabz FM",
+      "s": "http://fmt01.egihosting.com:17721/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405335/ybjv5a439da8230df183912065_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Botswana RB2",
+      "s": "http://168.167.134.26:8000/rb2",
+      "l": "https://images.radiovolna.net/_files/images/stations/405336/lp0e5a439e17e7264272139400_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Yarona FM",
+      "s": "https://iceant.antfarm.co.za/yarona",
+      "l": "https://images.radiovolna.net/_files/images/stations/405337/mysz5a439eb453938616021748_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Yarona FM",
+      "s": "http://capeant.antfarm.co.za:8000/yarona",
+      "l": "https://kuasark.com/files/stations-logos/yarona-fm.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "JazzySoul Radio Nata",
+      "s": "http://e11902.cloudrad.io:8112/;",
+      "l": "https://kuasark.com/files/stations-logos/jazzysoul-radio-nata.png",
+      "g": [
+        "Jazz",
+        "R&B and Urban",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tzgospel Swahili (Botswana)",
+      "s": "https://stream-150.zeno.fm/uwatum93tchvv?zs=b4K-eZHTR76P2SmXJYP_Jw",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-swahili-botswana.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "SoHeavenly Radio",
+      "s": "https://s4.radio.co/s5454327ce/listen",
+      "l": "https://kuasark.com/files/stations-logos/soheavenly-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "DumaFM",
+      "s": "http://s3.voscast.com:10076/;",
+      "l": "https://kuasark.com/files/stations-logos/dumafm.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Jazzy Soul Radio Nata",
+      "s": "http://209.95.50.189:8112/stream",
+      "l": "https://kuasark.com/files/stations-logos/jazzy-soul-radio-nata.png",
+      "g": [
+        "Inspirational",
+        "Jazz",
+        "R&B and Urban",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "RERA Online Christian Radio",
+      "s": "https://s2.radio.co/sc93b4c6aa/listen",
+      "l": "https://kuasark.com/files/stations-logos/rera-online-christian-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "daaljoor faysal",
+      "s": "https://stream-067.zeno.fm/uru8h6ahv6duv?zs=D3Tcw8vTSlS1wdhsFRQciA&rj-ttl=5&rj-tok=AAABfJ0w5vEAC9040Z2t_yn8VA",
+      "l": "https://kuasark.com/files/stations-logos/daaljoor-faysal.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

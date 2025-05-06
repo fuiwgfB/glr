@@ -1,0 +1,2669 @@
+{
+  "stations": [
+    {
+      "t": "Kan REKA",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405387/yq3p5a44e32c66631997002525_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Лучшее радио",
+      "s": "https://edge-fs-10.cybercdn.live/TheBest/live/chunks.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/421556/b47b9305feeca69c9e6c04fa55721310_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Rock - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Rock/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427450/f023581daac6539a43c455a718efb4aa_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Душа Кавказа",
+      "s": "https://www.kavkazportal.com/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/436/fj5b59552d8d3b974882232867_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Первое радио",
+      "s": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/405384/zevx5b35d3e6c5d40579412229_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100 FM Radius",
+      "s": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/3737/th9i596f9cd528762355281255_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nahariya",
+      "s": "https://cast.radionahariya.com:8443/main.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427251/547ce22d2129c8ba451d3f68510a1652_130x130.webp",
+      "g": [
+        "News",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Joint Radio",
+      "s": "http://radio.jointil.net:9998/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3741/f5xs595ba1f59b307944802399_130x130.webp",
+      "g": [
+        "Reggae",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Galgalatz",
+      "s": "http://glzwizzlv.bynetcdn.com/glglz_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9102/oklx5976191c00ae0704505222_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Orenu",
+      "s": "https://listen7.myradio24.com/orenu",
+      "l": "https://images.radiovolna.net/_files/images/stations/1314/xxfl597af7a4acfec022673955_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Haifa",
+      "s": "https://cp11.livecdn.biz/radiohaifa",
+      "l": "https://images.radiovolna.net/_files/images/stations/9100/sg0p59710c10d58a4413298747_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "EL-HI",
+      "s": "https://a4.radioheart.ru:9002/RH6003",
+      "l": "https://images.radiovolna.net/_files/images/stations/406144/dowo5bf1d80161195111342862_130x130.webp",
+      "g": [
+        "International",
+        "Inspirational",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Tel Aviv",
+      "s": "http://102.livecdn.biz/102fm_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/9103/ocjq5970f50248eb9678832534_130x130.webp",
+      "g": [
+        "News",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Joint Radio Blues",
+      "s": "http://radio.jointil.net:9992/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/3742/c2ou595ba1d0c7e61175012608_130x130.webp",
+      "g": [
+        "Blues",
+        "Rock"
+      ]
+    },
+    {
+      "t": "KAN KOL HA MUSICA",
+      "s": "http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405390/tzt45a44e470a4f42613132075_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Menta FM",
+      "s": "https://menta-fm.co.il/radio/",
+      "l": "https://images.radiovolna.net/_files/images/stations/3743/d3bt595f0c5630afd414827722_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "103 FM / Non Stop Radio",
+      "s": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/9097/c72h5971cb8222df4210168305_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MAKAN - Arabic Radio",
+      "s": "https://kanliveicy.media.kan.org.il/icy/makan_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405392/upj85a44e522de844098524869_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "91 FM Lev Ha'medina",
+      "s": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/3738/mamx59707af6379c1242760699_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "KAN BET",
+      "s": "http://kanapi.media.kan.org.il/Redirector/ipbc/kan-bet/ice-live",
+      "l": "https://images.radiovolna.net/_files/images/stations/405388/c2xm5a44e3a78b6d2569902266_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "רדיו הגל החדש",
+      "s": "http://freeus1.listen2myradio.com:5640/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/418251/6f924c9c632085d097bfee7397a38c6d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Mania",
+      "s": "https://cast.ereznet.co.il/radio/8030/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427556/767f840eacdf14fff3669b653f61fc50_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "90 FM / רדיו אמצע הדרך",
+      "s": "http://90.cdnwz.net/90fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/9091/ce93586433d92fcbf7b7cd58595b5024_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Chillout - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Chillout/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427447/6a33e1c5bfd8594e18f630222ff1284c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - ים תיכוני",
+      "s": "https://live.kcm.fm/04",
+      "l": "https://images.radiovolna.net/_files/images/stations/427410/5112894f392939249c6b034de3019340_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FM 102",
+      "s": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/9095/qq3j5a44dce901045744114290_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sol",
+      "s": "https://radio.streamgates.net/stream/sol",
+      "l": "https://images.radiovolna.net/_files/images/stations/3748/d2f259529a7e4a87e062002988_130x130.webp",
+      "g": [
+        "Decades",
+        "Jazz",
+        "Blues"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - בדרך לרשב\"י",
+      "s": "https://live.kcm.fm/18",
+      "l": "https://images.radiovolna.net/_files/images/stations/427422/014ec368064dea375f0d580349a34338_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "KAN TARBUT - כאן תרבות",
+      "s": "https://22653.live.streamtheworld.com/KAN_TARBUT.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405391/l89s5a44e4ceb8883521496252_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "glgltz / רדיו גלגלצ",
+      "s": "http://glzwizzlv.bynetcdn.com/glglz_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428396/ce84e0c697578791166c20a4103780da_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "KAN BET - כאן ב",
+      "s": "https://22653.live.streamtheworld.com/KAN_BET.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/413174/zkvm5c054782c8e0e116554427_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio HaTahana",
+      "s": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/430711/5f731669466fc60b9a73cc7a2f728a32_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Oldies - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Oldies/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427386/55f729a9ced9b78f8ed0dac6b98b0d2d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rak Musica",
+      "s": "https://listen.radioking.com/radio/605821/stream/667249",
+      "l": "https://images.radiovolna.net/_files/images/stations/430885/8d44808e708c45abc4a38f1e44e255e8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - חזנות",
+      "s": "https://live.kcm.fm/12",
+      "l": "https://images.radiovolna.net/_files/images/stations/427417/8e9b061d8d16346def48e1a8ffa77a8c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - משה לאופר",
+      "s": "https://live.kcm.fm/29",
+      "l": "https://images.radiovolna.net/_files/images/stations/427433/4bd40922ebb32efd7177a6bd4957273e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "רדיו מזרחית בנשמה",
+      "s": "http://162.244.80.106:11226/Stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/419434/cb803d335e4644951b61204581671eef_130x130.webp",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Jerusalem FM",
+      "s": "http://101.cdnwz.net/101fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/405385/xxzm5a44e2125609b936322957_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "100% Latin - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Latin/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427452/1c9348898a85a84b26a8209f3f067e4d_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - English Classics",
+      "s": "https://live.kcm.fm/22",
+      "l": "https://images.radiovolna.net/_files/images/stations/427426/5ec81adea5fef472fdbc51c3835c978e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - מיכאל שניצלער",
+      "s": "https://live.kcm.fm/68",
+      "l": "https://images.radiovolna.net/_files/images/stations/430770/bd5773a2aceb84b519778128606f01dc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - שירים שילדים אוהבים",
+      "s": "https://live.kcm.fm/69",
+      "l": "https://images.radiovolna.net/_files/images/stations/430768/bea3bb52a7e28f240281603ec9a6019f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Hafla - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/91fm_digital_Hafla/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427378/f46597e00bd1333ba76c185e26f2ed0b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Jazz - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Jazz/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427464/d38aa9471ded280ceb3086c5f8942087_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "100% Top40 - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Top40/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427295/2560845a4641461cff59ec078932deac_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Yehudi - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100yehudi/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427477/324e9c76512c3c1e0781dd535154a817_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% 90's - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/10090s/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427391/3f94ee942880c9c44f08106fa07f5042_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Brit Pop - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Britpop/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427467/6f47cfe8363281593e1a7cb08f923d92_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kol HaTzafon",
+      "s": " https://live.ecast.co.il/stream/khz",
+      "l": "https://images.radiovolna.net/_files/images/stations/430708/dbe8969249c967c3e98f9461ea3c2179_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - שלומי גרטנר",
+      "s": "https://live.kcm.fm/66",
+      "l": "https://images.radiovolna.net/_files/images/stations/430772/35420e288539ab8f5a800272c1a22c64_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% No.1 - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Number1/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427382/b9a1815e08a083e18b74a79bbba87349_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kol HaShfela",
+      "s": "https://radio.streamgates.net/stream/1036kh",
+      "l": "https://images.radiovolna.net/_files/images/stations/430789/4768d45a418b7fca5ddc63de36060b7f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "הרדיו הבינתחומי / IDC International Radio",
+      "s": "https://1062onair.runi.ac.il/idc123.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421554/52246b6eefeac1135debc94e8cc30da4_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Sahar",
+      "s": "https://live.ecast.co.il/stream/sahar/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/431285/3df761aa13fe4fd0bfba153c7be8c9ce_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - שנות התש\"מ",
+      "s": "https://live.kcm.fm/59",
+      "l": "https://images.radiovolna.net/_files/images/stations/430804/4c67d9ec804a825816a462b936eb6b96_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Deep - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Deep/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427445/cb8be85ce286d11de8a74c5e84450bfd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - שמילי אונגר",
+      "s": "https://live.kcm.fm/67",
+      "l": "https://images.radiovolna.net/_files/images/stations/430771/549e16a14940e498967ad1f41cfe1ea4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol HaKinneret",
+      "s": "https://radio.streamgates.net/stream/kinneret",
+      "l": "https://images.radiovolna.net/_files/images/stations/427279/737072e0a6b9c1423418c2580166c9ef_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - רבי אלתר",
+      "s": "https://live.kcm.fm/82",
+      "l": "https://images.radiovolna.net/_files/images/stations/427428/97cca0a417316a72c55e97e856d33bc9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Hof Eilat",
+      "s": "https://ec1.yesstreaming.net:3815/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430710/e440e1769dd190309d511ceb2b72b014_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "radiokeazvyamtichioni",
+      "s": "http://178.33.135.244:21399/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/427684/393c11783a6d1be5ad2e069e10197670_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "100% 70's - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/10070s/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427389/5ae9fec574b011e5ad520e8cf3299691_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - הדואטים הגדולים",
+      "s": "https://live.kcm.fm/52",
+      "l": "https://images.radiovolna.net/_files/images/stations/430797/5a99630292975755e9b1549bc328af22_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - אהרן רזאל",
+      "s": "https://live.kcm.fm/75",
+      "l": "https://images.radiovolna.net/_files/images/stations/430762/78a35d4f7b5196815b323968d51f38c1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Daniel",
+      "s": "https://stream.zeno.fm/5ffyfuy10f9uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426710/8b19bbdfd0d5ced1e970e7afa54d6b8a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - מנקים לפסח",
+      "s": "https://live.kcm.fm/85",
+      "l": "https://images.radiovolna.net/_files/images/stations/430781/6890c1b54ba3afc445b6e72841aec781_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Darom",
+      "s": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427482/7e6b23c42dfcb234e4b799afbe3487e7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Dance - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Dance/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427395/a8e428323e6fcaf7d9bf27da6fa2edcb_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - צועדים לשמחה",
+      "s": "https://live.kcm.fm/46",
+      "l": "https://images.radiovolna.net/_files/images/stations/430786/4b5b475d76e2a86c7262685a3db37a3d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - אברהם פריד",
+      "s": "https://live.kcm.fm/15",
+      "l": "https://images.radiovolna.net/_files/images/stations/427419/8c890fec3c15346f17226da7615dd29c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kol Gat",
+      "s": "https://icecast.live/proxy/kolgat/kolgat",
+      "l": "https://images.radiovolna.net/_files/images/stations/430707/12a9b851116246c66622969411c3f742_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kol Ramla",
+      "s": "https://liveradio.co.il:7000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/427485/e99bd8f93ca16ed8d23bf98c53fe446e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Azori",
+      "s": "https://live.ecast.co.il/stream/69fm/azori",
+      "l": "https://images.radiovolna.net/_files/images/stations/427480/e603ae701c581cae6555ff1f9e4608f6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - משה גולדמן",
+      "s": "https://live.kcm.fm/73",
+      "l": "https://images.radiovolna.net/_files/images/stations/430764/a00be014561d2615656cc19765edb1a9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Nostalgia",
+      "s": " http://194.213.4.197:8000/;stream/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/430718/4a6daa9b96980152b5d71f4129d66682_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Covers - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Covers/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427298/ad861d78197d4b911bf18207ea35689d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - הופעות",
+      "s": "https://live.kcm.fm/34",
+      "l": "https://images.radiovolna.net/_files/images/stations/427438/4c280e3f009390ffc8258bd0d7aa0163_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Movies - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Movies/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427465/98ac1a2641547a6b1563cb47030a2e6d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - חב\"ד 770",
+      "s": "https://live.kcm.fm/09",
+      "l": "https://images.radiovolna.net/_files/images/stations/427414/099a6f12e3462ed8de4a018517142604_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Workout - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Workout/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427397/fe9648f4de279b2404154427f983aa90_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% 80's - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/10080s/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427390/7471d8f251805da2e61761bee53cb654_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol HaNegev",
+      "s": "http://ice.sapir.ac.il:8000/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430697/d08328964b2b10370574adeb2f251d65_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - מיכאל שטרייכר",
+      "s": "https://live.kcm.fm/56",
+      "l": "https://images.radiovolna.net/_files/images/stations/430801/5222dd1a81b393b7edcb515634fd89fd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Eretz HaGolan",
+      "s": "https://radio.streamgates.net/stream/eretzgolan",
+      "l": "https://images.radiovolna.net/_files/images/stations/427275/5631f0559abaae68e1a7f05a870300e8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Eurovision - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Special/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427471/995f17246993ba5a87642c13815793ba_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Standup - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100StandUp/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427468/23a665fecedefca166a31b23216c8fd1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Adomedia FM",
+      "s": "https://liveradio.co.il/adomedeiafm",
+      "l": "https://images.radiovolna.net/_files/images/stations/427277/6ac6b26a54831193505da8c0325219f1_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "100% Arutz HaKochavim - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Stars/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427297/8f4c7d1d803923f5d8207a7873f1fd61_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - מוזיקה אלקטרונית",
+      "s": "https://live.kcm.fm/28",
+      "l": "https://images.radiovolna.net/_files/images/stations/427432/a9a4243de52c14ffe867f19126648828_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Shelanu רדיו הקול שלנו",
+      "s": " https://icecast.live/ivr",
+      "l": "https://images.radiovolna.net/_files/images/stations/430706/991950cd5e53349b2a73266d9bf3f82f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Retro - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Retro/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427388/dc07d02b205ef789cc8e33caccacffdf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - ישי ריבו",
+      "s": "https://live.kcm.fm/39",
+      "l": "https://images.radiovolna.net/_files/images/stations/430747/ec6a7a7fa3314215fac0e77697514af8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - מידד טסה",
+      "s": "https://live.kcm.fm/71",
+      "l": "https://images.radiovolna.net/_files/images/stations/430766/d3d89ccb0bd4207bc2c9b08b825ece1c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - מתחת לחופה",
+      "s": "https://live.kcm.fm/49",
+      "l": "https://images.radiovolna.net/_files/images/stations/430794/90cd2e9abcdb4233d84aa5930548a69b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - חיים בנט",
+      "s": "https://live.kcm.fm/23",
+      "l": "https://images.radiovolna.net/_files/images/stations/427427/fa5a276b9ea7dba16d7fa2762d68227f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - סעודה שלישית",
+      "s": "https://live.kcm.fm/79",
+      "l": "https://images.radiovolna.net/_files/images/stations/430758/05c5fba533c0887c0dfab8c2b1ad1c51_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Katzrin",
+      "s": "http://cp16.cdnwz.net/katzrin",
+      "l": "https://images.radiovolna.net/_files/images/stations/427542/78ddea51fc1a38786aa5ac1cbddd0cf6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% K-Pop - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100kpop/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427284/0c3112ea71080950990490927c868eca_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - תענוג לשבת",
+      "s": "https://live.kcm.fm/17",
+      "l": "https://images.radiovolna.net/_files/images/stations/427421/c33f248cbdd30e566c6d691e906bfcb5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - שנות התש\"נ",
+      "s": "https://live.kcm.fm/60",
+      "l": "https://images.radiovolna.net/_files/images/stations/430782/7b6a32bf3871ac2fb6686f7a9b3fae74_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Pride Week - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Taklitia/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427472/9a1893daee040b27a136715b26aacdad_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Galgalim BaReshet",
+      "s": "https://gradio.mediacast.co.il/liveradio/gradio/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427546/11a91a0e6ba97b091033156222aee30f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - חיים ישראל",
+      "s": "https://live.kcm.fm/26",
+      "l": "https://images.radiovolna.net/_files/images/stations/427430/18b65568fdfb6a34ad19b5c301f2dd02_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - פרחי מיאמי",
+      "s": "https://live.kcm.fm/31",
+      "l": "https://images.radiovolna.net/_files/images/stations/427435/d0796734166b7882670b276aa92ba119_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - מנגינה של תקווה",
+      "s": "https://live.kcm.fm/27",
+      "l": "https://images.radiovolna.net/_files/images/stations/427431/c0fb5bc4072c31e46fbb4f2d07e83fc9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - הלב בוכה",
+      "s": "https://live.kcm.fm/80",
+      "l": "https://images.radiovolna.net/_files/images/stations/430757/06bc4ea06e285114b4f219c8b8d1507f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Drivetime - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Drivetime/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427448/a3f59f958e41078a9d4f6353c685ad5e_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "100% Country - Radios 100FM",
+      "s": "http://gb25.streamgates.net/radios-audio/100Country/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427476/5b61ba20d1479b781d538123ff19351d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - להתרגש שירי רגש ודביקות",
+      "s": "https://live.kcm.fm/42",
+      "l": "https://images.radiovolna.net/_files/images/stations/427444/ac7260093270b5159e5a78c2e45af1da_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Karaoke - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100karaoke/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427327/01d5256a69eebba7da95bf38220a5a3d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Love - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Love/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427376/a54006c7c99b111f5576a425461f9d5b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol HaGolan",
+      "s": "https://liveradio.co.il/kolhagolan",
+      "l": "https://images.radiovolna.net/_files/images/stations/427276/af76c19d83df3c166b07bb49c78e8d26_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "100% Blues - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Blues/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427473/5c4ad353358cdb679e4f6a2d83a2d57e_130x130.webp",
+      "g": [
+        "Blues"
+      ]
+    },
+    {
+      "t": "100% HipHop - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Hiphop/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427451/a8b7a7fe1762e53c5d83be4890435dbb_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Radio Qualita",
+      "s": "https://listen.radioking.com/radio/345145/stream/393862",
+      "l": "https://images.radiovolna.net/_files/images/stations/430886/8fc2792c7372ff3cafd42bf9489a306d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - האסק הביצועים הגדולים",
+      "s": "https://live.kcm.fm/51",
+      "l": "https://images.radiovolna.net/_files/images/stations/430796/dac6ef876a0b76c8570cfc85362b3730_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Trance - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Trance/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427446/b44977cede525fd92e9c9c6be0c430b8_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Plus",
+      "s": "https://s3.yesstreaming.net:17049/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430863/61e98ed7225d583d73b844cee8fba74c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Afula",
+      "s": "https://radio.streamgates.net/stream/afula",
+      "l": "https://images.radiovolna.net/_files/images/stations/427484/d944159d0307fe1ace296ddd1a5710ce_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kol Ramat HaSharon",
+      "s": "https://radio.streamgates.net/stream/1036",
+      "l": "https://images.radiovolna.net/_files/images/stations/427481/48e6eeef5857e3b57869da05275d0011_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - עם הצ'ולנט בליל שישי",
+      "s": "https://live.kcm.fm/77",
+      "l": "https://images.radiovolna.net/_files/images/stations/430760/a4723a7b5645876ca43224c594154e20_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Russian - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/891Digital/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427469/a583b0f2050cb923e6ec343f4ff4d531_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - אוהד מושקוביץ",
+      "s": "https://live.kcm.fm/64",
+      "l": "https://images.radiovolna.net/_files/images/stations/430774/6a95cd87c17d1c298575bf40e1885d48_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Legends - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Legends/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427292/fb3d5dbb7e96e2b725c101125597e32e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Live - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Live/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427454/cd59517349b8310cbc2a8c429cba7f6e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Shlomo Artzi - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Shlomo/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427474/ad899d27f5a9dc024acb1f3f63653d36_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Radio Kol Rishonim",
+      "s": "https://live.ecast.co.il:8018/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430709/fc36d22f608969e517447cd3d4f65b4a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - ליפא שמלצער",
+      "s": "https://live.kcm.fm/33",
+      "l": "https://images.radiovolna.net/_files/images/stations/427437/fd08f0a60f71067ef19eec4b70ddeaa3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - מרדכי שפירא",
+      "s": "https://live.kcm.fm/65",
+      "l": "https://images.radiovolna.net/_files/images/stations/430773/07b70979fc1292921c31ed245dcc3d15_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Galey Ashqelonet",
+      "s": "https://s4.radio.co/s6765540c3/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/427274/b4da3da19d80365baa963dae7f87a434_130x130.webp",
+      "g": [
+        "News",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - שעת כושר",
+      "s": "https://live.kcm.fm/47",
+      "l": "https://images.radiovolna.net/_files/images/stations/430787/54a058b741595c57968aa9137a4cc79b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - אייבי רוטנברג",
+      "s": "https://live.kcm.fm/74",
+      "l": "https://images.radiovolna.net/_files/images/stations/430763/d872b4cdf584f2098df3497d3e3c4f38_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - אידישע געזאנגען",
+      "s": "https://live.kcm.fm/53",
+      "l": "https://images.radiovolna.net/_files/images/stations/430798/11069b83dc627d8f6cc70672502efc59_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mahut HaHaim",
+      "s": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427545/210393208928b5ec38badfd0b168ba5c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - שירת התורה",
+      "s": "https://live.kcm.fm/50 ",
+      "l": "https://images.radiovolna.net/_files/images/stations/430795/091aa46d10046ca98c47ef4898a9a03b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - לבכות בפורים",
+      "s": "https://live.kcm.fm/84",
+      "l": "https://images.radiovolna.net/_files/images/stations/427418/98e70965a9eef3995eb1377c17ee7196_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - לרקוד בחתונה",
+      "s": "https://live.kcm.fm/25",
+      "l": "https://images.radiovolna.net/_files/images/stations/427429/54d640d451e35ec8270e7c05dcac1f4b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Sheli",
+      "s": "https://stream-173.zeno.fm/kah9vhegmtzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430698/6d9d6c27ae685f993fd87c79e852b107_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - נפתלי קמפה",
+      "s": "https://live.kcm.fm/58",
+      "l": "https://images.radiovolna.net/_files/images/stations/430803/bed4b3679229f993291e283b590e4666_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% France - Radios 100FM",
+      "s": "http://gb25.streamgates.net/radios-audio/100France/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427475/42ddceb15c61cb03a0f48d47ee1fd14d_130x130.webp",
+      "g": [
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% World - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100World/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427466/f0ef8bc5ea9739cfef7a445f8fcca730_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "100% Vip Digital - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Vip/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427326/eb2bed2bd0fa5f60b3bc5b224752fbf0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% DJset - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Djset/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427396/3313d3bd9881168ab4810d605265e052_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Metsiot - International Station",
+      "s": "https://carina.streamerr.co/stream/metsiot1",
+      "l": "https://images.radiovolna.net/_files/images/stations/427559/91dcd3f7eeb89f3dbd628a4298209643_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Dimona",
+      "s": "http://62.219.136.74/128",
+      "l": "https://images.radiovolna.net/_files/images/stations/427278/f7f86e9c2124a04fa7ec7be2423e54d9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - Rak Yeladim",
+      "s": "https://live.kcm.fm/06",
+      "l": "https://images.radiovolna.net/_files/images/stations/427412/01f7a75a0157d2fecba71faa3d4edec8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Hits - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Hits/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427285/7683138b52320e8ec355c6d894a3314e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "רדיו פופ ישראלי",
+      "s": "https://hoth.alonhosting.com:2590/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/425644/e867458855af5c09e0989a1b64fee976_130x130.webp",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - ישי ריבו",
+      "s": "https://live.kcm.fm/39",
+      "l": "https://images.radiovolna.net/_files/images/stations/427441/f31270d88323720c5b4828543787b7c0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - נעימות",
+      "s": "https://live.kcm.fm/10",
+      "l": "https://images.radiovolna.net/_files/images/stations/427415/7d4bee41c9db3c8132a948bec4786b30_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - על הפארנצע'ס",
+      "s": "https://live.kcm.fm/08",
+      "l": "https://images.radiovolna.net/_files/images/stations/427413/ddcd832f8bcdd30690e32699c522f05c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Nostalgia Ivrit - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Nostalgia/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427381/43565fb91aea355e731245ceb30761aa_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol-Barama FM",
+      "s": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/9090/e1a2ef165b496b8865fa40eb6dabff01_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kol Nesher",
+      "s": "http://radio.kolnesher.co.il:7777/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/427543/c0f741c7bf1195c50eca154a4b5053cd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kol Chai Music - יעקב שוואקי",
+      "s": "https://live.kcm.fm/30",
+      "l": "https://images.radiovolna.net/_files/images/stations/427434/728f679a71a79bc70ccb172a61251394_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Yam Tichoni Lohet - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/91Hot/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427289/7a9afb612dad2e86c52fc13eb6d6f96b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100% Israeli - Radios 100FM",
+      "s": "http://kodi.streamgates.net/radios-audio/100Israeli/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/427377/3a3f73192038b044745f286d35ff4921_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Here 88",
+      "s": "https://27743.live.streamtheworld.com/KAN_88.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405386/v3re5a44e2a7a2d0c599839157_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "GalGalatz",
+      "s": "https://glzwizzlv.bynetcdn.com/glglz_mp3",
+      "l": "https://kuasark.com/files/stations-logos/galgalatz.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Agape",
+      "s": "https://s3.radio.co/s43b65d791/listen",
+      "l": "https://kuasark.com/files/stations-logos/radio-agape-il.png",
+      "g": [
+        "Inspirational",
+        "Pop",
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Noshmim Mizrahit",
+      "s": "https://mzr.mediacast.co.il/mzradio",
+      "l": "https://kuasark.com/files/stations-logos/noshmim-mizrahit.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Israel News Talk Radio",
+      "s": "https://dfw.audio-stream.com/proxy/israelne?mp=/live_live",
+      "l": "https://kuasark.com/files/stations-logos/israel-news-talk-radio.png",
+      "g": [
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Joint Radio Reggae",
+      "s": "https://jointil.com/stream-reggae",
+      "l": "https://kuasark.com/files/stations-logos/joint-radio-reggae.png",
+      "g": [
+        "Country",
+        "Reggae",
+        "Electronic",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Galei Zahal",
+      "s": "https://glzwizzlv.bynetcdn.com/glz_mp3",
+      "l": "https://kuasark.com/files/stations-logos/galei-zahal.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Teenbuzz Radio",
+      "s": "https://uksoutha.streaming.broadcast.radio/teenbuzzradio",
+      "l": "https://kuasark.com/files/stations-logos/teenbuzz-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Geula FM",
+      "s": "https://broadcast.adpronet.com/radio/8010/radio.mp3?ver=370660",
+      "l": "https://kuasark.com/files/stations-logos/geula-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Kol-Chai",
+      "s": "https://media2.93fm.co.il/live-new",
+      "l": "https://kuasark.com/files/stations-logos/radio-kol-chai.png",
+      "g": [
+        "Folk",
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Here Bet",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3?dist=radiohead",
+      "l": "https://kuasark.com/files/stations-logos/here-bet.png",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Toker FM",
+      "s": "https://broadcast.adpronet.com/radio/6060/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/toker-fm.png",
+      "g": [
+        "Folk",
+        "International",
+        "Other",
+        "News",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Лучшее радио",
+      "s": "http://live.cdnwz.net/thebest",
+      "l": "https://kuasark.com/files/stations-logos/lucsee-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "100FM Radius - Ad",
+      "s": "https://gb25.streamgates.net/radios-audio/100Ad/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-ad.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "100FM Radius - Disney",
+      "s": "https://gb25.streamgates.net/radios-audio/100Disney/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-disney.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Yeshua Messianic Radio",
+      "s": "http://dc3.serverse.com:1120/;",
+      "l": "https://kuasark.com/files/stations-logos/yeshua-messianic-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "100FM Radius - Arutz HaKochavim",
+      "s": "https://gb25.streamgates.net/radios-audio/100Stars/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-arutz-hakochavim.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio 102FM",
+      "s": "https://102.livecdn.biz/102fm_aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-102fm.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "100FM Radius - Kids",
+      "s": "https://gb25.streamgates.net/radios-audio/100Kids/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-kids.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Kol-Chai Music",
+      "s": "https://media2.93fm.co.il/livemusic",
+      "l": "https://kuasark.com/files/stations-logos/radio-kol-chai-music.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "TSHUVAfm",
+      "s": "https://tshuvafmcom.radioca.st/;",
+      "l": "https://kuasark.com/files/stations-logos/tshuvafm.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "100FM Radius - Tomer Maizner",
+      "s": "https://gb25.streamgates.net/radios-audio/100Tomer/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-tomer-maizner.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "100FM Radius - Top 40",
+      "s": "https://gb25.streamgates.net/radios-audio/100Top40/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-top-40.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Blues",
+      "s": "https://gb25.streamgates.net/radios-audio/100Blues/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-blues.png",
+      "g": [
+        "Blues"
+      ]
+    },
+    {
+      "t": "Kol-Barama",
+      "s": "http://kb.cdnwz.net/kol_barama",
+      "l": "https://kuasark.com/files/stations-logos/kol-barama.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Joint Radio Blues",
+      "s": "https://jointil.com/stream-blues",
+      "l": "https://kuasark.com/files/stations-logos/joint-radio-blues.png",
+      "g": [
+        "Blues",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "100FM Radius - 100% Workout",
+      "s": "https://gb25.streamgates.net/radios-audio/100Workout/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-100-workout.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Russian",
+      "s": "https://gb25.streamgates.net/radios-audio/891Digital/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-russian.png",
+      "g": [
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "100FM Radius - Deep",
+      "s": "https://gb25.streamgates.net/radios-audio/100Deep/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-deep.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "100FM Radius - Hot",
+      "s": "https://gb25.streamgates.net/radios-audio/91Hot/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-hot.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - No.1",
+      "s": "https://gb25.streamgates.net/radios-audio/100Number1/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-no1.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Movies",
+      "s": "https://gb25.streamgates.net/radios-audio/100Movies/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-movies.png",
+      "g": [
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "100FM Radius - Hits",
+      "s": "https://gb25.streamgates.net/radios-audio/100Hits/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Trance",
+      "s": "https://gb25.streamgates.net/radios-audio/100Trance/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-trance.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "100FM Radius - 2000s",
+      "s": "https://gb25.streamgates.net/radios-audio/1002000s/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-2000s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "100FM Radius - StandUp",
+      "s": "https://gb25.streamgates.net/radios-audio/100StandUp/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-standup.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "100FM Radius - Brit Pop",
+      "s": "https://gb25.streamgates.net/radios-audio/100Britpop/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-brit-pop.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - 80s",
+      "s": "https://gb25.streamgates.net/radios-audio/10080s/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-80s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "100FM Radius - Karaoke",
+      "s": "https://gb25.streamgates.net/radios-audio/100karaoke/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-karaoke.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Country",
+      "s": "https://gb25.streamgates.net/radios-audio/100Country/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-country.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "100FM Radius - Covers",
+      "s": "https://gb25.streamgates.net/radios-audio/100Covers/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-covers.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Tik Tok",
+      "s": "https://gb25.streamgates.net/radios-audio/100Tiktok/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-tik-tok.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Relax",
+      "s": "https://gb25.streamgates.net/radios-audio/100Relax/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-relax.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Eco99FM",
+      "s": "http://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/eco99fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio B.B Bukharian Jewish Music",
+      "s": "https://liveradio.co.il:1100/;?type=http&nocache=1641830637",
+      "l": "https://kuasark.com/files/stations-logos/radio-bb-bukharian-jewish-music.png",
+      "g": [
+        "Folk",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "100FM Radius - Shlomo Artzi",
+      "s": "https://gb25.streamgates.net/radios-audio/100Shlomo/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-shlomo-artzi.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius -  Vip Digital",
+      "s": "https://gb25.streamgates.net/radios-audio/100Vip/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-vip-digital.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Yehudi",
+      "s": "https://gb25.streamgates.net/radios-audio/100yehudi/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-yehudi.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Legends",
+      "s": "https://gb25.streamgates.net/radios-audio/100Legends/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-legends.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Oldies",
+      "s": "https://gb25.streamgates.net/radios-audio/100Oldies/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-oldies.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "100FM Radius - 90s",
+      "s": "https://gb25.streamgates.net/radios-audio/10090s/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-90s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "100FM Radius - Jazz",
+      "s": "https://gb25.streamgates.net/radios-audio/100Jazz/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-jazz.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "100FM Radius - Hip Hop",
+      "s": "https://gb25.streamgates.net/radios-audio/100Hiphop/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-hip-hop.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Joint Radio Beat",
+      "s": "https://jointil.com/stream-beat",
+      "l": "https://kuasark.com/files/stations-logos/joint-radio-beat.png",
+      "g": [
+        "New Age",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "100FM Radius - Italian",
+      "s": "https://gb25.streamgates.net/radios-audio/100Italian/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-italian.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "100FM Radius - 70s",
+      "s": "https://gb25.streamgates.net/radios-audio/10070s/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-70s.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "100FM Radius - Greek",
+      "s": "https://gb25.streamgates.net/radios-audio/100Greek/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-greek.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "100FM Radius - Classic Rock",
+      "s": "https://gb25.streamgates.net/radios-audio/100ClassicRock/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-classic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "100FM Radius - Cafe",
+      "s": "https://gb25.streamgates.net/radios-audio/100Cafe/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-cafe.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Israeli",
+      "s": "https://gb25.streamgates.net/radios-audio/100Israeli/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-israeli.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Retro",
+      "s": "https://gb25.streamgates.net/radios-audio/100Retro/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-retro.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "100FM Radius - Chillout",
+      "s": "https://gb25.streamgates.net/radios-audio/100Chillout/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-chillout.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "100FM Radius - France",
+      "s": "https://gb25.streamgates.net/radios-audio/100France/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-france.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "100FM Radius - Live",
+      "s": "https://gb25.streamgates.net/radios-audio/100Live/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-live.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Eurovision",
+      "s": "https://gb25.streamgates.net/radios-audio/100Special/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-eurovision.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Club",
+      "s": "https://gb25.streamgates.net/radios-audio/100Club/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-club.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "100FM Radius - Djset",
+      "s": "https://gb25.streamgates.net/radios-audio/100Djset/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-djset.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "100FM Radius - Gamer",
+      "s": "https://gb25.streamgates.net/radios-audio/100Gamer/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-gamer.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "100FM Radius - Selfie",
+      "s": "https://gb25.streamgates.net/radios-audio/100Selfie/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-selfie.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - History",
+      "s": "https://gb25.streamgates.net/radios-audio/100History/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-history.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Hamesh",
+      "s": "http://995.livecdn.biz:8000/995fm",
+      "l": "https://kuasark.com/files/stations-logos/radio-hamesh.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Haifa",
+      "s": "https://1075.livecdn.biz/radiohaifa",
+      "l": "https://kuasark.com/files/stations-logos/radio-haifa.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "100FM Radius - World Music",
+      "s": "https://gb25.streamgates.net/radios-audio/100World/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-world-music.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Rock",
+      "s": "https://gb25.streamgates.net/radios-audio/100Rock/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "100FM Radius - Pride Week",
+      "s": "https://gb25.streamgates.net/radios-audio/100Taklitia/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-pride-week.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "100FM Radius - Classic",
+      "s": "https://gb25.streamgates.net/radios-audio/100Classic/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-classic.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "100FM Radius - Love",
+      "s": "https://gb25.streamgates.net/radios-audio/100Love/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-love.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "100FM Radius - Drivetime",
+      "s": "https://gb25.streamgates.net/radios-audio/100Drivetime/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-drivetime.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Yasoo",
+      "s": "http://radio-yasoo.ath.cx:7500/;stream.nsv&type=mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-yasoo.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "100FM Radius - Nostalgia",
+      "s": "https://gb25.streamgates.net/radios-audio/100Nostalgia/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/100fm-radius-nostalgia.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "lovely greek radio",
+      "s": "https://liveradio.co.il:9060/stream",
+      "l": "https://kuasark.com/files/stations-logos/lovely-greek-radio.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Up2Dance Radio",
+      "s": "https://icecast.live/proxy/up2dance/up2dance",
+      "l": "https://kuasark.com/files/stations-logos/up2dance-radio.png",
+      "g": [
+        "Electronic",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Kol-Chai בשיעור-חי",
+      "s": "https://media2.93fm.co.il/livetorani",
+      "l": "https://kuasark.com/files/stations-logos/radio-kol-chai-bsywr-hy.png",
+      "g": [
+        "Folk",
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Beat Radio",
+      "s": "http://live.radio-beat.com/stream1/",
+      "l": "https://kuasark.com/files/stations-logos/beat-radio-il.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Breslev",
+      "s": "https://stream.radiobreslev.co.il/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-breslev.png",
+      "g": [
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Blue Greece",
+      "s": "https://icecast.live/proxy/livegreece/livegreece_aac",
+      "l": "https://kuasark.com/files/stations-logos/blue-greece.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kol Rega",
+      "s": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/kol-rega.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Maxximixx Underground",
+      "s": "https://maxximixx-server.com:1185/stream",
+      "l": "https://kuasark.com/files/stations-logos/maxximixx-underground.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Mevaser Tov",
+      "s": "http://770tv.no-ip.org:7777/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-mevaser-tov.png",
+      "g": [
+        "Folk",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "AvivMedia",
+      "s": "https://free.rcast.net/62276",
+      "l": "https://kuasark.com/files/stations-logos/avivmedia.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio 2000",
+      "s": "https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/radio-2000-10911.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Parovoz",
+      "s": "https://listen7.myradio24.com/57790",
+      "l": "https://kuasark.com/files/stations-logos/radio-parovoz.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RADIO 5",
+      "s": "https://liveradio.co.il/radio5",
+      "l": "https://kuasark.com/files/stations-logos/radio-5-il.png",
+      "g": [
+        "Folk",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Mediterranean Rhythm Radio",
+      "s": "http://liveradio.co.il:1040/;",
+      "l": "https://kuasark.com/files/stations-logos/mediterranean-rhythm-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 90 FM",
+      "s": "https://radio.streamgates.net/stream/90fm",
+      "l": "https://kuasark.com/files/stations-logos/radio-90-fm-il.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "רדיו כחול לבן",
+      "s": "https://radiokahollavan.co.il/radiolive",
+      "l": "https://kuasark.com/files/stations-logos/rdyw-khwl-lbn.png",
+      "g": [
+        "Folk",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Maxximixx  Play Live",
+      "s": "https://u22961583.onlinehome-server.com/1030",
+      "l": "https://kuasark.com/files/stations-logos/maxximixx-play-live.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Other",
+        "Inspirational",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Arutz Sheva Radio",
+      "s": "https://a7.org/media/a7live",
+      "l": "https://kuasark.com/files/stations-logos/arutz-sheva-radio.png",
+      "g": [
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "רדיו קליק לים התיכון",
+      "s": "https://icecast.live/proxy/yamfm/yamfm",
+      "l": "https://kuasark.com/files/stations-logos/rdyw-qlyq-lym-htykwn.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kiss FM Middle East",
+      "s": "https://streaming.starterfm.com/listen/kissfm/starter48",
+      "l": "https://kuasark.com/files/stations-logos/kiss-fm-middle-east.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Maxximixx  Play",
+      "s": "https://u22961583.onlinehome-server.com:1085/stream",
+      "l": "https://kuasark.com/files/stations-logos/maxximixx-play.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Other",
+        "Inspirational",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Niceman Radio",
+      "s": "https://listen6.myradio24.com/25715",
+      "l": "https://kuasark.com/files/stations-logos/niceman-radio.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Maxximixx Inside",
+      "s": "https://maxximixx-server.com:1045/stream",
+      "l": "https://kuasark.com/files/stations-logos/maxximixx-inside.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Kol Hagalil Haelion",
+      "s": "https://radio.streamgates.net/stream/galil",
+      "l": "https://kuasark.com/files/stations-logos/radio-kol-hagalil-haelion.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kol HaMerkaz",
+      "s": "https://liveradio.co.il:9050/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-kol-hamerkaz.png",
+      "g": [
+        "Pop",
+        "Electronic",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ivri 6",
+      "s": "https://streaming.radio.co/sa06221901/listen",
+      "l": "https://kuasark.com/files/stations-logos/ivri-6.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Maxximixx Always The New Sound",
+      "s": "https://u22961583.onlinehome-server.com:1145/stream",
+      "l": "https://kuasark.com/files/stations-logos/maxximixx-always-the-new-sound.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Other",
+        "Inspirational",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Maxximixx Play Clubbing",
+      "s": "https://u22961583.onlinehome-server.com:1065/stream",
+      "l": "https://kuasark.com/files/stations-logos/maxximixx-play-clubbing.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Yaboos FM",
+      "s": "https://stream.yaboos.fm/live",
+      "l": "https://kuasark.com/files/stations-logos/yaboos-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Maxximixx Rave 90's",
+      "s": "http://u22961583.onlinehome-server.com:1290/stream",
+      "l": "https://kuasark.com/files/stations-logos/maxximixx-rave-90s.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Other",
+        "Inspirational",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Ynet Radio",
+      "s": "https://yradio.livecdn.biz/ynet-live",
+      "l": "https://kuasark.com/files/stations-logos/ynet-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Maxximixx Discovery",
+      "s": "https://maxximixx-server.com:1125/stream",
+      "l": "https://kuasark.com/files/stations-logos/maxximixx-discovery.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Other",
+        "Inspirational",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Radio Galey Israel",
+      "s": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/radio-galey-israel.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Futée",
+      "s": "http://82.80.192.236:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-futee.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Kol Yizrael",
+      "s": "https://radio.streamgates.net/stream/yezreel",
+      "l": "https://kuasark.com/files/stations-logos/radio-kol-yizrael.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Mundial Gospel Jeruzalem",
+      "s": "https://stream-151.zeno.fm/9xars3kx298uv?zs=hzLzqwekTfKrPd2EFsLRKQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-mundial-gospel-jeruzalem.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Mt. Scopus Radio",
+      "s": "http://msradio.huji.ac.il/wwwroot/basics/48Kmancreation.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mt-scopus-radio.png",
+      "g": [
+        "Jazz",
+        "Other",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Tzafon",
+      "s": "https://radio.streamgates.net/stream/1045fm",
+      "l": "https://kuasark.com/files/stations-logos/radio-tzafon.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Kol Netanya",
+      "s": "https://radio.streamgates.net/stream/netanya",
+      "l": "https://kuasark.com/files/stations-logos/radio-kol-netanya.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Nostalgia",
+      "s": "http://194.213.4.197:8000/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-nostalgia-il.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Ran  راديو اسرائيل ران",
+      "s": "http://185.80.220.12:8047/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-ran-radyw-asrayyl-ran.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Breslev - KolHaNachal",
+      "s": "https://cast4.asurahosting.com/proxy/yaniv/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-breslev-kolhanachal.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Yiddish 24",
+      "s": "https://music.yiddish24.com:5001/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-yiddish-24.png",
+      "g": [
+        "Pop",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "БиК Радио",
+      "s": "https://listen7.myradio24.com/bikradio",
+      "l": "https://kuasark.com/files/stations-logos/bik-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Setareh  رادیو ستاره",
+      "s": "http://s2.free-shoutcast.com/stream/18256",
+      "l": "https://kuasark.com/files/stations-logos/radio-setareh-radyw-starh.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "רדיו קול המשפחה",
+      "s": "https://sh1.secured.co.il/proxy/ynrcollege/stream",
+      "l": "https://kuasark.com/files/stations-logos/rdyw-qwl-hmsphh.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "GalGalatz - עשורים",
+      "s": "https://glzwizzlv.bynetcdn.com/glglz_alt_mp3",
+      "l": "https://kuasark.com/files/stations-logos/galgalatz-swrym.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "GalGalatz - גל עברי",
+      "s": "https://glzwizzlv.bynetcdn.com/glglz_classicil_mp3",
+      "l": "https://kuasark.com/files/stations-logos/galgalatz-gl-bry.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "GalGalatz - להיטים חמים",
+      "s": "https://glzwizzlv.bynetcdn.com/glglz_hits_mp3",
+      "l": "https://kuasark.com/files/stations-logos/galgalatz-lhytym-hmym.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "GalGalatz - סופשבוע רגוע",
+      "s": "https://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3",
+      "l": "https://kuasark.com/files/stations-logos/galgalatz-swpsbw-rgw.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Kabbalah TV",
+      "s": "https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/kabbalah-tv.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Daniel",
+      "s": "https://stream-173.zeno.fm/qbtz9ty10f9uv",
+      "l": "https://kuasark.com/files/stations-logos/radio-daniel.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Tzliley Turkia",
+      "s": "https://live.ecast.co.il/stream/turkanos",
+      "l": "https://kuasark.com/files/stations-logos/radio-tzliley-turkia.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Kol Nes Tziona",
+      "s": "http://kolness.livecast.co.il/liveness/",
+      "l": "https://kuasark.com/files/stations-logos/radio-kol-nes-tziona.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Better Radio",
+      "s": "https://radio.betteradio.live/listen/better_radio/live",
+      "l": "https://kuasark.com/files/stations-logos/better-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "GalGalatz - ים תיכוני",
+      "s": "https://glzwizzlv.bynetcdn.com/glglz_med_mp3",
+      "l": "https://kuasark.com/files/stations-logos/galgalatz-ym-tykwny.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "רדיו אפי-לוג ע\"ש אפי מליק",
+      "s": "https://liveradio.co.il/radioefilog/;",
+      "l": "https://kuasark.com/files/stations-logos/rdyw-py-lwg-s-py-mlyq.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radios 100FM",
+      "s": "http://gb25.streamgates.net/radios-audio/100Workout/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/radios-100fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Jewish Music Stream",
+      "s": "https://stream.jewishmusicstream.com:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/jewish-music-stream.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Glglz",
+      "s": "https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz",
+      "l": "https://kuasark.com/files/stations-logos/glglz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kan Gimel",
+      "s": "http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3",
+      "l": "https://kuasark.com/files/stations-logos/kan-gimel.png",
+      "g": [
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Kabbalah Fr",
+      "s": "http://icecast.kab.tv/live1-spa-574bcfd5.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kabbalah-fr.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "KAN 88",
+      "s": "http://kanliveicy.media.kan.org.il/icy/kan88_mp3",
+      "l": "https://kuasark.com/files/stations-logos/kan-88.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kan Israel Bet 95.5 FM",
+      "s": "http://kanliveicy.media.kan.org.il/icy/kanbet_mp3",
+      "l": "https://kuasark.com/files/stations-logos/kan-israel-bet-955-fm.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "קבלה לעם עברית - Kabbalah heb",
+      "s": "http://icecast.kab.tv/live1-heb-574bcfd5.mp3",
+      "l": "https://kuasark.com/files/stations-logos/qblh-lm-bryt-kabbalah-heb.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "اذاعة الشمس - A-Shams",
+      "s": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/adhat-alshms-a-shams.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "רדיו יאסו - Radio Yasoo",
+      "s": "http://radio-yasoo.ath.cx:7500/;",
+      "l": "https://kuasark.com/files/stations-logos/rdyw-ysw-radio-yasoo.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "אקו eco 99fm",
+      "s": "http://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio?hash=1559501510715.m4a",
+      "l": "https://kuasark.com/files/stations-logos/qw-eco-99fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kan Israel 88 FM",
+      "s": "https://kan88.media.kan.org.il/hls/live/2024812/2024812/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/kan-israel-88-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "קבלה לעם צרפתית - Kabbalah fre",
+      "s": "http://icecast.kab.tv/live1-fre-574bcfd5.mp3",
+      "l": "https://kuasark.com/files/stations-logos/qblh-lm-zrptyt-kabbalah-fre.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "kzradio",
+      "s": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/kzradio.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "קול נתניה - Kol Netanya",
+      "s": "http://netanya.cdnwz.net/netanya",
+      "l": "https://kuasark.com/files/stations-logos/qwl-ntnyh-kol-netanya.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "קבלה לעם אנגלית - Kabbalah eng",
+      "s": "http://icecast.kab.tv/live1-eng-574bcfd5.mp3",
+      "l": "https://kuasark.com/files/stations-logos/qblh-lm-nglyt-kabbalah-eng.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

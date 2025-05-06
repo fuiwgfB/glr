@@ -1,0 +1,796 @@
+{
+  "stations": [
+    {
+      "t": "RTS Radio Sénégal Internationale",
+      "s": "https://stream.zeno.fm/4ug134nd28quv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423429/2e99cd02a5ecea2234a77e32b762fc7f_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Safina FM",
+      "s": "https://stream.zenolive.com/8v28tbwh2rquv.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423433/dd303ffc858af612fb6221e5f765da08_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Trace FM",
+      "s": "http://stream.trace.tv/trace_fm_senegal-midfi.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423436/358ead09e0e082e06bf936a217a308a0_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "iRadio",
+      "s": "https://listen.radioking.com/radio/250102/stream/306970",
+      "l": "https://images.radiovolna.net/_files/images/stations/423427/26837c1a63a28c893b9598707da6be0c_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Futurs Médias",
+      "s": "https://stream.zeno.fm/kuk0syz5puquv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405255/fz9l5a422be320922811074647_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "FM Sénégal",
+      "s": "https://stream.zenolive.com/t8gcyq6ts0quv.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423435/7fb2ac7d004eef4f6e15af5821c593f4_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "UCAD FM",
+      "s": "https://node-18.zeno.fm/b38a68a1krquv.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423431/def6951cd9076cb4628e207aed780646_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Lamp Fall FM",
+      "s": "https://stream.zenolive.com/ay2qtfx62neuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405259/r7ha5a422de513523188501188_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Walf FM",
+      "s": "https://stream.zeno.fm/qfkgzcf5kv8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405258/vatr5a422d78c8253479379952_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTS Dakar FM",
+      "s": "https://node-29.zeno.fm/cbff588f03duv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423430/40aea869b5ca791eec59785a6bc28de4_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "RTS Chaîne Nationale",
+      "s": "https://stream.zeno.fm/6c5cv8nrt1duv.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/429384/f150924a94d5f8c21c616038d8aef75d_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Medinabaye FM",
+      "s": "https://stream.zenolive.com/w4v1hckvewwtv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27425/3dd41759b579b2d84f4d4fa9f6a5597b_130x130.webp",
+      "g": [
+        "Folk",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Espérance FM",
+      "s": "http://online.aztechnologie.com:9000/respe",
+      "l": "https://images.radiovolna.net/_files/images/stations/429383/4dbc38e5f6b5549ca15aa832ecd7a3e8_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sud FM senradio",
+      "s": "https://node-11.zeno.fm/rq40edfn3reuv.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405257/us1b5a422d064517a215084565_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Urban Radio Africa",
+      "s": "https://node-19.zeno.fm/708hahhk22quv.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423432/9db16e42fdb30d118d044cb5d67c1404_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Africa7 Radio",
+      "s": "http://162.254.149.235:8081/africa7radio/live/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/423428/54190b433c86c569efc3922081b5d412_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "West Africa Democracy Radio (W.A.D.R)",
+      "s": "https://westafricademocracyradio.ice.infomaniak.ch/westafricademocracyradio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405256/bvj55a422c54e5fa4368997667_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Faydatidianiya",
+      "s": "http://listen.senemultimedia.net:5526/listen/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/27423/529dcac580c2ca4e6cb062edb01103ed_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Dakar Musique",
+      "s": "https://listen.senemultimedia.net:8092/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/30389/50101b4a909c025d5020d4c6a3f187bb_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "podor fm 90.7",
+      "s": "https://stream.zeno.fm/nh7k8dkkcdnuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429889/4c3c2896d620897bef0f669a27f3f26f_130x130.webp",
+      "g": [
+        "International",
+        "Metal",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Zik FM",
+      "s": "https://stream-021.zeno.fm/z97k8ry9sxquv?zs=6Y2eq5QBRgKSjprVIZnpCg",
+      "l": "https://kuasark.com/files/stations-logos/zik-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sud FM",
+      "s": "https://stream-038.zeno.fm/rq40edfn3reuv?zs=Z6z8YE1ISMKXWbEfYycUHQ",
+      "l": "https://kuasark.com/files/stations-logos/sud-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Futurs Medias",
+      "s": "https://stream-023.zeno.fm/kuk0syz5puquv?zs=rs1nH5iPT0WcWeE8Vo3rwg",
+      "l": "https://kuasark.com/files/stations-logos/radio-futurs-medias.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "News"
+      ]
+    },
+    {
+      "t": "Walf FM",
+      "s": "http://206.190.135.28:8036/stream",
+      "l": "https://kuasark.com/files/stations-logos/walf-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "iRADIO 90.3",
+      "s": "https://stream-057.zeno.fm/x4qspy6qsp8uv?zs=9NZSNXuPSvKek37wxEplDw",
+      "l": "https://kuasark.com/files/stations-logos/iradio-903.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Faydatidianiya",
+      "s": "http://listen.senemultimedia.net:5526/;",
+      "l": "https://kuasark.com/files/stations-logos/faydatidianiya.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Lamp FM",
+      "s": "https://stream-156.zeno.fm/q631qfx62neuv?zs=r9XbO72eQxuNW-UIhXCqNw",
+      "l": "https://kuasark.com/files/stations-logos/lamp-fm.png",
+      "g": [
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vibe Radio 102.3",
+      "s": "http://31.207.37.120:8000/viberadio-sn.mp3",
+      "l": "https://kuasark.com/files/stations-logos/vibe-radio-1023.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "MEDINABAYEKAFFRINE",
+      "s": "https://stream-046.zeno.fm/w4v1hckvewwtv?zs=nTwKKtIPRZOfasdY0vwPqg",
+      "l": "https://kuasark.com/files/stations-logos/medinabayekaffrine.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sama Radio Dakar",
+      "s": "http://streaming.radionomy.com:80/JamendoLounge",
+      "l": "https://kuasark.com/files/stations-logos/sama-radio-dakar.png",
+      "g": [
+        "Rap",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Thiossane",
+      "s": "https://listen.senemultimedia.net:8112/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-thiossane.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Al Fayda",
+      "s": "https://usa5.fastcast4u.com/proxy/lyartech?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-al-fayda-sn.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Talibé",
+      "s": "http://107.155.111.170:8282/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-talibe.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Pikine Biz Radio",
+      "s": "https://stream-148.zeno.fm/xvnmmwvk74zuv?zs=MeHCHqnCSu2_mq9dL1vb4w",
+      "l": "https://kuasark.com/files/stations-logos/pikine-biz-radio.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "AlloDakar Radio TamTam",
+      "s": "https://18213.live.streamtheworld.com:443/SP_R3644495.aac",
+      "l": "https://kuasark.com/files/stations-logos/allodakar-radio-tamtam.png",
+      "g": [
+        "Rap",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "OXY Jeunes FM",
+      "s": "http://s9.voscast.com:7994/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/oxy-jeunes-fm.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Pikine Diaspora Radio",
+      "s": "http://s8.voscast.com:8252/;",
+      "l": "https://kuasark.com/files/stations-logos/pikine-diaspora-radio.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Fleuve de Vie Sénégal (FVS)",
+      "s": "https://stream-149.zeno.fm/tbb9mv10x1zuv?zs=RP8Mf22ZR8upKGZxD7mjLA",
+      "l": "https://kuasark.com/files/stations-logos/radio-fleuve-de-vie-senegal-fvs.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Baye Fall FM",
+      "s": "https://betelgeuse.dribbcast.com/proxy/bayfallfm?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-baye-fall-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Xalima Radio",
+      "s": "http://radiosunuker221.primcast.com:7148/;",
+      "l": "https://kuasark.com/files/stations-logos/xalima-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Sunuker",
+      "s": "http://radiosunuker221.primcast.com:7148/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-sunuker.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Wadr fm",
+      "s": "https://westafricademocracyradio.ice.infomaniak.ch/westafricademocracyradio",
+      "l": "https://kuasark.com/files/stations-logos/wadr-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rewmi Fm",
+      "s": "https://stream-057.zeno.fm/nkzsqg16t8quv?zs=UXo6ljIQR9-EHk6omEc8WA",
+      "l": "https://kuasark.com/files/stations-logos/rewmi-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "UCAB FM",
+      "s": "https://betelgeuse.dribbcast.com/proxy/ucab?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/ucab-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Carrefour",
+      "s": "https://stream-057.zeno.fm/dm1hymk3qzzuv?zs=OtvWzV7nRFqUhUAVPJe1xg",
+      "l": "https://kuasark.com/files/stations-logos/radio-carrefour.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Benno FM Touba",
+      "s": "https://betelgeuse.dribbcast.com/proxy/bennofm?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-benno-fm-touba.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Afro FM de Louga",
+      "s": "https://stream-052.zeno.fm/krr0xsyd31zuv?zs=zhptRuPKSeGVZHgDwbUA_w",
+      "l": "https://kuasark.com/files/stations-logos/afro-fm-de-louga.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "H24 Radio",
+      "s": "https://listen.senemultimedia.net:8072/stream",
+      "l": "https://kuasark.com/files/stations-logos/h24-radio.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Dakar Internationale",
+      "s": "https://stream-150.zeno.fm/p2k4mazed2zuv?zs=CItHm8pLQoWqHLNjz5BleA",
+      "l": "https://kuasark.com/files/stations-logos/radio-dakar-internationale.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Ndiaréme FM",
+      "s": "https://betelgeuse.dribbcast.com/proxy/diaremefm?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-ndiareme-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio PIKINE DIASPORA",
+      "s": "http://s8.voscast.com:8252/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-pikine-diaspora.png",
+      "g": [
+        "Country",
+        "Rap",
+        "Rock",
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Porokhane FM",
+      "s": "https://betelgeuse.dribbcast.com/proxy/mamediarra?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/porokhane-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Haere Lao Radio Fulbe International",
+      "s": "https://stream-057.zeno.fm/t5svv1w92mruv?zs=0aJIfjabQAiyJP2PPpXE3w",
+      "l": "https://kuasark.com/files/stations-logos/haere-lao-radio-fulbe-international.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Africa7 FM 90.7",
+      "s": "https://stream-052.zeno.fm/rnbifn09oqotv?zs=2xi5s-XCSjGVhNhUy7C0Bg",
+      "l": "https://kuasark.com/files/stations-logos/africa7-fm-907.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dakar City",
+      "s": "https://listen.senemultimedia.net:8002/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-dakar-city.png",
+      "g": [
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Sweet Radio Senegal",
+      "s": "https://stream-052.zeno.fm/jemecjfbczhuv?zs=58y1hBJMTLq8pPmm53jT6w",
+      "l": "https://kuasark.com/files/stations-logos/sweet-radio-senegal.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "At Tidjania FM",
+      "s": "https://betelgeuse.dribbcast.com/proxy/atidiania?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/at-tidjania-fm.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dingiral Fulbe",
+      "s": "http://s9.voscast.com:8444/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/radio-dingiral-fulbe.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Keur Massar",
+      "s": "http://listen.senemultimedia.net:8140/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-keur-massar.png",
+      "g": [
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Sweet Radio Religion",
+      "s": "https://stream-152.zeno.fm/klberhajrjqtv?zs=AwPsId5dR3W7PEtruK32Xw",
+      "l": "https://kuasark.com/files/stations-logos/sweet-radio-religion.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Baol Médias FM",
+      "s": "https://stream-046.zeno.fm/4m5ypa1zphruv?zs=auLWJAU_SE-zxwj6iHQ_0A",
+      "l": "https://kuasark.com/files/stations-logos/radio-baol-medias-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "YAGAYE FM 95.9",
+      "s": "https://stream-152.zeno.fm/0aljdy9yxieuv?zs=geRFc63JRc6fKL0nXUnecw",
+      "l": "https://kuasark.com/files/stations-logos/yagaye-fm-959.png",
+      "g": [
+        "Inspirational",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Nasroulahi FM",
+      "s": "https://betelgeuse.dribbcast.com/proxy/nasroulahi?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-nasroulahi-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Achabiba Abbassiya FM",
+      "s": "http://s6.voscast.com:9436/stream",
+      "l": "https://kuasark.com/files/stations-logos/achabiba-abbassiya-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Daaradji online",
+      "s": "http://206.190.135.28:8282/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-daaradji-online.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Rufisque FM",
+      "s": "http://206.190.135.28:8276/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-rufisque-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Baoumou-wague",
+      "s": "https://stream-148.zeno.fm/nqdqn4s2geruv?zs=xgRzU0cfTzqCs_NTG_DNSA",
+      "l": "https://kuasark.com/files/stations-logos/baoumou-wague.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Senvisionmedias",
+      "s": "https://stream-068.zeno.fm/zxp2kpd9ewzuv?zs=xIjk6jOPSqC6oc7OY_Ce6w",
+      "l": "https://kuasark.com/files/stations-logos/radio-senvisionmedias.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Jafala Fm",
+      "s": "https://stream-068.zeno.fm/49qd4mcppwzuv?zs=fye04zPrS32Qq9-McavG6Q",
+      "l": "https://kuasark.com/files/stations-logos/jafala-fm.png",
+      "g": [
+        "Inspirational",
+        "Talk"
+      ]
+    },
+    {
+      "t": "TOUBA FM Live",
+      "s": "https://stream-156.zeno.fm/n6a855s8v0hvv?zs=i-6CMYRDT76UzRx6a0b3xA",
+      "l": "https://kuasark.com/files/stations-logos/touba-fm-live.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Tzgospel ( Senegal)",
+      "s": "https://stream-151.zeno.fm/681wgyn1zehvv?zs=KaYpZg-iT3qgPXjuHLETfg",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-senegal.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio PAKAO FM",
+      "s": "http://192.95.39.65:5144/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-pakao-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Grace FM",
+      "s": "http://206.190.135.28:8938/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/grace-fm-sn.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "AFREEKA BEAT RADIO",
+      "s": "https://stream-148.zeno.fm/run2muwghf9uv?zs=2iqH_x0aTluvlqTDC6o0Qw",
+      "l": "https://kuasark.com/files/stations-logos/afreeka-beat-radio.png",
+      "g": [
+        "Rap",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Diantbi FM",
+      "s": "https://betelgeuse.dribbcast.com/proxy/diantbifm?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-diantbi-fm.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Top Fm Dakar 97.8",
+      "s": "https://stream-153.zeno.fm/sys3pbxmhklvv?zs=TLhrCsngS5KKsGd8rieR9g",
+      "l": "https://kuasark.com/files/stations-logos/top-fm-dakar-978.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RADIO RMI SENEGAL",
+      "s": "https://stream-152.zeno.fm/5qjahl1jotrvv?zs=Ape52pl-Qm2s8TEAZ1-oww",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmi-senegal.png",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Dakar 24",
+      "s": "https://stream-048.zeno.fm/f636ympec78uv?zs=mQ3yEyZOT425Qmw95EC9qg",
+      "l": "https://kuasark.com/files/stations-logos/radio-dakar-24.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RADIO DAKAR 24 1",
+      "s": "https://stream-153.zeno.fm/3xub9e5f5ehvv?zs=60aNbd3sRSm2O7MfYEBwSQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-dakar-24-1.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RADIO AS SAMADYYA",
+      "s": "https://betelgeuse.dribbcast.com/proxy/assamadyya?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-as-samadyya.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Podor Fm 90.7",
+      "s": "https://stream-151.zeno.fm/nh7k8dkkcdnuv?zs=P4gLnkHjRUuoL8EUn8IBCQ",
+      "l": "https://kuasark.com/files/stations-logos/podor-fm-907.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rfm Senegal",
+      "s": "http://stream-151.zeno.fm/kuk0syz5puquv?zs=kHR3WM65SmKntiYI8wz0KA&rj-ttl=5&rj-tok=AAABbzzG2bAAGrpDWvdM7UfgjQ",
+      "l": "https://kuasark.com/files/stations-logos/rfm-senegal.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "H24",
+      "s": "http://listen.senemultimedia.net:8070/stream",
+      "l": "https://kuasark.com/files/stations-logos/h24.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Cenner FM Dakar",
+      "s": "https://betelgeuse.dribbcast.com/proxy/cennerfm?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-cenner-fm-dakar.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio NOWA",
+      "s": "https://stream-150.zeno.fm/0pbn3htsyxquv?zs=y-PFfIXqTmiRDaM1F0nH0Q",
+      "l": "https://kuasark.com/files/stations-logos/radio-nowa.png",
+      "g": [
+        "Folk",
+        "Rap",
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "MIGRANT FM 102.4 DIOURBEL",
+      "s": "https://betelgeuse.dribbcast.com/proxy/migrantfm?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/migrant-fm-1024-diourbel.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Al Misbax Radio",
+      "s": "https://stream-149.zeno.fm/trmql5dzquzvv?zs=kN1M2XCLTOuGR0_GLfLqhg",
+      "l": "https://kuasark.com/files/stations-logos/al-misbax-radio.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kaddu Cayor FM 104.5",
+      "s": "https://stream-174.zeno.fm/ycsm3xlyoyeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5Y3NtM3hseW95ZXV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InlCd0kyUXZHU3llZzl3MTJ0MkJRcnciLCJpYXQiOjE3MzM4NDM4MTUsImV4cCI6MTczMzg0Mzg3NX0.XtRMor_G7FconNwmQVPPSeoLb4kDIqceU-Wjceq7IWQ",
+      "l": "https://kuasark.com/files/stations-logos/kaddu-cadior-fm.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1707 @@
+{
+  "stations": [
+    {
+      "t": "Radio Zepa",
+      "s": "https://stream.zeno.fm/f39fzp6gc18uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426278/bbf80f7cfec75d9122e80c1ff9f01c0c_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Zam Radio",
+      "s": "http://zam.zamradio.com:8022/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2393/vxgs59765b794f336641908786_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "BN",
+      "s": "http://stream.rtvbn.com:8522/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2378/hlll59765c472e0fa934387712_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Skala Radio",
+      "s": "http://cast2.name.ba:9049/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2391/tj825976eb4d6ad88634134090_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Big Radio 2",
+      "s": "http://188.124.211.103:8100/big2",
+      "l": "https://images.radiovolna.net/_files/images/stations/2373/nk5q5976eaee822bd047775803_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Sarajevo",
+      "s": "http://malla.softnet.si:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2386/xs1k596d154801f24617155207_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Glas Drine (Vrazici)",
+      "s": "http://77.74.231.21:8028/;stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/2382/tael59765d75b83b8221678149_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Marija (BiH)",
+      "s": "http://dreamsiteradiocp2.com:8076/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2384/o8y0599c4949148c2532143852_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Day Dee Eurodance",
+      "s": "https://stream.laut.fm/daydeeeurodance",
+      "l": "https://images.radiovolna.net/_files/images/stations/417629/x3jr5d26704155f57834006997_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Hard Rock Radio",
+      "s": "http://109.236.85.141:7168/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/402361/wq8g59bbb5c94db98802844778_130x130.webp",
+      "g": [
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Kiss FM",
+      "s": "http://stream.kissfm.ba:8010/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/420874/96014894503cde24b65f0d309b222b58_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "РТРС Радио Републике Српске",
+      "s": "https://radio.rtrs.tv/radio/live/chunklist_w457812362.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/420870/34a278174ee8bf339844923156f25016_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kontakt Radio",
+      "s": "http://mojstream.eu:8114/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/402359/fba75622ad3d1f630d2777499ef164e8_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Ljubic Prnjavor",
+      "s": "http://stream.radioljubic.com:8070/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2383/x9ja59765ac69e042434509789_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radiopostaja Mir Međugorje",
+      "s": "https://mirm.live/mir.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402353/e5el59bbaaa1b1bea639802281_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Džungla Radio",
+      "s": "http://5.9.25.50:9302/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420880/76461185b506afa83f3eb0f970dc22be_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Nes Radio",
+      "s": "http://188.40.62.20:8070/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/21806/313dc753353b89ac5cd503ffe3f19690_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mostarka i prijatelji",
+      "s": "http://eu8.fastcast4u.com:5260/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/25680/0417c6ff3d34759dc3fefabe5da9f3ff_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Stari Grad",
+      "s": "http://stream.rsg.rs:8043/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2388/xx0x5a22d27880d66829147790_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Feral",
+      "s": "http://185.50.56.3:80/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27406/fch85a22d576b4791416184221_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio-Televizija USK",
+      "s": "http://95.216.38.170:9998/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/10064/tcnu5a22d47d1339f686489654_130x130.webp",
+      "g": [
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Otvorena Mreža",
+      "s": "http://s8.iqstreaming.com:8050/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402358/ocaw59bbb29cb1d43403997680_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "A radio",
+      "s": "http://radiostream.atvbl.com:80/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/420881/553c3152c67bad161777008a250826ed_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Al Jazeera",
+      "s": "https://live-hls-web-ajb.getaj.net/AJB/04.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/420875/68013c3426fd2e3b8a8e2c23aac1f851_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "ИС Радио - Источно Сарајево",
+      "s": "http://uk3.internet-radio.com:8269/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420877/3c46878e1bd6f1ec3635658d478841c7_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "TNT Radio",
+      "s": "https://server1.tnt.ba/proxy/tntsa?mp=/stream1",
+      "l": "https://images.radiovolna.net/_files/images/stations/428296/2e24498ac2d4e28b3b3faf9a4bbe0a16_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ASK Radio",
+      "s": "http://198.7.62.157:10000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420871/a34b629f24c21ed498fd9510fe98eb2e_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "eFM Studentski Radio",
+      "s": "https://stream.zeno.fm/e0uu6uhveg0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/402352/lci359bbaa37ae472552666840_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Free Radio",
+      "s": "http://217.61.125.73:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420882/bfa80249b110fdca1b59e4309316e047_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Mix",
+      "s": "http://195.201.112.14:9010/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420872/2bf25e7f342f7c5706e731055482e28c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kozara",
+      "s": "http://51.254.61.148:11111/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420879/92e0a3ef24b8fd2fa172c235b897021e_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Big Radio 3",
+      "s": "http://big3.bigportal.ba:8100/big3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2374/lh5d5974679989ead460578572_130x130.webp",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Carsija",
+      "s": "http://stream.radiocarsija.com:19406/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/416053/meh85c1cb1f5bec9e869711777_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RadioMajevica",
+      "s": "http://marinkogarasevic.com:7520/audio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31662/006049e33b2dc65c0c9d5a556b9796a6_130x130.webp",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bobar Radio",
+      "s": "http://94.130.11.28:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402357/esux59bbaf98a4eec038943000_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "8",
+      "s": "http://94.130.11.28:8000/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/420878/ed646c3efbc325f8ae8bbaa8241771d1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Busovača",
+      "s": "https://ec2s.crolive.com.hr:1515/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27158/iac25a22d408c4870269695196_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Studio M",
+      "s": "http://188.40.62.20:8014/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420883/523aeaeb7468e756d0bc71b8a66bf916_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "BIR Radio",
+      "s": "http://188.40.62.20:8090/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27413/5e932fb9092444ff4c021e892999489b_130x130.webp",
+      "g": [
+        "Folk",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Mix",
+      "s": "http://116.203.7.166:9010/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-mix-ba.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Big Radio 2",
+      "s": "http://big2.bigportal.ba:8100/big2",
+      "l": "https://kuasark.com/files/stations-logos/big-radio-2.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "BN",
+      "s": "http://stream.rtvbn.com:8522/;",
+      "l": "https://kuasark.com/files/stations-logos/bn.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Džungla",
+      "s": "http://5.9.25.50:9302/;",
+      "l": "https://kuasark.com/files/stations-logos/dzungla.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Sehara",
+      "s": "https://cast.name.ba/listen/radio_sehara/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-sehara.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Kalman radio",
+      "s": "http://188.40.62.20:8004/stream",
+      "l": "https://kuasark.com/files/stations-logos/kalman-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "RSG",
+      "s": "http://stream.rsg.ba:9000/;stream",
+      "l": "https://kuasark.com/files/stations-logos/rsg-ba.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Studio M",
+      "s": "http://188.40.62.20:8014/;*.mp3",
+      "l": "https://kuasark.com/files/stations-logos/studio-m-ba.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "POP FM",
+      "s": "http://188.40.62.20:8032/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/pop-fm-ba.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Big Radio Folk",
+      "s": "https://folk.bigportal.ba:8080/folk",
+      "l": "https://kuasark.com/files/stations-logos/big-radio-folk.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Velkaton",
+      "s": "http://188.40.62.20:8044/stream",
+      "l": "https://kuasark.com/files/stations-logos/velkaton.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Day Dee Eurodance",
+      "s": "https://daydeeeurodance.stream.laut.fm/daydeeeurodance",
+      "l": "https://kuasark.com/files/stations-logos/day-dee-eurodance.png",
+      "g": [
+        "Electronic",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Merak",
+      "s": "https://merak-gecko.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-merak.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Krajiški Radio Dubica",
+      "s": "https://stream1.srvnetplus.com:18039/radio/8020/radio.mp3?type=.mp3/;*.mp3",
+      "l": "https://kuasark.com/files/stations-logos/krajiski-radio-dubica.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Big Radio 1",
+      "s": "http://big1.bigportal.ba:8100/big1",
+      "l": "https://kuasark.com/files/stations-logos/big-radio-1.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Posusje",
+      "s": "http://136.243.144.93:9994/;",
+      "l": "https://kuasark.com/files/stations-logos/posusje.png",
+      "g": [
+        "Alternative",
+        "Blues",
+        "Classical",
+        "Country",
+        "Folk",
+        "Rap",
+        "Jazz",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Običan Radio Mostar",
+      "s": "http://ca4.rcast.net:8010/;",
+      "l": "https://kuasark.com/files/stations-logos/obican-radio-mostar.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Snaga Krajine",
+      "s": "http://s7.voscast.com:7096/;stream1531639559109/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-snaga-krajine.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "ANTENA Sarajevo",
+      "s": "http://195.201.112.14:9020/;stream",
+      "l": "https://kuasark.com/files/stations-logos/antena-sarajevo.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Narodni radio Zenica",
+      "s": "http://server1.tnt.ba:9010/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/narodni-radio-zenica.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Avaz",
+      "s": "http://51.254.61.148:8222/;",
+      "l": "https://kuasark.com/files/stations-logos/avaz.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Bobar Radio",
+      "s": "http://94.130.11.28:9010/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/bobar-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio M",
+      "s": "http://team-data.ba:8030/;?type=http&nocache=57",
+      "l": "https://kuasark.com/files/stations-logos/radio-m-ba.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Kameleon",
+      "s": "http://138.201.198.218:8075/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/kameleon.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RDV-Radio Dobre Vibracije",
+      "s": "http://www.shoutcastunlimited.com:8892/stream",
+      "l": "https://kuasark.com/files/stations-logos/rdv-radio-dobre-vibracije.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Islamski Radio",
+      "s": "http://eu3.fastcast4u.com:5762/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/islamski-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Kopice",
+      "s": "http://158.69.119.6:8030/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-kopice.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Grude",
+      "s": "http://radio.pa-hosting.de:1040/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-grude.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Big Radio 4",
+      "s": "http://domacica.bigportal.ba:8100/domacica",
+      "l": "https://kuasark.com/files/stations-logos/big-radio-4.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bihac Folk",
+      "s": "https://radiobihacfolk.radioca.st/;",
+      "l": "https://kuasark.com/files/stations-logos/bihac-folk.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Densomaniak Radio",
+      "s": "https://stream.iradio.pro/proxy/densomaniak?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/densomaniak-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Antena Radio",
+      "s": "https://radio.tnt.ba:8020/live",
+      "l": "https://kuasark.com/files/stations-logos/antena-radio.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Mango",
+      "s": "http://158.69.119.6:8780/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-mango-ba.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Tomislavgrad",
+      "s": "http://158.69.119.6:8038/;",
+      "l": "https://kuasark.com/files/stations-logos/tomislavgrad.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Balkan Hip-Hop Radio",
+      "s": "http://centova.dukahosting.com:2022/;listen.pls?sid=1",
+      "l": "https://kuasark.com/files/stations-logos/balkan-hip-hop-radio.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Kupreski",
+      "s": "https://ec2s.crolive.com.hr:1225/stream",
+      "l": "https://kuasark.com/files/stations-logos/kupreski.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Zenit",
+      "s": "http://5.189.168.133:8020/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/zenit.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Široki Brijeg",
+      "s": "http://eu6.fastcast4u.com:5036/;",
+      "l": "https://kuasark.com/files/stations-logos/siroki-brijeg.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Srebrenik",
+      "s": "http://live.radiosrebrenik.ba:7600/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-srebrenik.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Vihor",
+      "s": "http://cast2.name.ba:8500/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-vihor.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Orasje",
+      "s": "http://188.40.62.20:8024/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/orasje.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Feniks",
+      "s": "https://solid55.streamupsolutions.com/proxy/umzjpgrm/stream",
+      "l": "https://kuasark.com/files/stations-logos/feniks.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Das Extra Radio Bijeljina",
+      "s": "http://158.69.119.6:8085/;&type=mp3",
+      "l": "https://kuasark.com/files/stations-logos/das-extra-radio-bijeljina.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Big Radio Rock",
+      "s": "https://rock.bigportal.ba:8080/rock",
+      "l": "https://kuasark.com/files/stations-logos/big-radio-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Žepa",
+      "s": "https://stream-046.zeno.fm/f39fzp6gc18uv?zs=qdOEav-WShOMYdidegdc7A",
+      "l": "https://kuasark.com/files/stations-logos/radio-zepa.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "DM Radio Bijeljina",
+      "s": "http://dm-live-bijeljina.asuscomm.com:8040/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/dm-radio-bijeljina.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Slon FM",
+      "s": "http://31.47.0.130:88/broadwavehigh.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-slon-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Big Radio Balade",
+      "s": "https://big2.bigportal.ba:8080/big2",
+      "l": "https://kuasark.com/files/stations-logos/big-radio-balade.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Danger Zone BL",
+      "s": "http://stream.dangerzonebl.com:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/danger-zone-bl.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Radio M ExYu",
+      "s": "http://team-data.ba:8034/;?type=http&nocache=247",
+      "l": "https://kuasark.com/files/stations-logos/radio-m-exyu.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Odžak",
+      "s": "https://free.rcast.net/66771",
+      "l": "https://kuasark.com/files/stations-logos/radio-odzak.png",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rujnica",
+      "s": "https://r.name.ba:7115/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rujnica.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Feral",
+      "s": "http://185.50.56.3/;",
+      "l": "https://kuasark.com/files/stations-logos/feral.png",
+      "g": [
+        "Folk",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Koprivljanski Radio",
+      "s": "http://cast2.name.ba:9300/;?1605859715084.mp3",
+      "l": "https://kuasark.com/files/stations-logos/koprivljanski-radio.png",
+      "g": [
+        "Themes",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "055 Radio",
+      "s": "http://ip.bijeljina.rs:9996/stream",
+      "l": "https://kuasark.com/files/stations-logos/055-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Das",
+      "s": "http://158.69.119.6:8095/;&type=mp3",
+      "l": "https://kuasark.com/files/stations-logos/das.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pakao",
+      "s": "http://stream.pakaoradio.net:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/pakao.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "eFM Studentski Radio",
+      "s": "https://stream-163.zeno.fm/e0uu6uhveg0uv?zs=wgmSzwyIQP2AheYzCqyNkw",
+      "l": "https://kuasark.com/files/stations-logos/efm-studentski-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio TNT Travnik",
+      "s": "http://server1.tnt.ba:9000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-tnt-travnik.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Rama",
+      "s": "https://stream1.srvnetplus.com:18157/stream",
+      "l": "https://kuasark.com/files/stations-logos/rama.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Top Ex Yu",
+      "s": "https://stream-149.zeno.fm/uwhhcdsrnc9uv?zs=6batIhqVTWe79cbu2HXq-g",
+      "l": "https://kuasark.com/files/stations-logos/top-ex-yu.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kakanj",
+      "s": "http://cast2.name.ba:8067/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-kakanj.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "RTV Zenica",
+      "s": "http://stream.rtvze.ba:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/rtv-zenica.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Krajiški Radio Knežpolje",
+      "s": "http://stream1.srvnetplus.com:8051/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/krajiski-radio-knezpolje.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Rajska Dolina",
+      "s": "https://server4p.com/8020/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-rajska-dolina.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Top Lounge",
+      "s": "https://stream-151.zeno.fm/mwahyy2uxc9uv?zs=3V45BQhhTJWuc-VogOVwRw",
+      "l": "https://kuasark.com/files/stations-logos/top-lounge.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio Kalesijski Ba",
+      "s": "https://stream1.srvnetplus.com:18102/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-kalesijski-ba.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tesanj",
+      "s": "http://radio.daj.ba:8082/;?type=http&nocache=4",
+      "l": "https://kuasark.com/files/stations-logos/tesanj.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Džungla Live II",
+      "s": "http://cast2.name.ba:9054/;",
+      "l": "https://kuasark.com/files/stations-logos/dzungla-live-ii.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio M Narodna",
+      "s": "http://team-data.ba:8036/;?type=http&nocache=252",
+      "l": "https://kuasark.com/files/stations-logos/radio-m-narodna.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio M Gym",
+      "s": "http://team-data.ba:8040/;?type=http&nocache=218",
+      "l": "https://kuasark.com/files/stations-logos/radio-m-gym.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bihac",
+      "s": "http://hydra.shoutca.st:8249/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/bihac.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Stjepkovica - Brčko",
+      "s": "https://r.name.ba:7312/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-stjepkovica-brcko.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Extaza",
+      "s": "https://eu1-sonic.serverse.com/8006/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-extaza.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Jajce",
+      "s": "https://s8.iqstreaming.com:8034/stream",
+      "l": "https://kuasark.com/files/stations-logos/jajce.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTVTK",
+      "s": "http://178.218.163.171:8026/;stream",
+      "l": "https://kuasark.com/files/stations-logos/rtvtk.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Hercegovina",
+      "s": "https://stream-150.zeno.fm/zbvhpce44hhvv?zs=wvEJeXb5T-iPOKavbQHnOw",
+      "l": "https://kuasark.com/files/stations-logos/radio-hercegovina.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Free Radio",
+      "s": "https://vestreams.com/8008/stream",
+      "l": "https://kuasark.com/files/stations-logos/free-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Myrhael Angel - Christmas All the Time",
+      "s": "http://185.33.21.111:80/christmas_mobile_aac",
+      "l": "https://kuasark.com/files/stations-logos/myrhael-angel-christmas-all-the-time.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Mega",
+      "s": "https://stream-150.zeno.fm/ur0ky1k8xnhvv?zs=DvTO-wNyR2aB27CQf7aPGQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-mega.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Dub",
+      "s": "http://sc4.streamingpulse.net:8028/;",
+      "l": "https://kuasark.com/files/stations-logos/dub.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Magic",
+      "s": "http://stream.iradio.pro:8034/stream",
+      "l": "https://kuasark.com/files/stations-logos/magic-ba.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 8",
+      "s": "https://radio8-bhcloud.radioca.st/1.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-8-27075.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Novi Grad",
+      "s": "http://s37.myradiostream.com:8120/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/novi-grad.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Bobovac",
+      "s": "https://sonicpanel.vmakerhost.com/8027/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-bobovac.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Džungla Live III",
+      "s": "http://cast2.name.ba:8006/;",
+      "l": "https://kuasark.com/files/stations-logos/dzungla-live-iii.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Balkan Hit Radio",
+      "s": "https://cast2.asurahosting.com/proxy/balkanhi/stream",
+      "l": "https://kuasark.com/files/stations-logos/balkan-hit-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio IN Brčko",
+      "s": "http://91.191.0.45:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-in-brcko.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Brcko",
+      "s": "http://91.191.0.45:8000/;*.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-brcko.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ask Radio",
+      "s": "http://198.7.62.157:10000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/ask-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kesten Radio",
+      "s": "http://95.216.209.21:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/kesten-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kaseta Radio",
+      "s": "https://s2.radio.co/s7bb3ee4d9/listen",
+      "l": "https://kuasark.com/files/stations-logos/kaseta-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Myrhael Angel - Greatest Radio Hits",
+      "s": "http://198.27.127.246:5189/stream",
+      "l": "https://kuasark.com/files/stations-logos/myrhael-angel-greatest-radio-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Top Balkan",
+      "s": "https://stream-151.zeno.fm/rcv02dw2aa9uv?zs=yFEDnpFoSMC8DN8Bqycpmw",
+      "l": "https://kuasark.com/files/stations-logos/top-balkan.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Ba",
+      "s": "http://162.241.132.173:10002/RadioBA-128",
+      "l": "https://kuasark.com/files/stations-logos/radio-ba-ba.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Ilijas",
+      "s": "http://192.227.85.169:4426/;?1606073736226",
+      "l": "https://kuasark.com/files/stations-logos/ilijas.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Tuzla",
+      "s": "http://195.222.33.217:8016/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/tuzla.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vitez",
+      "s": "https://radio.iti.hr/listen/radio_vitez/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/vitez.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Orlovo Polje",
+      "s": "http://solid24.streamupsolutions.com:8005/;listen.pls?sid=1",
+      "l": "https://kuasark.com/files/stations-logos/orlovo-polje.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Myrhael Angel  Mostar Vibe",
+      "s": "http://airspectrum.cdnstream1.com:8030/1607_192",
+      "l": "https://kuasark.com/files/stations-logos/myrhael-angel-mostar-vibe.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio San",
+      "s": "https://stream.master-dizajn.com/8020/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-san-ba.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio M plus",
+      "s": "http://team-data.ba:8000/;?type=http&nocache=100735",
+      "l": "https://kuasark.com/files/stations-logos/radio-m-plus.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Visoko",
+      "s": "http://188.40.62.20:8080/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-visoko.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Plus",
+      "s": "http://136.243.144.93:9306/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-plus-ba.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Top Latina",
+      "s": "https://stream-152.zeno.fm/e324gh7zvc9uv?zs=7MtjcgG2SzmCBY0DuA8bbw",
+      "l": "https://kuasark.com/files/stations-logos/top-latina.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Onyx",
+      "s": "https://stream.master-dizajn.com/8030/stream",
+      "l": "https://kuasark.com/files/stations-logos/onyx.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bihac Caffe",
+      "s": "https://radiobihaccaffe.radioca.st/;",
+      "l": "https://kuasark.com/files/stations-logos/bihac-caffe.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Dee",
+      "s": "https://stream-152.zeno.fm/7wbvyq20qg0uv?zs=Sllw8OPXQEmLlBPBcrm2cg",
+      "l": "https://kuasark.com/files/stations-logos/radio-dee.png",
+      "g": [
+        "Electronic",
+        "Folk",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bobar Radio Studio B2",
+      "s": "http://94.130.11.28:9000/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/bobar-radio-studio-b2.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio M - Caffe",
+      "s": "http://team-data.ba:8032/;?type=http&nocache=283",
+      "l": "https://kuasark.com/files/stations-logos/radio-m-caffe.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio M Evergreen",
+      "s": "http://team-data.ba:8038/;?type=http&nocache=268",
+      "l": "https://kuasark.com/files/stations-logos/radio-m-evergreen.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Gračanica",
+      "s": "http://185.69.28.214:1234/broadwave.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-gracanica-ba.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Myrhael Angel Vintage Radio",
+      "s": "http://213.32.121.35:8010/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/myrhael-angel-vintage-radio.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "HIT FM Radio Sarajevo",
+      "s": "https://slusaj.off.ba:8010/hit",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-radio-sarajevo.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Banovići",
+      "s": "http://195.201.85.142:8045/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-banovici.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Connect Radio",
+      "s": "https://stream-149.zeno.fm/2xd8qdbbby7tv?zs=e30pQZ4gQHKw4qHcX5fVQw",
+      "l": "https://kuasark.com/files/stations-logos/connect-radio-124281.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Sarajevo",
+      "s": "http://malla.softnet.si:8000/;stream.mp3?v=24",
+      "l": "https://kuasark.com/files/stations-logos/radio-sarajevo-ba-379.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Vogošca",
+      "s": "http://188.40.62.20:8018/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-vogosca.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Feral 100.4 Sarajevo",
+      "s": "http://185.50.56.3/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-feral-1004-sarajevo.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Sarajevo",
+      "s": "http://malla.softnet.si:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-sarajevo-ba-4907.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio BN",
+      "s": "http://stream.rtvbn.com:8522/;.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-bn.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Posavina Zagreb",
+      "s": "http://cmr-hosting.com:8500/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-posavina-zagreb.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "College Radio Banja Luka",
+      "s": "http://198.178.123.8:8600/;*.mp3",
+      "l": "https://kuasark.com/files/stations-logos/college-radio-banja-luka.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "HIT Radio Brčko",
+      "s": "http://51.254.61.148:8152/;autostart=1",
+      "l": "https://kuasark.com/files/stations-logos/hit-radio-brcko.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RADIO MARIA BOSNIA",
+      "s": "http://dreamsiteradiocp.com:8034/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-bosnia.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "BIG 3",
+      "s": "http://big3.bigportal.ba:8100/big3?1548653014620",
+      "l": "https://kuasark.com/files/stations-logos/big-3.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Kupreški Radio",
+      "s": "http://178.209.2.100:10000/live.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kupreski-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Narodni Radio - Sarajevo",
+      "s": "http://server1.tnt.ba:8010/;",
+      "l": "https://kuasark.com/files/stations-logos/narodni-radio-sarajevo.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "novii",
+      "s": "http://s37.myradiostream.com:8120/;",
+      "l": "https://kuasark.com/files/stations-logos/novii.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "BH Radio 1",
+      "s": "https://webtvstream.bhtelecom.ba/bh_radio1.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/bh-radio-1-ba-25017.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Slon Radio Tuzla",
+      "s": "http://31.47.0.130:88/broadwavehigh.mp3?src=1;",
+      "l": "https://kuasark.com/files/stations-logos/slon-radio-tuzla.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Studio 99 Sarajevo",
+      "s": "https://c2.radioboss.fm:18249/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-studio-99-sarajevo.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Pakao Radio",
+      "s": "https://securestream.pakaoradio.net/live",
+      "l": "https://kuasark.com/files/stations-logos/pakao-radio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio USK",
+      "s": "https://radiousk.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-usk.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Goražde",
+      "s": "http://176.9.59.144:8036/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-gorazde.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Bosanska Krupa",
+      "s": "http://195.222.33.217:8091/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-bosanska-krupa.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Busovača",
+      "s": "https://ec2s.crolive.com.hr:1510/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-busovaca.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kalesijski Ba",
+      "s": "http://5.9.95.57:8102/stream",
+      "l": "https://kuasark.com/files/stations-logos/kalesijski-ba.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Megamix",
+      "s": "https://eu1.fastcast4u.com/proxy/megamix?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/megamix-ba.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RTV7",
+      "s": "http://195.222.33.217:8016/;",
+      "l": "https://kuasark.com/files/stations-logos/rtv7.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RTV Doboj",
+      "s": "http://188.40.62.20:8034/stream",
+      "l": "https://kuasark.com/files/stations-logos/rtv-doboj.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Breza",
+      "s": "https://sonicpanel.vmakerhost.com/8192/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-breza.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Studio D",
+      "s": "http://radio.studiod.ba:8018/;",
+      "l": "https://kuasark.com/files/stations-logos/studio-d.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Obiteljska Radio Valentin",
+      "s": "http://109.105.201.102:8000/orv?ver=943111",
+      "l": "https://kuasark.com/files/stations-logos/obiteljska-radio-valentin.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Bosanski Brod",
+      "s": "http://quasar.shoutca.st:8287/;;audio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/bosanski-brod.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Srbac",
+      "s": "http://91.121.195.222:4858/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-srbac.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Mega Mix Radio",
+      "s": "http://178.33.135.244:21648/stream",
+      "l": "https://kuasark.com/files/stations-logos/mega-mix-radio.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Lexero",
+      "s": "http://comet.shoutca.st:8040/lexero",
+      "l": "https://kuasark.com/files/stations-logos/radio-lexero.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Maria Vision",
+      "s": "https://s2.free-shoutcast.com/stream/18178",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-vision.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RBB Internet Radio",
+      "s": "http://65.108.120.179:8713/stream",
+      "l": "https://kuasark.com/files/stations-logos/rbb-internet-radio.png",
+      "g": [
+        "Folk",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio M Love Music",
+      "s": "https://team-data.ba:9042/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-m-love-music.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Ljubavi - Drugi program (chat)",
+      "s": "https://r.name.ba:7336/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-ljubavi-drugi-program-chat.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Labyrinth",
+      "s": "https://servidor22.brlogic.com:7070/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-labyrinth.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    }
+  ]
+}

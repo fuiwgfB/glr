@@ -1,0 +1,690 @@
+{
+  "stations": [
+    {
+      "t": "NRG Energy Radio",
+      "s": "https://ice31.securenetsystems.net:80/AL09",
+      "l": "https://images.radiovolna.net/_files/images/stations/401847/orh859ae7ac7dd547194303078_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Emigranti",
+      "s": "http://www.radioemigranti.com:8000/radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/1821/edim59786bea7cb5c150602053_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Eurostar Radio",
+      "s": "http://radioeurostar.al:9000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420589/a96bb76913f3311a00d0a7c4f5711593_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jehona",
+      "s": "https://stream.iradio.pro/proxy/radiojehona?mp=/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/420594/98c1ae93e5791f8e9323a4034cdd95cb_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Shqip",
+      "s": "https://cp1.sednastream.com/proxy/radioshqip?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420493/4e6ca902e8e0c947827492ecaed713fc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Love Radio",
+      "s": "https://antena.albaniadigitalradio.al/loveradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/21384/58986a096690df903e97c5ba4317eb76_130x130.webp",
+      "g": [
+        "Themes",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 1",
+      "s": "https://video.radio1.al/broadwavehigh.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401839/sgdo59ae76686f303689122132_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "City Radio",
+      "s": "https://cp1.sednastream.com/proxy/cityradio?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/26500/c3ed4574c7feea252b774f491d9e22c8_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "MCN Radio",
+      "s": "http://46.183.121.48:8000/mcn",
+      "l": "https://images.radiovolna.net/_files/images/stations/401844/khx659ae79384920a110258222_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Logos",
+      "s": "http://s2.stationplaylist.com:9280/listen.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/424081/00366051bc6f6fb1ffed7e2adfd34592_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "IN Radio",
+      "s": "http://80.90.86.194:8000/inradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/428289/54507829a84197b9485e130ff6b7f7cc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Travel",
+      "s": "http://93.190.141.15:7253/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/401845/w7ri59ae79d22a0b7069851641_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kiss FM",
+      "s": "http://80.90.87.231:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420591/c7fb653db9b8df48c77d82719c1752d3_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Club FM",
+      "s": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/26447/96a56613ec44a4d8bbccf61db30061ae_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Top Albania Radio",
+      "s": "https://live.top-media.al/tar",
+      "l": "https://images.radiovolna.net/_files/images/stations/401841/rntk59ae776428b50942428187_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DJ - DEE-JAY",
+      "s": "https://antena.albaniadigitalradio.al/radiodj",
+      "l": "https://images.radiovolna.net/_files/images/stations/26669/fdd803a3810fc0b666cebeee56bf806e_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio One",
+      "s": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420588/53cbbc927b6dc45d8fe58dd0a9d4161b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Saranda",
+      "s": "https://s64.radiolize.com/radio/8050/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/424104/e6b1d155813e281640caeb3b67758d91_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Beat FM Albania",
+      "s": "https://streaming.ihost.al:8010/beatfmalbania",
+      "l": "https://images.radiovolna.net/_files/images/stations/430038/fb8a202f40653c862d05259b00b03f26_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Big FM",
+      "s": "http://46.252.33.58:9310/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420593/3a4e9d4d3525004578e1d7f3836d9d7d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Spektrum",
+      "s": "http://92.119.237.186:88/broadwavehigh.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401837/m7o659ae75281a6e0693740627_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Pendimi Live Kanali-1",
+      "s": "http://85.93.88.146:8014/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-pendimi-live-kanali-1.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Pendimi Live Kanali-2",
+      "s": "http://rtvpendimi.com:8020/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-pendimi-live-kanali-2.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Ahireti",
+      "s": "http://198.245.61.161:8008/index.html;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-ahireti.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Tirana Femije",
+      "s": "http://79.106.48.2:8000/radiotiranafemije",
+      "l": "https://kuasark.com/files/stations-logos/radio-tirana-femije.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Positive Gold FM",
+      "s": "https://positivealtradio.streamguys1.com/positivegold",
+      "l": "https://kuasark.com/files/stations-logos/radio-positive-gold-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Tirana Klasik",
+      "s": "http://79.106.48.2:8000/radiotiranaklasik1",
+      "l": "https://kuasark.com/files/stations-logos/radio-tirana-klasik.png",
+      "g": [
+        "Classical",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Tirana 3",
+      "s": "http://79.106.48.2:8000/radiotirana3",
+      "l": "https://kuasark.com/files/stations-logos/radio-tirana-3.png",
+      "g": [
+        "Classical",
+        "Folk",
+        "Jazz",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Lushnja",
+      "s": "https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-lushnja.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Marimanga",
+      "s": "https://s11.ssl-stream.com/ssl/marimanga?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-marimanga-al.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Alpo Radio",
+      "s": "https://cast.az-streamingserver.com/proxy/jjayjtzm?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/alpo-radio.png",
+      "g": [
+        "Themes",
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio LIRIA",
+      "s": "http://46.4.104.253:9998/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-liria.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Dukagjini",
+      "s": "http://s6.voscast.com:8824/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-dukagjini.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Chill Radio",
+      "s": "https://eu8.fastcast4u.com/proxy/chillradio?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/chill-radio-al.png",
+      "g": [
+        "Electronic",
+        "Latin",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Mi",
+      "s": "http://streaming.radionomy.com:80/JamendoLounge",
+      "l": "https://kuasark.com/files/stations-logos/radio-mi.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Emanuel",
+      "s": "http://185.221.253.173:7800/",
+      "l": "https://kuasark.com/files/stations-logos/radio-emanuel-al.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Nostalgjia",
+      "s": "http://janus.shoutca.st:8318/radionostalgjia",
+      "l": "https://kuasark.com/files/stations-logos/radio-nostalgjia.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=/stream.mp3?ver=118223",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-al.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Kanali Shqip",
+      "s": "http://64.150.176.42:8178/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-kanali-shqip.png",
+      "g": [
+        "Rap",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dardania",
+      "s": "http://radio.radiodardania.com:4000/stream/1/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-dardania.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Kontakt 89.3 FM",
+      "s": "http://84.20.83.24:88/broadwavehigh.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-kontakt-893-fm.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "LS Radio",
+      "s": "http://live.lspublic.com:27022/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ls-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 7",
+      "s": "http://cp1.sednastream.com:8013/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-7-al.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Tirana Jazz Radio",
+      "s": "http://live.tiranajazzradio.com:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/tirana-jazz-radio.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Alfa e Omega Radio",
+      "s": "http://cp13.shoutcheap.com:8094/;",
+      "l": "https://kuasark.com/files/stations-logos/alfa-e-omega-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Koha",
+      "s": "https://radiokoha.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-koha.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio-Alba.com",
+      "s": "http://streaming.jusahost.com:9222/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-albacom.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Alsion Radio",
+      "s": "http://108.59.11.81:2199/listen.php?port=10051&type=s1",
+      "l": "https://kuasark.com/files/stations-logos/alsion-radio.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio Hasi Thate",
+      "s": "http://listen.lspublic.com:8000/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-hasi-thate.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Logos 94.2 FM",
+      "s": "https://s2.stationplaylist.com:9280/listen.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-logos-942-fm.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Viciana",
+      "s": "http://radioviciana.org:8030/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-viciana-al-99339.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Gjakova",
+      "s": "http://37.26.69.30:8080/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-gjakova.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Ra",
+      "s": "http://shqiponjat.al:8000/;?type=http&nocache=1",
+      "l": "https://kuasark.com/files/stations-logos/radio-ra.png",
+      "g": [
+        "R&B and Urban",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio DJ Track to Track",
+      "s": "https://radio.albaniaradiodj.al/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-dj-track-to-track.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Rainca",
+      "s": "https://rainca.ejapak.com:9000/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-rainca.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRG Energy Radio",
+      "s": "https://ice31.securenetsystems.net/AL09",
+      "l": "https://kuasark.com/files/stations-logos/nrg-energy-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chill Albania",
+      "s": "https://audio-edge-3mayu.fra.h.radiomast.io/346318d3-5312-4a69-8f80-64d75640fd35",
+      "l": "https://kuasark.com/files/stations-logos/chill-albania.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio 1",
+      "s": "http://audio.radio1.al:88/broadwavehigh.mp3?src=1&rate=1",
+      "l": "https://kuasark.com/files/stations-logos/radio-1-al.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Albtimes Radio",
+      "s": "https://20133.live.streamtheworld.com:443/VIRGIN_RADIO.mp3",
+      "l": "https://kuasark.com/files/stations-logos/albtimes-radio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Dukagjini Shqip Radio",
+      "s": "https://s1.voscast.com:11605/shqipradio",
+      "l": "https://kuasark.com/files/stations-logos/dukagjini-shqip-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Ngjallja",
+      "s": "http://84.20.84.114:1234/radiongjallja;%20type='audio/mpeg;%20codecs=",
+      "l": "https://kuasark.com/files/stations-logos/radio-ngjallja.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Sophie Caffe   Radio",
+      "s": "http://104.128.234.228:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/sophie-caffe-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Love Radio 90.7 Digital",
+      "s": "https://radio.albanialoveradio.al/stream",
+      "l": "https://kuasark.com/files/stations-logos/love-radio-907-digital.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RadioDeqani",
+      "s": "https://mars.streamerr.co:8052/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radiodeqani.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Intradio",
+      "s": "https://stream-150.zeno.fm/z61vrp6rmd0uv?zs=hDy5EToMQ-qcDJpyTAyBEQ",
+      "l": "https://kuasark.com/files/stations-logos/intradio.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "93 Fm",
+      "s": "https://stream-150.zeno.fm/g41127628nhvv?zs=4zDlkatfTY2IfQiB61C7Gw",
+      "l": "https://kuasark.com/files/stations-logos/93-fm-al.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RADIO MARIA ALBANIA",
+      "s": "http://dreamsiteradiocp2.com:8028/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-albania.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Albania News 24 TV",
+      "s": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/albania-news-24-tv.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Viciana",
+      "s": "http://radioviciana.org:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-viciana-al-14361.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "sasaram",
+      "s": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio075/chunklist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/sasaram.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Kontakt - Tirana 89.3 FM",
+      "s": "http://84.20.83.24:88/broadwavehigh.mp3?src=1",
+      "l": "https://kuasark.com/files/stations-logos/radio-kontakt-tirana-893-fm.png",
+      "g": [
+        "Other",
+        "International",
+        "News"
+      ]
+    },
+    {
+      "t": "Eurostar Radio - Tirana 94.4 FM",
+      "s": "http://radioeurostar.al:9000/stream",
+      "l": "https://kuasark.com/files/stations-logos/eurostar-radio-tirana-944-fm.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Ora News",
+      "s": "https://radio.oranews.tv:8443/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-ora-news.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio NRG - Tirana 106.6 FM",
+      "s": "http://ice31.securenetsystems.net/AL09",
+      "l": "https://kuasark.com/files/stations-logos/radio-nrg-tirana-1066-fm.png",
+      "g": [
+        "Other",
+        "International",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Dashuria",
+      "s": "https://listen.radioking.com/radio/465815/stream/521297",
+      "l": "https://kuasark.com/files/stations-logos/radio-dashuria.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Mergimi",
+      "s": "http://144.76.33.185:8000/;music.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-mergimi.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Natyra",
+      "s": "https://mars.streamerr.co:8266/stream?type=http&nocache=3",
+      "l": "https://kuasark.com/files/stations-logos/radio-natyra.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    }
+  ]
+}

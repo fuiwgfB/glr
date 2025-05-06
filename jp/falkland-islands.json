@@ -1,0 +1,22 @@
+{
+  "stations": [
+    {
+      "t": "BFBS Falkland Islands",
+      "s": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac",
+      "l": "https://kuasark.com/files/stations-logos/bfbs-falkland-islands.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Falklands Radio",
+      "s": "http://streaming.broadcastradio.com:8330/flklnd",
+      "l": "https://kuasark.com/files/stations-logos/falklands-radio.png",
+      "g": [
+        "Folk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stations": [
+    {
+      "t": "Bible Baptist Radio Chuuk",
+      "s": "https://streaming.radio.co/s25a6afba9/listen",
+      "l": "https://kuasark.com/files/stations-logos/bible-baptist-radio-chuuk.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Station Beta",
+      "s": "https://stream-151.zeno.fm/s7p9kob7zn2vv?zs=lIJuY5adQ_2mFL7Xrv_CRw",
+      "l": "https://kuasark.com/files/stations-logos/station-beta-124879.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

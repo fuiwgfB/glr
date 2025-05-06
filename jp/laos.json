@@ -1,0 +1,22 @@
+{
+  "stations": [
+    {
+      "t": "Tzgospel (Laos)",
+      "s": "https://stream-149.zeno.fm/f6vbwf596ehvv?zs=62c7MRyuS--gTM9ICTFQIQ",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-laos.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "ວິທະຍຸກະຈາຍສຽງແຫ່ງຊາດລາວ",
+      "s": "https://radio.lnr.org.la/fm103",
+      "l": "https://kuasark.com/files/stations-logos/-la.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    }
+  ]
+}

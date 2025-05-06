@@ -1,0 +1,186 @@
+{
+  "stations": [
+    {
+      "t": "Hope FM",
+      "s": "http://s6.voscast.com:8958/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402455/zofk59bce97a02334495146418_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "2day FM",
+      "s": "http://peridot.streamguys.com:7150/2Day",
+      "l": "https://images.radiovolna.net/_files/images/stations/423645/4c102563ccf8b6af4ef8f8f75cc01476_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "FBC Bula FM",
+      "s": "http://peridot.streamguys.com:7150/Bula",
+      "l": "https://images.radiovolna.net/_files/images/stations/423649/7e1bc14db9ecb50cf8af3cbff38b894f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FBC Gold FM",
+      "s": "http://peridot.streamguys.com:7150/Gold",
+      "l": "https://images.radiovolna.net/_files/images/stations/423648/06e62c2f3b1d75ad49ca230cc50c7028_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Legend FM",
+      "s": "https://stream.fijivillage.com/legendfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/428591/ceb9712e374b1c105d78f3107dc187d0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Viti FM",
+      "s": "https://stream.fijivillage.com/vitifm",
+      "l": "https://images.radiovolna.net/_files/images/stations/428589/327cd97a54914c9ff112ae0263691491_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Navtarang",
+      "s": "https://stream.fijivillage.com/navtarang",
+      "l": "https://images.radiovolna.net/_files/images/stations/428592/614a4d688712ee554903da3446b1d483_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "FBC Radio Fiji Two",
+      "s": "http://peridot.streamguys.com:7150/RFTwo",
+      "l": "https://images.radiovolna.net/_files/images/stations/423647/6aa6f2761822d82fc13b4b7f12f3dc32_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "http://fijiradio.net:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/402450/p8fe59bce663bb0fe845440868_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Sargam",
+      "s": "https://stream.fijivillage.com/radiosargam",
+      "l": "https://images.radiovolna.net/_files/images/stations/428593/82d8e0176fb07f3f3f3b684255b77ac5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FBC Radio Fiji One",
+      "s": "http://peridot.streamguys.com:7150/RFOne",
+      "l": "https://images.radiovolna.net/_files/images/stations/423646/e9d5c584445d766e080b8976bfc49ab4_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "FM96",
+      "s": "https://stream.fijivillage.com/fm96",
+      "l": "https://images.radiovolna.net/_files/images/stations/428590/da57d8d9f1299e96b20fa91830ee1168_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mirchi",
+      "s": "http://peridot.streamguys.com:7150/Mirchi",
+      "l": "https://images.radiovolna.net/_files/images/stations/414506/iz095c1cdc0455793294592205_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "https://azuracast.fijiradio.net/radio/8000/live",
+      "l": "https://kuasark.com/files/stations-logos/mix-fm-fj.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Viti FM",
+      "s": "https://stream.fijivillage.com/vitifm?ver=264613",
+      "l": "https://kuasark.com/files/stations-logos/viti-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "FM96",
+      "s": "https://stream.rcs.revma.com/q8txpfyyay3vv",
+      "l": "https://kuasark.com/files/stations-logos/fm96.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Rishtey",
+      "s": "http://cast5.servcast.net:8048/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-rishtey.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Station Beta",
+      "s": "https://stream-151.zeno.fm/asjezvzeiixtv?zs=Ufj4dVNuQE2hJOGaKwI2jQ",
+      "l": "https://kuasark.com/files/stations-logos/station-beta-124872.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Vox Populi - Unifiji Campus Radio",
+      "s": "https://s5.radio.co/s9ccc1e3bd/listen",
+      "l": "https://kuasark.com/files/stations-logos/the-vox-populi-unifiji-campus-radio.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Sangeet Masti",
+      "s": "https://servidor19.brlogic.com:7304/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-sangeet-masti.png",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Radio Nine Networks",
+      "s": "https://stream-150.zeno.fm/xbdjlxmmuzzvv?zs=fywHM-YLS4G3awo0GryCUQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-nine-networks.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

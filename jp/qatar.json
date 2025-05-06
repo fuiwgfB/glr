@@ -1,0 +1,348 @@
+{
+  "stations": [
+    {
+      "t": "Sout Al-Khaleej",
+      "s": "https://icy-e-01-cr.sharp-stream.com/spectrum4.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/30381/c620855ede19b4f1a309ee02514b6988_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Quran Radio",
+      "s": "https://622ea98e0a84c.streamlock.net/QURAN/myStream/chunklist_w237839478.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428419/6bfac5c9f8eadc2122230e862d72c9e5_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Al Jazeera English",
+      "s": "http://66.226.10.51:8000/AljazeeraEnglish",
+      "l": "https://images.radiovolna.net/_files/images/stations/422676/e112c63e2a93afe2f1553fe8c49c098f_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sawa Gulf",
+      "s": "http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01",
+      "l": "https://images.radiovolna.net/_files/images/stations/30382/ba575face9e273c4350230022673444e_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Urdu Radio",
+      "s": "https://622ea98e0a84c.streamlock.net/URDU/myStream/chunklist_w1188455970.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428422/acef3623cfadf58856fa256e70a38565_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Al Araby",
+      "s": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/431012/f1a6117b49802d767baec5c2ef6ebc76_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Al Jazeera Arabic",
+      "s": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/422675/1234bc2f9b7bebba1f76935dba3ca3f3_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Inta FM",
+      "s": "https://s4.radio.co/s907eaefbe/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/428420/773e0dabcb27c7d10dec621d5c79c846_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Golfo Radio",
+      "s": "https://radiov2.golforadio.com/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428418/5484281ab9b69597ec9b6a2e7044d3ad_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Qatar Radio - إذاعة قطر",
+      "s": "https://622ea98e0a84c.streamlock.net/QRS/myStream/chunklist_w1345467719.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428417/02436dc554a27bda3cbf6a86bf6d3f4d_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Quran Radio 2",
+      "s": "https://622ea98e0a84c.streamlock.net/QURAN2/myStream/chunklist_w533024410.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428421/dda36ff0952e008e8dd4dd0293095eda_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Oryx FM",
+      "s": "https://622ea98e0a84c.streamlock.net/ORYX/myStream/chunklist_w201781413.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428414/2592625dc3d2bb8399767392aa14450d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Qabayan Radio",
+      "s": "https://c2.radioboss.fm:18478/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428415/f3080fdc8836f77f4cfdd3953c3e2a68_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Suno",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405457/bmod5a4637e4126ef569532454_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Olive FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422677/e2332a41c62faf4bfe2881e3339e0763_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Malayalam FM",
+      "s": "http://vokcast.bluecast.in:8227/986fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/422674/07cbbef1bd4c04c5d9862363946d4ab6_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mazaji / إنت أف أم",
+      "s": "http://104.248.240.106:8443/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428416/58d5b94dd0975763cae80b21fb4e8377_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Uthamiyae FM",
+      "s": "https://ssl.aloncast.com:1595/",
+      "l": "https://kuasark.com/files/stations-logos/radio-uthamiyae-fm.png",
+      "g": [
+        "Inspirational",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Olive 106.3",
+      "s": "https://25653.live.streamtheworld.com/OLIVE1063.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-olive-1063.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Olive Kids",
+      "s": "https://18313.live.streamtheworld.com:443/RADIO_OLIVE_CLUB_S04AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-olive-kids.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Olive Nepal",
+      "s": "https://24863.live.streamtheworld.com:443/RADIO_OLIVE_HITS_S02AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-olive-nepal.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Olive Retro",
+      "s": "https://14073.live.streamtheworld.com:443/RADIO_OLIVE_RETRO_S03AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-olive-retro.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Sout Al Khaleej FM",
+      "s": "https://prod-52-23-201-54.wostreaming.net/ihorizonsradio-sakfmaac-ibc1",
+      "l": "https://kuasark.com/files/stations-logos/radio-sout-al-khaleej-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Qatar Radio",
+      "s": "http://52.178.28.223:1935/QRS/myStream/Playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/qatar-radio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Fame FM Qatar",
+      "s": "http://13683.live.streamtheworld.com/SAM03AAC389_SC",
+      "l": "https://kuasark.com/files/stations-logos/fame-fm-qatar.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Suno 91.7",
+      "s": "https://22533.live.streamtheworld.com:443/SUNO917.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-suno-917.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "URDU Radio",
+      "s": "http://52.178.28.223:1935/URDU/myStream/Playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/urdu-radio.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Habaieb FM",
+      "s": "http://188.166.95.19:8000/live_habaiebfm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/habaieb-fm.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Suno Tamil",
+      "s": "https://24863.live.streamtheworld.com:443/RADIO_SUNO_TAMIL_S01AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-suno-tamil.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Suno Lanka",
+      "s": "https://14073.live.streamtheworld.com:443/RADIO_SUNO_HITS_S05AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-suno-lanka.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Suno Melody",
+      "s": "https://14073.live.streamtheworld.com:443/RADIO_SUNO_MELODY_S06AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-suno-melody.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "freefm.lk - Qatar Sinhala Radio",
+      "s": "https://stream-150.zeno.fm/4awq6kvoezttv?zs=Gt9oghJJQYyLaRkCoT_WbA",
+      "l": "https://kuasark.com/files/stations-logos/freefmlk-qatar-sinhala-radio.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "قناة الجزيرة",
+      "s": "https://live-hls-web-aja.getaj.net/AJA/06.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/qnat-aljzyrt.png",
+      "g": [
+        "News",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Aljazeera English",
+      "s": "http://live-hls-web-aje.getaj.net/AJE/06.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/aljazeera-english.png",
+      "g": [
+        "Other",
+        "News",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Aljazeera Arabic",
+      "s": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/aljazeera-arabic.png",
+      "g": [
+        "News",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "AlJazeera English Audio",
+      "s": "https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/01.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/aljazeera-english-audio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "الجزيرة صوت",
+      "s": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/aljzyrt-swt.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Al Jazeera - Arabic",
+      "s": "http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/al-jazeera-arabic.png",
+      "g": [
+        "Electronic",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Qabayan Radio 94.3 FM",
+      "s": "http://c2.radioboss.fm:8478/live",
+      "l": "https://kuasark.com/files/stations-logos/qabayan-radio-943-fm.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

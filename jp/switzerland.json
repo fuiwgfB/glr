@@ -1,0 +1,3711 @@
+{
+  "stations": [
+    {
+      "t": "1.FM - High Voltage",
+      "s": "https://strmreg.1.fm/highvoltage_mobile_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/950/uw17593fdcbb9bbe5584274043_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "1.FM - ALTERNATIVE ROCK X HITS",
+      "s": "https://strmreg.1.fm/x_mobile_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/955/qk4h593fdca5346e9284436782_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "1.FM (Amsterdam Trance Radio)",
+      "s": "https://strmreg.1.fm/atr_mobile_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/368/da7s593fdcb4dfcb9201905601_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "1.FM - Blues Radio",
+      "s": "http://sc-blues.1.fm:8030/",
+      "l": "https://images.radiovolna.net/_files/images/stations/418/mbh8593fdcad7f751774226269_130x130.webp",
+      "g": [
+        "Jazz",
+        "Blues"
+      ]
+    },
+    {
+      "t": "1.FM - Destination SPA",
+      "s": "http://205.164.62.15:6012/",
+      "l": "https://images.radiovolna.net/_files/images/stations/952/yau9593fdd2b5f9d1938948858_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Rouge Disco",
+      "s": "https://rouge-disco.ice.infomaniak.ch/rouge-disco-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7677/b5zp5957b74815ad3618452515_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Classic Rock Replay",
+      "s": "http://sc-classrock.1.fm:8200/",
+      "l": "https://images.radiovolna.net/_files/images/stations/953/riir593fdcd723835578397224_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Swiss Classic",
+      "s": "https://stream.srg-ssr.ch/m/rsc_fr/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/6729/wu82595a97dcb3a4d528180102_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "1.FM - Bossa Nova Hits",
+      "s": "https://strm112.1.fm/bossanova_mobile_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2403/pi2q593fdcdf9435e517720542_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "1.FM - Costa Del Mar",
+      "s": "https://strm112.1.fm/costadelmarchillout_mobile_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/5903/x7fw593fdcc31469e291693425_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "1.FM - Absolute Country Hits",
+      "s": "http://205.164.62.22:7800/",
+      "l": "https://images.radiovolna.net/_files/images/stations/706/titd593fdcca72cc6397898290_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Crazy Jazz / Swing - Public Domain Jazz",
+      "s": "http://relay.publicdomainproject.org:80/jazz_swing.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/806/iw90595a9677c72d8138924709_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "1.FM - Rock Classics",
+      "s": "http://sc-rockclassics.1.fm:10056/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7281/zwur593fde1ee9ead508573165_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Swiss Jazz",
+      "s": "http://streaming.swisstxt.ch/m/rsj/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/6731/lzzs595a97ff9c31f041221856_130x130.webp",
+      "g": [
+        "Jazz",
+        "Blues"
+      ]
+    },
+    {
+      "t": "1.FM - Chillout Lounge Radio",
+      "s": "http://sc-tcl.1.fm:8010/",
+      "l": "https://images.radiovolna.net/_files/images/stations/930/zr5e593fdcd09ea79377130644_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Rouge Reggae",
+      "s": "https://rouge-reggae.ice.infomaniak.ch/rouge-reggae-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7668/io745957b5af233ab232322551_130x130.webp",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "1.FM - Love Classics Radio",
+      "s": "http://sc3c-sjc.1.fm:10052/",
+      "l": "https://images.radiovolna.net/_files/images/stations/1234/zpvi59d1f9e980ba7424665750_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "1.FM - Deep House",
+      "s": "http://sc-deephouseradio.1.fm:10164/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7268/z37h593fddad5c85a672312950_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "1.FM - Absolute Trance (Euro)",
+      "s": "http://sc-trance.1.fm:7012/",
+      "l": "https://images.radiovolna.net/_files/images/stations/935/hg7w593fdd1be8f24525820802_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Traxx FM - Ambient",
+      "s": "https://traxx011.ice.infomaniak.ch/traxx011-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7758/m1fe59579ed087a33976575003_130x130.webp",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "RSI Rete Due",
+      "s": "https://stream.srg-ssr.ch/m/retedue/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7720/jcx25a2ba9df9928e021811238_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "RADIO DISCOunt",
+      "s": "https://rb.gy/sw6fox",
+      "l": "https://images.radiovolna.net/_files/images/stations/417437/5541c45a31d516f81f35c59a9c72c2c3_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "Latin",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Crazy Classical -  Public Domain Classical",
+      "s": "http://relay.publicdomainproject.org:80/classical.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/977/thpw595a96e65c740558222688_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "1.FM - ReggaeTrade",
+      "s": "http://sc-reggae.1.fm:7000/",
+      "l": "https://images.radiovolna.net/_files/images/stations/940/oq5i593fddcd1ff48456882580_130x130.webp",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "1.FM - Circuit Pride Radio",
+      "s": "http://sc2b-sjc.1.fm:5090/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7266/jv6r593fde1815980364094076_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Traxx FM Lounge",
+      "s": "https://traxx004.ice.infomaniak.ch/traxx004-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7775/g1wl59579f78357f6492439843_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "80ies",
+      "s": "https://stream.radiojar.com/6cbvkaa1mrruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/420324/a4f02f227091d546bf925b54fcdd44f2_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "1.FM - Fashion TV Radio",
+      "s": "http://sc-ftv.1.fm:5070/",
+      "l": "https://images.radiovolna.net/_files/images/stations/942/ri22593fdd3857ebf867035037_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rouge FM",
+      "s": "https://rougefm.ice.infomaniak.ch/rougefm-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7662/zpb55957b4f359dce753914037_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "One FM",
+      "s": "https://onefm.ice.infomaniak.ch/onefm-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7658/v8i559a5211bdc5e5516416228_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Traxx FM Soul",
+      "s": "https://traxx006.ice.infomaniak.ch/traxx006-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7780/wv0759579f9ef1e52702078056_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Spoon Radio",
+      "s": "https://spoonradio.ice.infomaniak.ch/spoonradio-hd",
+      "l": "https://images.radiovolna.net/_files/images/stations/7655/g4u25a2ad04e85c84807288392_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Framboase",
+      "s": "https://framboase.ice.infomaniak.ch/framboase-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7717/iyp95a2ae527a8ff3778213697_130x130.webp",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Traxx FM Gold Hits 70' - 80'",
+      "s": "https://traxx017.ice.infomaniak.ch/traxx017-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7767/c41g59579f178c77a128718336_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "1.FM - Dubstep Forward",
+      "s": "http://sc1c-sjc.1.fm:10012/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7269/j5en593fde320a3b3698200026_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Vibration Zen Relax",
+      "s": "http://vibration.stream2net.eu:8220/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7822/s4855a2aca22da6e9708634436_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "1.FM - America's Best Ballads",
+      "s": "http://sc-abb.1.fm:8680/",
+      "l": "https://images.radiovolna.net/_files/images/stations/948/ampy593fdd4634aa8719567222_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Traxx FM Funk",
+      "s": "https://traxx016.ice.infomaniak.ch/traxx016-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7765/femk59579f07ef2b7279823671_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "1.FM - All Euro 80's Radio",
+      "s": "http://sc-80s.1.fm:8097/",
+      "l": "https://images.radiovolna.net/_files/images/stations/949/n6ku593fddd436324035216866_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio X",
+      "s": "https://mp3.radiox.ch/standard.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7623/w45r59a514b68d97d004974323_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Bern 1",
+      "s": "https://mp3.radiobern1.ch/radiobern1128k",
+      "l": "https://images.radiovolna.net/_files/images/stations/7632/chr459a512975cbae054567243_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "UZIC - Techno Minimal",
+      "s": "http://stream.uzic.ch:9010/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7712/th3w5979f1fc99ade340503857_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "New Clear Radio",
+      "s": "http://live.ncradio.ru/128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/189/1473256331_digf2z6t_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RaSA",
+      "s": "https://radio.upstream-cloud.ch/radiorasa-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7747/jl0c5a2ba947b8ad3220329009_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "1.FM - Country One",
+      "s": "http://sc-countryone.1.fm:8020/",
+      "l": "https://images.radiovolna.net/_files/images/stations/938/viq5593fdda71933e802219837_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "GDS.FM",
+      "s": "https://gdsfm.out.airtime.pro/gdsfm_a",
+      "l": "https://images.radiovolna.net/_files/images/stations/7598/wndr5a2ac44d9b56f917263461_130x130.webp",
+      "g": [
+        "Themes",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "1.FM - Jamz",
+      "s": "http://sc-jamz.1.fm:8052/",
+      "l": "https://images.radiovolna.net/_files/images/stations/937/o0ww593fdd5e77235297468403_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Traxx FM Rock",
+      "s": "https://traxx019.ice.infomaniak.ch/traxx019-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7779/fmq659579f97b4644650157627_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Energy Zürich",
+      "s": "https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7535/l1o7595cc7abb8860535358806_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1.FM - Magic 80 Radio",
+      "s": "http://sc3b-sjc.1.fm:10084/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7276/ira2593fde807b431662828367_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Eviva",
+      "s": "https://radioeviva.ice.infomaniak.ch/radioeviva-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7722/i07w5a2ad18fa0e5f687558509_130x130.webp",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "1.FM - Radio Gaia",
+      "s": "http://sc3c-sjc.1.fm:10036/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7280/zb3x593fdebfde3fb132458575_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "diis Radio",
+      "s": "http://81.201.203.206:8000/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7652/zm8j5a2ae25e6f234345514498_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Drachenblut",
+      "s": "http://radio-drachenblut.ch:8000/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/32501/096de76f4cba3031b036fde9a920f408_130x130.webp",
+      "g": [
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Christmasradio.fm",
+      "s": "https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7590/fq1o5a2ae4a5c90b7319889409_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "Traxx FM Italia",
+      "s": "https://traxx021.ice.infomaniak.ch/traxx021-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7771/ics059579f35a4d4d747029437_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "1.FM - Absolute 90'S",
+      "s": "http://sc-90s.1.fm:8065/",
+      "l": "https://images.radiovolna.net/_files/images/stations/932/f2jv593fddf33ffbc747347494_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "FM1",
+      "s": "https://radiofm1.ice.infomaniak.ch/radiofm1-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7751/i6tc5a2ace627fe89745445699_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Traxx FM Gold Hits 90' - 00'",
+      "s": "https://traxx024.ice.infomaniak.ch/traxx024-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7768/vutf59579f1f7adcc074526021_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Traxx FM Hits",
+      "s": "https://traxx010.ice.infomaniak.ch/traxx010-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7769/elwb59579f26c9f17438213957_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rouge In Love",
+      "s": "https://rouge-inlove.ice.infomaniak.ch/rouge-inlove-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7680/ssgd5957ba46a226e827954137_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Basilisk",
+      "s": "https://ohnewerbung.ice.infomaniak.ch/radiobasilisk-64-128-0.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7625/eiu559a515a91917e235681659_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Truehouse.net",
+      "s": "http://stream.truehouse.net:8000/house",
+      "l": "https://images.radiovolna.net/_files/images/stations/7526/fquc5a2ac3f1c265d628024678_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "SRF 2 Kultur",
+      "s": "https://streaming.swisstxt.ch/m/drs2/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7622/lg0f59a5152178191616082296_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "my105 Dance",
+      "s": "http://stream01.my105.ch/my105dance.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7507/nrgc5982dbcf1ee66315553922_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Central",
+      "s": "https://radiocentral.ice.infomaniak.ch/radiocentral-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7723/hkme5a2ae479b79ab917089952_130x130.webp",
+      "g": [
+        "Pop",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Energy German",
+      "s": "https://energygerman.ice.infomaniak.ch/energygerman-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7612/vvmb595cca64e910c833529159_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Traxx FM France",
+      "s": "https://traxx025.ice.infomaniak.ch/traxx025-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7764/lmwq59579f01319c0882897530_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Energy Love",
+      "s": "https://energylove.ice.infomaniak.ch/energylove-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7604/yodp595cc8ca29b5e020599927_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rouge Urban",
+      "s": "https://rouge-urban.ice.infomaniak.ch/rouge-urban-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7694/laee5957bba9ce204015518397_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Rouge Italia",
+      "s": "http://sc10.streamingpulse.tv:8020/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7674/ujox5957b634f2411768860059_130x130.webp",
+      "g": [
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "Traxx FM R&B",
+      "s": "https://traxx007.ice.infomaniak.ch/traxx007-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7778/fqnz59579f8f673e8187862080_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Swiss Groove",
+      "s": "http://158.69.74.203:80/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/788/byu9595a978994717889608040_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Traxx FM Rap",
+      "s": "https://traxx015.ice.infomaniak.ch/traxx015-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7777/pqsp59579f87d3a25840483275_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "RTS La 1ère",
+      "s": "http://stream.srg-ssr.ch/m/la-1ere/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/6780/phi55a2ac5cc50b15537954889_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "1.FM - Kids FM Radio",
+      "s": "http://sc3c-sjc.1.fm:10116/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7274/y6bh593fde3825439930212685_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "ALEX FM EDM",
+      "s": "https://stream.radiostreamserver.de/listen/alexfm/edm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427785/134c6465e94c4799a7acd6a15e9a0381_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Bibelradio",
+      "s": "http://rs1.stream24.org:8690/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/7809/mxry5a2baec222009525455240_130x130.webp",
+      "g": [
+        "Talk",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "my105 DJ NIGHTS",
+      "s": "http://stream01.my105.ch/my105djnights.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31500/a2e018206da8146b596383c21ac18795_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "1.FM - Top Fiesta Radio",
+      "s": "http://sc2b-sjc.1.fm:10068/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7287/vr8b593fde7a03381032771350_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "my105 All The Hits",
+      "s": "http://stream01.my105.ch/my105allthehits.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7528/xr1u5982dbf516f76655092237_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Creatures Of The Night Radio COTN",
+      "s": "http://178.209.40.106:8010/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/32679/20738ba571b08f830a13cb898000bb29_130x130.webp",
+      "g": [
+        "Electronic",
+        "Easy Listening",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Léman Rouge",
+      "s": "http://212.83.172.11:9045/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/7817/qe6y59574daa27777557709453_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Traxx FM Pop",
+      "s": "http://broadcast.infomaniak.ch/traxx009-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7776/aip559579f7f57b63801890502_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 3i",
+      "s": "https://radio3i.ice.infomaniak.ch/radio3i-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423755/11454a5ef96571caa537128574d4bab8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rouge Suisse",
+      "s": "https://rouge-suisse.ice.infomaniak.ch/rouge-suisse-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7700/tkzc5957bc3581db7222726795_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "One Rock",
+      "s": "https://webradio0002.ice.infomaniak.ch/webradio0002-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/24651/dc5351c748c04f71db4f711210f518e4_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Energy Hot",
+      "s": "https://energyhot.ice.infomaniak.ch/energyhot-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7605/ytd7595cc8eab94a4049513041_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rouge Platine",
+      "s": "https://rougeplatine.ice.infomaniak.ch/rougeplatine-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7664/uozy5957b537c54d3337878556_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Rouge USA",
+      "s": "https://rouge-us.ice.infomaniak.ch/rouge-us-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7704/fg0d5957bc86ec7d6866027906_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Halb Tanz Halb Schlaf",
+      "s": "https://eu3.fastcast4u.com/proxy/jsackman?mp=/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/7627/rjk95a2ae6de163aa134711815_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rouge RNB",
+      "s": "https://rouge-rnb.ice.infomaniak.ch/rouge-rnb-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7672/s9d05957b5f54939f476189526_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Toxic.fm",
+      "s": "http://toxicfm.ice.infomaniak.ch:80/toxicfm-128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7752/yu4p5a2ae56ccfd17041566534_130x130.webp",
+      "g": [
+        "Themes",
+        "Rock"
+      ]
+    },
+    {
+      "t": "1.FM - Samba Rock",
+      "s": "http://sc-sambarock.1.fm:10002/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7283/llxu593fde9382ca5669909644_130x130.webp",
+      "g": [
+        "Latin",
+        "Rock"
+      ]
+    },
+    {
+      "t": "D.M.G Electro Deep Radio",
+      "s": "https://stream.laut.fm/dmg",
+      "l": "https://images.radiovolna.net/_files/images/stations/24917/fc732f07b46c51e4ae32e6469a836ac6_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "1.FM - Sertaneja Hits Radio",
+      "s": "http://sc-sertanejahits.1.fm:10088/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7285/d5gr593fdeb9d0d12071611332_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SRF 1 Regionaljournal Ostschweiz",
+      "s": "https://stream.srg-ssr.ch/m/regi_ost/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/28367/830ce489da6f30355c634c8ef4c1833e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radius",
+      "s": "http://relay.radio.ethz.ch/sender.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/23503/e509de503c296038ce077605cba3db32_130x130.webp",
+      "g": [
+        "Pop",
+        "Rap",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Vibration Chanson Française",
+      "s": "http://vibration.stream2net.eu:8510/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7798/hrcc5a2ac950bc617522103879_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Piratenradio.ch",
+      "s": "https://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7508/wgsw5a2acae0dec54833755975_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "World Radio Switzerland",
+      "s": "https://streamingr.broadcastradio.com:10295/wrs",
+      "l": "https://images.radiovolna.net/_files/images/stations/7653/n9cy5a2ae20bcebbd017450596_130x130.webp",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "1.FM - Gorilla FM",
+      "s": "http://sc-gorillafm.1.fm:10020/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7272/mtyz593fde3e7a3ed178802327_130x130.webp",
+      "g": [
+        "Alternative",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "1.FM - Italia On Air Radio",
+      "s": "http://sc3c-sjc.1.fm:10124/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7273/sezz593fdeae3c4a2700535827_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Traxx FM Latino",
+      "s": "https://traxx008.ice.infomaniak.ch/traxx008-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7773/z1bs59579f6895355157764554_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "rro swiss melody",
+      "s": "https://streams.rro.ch/swissmelody.mp3?usid=0-0-H-M-A-02",
+      "l": "https://images.radiovolna.net/_files/images/stations/7746/vbqj5976099149307012110050_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Zones",
+      "s": "http://radiozones.dyndns.org:8000/radiozones",
+      "l": "https://images.radiovolna.net/_files/images/stations/401470/gaa359a51ffe07f24382992573_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Laut.fm - Countrymusic",
+      "s": "https://countrymusic.stream.laut.fm/countrymusic?t302=2020-04-23_09-13-10&uuid=dac531dd-ab6b-4d48-9c8b-c26534076208",
+      "l": "https://images.radiovolna.net/_files/images/stations/7516/f8fa5a2ba804249f9246657655_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Yes FM / LAC",
+      "s": "https://yesfm.ice.infomaniak.ch/yesfm-high.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/7657/txn959a51f2d35d61678757342_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Laut.fm - _a_u_r_a_t_o_n_",
+      "s": "https://auraton.stream.laut.fm/_a_u_r_a_t_o_n_?t302=2020-04-23_05-29-37&uuid=16b28579-4529-4698-b900-ad2d344cc70e",
+      "l": "https://images.radiovolna.net/_files/images/stations/7515/rrig5a2ae23bb11e6682085624_130x130.webp",
+      "g": [
+        "New Age"
+      ]
+    },
+    {
+      "t": "Traxx FM Latino Pop",
+      "s": "https://traxx022.ice.infomaniak.ch/traxx022-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7774/lfiv59579f6f9c139625050560_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Riviera Montreux",
+      "s": "http://radio6.pro-fhi.net/listen-fpszdcrv-stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/417355/b02666b25089ac70784e264213d44e52_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Energy Charts",
+      "s": "https://energycharts.ice.infomaniak.ch/energycharts-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7613/e19g595ccaa3d39b7888383663_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Energy Girl",
+      "s": "https://energygirl.ice.infomaniak.ch/energygirl-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7606/jbg5595cc9083570a986037939_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rouge 90",
+      "s": "https://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7671/r4785957b5e50ddd8876101518_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "24 Pop",
+      "s": "https://icecast.radio24.ch/radio24pop",
+      "l": "https://images.radiovolna.net/_files/images/stations/7505/gswl59a518bab5e35429715760_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "my105 Fresh",
+      "s": "http://stream01.my105.ch/my105fresh.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7518/uzy65982dbe6b2abf341389265_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Grenzenlos",
+      "s": "http://streamplus31.leonex.de:35976/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/6584/yn4w5a2ad14885e14284313817_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Virgin Radio Rock",
+      "s": "https://icecast.argovia.ch/vrock",
+      "l": "https://images.radiovolna.net/_files/images/stations/423748/0fd717d66087d2e585fbef9055aecda8_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "One Scène française",
+      "s": "https://webradio0005.ice.infomaniak.ch/webradio0005-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/26288/0b0ffabbfd37e9b5cef733844510d954_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Jura Bernois / RJB",
+      "s": "https://rjb.ice.infomaniak.ch/rjb-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7785/r8vx5a2ba8de0f74e464583294_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mix 24FM",
+      "s": "http://live7.avf.ch:8000/ipmusic160",
+      "l": "https://images.radiovolna.net/_files/images/stations/27075/bbc6ace9eb4e4debf02850c6355b9aee_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio 1",
+      "s": "https://stream.radio1.ch/128k",
+      "l": "https://images.radiovolna.net/_files/images/stations/7650/khdi5a2adc12ccf7a310997947_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rouge SUN",
+      "s": "https://rouge-sun.ice.infomaniak.ch/rouge-sun-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7710/vwnb5957bd5e6f84e867700444_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RaBe",
+      "s": "http://stream.rabe.ch:8000/livestream/rabe-mid.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7629/g83r59a5124e7eed3697004561_130x130.webp",
+      "g": [
+        "Alternative",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Onyx",
+      "s": "http://nr4.newradio.it:9432/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/26941/f3d6b8cd62413166eff3f526f7404c3e_130x130.webp",
+      "g": [
+        "Themes",
+        "International"
+      ]
+    },
+    {
+      "t": "Vibration 108",
+      "s": "http://vibration.stream2net.eu:8130/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7799/zeub5a2ac9b96057f609875807_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Ticino",
+      "s": "https://streaming.smartradio.ch:8502/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423754/69525c55926a137464c040370973f542_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio 24",
+      "s": "http://icecast.radio24.ch/radio24",
+      "l": "https://images.radiovolna.net/_files/images/stations/7591/avud59a5181a26e7d016121955_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1.FM - 50s and 60s",
+      "s": "http://sc-60s.1.fm:8015/",
+      "l": "https://images.radiovolna.net/_files/images/stations/962/fqsw593fddda583b6176024286_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "PureGlow Radio",
+      "s": "http://pureglowradio.ice.infomaniak.ch/pureglowradio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/425776/652a5300fdc8d313153a13b3d95a1dee_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "my105 Party",
+      "s": "http://stream01.my105.ch/my105party.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7531/wxj45982dc0a7e7f4744857379_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "WWMC Radio",
+      "s": "http://178.32.138.88:8076/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/7659/jv1e5a2ae04135651002116884_130x130.webp",
+      "g": [
+        "Rap",
+        "Pop"
+      ]
+    },
+    {
+      "t": "1.FM - Adult Urban Hits Choice Radio",
+      "s": "http://sc2b-sjc.1.fm:7086/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7261/hcpa593fdea79a0ed046176594_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "rockandrollradio",
+      "s": "https://rockandrollradio.stream.laut.fm/rockandrollradio?t302=2020-04-23_01-13-01&uuid=4cb059a1-6cda-41b8-a086-f8d5e8b3cb09",
+      "l": "https://images.radiovolna.net/_files/images/stations/22863/ed54c0456dc88de4d2a5bf5bfdf4735a_130x130.webp",
+      "g": [
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "1.FM - Always Christmas",
+      "s": "http://sc-christmas.1.fm:8650/",
+      "l": "https://images.radiovolna.net/_files/images/stations/957/gvxp593fddba87122603276567_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "1.FM - Acappella",
+      "s": "http://sc-acapl.1.fm:8662/",
+      "l": "https://images.radiovolna.net/_files/images/stations/939/b6kx593fde0b1b36f704039937_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "energy22",
+      "s": "https://energy22.stream.laut.fm/energy22?t302=2020-04-23_04-22-25&uuid=1ad7f2db-9e8b-4ef2-8e75-9754265ebff4",
+      "l": "https://images.radiovolna.net/_files/images/stations/28319/35b8af382c66a9c6809721c901f6f3f9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "my105 Rock",
+      "s": "http://stream01.my105.ch/my105rock.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7530/el3h5982dc03609ca483316223_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "1.FM - Exitos del Ayer Radio",
+      "s": "http://sc2c-sjc.1.fm:10076/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7270/mdfd593fded276ceb048141118_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "One Latino",
+      "s": "https://webradio0008.ice.infomaniak.ch/webradio0008-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/25887/6c4ae2559867a2342e12862fc4839832_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "radio1fm",
+      "s": "https://radio1fm.stream.laut.fm/radio1fm?t302=2020-04-23_06-45-42&uuid=5daa7bcd-c5b9-4b8b-b54a-bfd6ab47c350",
+      "l": "https://images.radiovolna.net/_files/images/stations/24994/b72c795af1394bf59deb8dadae18b46c_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Blitz",
+      "s": "http://streamplus20.leonex.de:27100/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7787/n4hg5a2ad1264d51a596849511_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vibration Poprock",
+      "s": "http://chocpoprock.stream2net.eu:8260/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7818/o3kn5a2ac9e0d1653108787806_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "my105 X-MAS",
+      "s": "http://stream01.my105.ch/my105xmas.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/26407/9a6284a990353f29cb9eb63f5b376466_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "IP Music",
+      "s": "http://live9.avf.ch:8000/ipmusic128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7713/ssve5a2ac721f277f502580635_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RADIO STUDIO SOUND",
+      "s": "http://sr9.inmystream.it:8510/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430236/7c710c573c39fc3af1661da641e374cf_130x130.webp",
+      "g": [
+        "Seasonal and Holiday",
+        "Decades",
+        "Latin",
+        "International",
+        "Talk",
+        "News",
+        "Inspirational",
+        "Pop"
+      ]
+    },
+    {
+      "t": "my105 The Battle",
+      "s": "http://stream01.my105.ch/my105thebattle.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7517/i42b5982dbde9a85f635982081_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Freiburg",
+      "s": "https://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/24451/2936889a566a38656626bb7a024a29da_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Energy 90's",
+      "s": "https://energy90s.ice.infomaniak.ch/energy90s-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7616/hqha595ccb71365be312844001_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "1.FM - Otto's Classical Music",
+      "s": "http://sc-classical.1.fm:8047/",
+      "l": "https://images.radiovolna.net/_files/images/stations/959/fthr593fdde7038a5547388784_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "TOP TWO",
+      "s": "http://icecast.radiotop.ch/toptwo_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7790/shma5a2ac87b634ba366224608_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kanal K",
+      "s": "http://stream.kanalk.ch/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/7644/rw2i5a2ae1713a7a4419300276_130x130.webp",
+      "g": [
+        "Themes",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "RTN",
+      "s": "https://rtn.ice.infomaniak.ch/rtn-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7739/i3eq5a2bac2b85ccb574364794_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Paradise FM",
+      "s": "http://fmradio.hopto.org:7000/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/21606/75006fd7e18606f8389327671000a791_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "1.FM - Cafe Radio",
+      "s": "http://sc-caferadio.1.fm:10084/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7265/hvws593fde85e9e65259181023_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SRF 1 Regionaljournal Zentralschweiz",
+      "s": "https://stream.srg-ssr.ch/m/regi_zentr/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/28420/bb06aecf66daa8bc36fefeb4e4985817_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "AlpeRadio Leysin",
+      "s": "http://bb38.sonixcast.com:20006/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/7741/vc8k5a2ade08ca385639511621_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Open Broadcast",
+      "s": "http://stream.openbroadcast.ch:80/openbroadcast",
+      "l": "https://images.radiovolna.net/_files/images/stations/423752/50474951fea45aa1912227ab6916a995_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "rro Müsig pur",
+      "s": "http://streams.rro.ch/muesigpur.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7745/q9re5a2adfe0e3c38772460969_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "RTS Espace 2",
+      "s": "http://stream.srg-ssr.ch/m/espace-2/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/6781/l8j75a2adc74b275b092913740_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Glarissimo",
+      "s": "https://fridolin.ice.infomaniak.ch/fridolin-192.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/22114/ab347f5feea1342c43962dd28b1c5504_130x130.webp",
+      "g": [
+        "Rock",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "1.FM - MPB Hits",
+      "s": "http://sc2b-sjc.1.fm:10034/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7278/murv593fdecc702f2266963647_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gloria",
+      "s": "https://ch-be06-ice.dmd2streaming.com/radiogloria_lo",
+      "l": "https://images.radiovolna.net/_files/images/stations/7786/xz3x59a516dd02f9a396747010_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RTS Couleur 3",
+      "s": "http://stream.srg-ssr.ch/m/couleur3/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/6755/okp65a2acb91c7f95732593386_130x130.webp",
+      "g": [
+        "Alternative",
+        "Rock"
+      ]
+    },
+    {
+      "t": "RSI Rete Tre",
+      "s": "https://stream.srg-ssr.ch/m/retetre/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7721/yngf5a2ac8c2d96eb424018242_130x130.webp",
+      "g": [
+        "Pop",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "SRF 1",
+      "s": "https://stream.srg-ssr.ch/m/regi_be_fr_vs/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/28418/92dab72a0f7a31ec2eb90ec140408f95_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 906",
+      "s": "https://n05a-eu.rcs.revma.com/e580f9f39yuvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430184/dcb5134f1577a3f8571a6d970251031d_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RadioChico",
+      "s": "http://radiochico.sdreamland.ch:80/radiochico.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7783/rn2h5a2bafdc50ff4830532298_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Laut FM - Rockheavy",
+      "s": "https://rockheavy.stream.laut.fm/rockheavy?t302=2020-04-23_06-59-39&uuid=6f69fb27-d3db-44c5-a150-fc9f48ad51d3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7511/njq65a2bac47220b0590099296_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Energy Mix",
+      "s": "https://energymix.ice.infomaniak.ch/energymix-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7611/whz3595cca4267501876763987_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Electro Radio",
+      "s": "https://stream.radiojar.com/fkyxx4q35k0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/23195/be7f2b8ac9b2746af8cb3e9698d3ddec_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Sunshine",
+      "s": "https://sunshineradio.ice.infomaniak.ch/sunshineradio-64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/7734/syuj59a517c971352403916301_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rouge FM - Best Hits 2000",
+      "s": "https://rouge-2000.ice.infomaniak.ch/rouge-2000-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7695/52589c5794d6b8ae9bcfe92e87e34ccf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Laut FM - Rock-The-Blues",
+      "s": "https://rock-the-blues.stream.laut.fm/rock-the-blues?t302=2020-04-23_06-29-51&uuid=1e72b96c-5cfc-4e67-a39a-cc3fe5618e36",
+      "l": "https://images.radiovolna.net/_files/images/stations/7506/r7hh5a2add2888372210119486_130x130.webp",
+      "g": [
+        "Blues"
+      ]
+    },
+    {
+      "t": "Sonata Hellvetica",
+      "s": "http://91.121.59.45:8091/autodj",
+      "l": "https://images.radiovolna.net/_files/images/stations/7807/b9vm5a2ae0f442dec842904906_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Audioasyl",
+      "s": "http://stream.audioasyl.net:8000/audioasyl",
+      "l": "https://images.radiovolna.net/_files/images/stations/7600/zmrc597a2f002a380761556916_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "IP Music Slow",
+      "s": "http://live7.avf.ch:8000/ipmusicslowaacp96",
+      "l": "https://images.radiovolna.net/_files/images/stations/7718/s5ry596e2d25c82bb013205773_130x130.webp",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "1.FM - Slow Jamz Radio",
+      "s": "http://sc3c-sjc.1.fm:10044/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7286/guhy593fde45bce57757525964_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "1.FM - Adore Jazz",
+      "s": "http://sc-ajazz.1.fm:5080/",
+      "l": "https://images.radiovolna.net/_files/images/stations/936/m1v5593fddc0ee431602657431_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Laut FM - Monstraudio",
+      "s": "https://monstraudio.stream.laut.fm/monstraudio?t302=2020-04-23_09-19-31&uuid=c6627edb-0b05-4ca3-83e6-1a11f17b14dd",
+      "l": "https://images.radiovolna.net/_files/images/stations/7514/vrtw5a2bace0254c8856840843_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Südostschweiz",
+      "s": "https://radiostream.suedostschweiz.ch/m/grischa/aacp_96",
+      "l": "https://images.radiovolna.net/_files/images/stations/7642/nbl25a2ae311afbfb127589279_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "24 Rock",
+      "s": "https://icecast.radio24.ch/radio24rock",
+      "l": "https://images.radiovolna.net/_files/images/stations/7599/ctnq59a5188ccbfa8020291321_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio LoRa",
+      "s": "http://livestream.lora.ch/lora.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7534/b98b46bcce3a9d1ddf903dd928debf51_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Argovia",
+      "s": "https://icecast.argovia.ch/argovia128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7648/pdlk5a2acfb37f3eb849970569_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vaanam",
+      "s": "http://188.165.237.19:8717/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/31312/a3e45a9f149ca866f296225e0406ca55_130x130.webp",
+      "g": [
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "Radiologisch",
+      "s": "http://82.220.3.107:8000/stream/2/",
+      "l": "https://images.radiovolna.net/_files/images/stations/24930/5f56d163d167c85f3581fb9ac7c76e8a_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Frequence Banane",
+      "s": "http://fbpc5.epfl.ch:8000/fb_192",
+      "l": "https://images.radiovolna.net/_files/images/stations/7715/soos5a2ae19f39ed2533872984_130x130.webp",
+      "g": [
+        "Themes",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "One 80's",
+      "s": "https://webradio0004.ice.infomaniak.ch/webradio0004-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/23714/024d5ec6ea3a642a78490430d8f81720_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "One Dance",
+      "s": "https://webradio0003.ice.infomaniak.ch/webradio0003-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/26675/647749fa16f46c555d8344bb7cd2e55d_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "pineapplejuice",
+      "s": "https://pineapplejuice.stream.laut.fm/pineapplejuice?t302=2020-04-23_14-13-10&uuid=4f7c2288-d5f3-4262-84fa-b7690f4d7a23",
+      "l": "https://images.radiovolna.net/_files/images/stations/25544/7247071f6a36dca3a37b15e74577415c_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Rouge FM - Best Hits 2010",
+      "s": "https://rouge-besthits2011.ice.infomaniak.ch/rouge-besthits2011-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7696/cc26f5cd5f097b2edcf7677e9601283f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rouge Girl",
+      "s": "https://rouge-girl.ice.infomaniak.ch/rouge-girl-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7691/incb5957bb5d9de0e434091205_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Traxx FM Classic",
+      "s": "https://traxx012.ice.infomaniak.ch/traxx012-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7759/j5nw59579ed96c1f6332110122_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Stadtfilter",
+      "s": "http://stream.stadtfilter.net:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7789/z6wm5a2ae5a54a2bd741559317_130x130.webp",
+      "g": [
+        "Themes",
+        "Pop"
+      ]
+    },
+    {
+      "t": "1.FM - Absolute Pop Latino Radio",
+      "s": "http://sc2b-sjc.1.fm:10060/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7260/lset593fdec64ff61396985748_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "1.FM - Samba Hits Brazil",
+      "s": "http://sc2b-sjc.1.fm:10018/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7282/uwfy593fdeb3c8b23769489370_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "neo 1",
+      "s": "http://stream-02.neo1.ch:80/neo1",
+      "l": "https://images.radiovolna.net/_files/images/stations/7756/f9v059a5130728024245430394_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "my105 Mashup",
+      "s": "http://stream01.my105.ch/my105mashup.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7509/wacd5982dbd6caa33923898289_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "4 TNG",
+      "s": "https://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423750/60d400c6742dceb8f4b56895228ec048_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rouge 80",
+      "s": "https://rouge-80s.ice.infomaniak.ch/rouge-80s-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7670/tin65957b5d5128ef897758649_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Tell",
+      "s": "http://stream.radiotell.ch/radiotell.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7631/ozh05a2ac6c578f41695879180_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Rogos-Powerradio",
+      "s": "http://89.163.144.59:5786/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/23786/83924955238d309b37e78b0115a09a45_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Traxx FM Jazz",
+      "s": "https://traxx014.ice.infomaniak.ch/traxx014-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7772/vtaa59579f3d2bac8080971622_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Pirates Radio",
+      "s": "http://maxxima.mine.nu:80/pirates.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/21607/d2fc935835b82fb59052a92b0e5a7545_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "my105 Original",
+      "s": "http://stream01.my105.ch/my105original.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7527/czj35982dbeea09d9496452867_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Vintage Radio",
+      "s": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423746/1c78704f062abfa6f1adbe5f82ff6633_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Powerup radio",
+      "s": "https://powerupradio.ice.infomaniak.ch/powerupradio-192.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427893/5842a4695098fc28ac4bf91cfcf3145a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SRF 1",
+      "s": "https://stream.srg-ssr.ch/m/regi_bs_bl/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/28369/402286db363be5c6e61d3db88f7dad43_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Energy Soundtrack",
+      "s": "https://energysoundtrack.ice.infomaniak.ch/energysoundtrack-high",
+      "l": "https://images.radiovolna.net/_files/images/stations/7602/p2zb595cc84527db2250808277_130x130.webp",
+      "g": [
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Vibration Vintage",
+      "s": "http://vibrationpoprock.stream2net.eu:8060/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7819/riie5a2ac9f8a8c70710556452_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "GOAT Radio",
+      "s": "https://20min.dmd2streaming.com/20minuten_radio_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7533/554a2ba9f219f7862b63ce362aab24b9_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap",
+        "Pop"
+      ]
+    },
+    {
+      "t": "1.FM - Bombay Beats India",
+      "s": "http://sc-bb.1.fm:8017/",
+      "l": "https://images.radiovolna.net/_files/images/stations/951/eu70593fdde10b526551230351_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Vibration Gay Radio!",
+      "s": "http://vibration.stream2net.eu:8480/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7823/lahd5a2aca434e3d7078762627_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rouge Hip-Hop",
+      "s": "https://rouge-hiphop.ice.infomaniak.ch/rouge-hiphop-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7679/eygo5957ba2b7e093880349564_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "SRF Virus - Indie Rock",
+      "s": "https://streaming.swisstxt.ch/m/drsvirus/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/24553/35366cfc71fac9ddb21917921630e4fc_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "ROCKSTATION",
+      "s": "https://radio2.stream24.net:8130/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7601/oxuh5a2ae4d224f0e901950238_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Energy Work out",
+      "s": "https://energyworkout.ice.infomaniak.ch/energyworkout-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401013/lrt1595cce42c0762932865219_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Cité",
+      "s": "https://radiocite.ice.infomaniak.ch/radiocite128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401469/fwla59a51faf45293449541909_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "radio-smooth",
+      "s": "https://radio-smooth.stream.laut.fm/radio-smooth?t302=2020-04-23_09-44-25&uuid=39153efa-5d1a-4778-8e46-cb5d07a99274",
+      "l": "https://images.radiovolna.net/_files/images/stations/28296/d11b3c4956160b5ba24d262638500934_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "amacup",
+      "s": "https://amacup.stream.laut.fm/amacup?t302=2020-04-23_12-56-12&uuid=6ddb1ef1-6c33-48cd-b2f9-f81a33171e11",
+      "l": "https://images.radiovolna.net/_files/images/stations/10387/58529109c03754b7b9bd851a9afe3cbe_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1.FM - Dance One Radio",
+      "s": "http://sc2b-sjc.1.fm:3895/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7267/lrhi593fde2c669da071298475_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "SRF Virus",
+      "s": "https://stream.srg-ssr.ch/m/drsvirus/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7624/jzr55a2acb51b2331065555572_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "La Fabrik",
+      "s": "http://stream.lafabrik.ch/lafabrik",
+      "l": "https://images.radiovolna.net/_files/images/stations/30937/69723a42ab9bb27124c1e401b3502c6f_130x130.webp",
+      "g": [
+        "Rock",
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RSI Rete Uno",
+      "s": "https://stream.srg-ssr.ch/m/reteuno/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7719/ungd59a5134a1c84f053875072_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1.FM - Polska FM",
+      "s": "http://sc-polska.1.fm:10172/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7279/mzfi593fdeddb5937338644501_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MARIA SCHWEIZ",
+      "s": "http://player.radio-maria.ch:9000/radiomaria_lo",
+      "l": "https://images.radiovolna.net/_files/images/stations/7754/mird5a2ae78cbfd33988215165_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "32 Goldies",
+      "s": "https://stream.radio32.ch/radio32goldies",
+      "l": "https://images.radiovolna.net/_files/images/stations/7736/fwyz5a2adecea2cee915716743_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "One 90's",
+      "s": "https://webradio0006.ice.infomaniak.ch/webradio0006-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/25952/0f77ffb7628885840d10f1ab4a71d21b_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Zürisee",
+      "s": "https://mp3.radio.ch/radiozuerisee128k",
+      "l": "https://images.radiovolna.net/_files/images/stations/7649/kd5059a519f6d0ddd723161382_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "AlbaRadio",
+      "s": "http://aradmin.ch:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7808/yw7b5a2ba86a0bb82623470516_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "SRF 3",
+      "s": "https://streaming.swisstxt.ch/m/drs3/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7593/pd2x59a5157b87a3c867220182_130x130.webp",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "3FACH",
+      "s": "http://46.22.26.60:8001/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/7724/x8gw5a2ae358e6a63937515106_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Rundfunk FM",
+      "s": "https://rundfunk.ice.infomaniak.ch/rundfunk-192.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31639/e185c2ca88e46d0c92bf2e26917b4ef4_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "SRF 4 News",
+      "s": "https://streaming.swisstxt.ch/m/drs4news/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7630/ahdb5a2adf0e45168689865404_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "SRF 1 Regionaljournal Aargau Solothurn",
+      "s": "https://stream.srg-ssr.ch/m/regi_ag_so/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/28366/8f47215b7900c023fc39a4a9833dadd4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rockit Radio",
+      "s": "https://rockitradio.ice.infomaniak.ch/rockitradio-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423745/291f15717baefab265f70d054506de78_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "1.FM - Total Hits En Espanol Radio",
+      "s": "http://sc2c-sjc.1.fm:10052/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7288/loay593fde9a44d7f935381111_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "rro Rottu Oberwallis",
+      "s": "http://streams.rro.ch/rro.mp3?usid=0-0-H-M-A-02",
+      "l": "https://images.radiovolna.net/_files/images/stations/7743/y49q5a2baae803dbd474069833_130x130.webp",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "One Lounge",
+      "s": "https://webradio0007.ice.infomaniak.ch/webradio0007-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/28290/b878389064fab96871dea9d21c98fbc9_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Rouge 70",
+      "s": "https://rouge-70s.ice.infomaniak.ch/rouge-70s-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7669/pqfn5957b5c2e0bae554341930_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Chablais",
+      "s": "https://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/28326/8c1d3284cb35b4b2a781a04337c8e44b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ENERGY Christmas Special",
+      "s": "https://energyspecial2.ice.infomaniak.ch/energyspecial2-high",
+      "l": "https://images.radiovolna.net/_files/images/stations/7513/yqdq595cc7505bbb1238447827_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Country Radio",
+      "s": "http://server1.cityedv.at:8034/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/7595/qtuj5a2add6530b99277431911_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Grrif",
+      "s": "http://grrif.ice.infomaniak.ch/grrif-64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401468/ygue59a513b95f8a2146320990_130x130.webp",
+      "g": [
+        "Electronic",
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Jam On Radio",
+      "s": "https://jam-on.ice.infomaniak.ch/jam-on-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423751/faf3829eecb5f3b33af7290c1961ed5d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Energy Latin",
+      "s": "https://energylatin.ice.infomaniak.ch/energylatin-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7615/w1ky595ccb51a9aa4408895826_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Fribourg",
+      "s": "http://icepe8.infomaniak.ch:80/radiofribourg-low.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7793/futt5a2bd906caf1e673052925_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Energy XMAS",
+      "s": "https://energyspecial3.ice.infomaniak.ch/energyspecial3-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401014/q9sd595cce941567c544886260_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "Inside",
+      "s": "https://radioinside.ice.infomaniak.ch/radioinside-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7784/jpq15a2ba99d9a469439155674_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TOP",
+      "s": "http://icecast.radiotop.ch:8000/radiotop_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/28370/38a602834475e6f3c1c1081a4b0da1ef_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Virgin Radio",
+      "s": "https://icecast.argovia.ch/vhits",
+      "l": "https://images.radiovolna.net/_files/images/stations/423747/7c099a8e8d780664445e8d560e2c0663_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio MaXXima",
+      "s": "https://maxxima.mine.nu/maxxima.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427892/4125f28e08c504196786dbe98f8a038c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rhone FM",
+      "s": "https://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7791/p5km5a2ae6c04ca50041337869_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1.FM - Absolute 70's Pop",
+      "s": "http://sc-70s.1.fm:8656/",
+      "l": "https://images.radiovolna.net/_files/images/stations/931/ydw3593fde058b7e8097750790_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rouge UK",
+      "s": "https://rouge-uk.ice.infomaniak.ch/rouge-uk-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7705/ln9f5957bc956f653075609195_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "BeO",
+      "s": "http://87.237.169.123:8000/radiobeo.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7735/sm1s597a44d84b010605245362_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "SRF Musikwelle",
+      "s": "https://stream.srg-ssr.ch/m/drsmw/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7594/tp985a2ac8f9a1afb191466430_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DBC Radio",
+      "s": "https://dbc.ice.infomaniak.ch/dbc-96.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/30641/fceba763c05b2b95c3b55b700d1b3e72_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "my105 Deluxe",
+      "s": "http://stream01.my105.ch/my105deluxe.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7529/umia5982dbfc563d1343567851_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "LFM",
+      "s": "https://lausannefm.ice.infomaniak.ch/lausannefm-high.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/7716/zd1b5a2bac8132ef8880999184_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rumantsch",
+      "s": "https://stream.srg-ssr.ch/m/rr/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7641/jry75a2ac523897c0517549533_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Power Fm",
+      "s": "https://stream.zeno.fm/ynf36a0yfnruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426675/d02d1bedd34f6933139b0a5c88a26467_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "PureGlow Radio",
+      "s": "http://rs1.stream24.org:8200/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/25237/cbbcc2774b8dee3bd620b8cc952dc8e3_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "24 Shape",
+      "s": "https://icecast.radio24.ch/radio24shape",
+      "l": "https://images.radiovolna.net/_files/images/stations/7519/xaus59a518a994557802624046_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Schlager Radio",
+      "s": "https://schlagerradio.ice.infomaniak.ch/schlagerradio-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423749/411417ea28f25cdea53de31ce99db2f4_130x130.webp",
+      "g": [
+        "Folk",
+        "Decades"
+      ]
+    },
+    {
+      "t": "1.FM - Back To The 50's & 60's",
+      "s": "http://sc2b-sjc.1.fm:7028/",
+      "l": "https://images.radiovolna.net/_files/images/stations/7262/g08k593fde73bcfd0293672845_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio 32",
+      "s": "https://stream.radio32.ch/radio32",
+      "l": "https://images.radiovolna.net/_files/images/stations/7737/p2du5a2acd7327daa075858236_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Vibration Soft Hits",
+      "s": "http://vibrationsofthits.stream2net.eu:8350/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7820/b2fe5a2aca1174140823225900_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Svizzera Classica",
+      "s": "https://stream.srg-ssr.ch/m/rsc_it/mp3_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/25071/3b7eac00076f5f333538ab8bd72445ae_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Energy 00's",
+      "s": "https://energy00s.ice.infomaniak.ch/energy00s-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7617/my8w595ccbc05e5e3857678020_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Energy Italy",
+      "s": "https://energyitaly.ice.infomaniak.ch/energyitaly-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7619/pj0d595ccc001251a183286857_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "1.FM - Club 1",
+      "s": "http://sc-club.1.fm:8060/",
+      "l": "https://images.radiovolna.net/_files/images/stations/961/wxik593fddc707a8c537893778_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Swiss Classic",
+      "s": "http://stream.srg-ssr.ch/m/rsc_de/aacp_96",
+      "l": "https://kuasark.com/files/stations-logos/radio-swiss-classic.png",
+      "g": [
+        "Classical",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Swiss Jazz",
+      "s": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
+      "l": "https://kuasark.com/files/stations-logos/radio-swiss-jazz.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "R&B and Urban",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Swiss Pop",
+      "s": "http://stream.srg-ssr.ch/m/rsp/mp3_128",
+      "l": "https://kuasark.com/files/stations-logos/radio-swiss-pop.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1.FM - Absolute TOP 40 Radio",
+      "s": "https://strmreg.1.fm/top40_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-absolute-top-40-radio.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "SRF 3 Radio",
+      "s": "https://lsaplus.swisstxt.ch/audio/drs3_96.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/srf-3-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1.FM - Chillout Lounge Radio",
+      "s": "https://strmreg.1.fm/chilloutlounge_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-chillout-lounge-radio.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "SRF 1 Radio",
+      "s": "https://lsaplus.swisstxt.ch/audio/drs1_96.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/srf-1-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "SRF Radio Musikwelle",
+      "s": "https://lsaplus.swisstxt.ch/audio/drsmw_96.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/srf-radio-musikwelle.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1.FM - Blues Radio",
+      "s": "https://strmreg.1.fm/blues_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-blues-radio.png",
+      "g": [
+        "Blues"
+      ]
+    },
+    {
+      "t": "Radio Bus",
+      "s": "https://radiobus.ice.infomaniak.ch/radiobus-high.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-bus.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "1.FM - Deep House",
+      "s": "https://strmreg.1.fm/deephouse_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-deep-house.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Eviva",
+      "s": "https://chmedia.streamabc.net/79-reviva-mp3-192-6592795?sABC=64480rn2%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682443938",
+      "l": "https://kuasark.com/files/stations-logos/radio-eviva.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Melody",
+      "s": "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64480s16%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682444054",
+      "l": "https://kuasark.com/files/stations-logos/radio-melody-ch.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "RadioChico Schweiz",
+      "s": "http://radiochico.sdreamland.ch/radiochico.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radiochico-schweiz.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Ouistiti",
+      "s": "https://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-ouistiti.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Electro Radio",
+      "s": "https://stream.electroradio.fm/192k?icy=https",
+      "l": "https://kuasark.com/files/stations-logos/electro-radio-ch-88691.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Pilatus",
+      "s": "https://chmedia.streamabc.net/79-pilatus-mp3-192-4664468?sABC=64480q66%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682443622",
+      "l": "https://kuasark.com/files/stations-logos/radio-pilatus.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "1.FM - Absolute Trance  Radio",
+      "s": "https://strmreg.1.fm/trance_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-absolute-trance-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "UZIC - Techno-Minimal",
+      "s": "http://jabba.dasource.ch:9010/;",
+      "l": "https://kuasark.com/files/stations-logos/uzic-techno-minimal.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "1.FM - Classic Rock Replay Radio",
+      "s": "https://strmreg.1.fm/crock_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-classic-rock-replay-radio.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 24",
+      "s": "https://chmedia.streamabc.net/79-r24-mp3-192-6659699?sABC=64480r72%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682443890",
+      "l": "https://kuasark.com/files/stations-logos/radio-24-ch-9103.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1.FM - Deep Techno & Deep House",
+      "s": "https://strmreg.1.fm/deeptech_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-deep-techno-deep-house.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Rock the Blues",
+      "s": "https://rock-the-blues.stream.laut.fm/rock-the-blues",
+      "l": "https://kuasark.com/files/stations-logos/rock-the-blues.png",
+      "g": [
+        "Blues",
+        "Rock"
+      ]
+    },
+    {
+      "t": "1.FM - Kids FM Radio",
+      "s": "https://strmreg.1.fm/kidsfm_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-kids-fm-radio.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "1.FM - Movie Soundtracks Hits",
+      "s": "https://strmreg.1.fm/moviesoundtracks_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-movie-soundtracks-hits.png",
+      "g": [
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "1.FM - Rock Classics Radio",
+      "s": "https://strmreg.1.fm/rockclassics_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-rock-classics-radio.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 32 Goldies",
+      "s": "https://chmedia.streamabc.net/79-r32goldies-mp3-192-2480601?sABC=65097084%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695117444",
+      "l": "https://kuasark.com/files/stations-logos/radio-32-goldies.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - America's Best Ballads Radio",
+      "s": "https://strmreg.1.fm/onelive_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-americas-best-ballads-radio.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "RTS La Première",
+      "s": "https://lsaplus.swisstxt.ch/audio/la-1ere_96.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rts-la-premiere-ch.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1.FM - Otto's Baroque Music Radio",
+      "s": "https://strmreg.1.fm/baroque_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-ottos-baroque-music-radio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Argovia",
+      "s": "https://chmedia.streamabc.net/79-argovia-mp3-192-3024993?sABC=64480qqp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682443740",
+      "l": "https://kuasark.com/files/stations-logos/radio-argovia.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Central",
+      "s": "https://chmedia.streamabc.net/79-rcentral-mp3-192-1355604?sABC=64480q61%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682443617",
+      "l": "https://kuasark.com/files/stations-logos/radio-central-ch.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "SRF 4 Radio News",
+      "s": "https://lsaplus.swisstxt.ch/audio/drs4news_96.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/srf-4-radio-news.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "80s Forever Radio",
+      "s": "https://s2.ssl-stream.com:8050/64AAC.mp3",
+      "l": "https://kuasark.com/files/stations-logos/80s-forever-radio-ch.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Electronic",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Absolute Country Hits Radio",
+      "s": "https://strmreg.1.fm/acountry_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-absolute-country-hits-radio.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "1.FM - Bossa Nova Hits Radio",
+      "s": "https://strmreg.1.fm/bossanova_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-bossa-nova-hits-radio.png",
+      "g": [
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Adore Jazz Radio",
+      "s": "https://strmreg.1.fm/ajazz_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-adore-jazz-radio.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "RTS Couleur 3",
+      "s": "https://lsaplus.swisstxt.ch/audio/couleur3_96.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rts-couleur-3-ch-9147.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Reggae",
+        "Rock"
+      ]
+    },
+    {
+      "t": "1.FM - Absolute 90s Party Zone Radio",
+      "s": "https://strmreg.1.fm/partyzone90s_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-absolute-90s-party-zone-radio.png",
+      "g": [
+        "Electronic",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bitter Sweet Music CH",
+      "s": "http://91.121.236.34:8520/ch",
+      "l": "https://kuasark.com/files/stations-logos/bitter-sweet-music-ch.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Planet Ambi HD Radio",
+      "s": "https://planetambi.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/planet-ambi-hd-radio.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic",
+        "Other",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Adonia-KidsRadio",
+      "s": "https://puma.streemlion.com:1935/stream",
+      "l": "https://kuasark.com/files/stations-logos/adonia-kidsradio.png",
+      "g": [
+        "Inspirational",
+        "Themes"
+      ]
+    },
+    {
+      "t": "1.FM - Disco Ball 70's-80's Radio",
+      "s": "https://strmreg.1.fm/disco_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-disco-ball-70s-80s-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - BOM Psytrance Radio",
+      "s": "https://strmreg.1.fm/psytrance_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-bom-psytrance-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "1.FM - Ambient Psychill",
+      "s": "https://strmreg.1.fm/ambientpsy_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-ambient-psychill.png",
+      "g": [
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio 32",
+      "s": "https://chmedia.streamabc.net/79-r32-mp3-192-5284783?sABC=64480q56%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682443606",
+      "l": "https://kuasark.com/files/stations-logos/radio-32.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "1.FM - Back To The 50's & 60's Radio",
+      "s": "https://strmreg.1.fm/60s_70s_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-back-to-the-50s-60s-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - All Euro 80's Radio",
+      "s": "https://strmreg.1.fm/80s_90s_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-all-euro-80s-radio.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Niesen",
+      "s": "https://server31677.streamplus.de/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-niesen.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Maxxima Radio",
+      "s": "http://maxxima.mine.nu:8080/maxxima.mp3",
+      "l": "https://kuasark.com/files/stations-logos/maxxima-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Bern1",
+      "s": "https://chmedia.streamabc.net/79-rbern1-mp3-192-7860422?sABC=6448106p%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682444396",
+      "l": "https://kuasark.com/files/stations-logos/radio-bern1.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio BeO",
+      "s": "https://radiobeo2.mp3.green.ch/beo.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-beo.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Deep",
+      "s": "https://s2.radio.co/s098f4886e/listen",
+      "l": "https://kuasark.com/files/stations-logos/radio-deep.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "1.FM - Bay Smooth Jazz Radio",
+      "s": "https://strmreg.1.fm/smoothjazz_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-bay-smooth-jazz-radio.png",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Psytrancelicious",
+      "s": "https://psytrancelicious.stream.laut.fm/psytrancelicious?t302=2023-04-25_19-30-18&uuid=0e18481b-2411-43c4-81ec-acf5fe996b43",
+      "l": "https://kuasark.com/files/stations-logos/psytrancelicious.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "1.FM - Love Classics Radio",
+      "s": "https://strmreg.1.fm/loveclassics_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-love-classics-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1.FM - Magic 80 Radio",
+      "s": "https://strmreg.1.fm/magic80_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-magic-80-radio.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Lounge-Radio",
+      "s": "https://fr1.streamhosting.ch/lounge128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/lounge-radio-ch-26851.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "1.FM - A List 80s Radio",
+      "s": "https://strmreg.1.fm/back280s_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-a-list-80s-radio.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Spoon Rock Radio",
+      "s": "https://ic2527.c972.fastserv.com:80/spoonradio_aacp_128",
+      "l": "https://kuasark.com/files/stations-logos/spoon-rock-radio.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Absolute 70's Pop Radio",
+      "s": "https://strmreg.1.fm/70s_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-absolute-70s-pop-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Absolute 90's Radio",
+      "s": "https://strmreg.1.fm/90s_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-absolute-90s-radio.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "1.FM - ReggaeTrade",
+      "s": "https://strmreg.1.fm/reggae_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-reggaetrade.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Rock and Roll Radio",
+      "s": "https://rockandrollradio.stream.laut.fm/rockandrollradio?t302=2023-04-25_20-07-12&uuid=72472695-3805-4800-b1a3-708c2523f1df",
+      "l": "https://kuasark.com/files/stations-logos/rock-and-roll-radio.png",
+      "g": [
+        "R&B and Urban",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Swiss Internet Radio - Jazz & Swing",
+      "s": "http://relay.publicdomainradio.org:80/jazz_swing.mp3",
+      "l": "https://kuasark.com/files/stations-logos/swiss-internet-radio-jazz-swing.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio Basilisk",
+      "s": "https://ohnewerbung.ice.infomaniak.ch/radiobasilisk-64-0.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-basilisk.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "1.FM - Dance One",
+      "s": "https://strmreg.1.fm/dance_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-dance-one.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Country One Radio",
+      "s": "https://strmreg.1.fm/country_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-country-one-radio.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "1.FM - Сosta Del Mar",
+      "s": "https://strmreg.1.fm/costadelmarchillout_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-sosta-del-mar.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "SRF 2 Radio Kultur",
+      "s": "https://lsaplus.swisstxt.ch/audio/drs2_96.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/srf-2-radio-kultur.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Наше Радио - live",
+      "s": "https://stream.nashe-radio-life.com:4005/stream",
+      "l": "https://kuasark.com/files/stations-logos/nase-radio-live.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "RSI Rete Uno",
+      "s": "https://lsaplus.swisstxt.ch/audio/reteuno_96.stream/playlist.m3u8?DVR",
+      "l": "https://kuasark.com/files/stations-logos/rsi-rete-uno.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "House Delights",
+      "s": "https://housedelights.stream.laut.fm/housedelights?t302=2023-04-25_20-08-15&uuid=53541a72-29e3-4d05-b526-eb64a7bb0092",
+      "l": "https://kuasark.com/files/stations-logos/house-delights.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "1.FM - Radio Gaia",
+      "s": "https://strmreg.1.fm/radiogaia_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-radio-gaia.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Funky Express Radio",
+      "s": "https://strmreg.1.fm/funkyexpress_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-funky-express-radio.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "ALEX FM EDM",
+      "s": "https://stream-159.zeno.fm/dwpw0vs6wp8uv?zs=5HGQUYNJSqOHHtzTWW41iw",
+      "l": "https://kuasark.com/files/stations-logos/alex-fm-edm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "COUNTRY MUSIC",
+      "s": "https://countrymusic.stream.laut.fm/countrymusic",
+      "l": "https://kuasark.com/files/stations-logos/country-music.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "RS dance station",
+      "s": "https://stream.radiojar.com/exqtsg93krruv",
+      "l": "https://kuasark.com/files/stations-logos/rs-dance-station.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vibration Zen Relax",
+      "s": "http://vibration.stream2net.eu:8220/vibrationzenrelax-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/vibration-zen-relax.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "1.FM - Otto's Classical Music Radio",
+      "s": "https://strmreg.1.fm/classical_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-ottos-classical-music-radio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Sunshine",
+      "s": "https://chmedia.streamabc.net/79-rsunshine-mp3-192-9575103?sABC=64480qn5%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682443685",
+      "l": "https://kuasark.com/files/stations-logos/radio-sunshine-ch.png",
+      "g": [
+        "Blues",
+        "Rap",
+        "Jazz",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Classic Country Radio",
+      "s": "https://strmreg.1.fm/ccountry_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-classic-country-radio.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Traxx FM Tech-Minimal",
+      "s": "https://traxx020.ice.infomaniak.ch/traxx020-low.mp3",
+      "l": "https://kuasark.com/files/stations-logos/traxx-fm-tech-minimal.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Jamz",
+      "s": "https://strmreg.1.fm/jamz_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-jamz.png",
+      "g": [
+        "Rap",
+        "Reggae",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "1.FM - Top Hits 2000",
+      "s": "https://strmreg.1.fm/hits2000_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-top-hits-2000.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Thrash or Die",
+      "s": "https://thrashordie.stream.laut.fm/thrashordie?t302=2023-04-25_20-07-27&uuid=c52aa69e-0ecb-4dbf-9b14-cebd0e528b5e",
+      "l": "https://kuasark.com/files/stations-logos/thrash-or-die.png",
+      "g": [
+        "Metal",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "RTS Option Musique",
+      "s": "https://lsaplus.swisstxt.ch/audio/option-musique_96.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rts-option-musique.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "my105 Deep",
+      "s": "http://my105-stream16.radiohost.de/my105-deep_mp3-192",
+      "l": "https://kuasark.com/files/stations-logos/my105-deep.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "LFM - La Radio",
+      "s": "https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3",
+      "l": "https://kuasark.com/files/stations-logos/lfm-la-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio FM1",
+      "s": "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=64480q7n%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682443642",
+      "l": "https://kuasark.com/files/stations-logos/radio-fm1.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1.FM - Club 1 Radio",
+      "s": "https://strmreg.1.fm/club_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-club-1-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Slow Jamz Radio",
+      "s": "https://strmreg.1.fm/slowjamz_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-slow-jamz-radio.png",
+      "g": [
+        "R&B and Urban",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Bear Metal Radio",
+      "s": "http://sc6.shoutcaststreaming.us:8004/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/bear-metal-radio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "1.FM - Afterbeat Electronica",
+      "s": "https://strmreg.1.fm/electronica_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-afterbeat-electronica.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Destination SPA",
+      "s": "https://strmreg.1.fm/spa_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-destination-spa.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "1.FM - EDM",
+      "s": "https://strmreg.1.fm/edm_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-edm.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Otto's Opera House Music Radio",
+      "s": "https://strmreg.1.fm/opera_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-ottos-opera-house-music-radio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "1.FM - Sax4Love",
+      "s": "https://strmreg.1.fm/sax4ever_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-sax4love.png",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "1.FM - Café Radio",
+      "s": "https://strmreg.1.fm/caferadio_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-cafe-radio.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Top",
+      "s": "http://icecast.radiotop.ch/radiotop_128",
+      "l": "https://kuasark.com/files/stations-logos/radio-top-ch.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1.FM - Bombay Beats India Radio",
+      "s": "https://strmreg.1.fm/bombaybeats_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-bombay-beats-india-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "SRF Radio Virus",
+      "s": "https://lsaplus.swisstxt.ch/audio/drsvirus_96.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/srf-radio-virus.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Absolute Pop Latino Radio",
+      "s": "https://strmreg.1.fm/latino_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-absolute-pop-latino-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Ibiza Chill Tropical",
+      "s": "https://strmreg.1.fm/ibizachill_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-ibiza-chill-tropical.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Argovia - Classic Rock",
+      "s": "https://chmedia.streamabc.net/79-classicrock-mp3-192-6577748?sABC=65097084%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695117444",
+      "l": "https://kuasark.com/files/stations-logos/radio-argovia-classic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RTS Espace 2",
+      "s": "https://lsaplus.swisstxt.ch/audio/espace-2_96.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rts-espace-2.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Virgin Radio Rock",
+      "s": "https://chmedia.streamabc.net/79-virginrockch-mp3-192-2872456",
+      "l": "https://kuasark.com/files/stations-logos/virgin-radio-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RSI Rete Tre",
+      "s": "https://lsaplus.swisstxt.ch/audio/retetre_96.stream/playlist.m3u8?DVR",
+      "l": "https://kuasark.com/files/stations-logos/rsi-rete-tre.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Rottu Oberwallis",
+      "s": "https://streams.rro.ch/rro.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-rottu-oberwallis.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "JazzAscona Channel",
+      "s": "https://streaming.smartradio.ch:9505/stream",
+      "l": "https://kuasark.com/files/stations-logos/jazzascona-channel.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Vibration Vintage",
+      "s": "https://vibrationvintage-high.ice.infomaniak.ch/vibration-vintage.mp3",
+      "l": "https://kuasark.com/files/stations-logos/vibration-vintage.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Open Classics Radio",
+      "s": "https://openclassics.stream.laut.fm/openclassics",
+      "l": "https://kuasark.com/files/stations-logos/open-classics-radio.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "RSI Rete Due",
+      "s": "http://stream.srg-ssr.ch/m/retedue/mp3_128",
+      "l": "https://kuasark.com/files/stations-logos/rsi-rete-due.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Public Domain Classical",
+      "s": "http://relay.publicdomainradio.org/classical.mp3",
+      "l": "https://kuasark.com/files/stations-logos/public-domain-classical-ch-81749.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "1.FM - Always-Christmas Radio",
+      "s": "https://strmreg.1.fm/christmas_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-always-christmas-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Lac",
+      "s": "https://radiolac.ice.infomaniak.ch/radiolac-high.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-lac.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "New Clear Radio",
+      "s": "https://live-ssl.ncradio.fm/192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/new-clear-radio.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Life Channel",
+      "s": "https://stream1.lifechannel.ch/LIFECHANNEL",
+      "l": "https://kuasark.com/files/stations-logos/radio-life-channel.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "1.FM - Reggaeton Caribbean Pop",
+      "s": "https://strmreg.1.fm/reggaeton_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-reggaeton-caribbean-pop.png",
+      "g": [
+        "Reggae",
+        "Latin",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - MPB Hits Radio",
+      "s": "https://strmreg.1.fm/mpb_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-mpb-hits-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Public Domain Classical Jazz",
+      "s": "http://relay.publicdomainradio.org/jazz_swing.mp3",
+      "l": "https://kuasark.com/files/stations-logos/public-domain-classical-jazz.png",
+      "g": [
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRJ Léman",
+      "s": "http://185.52.127.163/ch/50001/aac_64.mp3?access_token=a193d030df3d499f80096bea13c4d5d8",
+      "l": "https://kuasark.com/files/stations-logos/nrj-leman.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Alperose",
+      "s": "http://135.125.216.61:5210/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-alperose.png",
+      "g": [
+        "Country",
+        "Folk",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Kuschelrock",
+      "s": "https://kuschelrock.stream.laut.fm/kuschelrock?t302=2023-04-25_19-32-46&uuid=a7ece55a-31db-4da9-b170-ff48493eb279",
+      "l": "https://kuasark.com/files/stations-logos/kuschelrock-ch.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Traxx FM House",
+      "s": "https://traxx002.ice.infomaniak.ch/traxx002-low.mp3",
+      "l": "https://kuasark.com/files/stations-logos/traxx-fm-house.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "RFT Gold",
+      "s": "https://streaming.smartradio.ch:8514/stream",
+      "l": "https://kuasark.com/files/stations-logos/rft-gold.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "1.FM - Samba Rock Radio",
+      "s": "https://strmreg.1.fm/sambarock_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-samba-rock-radio.png",
+      "g": [
+        "Jazz",
+        "Rock",
+        "R&B and Urban",
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "1.FM - Gorilla FM Radio",
+      "s": "https://strmreg.1.fm/gorillafm_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-gorilla-fm-radio.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Neo1 Radio",
+      "s": "http://neo1.bcast.infomaniak.ch/neo1.mp3",
+      "l": "https://kuasark.com/files/stations-logos/neo1-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "my105 Dj Radio",
+      "s": "http://stream01.my105.ch/my105djradio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/my105-dj-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Toxic FM 107.1",
+      "s": "https://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/toxic-fm-1071.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio RaBe",
+      "s": "https://stream.rabe.ch/livestream/rabe-mid.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-rabe.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "DJ Beat FM",
+      "s": "https://s5.radio.co/s7c4b2aec6/listen",
+      "l": "https://kuasark.com/files/stations-logos/dj-beat-fm.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Brazilian Birds",
+      "s": "https://strmreg.1.fm/brazilianbirds_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-brazilian-birds.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 80er - 90er",
+      "s": "https://80er-90er.stream.laut.fm/80er-90er",
+      "l": "https://kuasark.com/files/stations-logos/radio-80er-90er.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "1.FM - Adult Urban Hits Choice Radio",
+      "s": "https://strmreg.1.fm/oldschool_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-adult-urban-hits-choice-radio.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "1.FM - Acappella Radio",
+      "s": "https://strmreg.1.fm/acpl_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-acappella-radio.png",
+      "g": [
+        "Classical",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Virgin Radio",
+      "s": "https://chmedia.streamabc.net/79-virginrockch-mp3-192-2872456?sABC=64480r1o%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682443803",
+      "l": "https://kuasark.com/files/stations-logos/virgin-radio-ch.png",
+      "g": [
+        "Rap",
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RFT Rock",
+      "s": "https://streaming.smartradio.ch:8507/stream",
+      "l": "https://kuasark.com/files/stations-logos/rft-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "my105 Chill",
+      "s": "http://my105-stream14.radiohost.de/my105-chill_mp3-192",
+      "l": "https://kuasark.com/files/stations-logos/my105-chill.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Energy22",
+      "s": "https://energy22.stream.laut.fm/energy22",
+      "l": "https://kuasark.com/files/stations-logos/energy22.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Rap",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bop Jazz Radio",
+      "s": "https://streaming.smartradio.ch:9503/stream",
+      "l": "https://kuasark.com/files/stations-logos/bop-jazz-radio.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "my105 Dance",
+      "s": "http://my105-stream14.radiohost.de/my105-dance_mp3-192",
+      "l": "https://kuasark.com/files/stations-logos/my105-dance.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "1.FM - Italia On Air Radio",
+      "s": "https://strmreg.1.fm/italiaonair_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-italia-on-air-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Traxx FM Golden Oldies",
+      "s": "https://traxx023.ice.infomaniak.ch/traxx023-1.mp3",
+      "l": "https://kuasark.com/files/stations-logos/traxx-fm-golden-oldies.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "A Fine Jazz Gumbo Radio",
+      "s": "https://streaming.smartradio.ch:9502/stream",
+      "l": "https://kuasark.com/files/stations-logos/a-fine-jazz-gumbo-radio.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Dance Music",
+      "s": "https://dancemusic.stream.laut.fm/dancemusic?t302=2023-04-25_20-08-04&uuid=2a2d1630-c7ac-42a1-9e77-316549cad23c",
+      "l": "https://kuasark.com/files/stations-logos/dance-music.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "RFT Made In Italy",
+      "s": "https://streaming.smartradio.ch:8508/stream",
+      "l": "https://kuasark.com/files/stations-logos/rft-made-in-italy.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "my105 Today's Best Music",
+      "s": "http://my105-stream16.radiohost.de/my105-todaysbestmusic_mp3-192",
+      "l": "https://kuasark.com/files/stations-logos/my105-todays-best-music.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Open Broadcast Radio",
+      "s": "http://stream.openbroadcast.org/openbroadcast.mp3",
+      "l": "https://kuasark.com/files/stations-logos/open-broadcast-radio.png",
+      "g": [
+        "Alternative",
+        "Rap",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "1.FM - Samba Hits Brazil Radio",
+      "s": "https://strmreg.1.fm/samba_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-samba-hits-brazil-radio.png",
+      "g": [
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Vibration Latina",
+      "s": "http://91.121.38.100:8410/;",
+      "l": "https://kuasark.com/files/stations-logos/vibration-latina.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sunradio - Best international Music",
+      "s": "http://87.237.169.24:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/sunradio-best-international-music.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Rock",
+        "Soundtracks",
+        "Decades",
+        "Other"
+      ]
+    }
+  ]
+}

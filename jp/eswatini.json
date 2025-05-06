@@ -1,0 +1,31 @@
+{
+  "stations": [
+    {
+      "t": "TWR Africa",
+      "s": "http://albert.antfarm.co.za:8000/TWR",
+      "l": "https://kuasark.com/files/stations-logos/twr-africa.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "WillyBamz Top Stereo",
+      "s": "https://stream-149.zeno.fm/faytrwug8yzuv?zs=rSaaHjskQSa5kwROJj19og",
+      "l": "https://kuasark.com/files/stations-logos/willybamz-top-stereo.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tzgospel ( Swaziland)",
+      "s": "https://stream-150.zeno.fm/vvb7eqh1zehvv?zs=pE8duUE2RkidKwkyackRjw",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-swaziland.png",
+      "g": [
+        "Inspirational"
+      ]
+    }
+  ]
+}

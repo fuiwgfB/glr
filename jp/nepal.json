@@ -1,0 +1,1266 @@
+{
+  "stations": [
+    {
+      "t": "Classic FM",
+      "s": "https://radio-streaming-serv-1.hamropatro.com/radio/8060/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423079/3612d84b953c32c2df37095f0245ccab_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Hits FM",
+      "s": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/27693/a1d894c28c0f00b1724ecb8c40f544f6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "City",
+      "s": "https://onlineradio.websoftitnepal.com/8036/stream;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423078/d8fabd4a97b41dbf17ed99e67acb7081_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Nepal",
+      "s": "https://radionepal.news/live/",
+      "l": "https://images.radiovolna.net/_files/images/stations/405520/d0065a4ce23885624204243577_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Annapurna",
+      "s": "http://streaming.softnep.net:8091/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27348/ac2f5a47a76f0e5b3999542431_130x130.webp",
+      "g": [
+        "Folk",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Image FM",
+      "s": "https://radio-streaming-serv-1.hamropatro.com/radio/8040/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423077/d4d4345396b83f9c1116ed17fa337c72_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Navajyoti FM",
+      "s": "http://live.itechnepal.com:8288/stream?type=.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423075/81cca062e7d768662e44d7784639aa7b_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Ujyaalo 90 Network",
+      "s": "https://stream.zenolive.com/wtuvp08xq1duv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405512/u4rk5a4cb205cbf91964132042_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Nepal FM",
+      "s": "http://streaming.hamropatro.com:8230/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423076/8fb4bb7421ff96b945168ff9fd90cf92_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Good News FM",
+      "s": "http://live.itechnepal.com:8162/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405522/foiu5a4ce31b9bbe2387854908_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Mithila",
+      "s": "http://streaming.hamropatro.com:8244/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405517/htrz5a4ce0e88a5ab204003940_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "BFBS Gurkha Radio",
+      "s": "https://direct.sharp-stream.com/ssvcbfbs3.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423082/f85662b4c6f95c57328015344bfe5a5b_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kalika FM",
+      "s": "http://kalika-stream.softnep.com:7740/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27619/888ccd096136018d726455a2e6fa7c43_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kantipur",
+      "s": "https://radio-broadcast.ekantipur.com/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405516/sgtm5a4ce07730f89364666823_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bhaktapur",
+      "s": "https://streaming.softnep.net:10846/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423081/e4a535c3ae3f2b40a81d34429f2a6268_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Capital FM",
+      "s": "http://streaming.softnep.net:8037/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405513/yqm05a4cb49e06c76394227698_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "STAR FM",
+      "s": "http://live.itechnepal.com:9539/stream?type=.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405515/f88b5a4cb59477004702680998_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Jayaprithvi F.M.",
+      "s": "https://streaming.softnep.net:10824/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/430939/27ddb9881be015c04ab4a578f237a9aa_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Image News FM",
+      "s": "https://radio-streaming-serv-1.hamropatro.com/radio/8050/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405521/rh8e5a4ce2c1b6c63389803553_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Kathmandu",
+      "s": "http://95.217.153.73:8064/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428468/774b3ff63a4109909a51db33bc0400b8_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Bhorukawa",
+      "s": "https://live.itech.host:8379/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-bhorukawa.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mithilanchal FM",
+      "s": "http://radio.itechnepal.com:8640/live",
+      "l": "https://kuasark.com/files/stations-logos/mithilanchal-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ujyaalo 90 Network",
+      "s": "https://stream-060.zeno.fm/h527zwd11uquv?zs=pknU7XzyS9WGdRsH1nbJRw",
+      "l": "https://kuasark.com/files/stations-logos/ujyaalo-90-network.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Mithila",
+      "s": "http://streaming.hamropatro.com:8246/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-mithila.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bhojpuriya FM",
+      "s": "http://streaming.softnep.net:8143/;stream.nsv&type=mp3&volume=60",
+      "l": "https://kuasark.com/files/stations-logos/bhojpuriya-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kalika FM",
+      "s": "http://kalika-stream.softnep.com:7740/;",
+      "l": "https://kuasark.com/files/stations-logos/kalika-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Audio",
+      "s": "https://stream-020.zeno.fm/fvrx47wpg0quv?zs=KvwJSFSEQ5y7gwTkB5EI-A",
+      "l": "https://kuasark.com/files/stations-logos/radio-audio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Sargam",
+      "s": "http://rstream.abgroupnepal.com:8000/radiosargam",
+      "l": "https://kuasark.com/files/stations-logos/radio-sargam-np.png",
+      "g": [
+        "Pop",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Annapurna Nepal",
+      "s": "https://shoutcast.prixa.live/annapurna",
+      "l": "https://kuasark.com/files/stations-logos/radio-annapurna-nepal.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Rudraksha",
+      "s": "https://streaming.softnep.net:10874/;stream.nsv&type=mp3&volume=50",
+      "l": "https://kuasark.com/files/stations-logos/radio-rudraksha.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Amargadhi",
+      "s": "https://live.itech.host:8927/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-amargadhi.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Capital FM",
+      "s": "https://streaming.softnep.net:10982/;stream.nsv&type=mp3&volume=10",
+      "l": "https://kuasark.com/files/stations-logos/capital-fm-np.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Resunga",
+      "s": "https://live.itech.host:3260/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-resunga.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Barahathawa fm 101.1Mhz",
+      "s": "https://stream-057.zeno.fm/gubb557z4k8uv?zs=koey4hwyRROwTCWohYkhGg",
+      "l": "https://kuasark.com/files/stations-logos/barahathawa-fm-1011mhz.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Good News FM",
+      "s": "https://live.itech.host:8167/stream?1611505122592",
+      "l": "https://kuasark.com/files/stations-logos/good-news-fm.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "BFBS Gurkha Radio",
+      "s": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
+      "l": "https://kuasark.com/files/stations-logos/bfbs-gurkha-radio-np.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Parasi",
+      "s": "http://live.itechnepal.com:9006/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-parasi.png",
+      "g": [
+        "Folk",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Syangja",
+      "s": "http://live.itechnepal.com:8886/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-syangja.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RADIO BHOJPUR",
+      "s": "http://live.itechnepal.com:9078/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-bhojpur.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Shuklaphanta FM",
+      "s": "https://streaming.webhostnepal.com/8010/stream",
+      "l": "https://kuasark.com/files/stations-logos/shuklaphanta-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Times FM",
+      "s": "https://streaming.webhostnepal.com/8028/;",
+      "l": "https://kuasark.com/files/stations-logos/times-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Buddha Awaaz",
+      "s": "https://live.itech.host:9358/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-buddha-awaaz.png",
+      "g": [
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Surkhet",
+      "s": "http://live.itechnepal.com:7001/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-surkhet.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Thaha Sanchar",
+      "s": "http://streaming.softnep.net:8025/;stream.nsv&type=mp3&volume=60",
+      "l": "https://kuasark.com/files/stations-logos/radio-thaha-sanchar.png",
+      "g": [
+        "Pop",
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sky FM 106.6",
+      "s": "https://onlineradio.websoftitnepal.com/8002/stream",
+      "l": "https://kuasark.com/files/stations-logos/sky-fm-1066.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Galyang FM",
+      "s": "https://live.itech.host:9107/stream",
+      "l": "https://kuasark.com/files/stations-logos/galyang-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nepali Radio",
+      "s": "http://live.itechnepal.com:8541/stream",
+      "l": "https://kuasark.com/files/stations-logos/nepali-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Krishnasar FM",
+      "s": "https://live.itech.host:8434/live?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/krishnasar-fm.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Synergy FM",
+      "s": "https://live.itech.host:3880/stream",
+      "l": "https://kuasark.com/files/stations-logos/synergy-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Annapurna",
+      "s": "http://live.itechnepal.com:8964/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-annapurna.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Choice FM",
+      "s": "http://live.itechnepal.com:8466/stream",
+      "l": "https://kuasark.com/files/stations-logos/choice-fm-np.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Vijaypur FM",
+      "s": "https://live.itech.host:9484/stream?1607152537976",
+      "l": "https://kuasark.com/files/stations-logos/vijaypur-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Naya Karnali",
+      "s": "http://live.itechnepal.com:8496/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-naya-karnali.png",
+      "g": [
+        "Folk",
+        "News",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Sudoorawaz",
+      "s": "http://live.itechnepal.com:8634/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-sudoorawaz.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Prabhu",
+      "s": "https://live.itech.host:8921/stream?1619181403867",
+      "l": "https://kuasark.com/files/stations-logos/radio-prabhu.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ilam Fm",
+      "s": "http://live.itechnepal.com:9635/stream",
+      "l": "https://kuasark.com/files/stations-logos/ilam-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pradesh FM",
+      "s": "http://live.itechnepal.com:8021/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/pradesh-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Rolpa",
+      "s": "https://live.itech.host:1240/stream?1607165086822",
+      "l": "https://kuasark.com/files/stations-logos/radio-rolpa.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Dhangadhi",
+      "s": "http://streaming.hamropatro.com:8617/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-dhangadhi.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Khandbari FM",
+      "s": "http://live.itechnepal.com:8286/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/khandbari-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Shaileshwori",
+      "s": "http://live.itech.host:8268/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-shaileshwori.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Swadesh FM",
+      "s": "http://216.55.141.189:8653/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/swadesh-fm.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "24 Nepali Online Radio",
+      "s": "https://stream-021.zeno.fm/v3e78tqm5gruv?zs=HP1HqxsMTJyqcw_tVPS0ag",
+      "l": "https://kuasark.com/files/stations-logos/24-nepali-online-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Tufan",
+      "s": "https://stream-020.zeno.fm/60tx8fw9dd0uv?zs=CxZBv5CpRR2znfIWWGfy0w",
+      "l": "https://kuasark.com/files/stations-logos/radio-tufan.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Chitwan Online FM",
+      "s": "https://26453.live.streamtheworld.com:443/SAM04AAC227_SC",
+      "l": "https://kuasark.com/files/stations-logos/chitwan-online-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Madhyapaschim",
+      "s": "http://live.itechnepal.com:9006/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-madhyapaschim.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Birat",
+      "s": "http://live.itechnepal.com:9168/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-birat.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Vision",
+      "s": "https://live.itech.host:3765/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-vision-np.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "B FM",
+      "s": "http://streaming.hamropatro.com:8124/;",
+      "l": "https://kuasark.com/files/stations-logos/b-fm-np.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Unique FM",
+      "s": "https://streaming.softnep.net:10941/;stream.nsv&type=mp3&volume=70",
+      "l": "https://kuasark.com/files/stations-logos/unique-fm.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Belauri",
+      "s": "http://live.itechnepal.com:9030/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-belauri.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Janapriya",
+      "s": "http://live.itechnepal.com:8792/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-janapriya.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Dhorbarahi",
+      "s": "http://live.itechnepal.com:9491/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-dhorbarahi.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "True Life in God Radio Nepali",
+      "s": "https://stream.tligradio.org/listen/nepali/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/true-life-in-god-radio-nepali.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Prakriti",
+      "s": "https://live.itech.host:8939/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-prakriti.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Janani",
+      "s": "http://live.itechnepal.com:8768/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-janani.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Makwanpur",
+      "s": "http://streaming.softnep.net:8057/;stream.nsv&type=mp3&volume=60",
+      "l": "https://kuasark.com/files/stations-logos/radio-makwanpur.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Sunwal",
+      "s": "http://live.itechnepal.com:8810/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-sunwal.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Bheriganga",
+      "s": "http://live.itechnepal.com:8001/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-bheriganga.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bulbule FM",
+      "s": "https://live.itech.host:8385/stream",
+      "l": "https://kuasark.com/files/stations-logos/bulbule-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nepaliko Radio",
+      "s": "http://streaming.webhostnepal.com:9888/;",
+      "l": "https://kuasark.com/files/stations-logos/nepaliko-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Tikapur",
+      "s": "https://live.itech.host:9519/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-tikapur.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Marsyangdi",
+      "s": "http://live.itechnepal.com:9120/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-marsyangdi.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Terhathum",
+      "s": "http://live.itechnepal.com:9150/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-terhathum.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Taplejung",
+      "s": "http://live.itechnepal.com:9012/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-taplejung.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Ramechhap",
+      "s": "https://free.rcast.net/69218",
+      "l": "https://kuasark.com/files/stations-logos/radio-ramechhap.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Kolhabi 104.1 Mhz",
+      "s": "http://freeuk22.listen2myradio.com:38820/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-kolhabi-1041-mhz.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "24 Asal Sathi Radio",
+      "s": "https://stream-020.zeno.fm/0whuy4nsfa1uv?zs=zPpZQophRrSd7yWpzSc_7g",
+      "l": "https://kuasark.com/files/stations-logos/24-asal-sathi-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Chautari",
+      "s": "http://live.itechnepal.com:9383/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-chautari.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "3 Angels Community Radio",
+      "s": "https://live.itech.host:7559/stream",
+      "l": "https://kuasark.com/files/stations-logos/3-angels-community-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Bheri",
+      "s": "https://live.itech.host:9065/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-bheri.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Artha Sarokar",
+      "s": "http://live.itech.host:2430/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-artha-sarokar.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Tinau FM",
+      "s": "https://streaming.softnep.net:10854/;stream.nsv;type=mp3&volume=70",
+      "l": "https://kuasark.com/files/stations-logos/tinau-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Ganatantra FM",
+      "s": "http://live.itech.host:9162/stream",
+      "l": "https://kuasark.com/files/stations-logos/ganatantra-fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Sarangi Pokhara",
+      "s": "http://streaming.softnep.net:8107/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-sarangi-pokhara.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Itahari Fm 925 Mhz",
+      "s": "https://live.itech.host:2880/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/itahari-fm-925-mhz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Grace FM",
+      "s": "http://live.itechnepal.com:9413/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/grace-fm-30993.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Saptarangi FM",
+      "s": "http://live.itechnepal.com:9629/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/saptarangi-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Dhurbatara Samudayik",
+      "s": "http://live.itechnepal.com:8834/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-dhurbatara-samudayik.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Gunjan FM",
+      "s": "http://live.itechnepal.com:9437/stream",
+      "l": "https://kuasark.com/files/stations-logos/gunjan-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Eagle FM",
+      "s": "http://live.itechnepal.com:9048/stream",
+      "l": "https://kuasark.com/files/stations-logos/eagle-fm-np.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "A One FM 99 MHz",
+      "s": "https://stream-058.zeno.fm/0ghbmuim5brvv?zs=T20h6v-eRXGGVPOZ-o8JUg",
+      "l": "https://kuasark.com/files/stations-logos/a-one-fm-99-mhz.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Jayaprithvi F.M.",
+      "s": "https://streaming.softnep.net:10824/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/jayaprithvi-fm.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Nikas",
+      "s": "https://live.itech.host:1580/stream?1614247081006",
+      "l": "https://kuasark.com/files/stations-logos/radio-nikas.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Dolpa",
+      "s": "http://live.itechnepal.com:8332/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-dolpa.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Gurbaba",
+      "s": "http://live.itechnepal.com:8658/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-gurbaba.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Mukti",
+      "s": "http://live.itechnepal.com:9156/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-mukti.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Next Nepal",
+      "s": "https://stream-148.zeno.fm/pdaxz18a6p8uv?zs=kPZo3yAeTUyOPTPsG_v6_Q",
+      "l": "https://kuasark.com/files/stations-logos/radio-next-nepal.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Tilottama Fm",
+      "s": "https://live.itech.host:4585/stream",
+      "l": "https://kuasark.com/files/stations-logos/tilottama-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Tharuhat",
+      "s": "https://stream-152.zeno.fm/pq0bz4vez38uv?zs=iPM80uB-TBKXOu_U1DzYkQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-tharuhat.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "CIN Khabar",
+      "s": "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60",
+      "l": "https://kuasark.com/files/stations-logos/cin-khabar.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Himalaya",
+      "s": "https://live.itech.host/himalayaradio?1588276425741",
+      "l": "https://kuasark.com/files/stations-logos/radio-himalaya.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Butwal FM",
+      "s": "http://streaming.softnep.net:8003/;",
+      "l": "https://kuasark.com/files/stations-logos/butwal-fm.png",
+      "g": [
+        "Classical",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Syangja Radio Internet",
+      "s": "http://stream-150.zeno.fm/fzqwdre3mp8uv?zs=tfeZogWqRlmP20sfHpfBVg",
+      "l": "https://kuasark.com/files/stations-logos/syangja-radio-internet.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "BBC Nepali",
+      "s": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
+      "l": "https://kuasark.com/files/stations-logos/bbc-nepali.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Ruru Fm",
+      "s": "http://stream-149.zeno.fm/be8hr3kr44zuv?zs=L4Bx2bFQQNKaWmqP3rByxA&rj-ttl=5&rj-tok=AAABfeYm2VoAdLfcHQV-IBGaWA",
+      "l": "https://kuasark.com/files/stations-logos/ruru-fm.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Shringeshwor 104.4 Mhz",
+      "s": "http://stream-052.zeno.fm/1qgfbe6sz1zuv?zs=NTb6rTBtSEKceV7ZsbBfqw",
+      "l": "https://kuasark.com/files/stations-logos/radio-shringeshwor-1044-mhz.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Mithlanchal FM",
+      "s": "https://live.itech.host:8645/stream",
+      "l": "https://kuasark.com/files/stations-logos/mithlanchal-fm.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Ultimaě radio",
+      "s": "https://ultimae-bofaradio.radioca.st/;",
+      "l": "https://kuasark.com/files/stations-logos/ultimae-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Vijaya FM",
+      "s": "http://streaming.hamropatro.com:8383/;",
+      "l": "https://kuasark.com/files/stations-logos/vijaya-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Dhading",
+      "s": "https://live.itech.host:9454/stream?1607165009841",
+      "l": "https://kuasark.com/files/stations-logos/radio-dhading.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Menchhyayem",
+      "s": "http://live.itechnepal.com:9090/stream?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-menchhyayem.png",
+      "g": [
+        "News",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Saptakoshi FM",
+      "s": "https://live.itech.host:4535/stream",
+      "l": "https://kuasark.com/files/stations-logos/saptakoshi-fm.png",
+      "g": [
+        "Country",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Dead God Online Radio",
+      "s": "https://stream-058.zeno.fm/rm0kp78k5a0uv?zs=kt5bWoTVRQ6cMb5F0P-y4A",
+      "l": "https://kuasark.com/files/stations-logos/dead-god-online-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Anbu FM",
+      "s": "https://stream-153.zeno.fm/5csru2np4bruv?zs=zggD_NgaSNSExIAdhv358A",
+      "l": "https://kuasark.com/files/stations-logos/anbu-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Janata 89.1",
+      "s": "https://streaming.webhostnepal.com/8058/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-janata-891.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Jay Madhes",
+      "s": "https://live.itech.host:3140/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-jay-madhes.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Madhyabindu",
+      "s": "http://streaming.softnep.net:8077/;stream.nsv&type=mp3&volume=60",
+      "l": "https://kuasark.com/files/stations-logos/radio-madhyabindu.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Ramgyanu",
+      "s": "http://live.itechnepal.com:9018/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-ramgyanu.png",
+      "g": [
+        "News",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Damauli FM 94.2 MHz",
+      "s": "https://radio-streaming-serv-2.hamropatro.com:8310/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/damauli-fm-942-mhz.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Metro Traffic FM 95.5",
+      "s": "https://centova1.toofancom.com/proxy/trafficradio?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/metro-traffic-fm-955.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

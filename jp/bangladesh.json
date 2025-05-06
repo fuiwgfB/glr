@@ -1,0 +1,540 @@
+{
+  "stations": [
+    {
+      "t": "Jago FM",
+      "s": "http://128.199.184.111:12496/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405483/ya2v5a4784f161384200893347_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Peoples Radio",
+      "s": "http://s3.myradiostream.com:14498/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405478/updt5a47803cdc09f403869889_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Shadhin",
+      "s": "https://node-32.zeno.fm/eabgu655puquv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428453/0ea02c493099173155b5cfae22f9c4ee_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bhumi",
+      "s": "https://stream-14.zeno.fm/ybf1umk1k18uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405479/fqmz5a4780e402f5a971415808_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Colours",
+      "s": "http://45.64.135.88:8000/stream1",
+      "l": "https://images.radiovolna.net/_files/images/stations/420791/29858562d8b0baa6c385a8e54c2a56f6_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Today",
+      "s": "https://stream.zeno.fm/0zha3rfq02quv",
+      "l": "https://images.radiovolna.net/_files/images/stations/420790/76f9e6b9e218c3ed4fd6ecac177401a2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ABC Radio",
+      "s": "https://node-20.zeno.fm/h7n8ug96eeruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405475/ckaz5a477e4adf95c799792407_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dhaka FM",
+      "s": "http://118.179.219.244:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405476/yvmc5a477ef22603b330541442_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dhol",
+      "s": "http://192.240.102.133:11331/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/405482/n1tg5a47847ce73a5907060833_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Betar Dhaka",
+      "s": "http://as2.digitalsynapsebd.com:8741/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428454/646934ae60b269f9c22704346e362013_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Betar External",
+      "s": "http://as2.digitalsynapsebd.com:8863/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428452/ab0575c3db34413856740d8ef49a6324_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dhoni",
+      "s": "http://182.160.110.180:1020/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405477/mgys5a477f8c0f49f589936270_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Aamar",
+      "s": "http://95.154.254.157:29469/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405474/uv525a477da5b1a72718500526_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Foorti",
+      "s": "http://119.148.23.88:1021/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405473/g23m5a477d3774822753644095_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Next",
+      "s": "http://live.radionext.fm:9000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405480/j84d5a4781864fdce556517653_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Traffic FM",
+      "s": "http://as3.digitalsynapsebd.com:8263/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428451/2c0a06873880189a998b395ea35a2699_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Capital",
+      "s": "http://str.radiocapital.fm:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405484/idfc5a478558d3e18991415916_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Din Raat",
+      "s": "http://103.118.79.134:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405481/zux05a478335735fd723952865_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Bhumi",
+      "s": "https://stream-043.zeno.fm/ybf1umk1k18uv?zs=fTZ-4AatRmqErrIVNgMeBw",
+      "l": "https://kuasark.com/files/stations-logos/radio-bhumi.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Foorti",
+      "s": "http://119.148.23.88:1021/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-foorti.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Dhaka FM",
+      "s": "http://118.179.219.244:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/dhaka-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Today",
+      "s": "https://stream-107.zeno.fm/0zha3rfq02quv?zs=LikJAtMNTP-VnpPnfkD-BQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-today-bd.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Ekattor",
+      "s": "http://192.144.82.200:9302/;stream/1;",
+      "l": "https://kuasark.com/files/stations-logos/radio-ekattor.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Shadhin",
+      "s": "https://stream-157.zeno.fm/eabgu655puquv?zs=aBHXmO66QvSYY64AcoaW-A",
+      "l": "https://kuasark.com/files/stations-logos/radio-shadhin.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio GoonGoon",
+      "s": "https://audio.streamcast.xyz/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-goongoon.png",
+      "g": [
+        "Folk",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Jago FM 94.4",
+      "s": "http://128.199.184.111:12496/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/jago-fm-944.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "FnF.FM Bangla",
+      "s": "http://eu6.fastcast4u.com:5099/;stream",
+      "l": "https://kuasark.com/files/stations-logos/fnffm-bangla.png",
+      "g": [
+        "Classical",
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Padma",
+      "s": "http://cassini.shoutca.st:9109/radiopadma.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-padma.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Bushra",
+      "s": "https://stream-150.zeno.fm/mzuka1fdxzzuv?zs=-xRf_cdMQRS0Ev0D0qeAsQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-bushra.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "iWiFM",
+      "s": "http://94.23.23.97:29270/;",
+      "l": "https://kuasark.com/files/stations-logos/iwifm.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Uttorbango Betar",
+      "s": "https://stream-040.zeno.fm/spqbxkqxdf9uv?zs=2ggmpiBiRi6u_ke9Vauryw",
+      "l": "https://kuasark.com/files/stations-logos/uttorbango-betar.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Peoples Radio",
+      "s": "http://s3.myradiostream.com:14498/;",
+      "l": "https://kuasark.com/files/stations-logos/peoples-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bangla Wadio",
+      "s": "http://192.144.82.200:9334/;",
+      "l": "https://kuasark.com/files/stations-logos/bangla-wadio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Roots air",
+      "s": "http://live64.zeilsteen.com:7054/;",
+      "l": "https://kuasark.com/files/stations-logos/roots-air.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Purbakantho",
+      "s": "https://stream-149.zeno.fm/r8sntxcw81zuv?zs=b4STKBExSeWhJ-edDFoJew",
+      "l": "https://kuasark.com/files/stations-logos/radio-purbakantho.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "FMmoon",
+      "s": "https://eu9.fastcast4u.com/proxy/fmmoonco1?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/fmmoon.png",
+      "g": [
+        "Classical",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Bangladesh Betar",
+      "s": "http://as3.digitalsynapsebd.com:8582/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/bangladesh-betar.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Ullash",
+      "s": "https://stream-148.zeno.fm/gpgkgp9mp18uv?zs=hefXFosSTc2xCcNoq7G4WQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-ullash.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Mahananda 98.8 FM",
+      "s": "https://radiomahanandafm.radioca.st/rm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-mahananda-988-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Sondhi",
+      "s": "https://stream-153.zeno.fm/4k1vwiexedzvv?zs=xkbkfIeyTFC_onid3qyXBA",
+      "l": "https://kuasark.com/files/stations-logos/radio-sondhi.png",
+      "g": [
+        "Easy Listening",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Ambar",
+      "s": "http://118.179.215.45:8000/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-ambar-bd.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RadioSadhin92.4FM",
+      "s": "http://stream-034.zeno.fm/eabgu655puquv?zs=Ty5j9vgeSzakW4erXAW3ug&rj-ttl=5&rj-tok=AAABcUFDIIkAVHEa49MXpmGlIQ",
+      "l": "https://kuasark.com/files/stations-logos/radiosadhin924fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Lakshyapar",
+      "s": "https://lakshyapar.getstreamhosting.com:8100/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-lakshyapar.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Foorti 88.0FM",
+      "s": "http://stream-061.zeno.fm/f0bfdk2w34zuv?zs=nXdnr3XbTNKGsCHm6Yn5UA",
+      "l": "https://kuasark.com/files/stations-logos/radio-foorti-880fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Dhaka FM 90.4",
+      "s": "http://stream-060.zeno.fm/ay4pqkk604zuv?zs=2EbbnHZRSlGQJ_oObKjfCA",
+      "l": "https://kuasark.com/files/stations-logos/dhaka-fm-904.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "BBC Bangla",
+      "s": "https://stream.live.vc.bbcmedia.co.uk/bbc_bangla_radio",
+      "l": "https://kuasark.com/files/stations-logos/bbc-bangla.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Peoples Radio 91.6 FM",
+      "s": "http://s3.myradiostream.com:14498/;listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/peoples-radio-916-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Padma 99.2 FM",
+      "s": "http://radiopadmabd.radioca.st:9109/radiopadma",
+      "l": "https://kuasark.com/files/stations-logos/radio-padma-992-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Dhaka 88.8 FM",
+      "s": "http://as3.digitalsynapsebd.com:8263/;",
+      "l": "https://kuasark.com/files/stations-logos/dhaka-888-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Dhaka Ka 693KHz",
+      "s": "http://as3.digitalsynapsebd.com:8582/;",
+      "l": "https://kuasark.com/files/stations-logos/dhaka-ka-693khz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Dhaka Kha 630KHz",
+      "s": "http://as2.digitalsynapsebd.com:8741/;",
+      "l": "https://kuasark.com/files/stations-logos/dhaka-kha-630khz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Chattogram AM 833KHz",
+      "s": "http://as2.digitalsynapsebd.com:8920/;",
+      "l": "https://kuasark.com/files/stations-logos/chattogram-am-833khz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Barisal FM 105.2MHz",
+      "s": "http://as2.digitalsynapsebd.com:8620/;",
+      "l": "https://kuasark.com/files/stations-logos/barisal-fm-1052mhz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Khulna AM 558KHz",
+      "s": "http://as2.digitalsynapsebd.com:9248/;",
+      "l": "https://kuasark.com/files/stations-logos/khulna-am-558khz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Khulna FM 88.8MHz",
+      "s": "http://as2.digitalsynapsebd.com:9252/;",
+      "l": "https://kuasark.com/files/stations-logos/khulna-fm-888mhz.jpg",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rangpur AM 1053KHz",
+      "s": "http://as2.digitalsynapsebd.com:8622/;",
+      "l": "https://kuasark.com/files/stations-logos/rangpur-am-1053khz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sylhet AM 963KHz",
+      "s": "http://as2.digitalsynapsebd.com:8096/;",
+      "l": "https://kuasark.com/files/stations-logos/sylhet-am-963khz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sylhet FM 88.8MHz",
+      "s": "http://as2.digitalsynapsebd.com:8246/;",
+      "l": "https://kuasark.com/files/stations-logos/sylhet-fm-888mhz.jpg",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rajshahi FM 88.8MHz",
+      "s": "http://as2.digitalsynapsebd.com:9244/;",
+      "l": "https://kuasark.com/files/stations-logos/rajshahi-fm-888mhz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Capital FM 94.8",
+      "s": "http://stream-043.zeno.fm/4nzaapqw34zuv?zs=W_4eMYdSSVOFuHy-F7mlmg",
+      "l": "https://kuasark.com/files/stations-logos/capital-fm-948.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Barisal AM 1287KHz",
+      "s": "http://as2.digitalsynapsebd.com:8569/;",
+      "l": "https://kuasark.com/files/stations-logos/barisal-am-1287khz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "AL-QURAN BANGLA",
+      "s": "http://66.45.232.131:9994/;stream/1/;",
+      "l": "https://kuasark.com/files/stations-logos/al-quran-bangla.png",
+      "g": [
+        "Other",
+        "Inspirational"
+      ]
+    }
+  ]
+}

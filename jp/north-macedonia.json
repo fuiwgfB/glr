@@ -1,0 +1,740 @@
+{
+  "stations": [
+    {
+      "t": "Radio Kavadarci",
+      "s": "https://stream-021.zeno.fm/a5ffd4skgg0uv?zs=AjRx3JPRRje4358WgvS21g",
+      "l": "https://kuasark.com/files/stations-logos/radio-kavadarci.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Star Narodna",
+      "s": "https://eu10.fastcast4u.com:8900/stream/3/",
+      "l": "https://kuasark.com/files/stations-logos/star-narodna.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "ZONA M1 RADIO",
+      "s": "http://89.205.83.58:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/zona-m1-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Vmro",
+      "s": "http://radio.shoutcast.mk:8024/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-vmro.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio MEFF",
+      "s": "http://91.121.195.222:16040/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-meff.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Bubamara",
+      "s": "http://stream.bubamara.com.mk/live-128.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-bubamara-mk.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Metropolis Radio",
+      "s": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/metropolis-radio.png",
+      "g": [
+        "Country",
+        "Electronic",
+        "Rap",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Antenna 5",
+      "s": "http://antenna5stream.neotel.mk:8000/live128",
+      "l": "https://kuasark.com/files/stations-logos/antenna-5.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio TIM Bitola",
+      "s": "http://radio.shoutcast.mk:8026/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-tim-bitola.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "STIL RADIO",
+      "s": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/stil-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Urban FM 90.8 Skopje",
+      "s": "https://securestreams4.autopo.st:1668/stream",
+      "l": "https://kuasark.com/files/stations-logos/urban-fm-908-skopje.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Star Plus",
+      "s": "https://eu10.fastcast4u.com:8900/stream/4/",
+      "l": "https://kuasark.com/files/stations-logos/star-plus.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "STIL MKD NARODNA",
+      "s": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/3/",
+      "l": "https://kuasark.com/files/stations-logos/stil-mkd-narodna.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Biser Radio Ohrid",
+      "s": "https://biserradioohrid.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/biser-radio-ohrid.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Sky Radio",
+      "s": "http://s1.skyradio.com.mk:8002/;?1461419091351.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-13720.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kanal 77",
+      "s": "https://radiocnd.mms.mk/proxy/web/stream?ver=464339",
+      "l": "https://kuasark.com/files/stations-logos/radio-kanal-77.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Jehona",
+      "s": "http://s26.myradiostream.com:10030/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-jehona.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Star Boemi",
+      "s": "https://eu10.fastcast4u.com:8900/stream/6/",
+      "l": "https://kuasark.com/files/stations-logos/star-boemi.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Merak Radio Bitola",
+      "s": "https://eu10.fastcast4u.com/MerakRadioBitola",
+      "l": "https://kuasark.com/files/stations-logos/merak-radio-bitola.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Fortuna",
+      "s": "https://radiofortuna.ipradio.mk/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-fortuna-mk.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "City Radio",
+      "s": "http://176.9.117.123:9998/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/city-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vink Radio",
+      "s": "https://eu10.fastcast4u.com/vinkradio",
+      "l": "https://kuasark.com/files/stations-logos/vink-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Club FM",
+      "s": "http://176.9.117.123:9996/;",
+      "l": "https://kuasark.com/files/stations-logos/club-fm-mk.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 105 Bombarder",
+      "s": "http://radio105.makbots.com:21010/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-105-bombarder.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Luna Radio",
+      "s": "https://eu10.fastcast4u.com:6110/stream/7/",
+      "l": "https://kuasark.com/files/stations-logos/luna-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "STIL EX YU POP",
+      "s": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/2/",
+      "l": "https://kuasark.com/files/stations-logos/stil-ex-yu-pop.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pero Radio",
+      "s": "https://eu10.fastcast4u.com/peroradio",
+      "l": "https://kuasark.com/files/stations-logos/pero-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "STIL EX YU TRAP",
+      "s": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/4/",
+      "l": "https://kuasark.com/files/stations-logos/stil-ex-yu-trap.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RadioRabrovo",
+      "s": "https://live.mkdstream.com/listen/rabrovo/rarab",
+      "l": "https://kuasark.com/files/stations-logos/radiorabrovo.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Capitol FM",
+      "s": "http://89.205.127.244:8002/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/capitol-fm.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Time Fm",
+      "s": "https://s2.free-shoutcast.com/stream/18058",
+      "l": "https://kuasark.com/files/stations-logos/time-fm-mk.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Holidej",
+      "s": "https://live.mkdstream.com/listen/radiohol/rahol",
+      "l": "https://kuasark.com/files/stations-logos/radio-holidej.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Rrapi",
+      "s": "https://stream.zemi.mk:8069/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-rrapi.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio HIT",
+      "s": "https://radio.shoutcast.mk/8062/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-hit-13960.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Bleta",
+      "s": "https://radio.arholding.mk/play.aspx?radioBleta",
+      "l": "https://kuasark.com/files/stations-logos/radio-bleta.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Ekspres Radio",
+      "s": "http://ekspresradio.dyndns.org:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/ekspres-radio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Play Radio",
+      "s": "https://radio.shoutcast.mk/8046/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/play-radio-mk.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 5 Coki",
+      "s": "http://213.135.172.118:8000/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-5-coki.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kanal 103",
+      "s": "http://radiostream.neotel.mk/kanal103",
+      "l": "https://kuasark.com/files/stations-logos/kanal-103.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Gora Naj Radio",
+      "s": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/5/",
+      "l": "https://kuasark.com/files/stations-logos/gora-naj-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Super Radio",
+      "s": "https://stream-023.zeno.fm/muzq097d2c9uv?zs=RoSljxaNSwq_CvzrMnZKwg",
+      "l": "https://kuasark.com/files/stations-logos/super-radio-mk.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Akord",
+      "s": "http://radioakord.dyndns.org:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-akord-mk.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 106",
+      "s": "http://stream.zemi.mk:8003/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-106.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Sportsko",
+      "s": "https://stream.zemi.mk:8080/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-sportsko.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Gostivarpress.mk Online Radio",
+      "s": "https://radio.dukahosting.com/8004/stream",
+      "l": "https://kuasark.com/files/stations-logos/gostivarpressmk-online-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio LAV",
+      "s": "https://live.mkdstream.com/listen/ralavoh/ralav",
+      "l": "https://kuasark.com/files/stations-logos/radio-lav-mk-137701.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Bravo",
+      "s": "http://80.77.157.10:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-bravo-mk.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Super Kanal 90",
+      "s": "http://radio.shoutcast.mk:8038/stream",
+      "l": "https://kuasark.com/files/stations-logos/super-kanal-90.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Fokus Makedonija",
+      "s": "https://stream-058.zeno.fm/rn01x4vssnhvv?zs=kI_QRc5RQGuwy5H7_vi3MA",
+      "l": "https://kuasark.com/files/stations-logos/radio-fokus-makedonija.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "TE Radio-ISLAMI",
+      "s": "https://stream-057.zeno.fm/r884kyk1ag8uv?zs=jsoNY8sUTUKvzsHmqBcGWA",
+      "l": "https://kuasark.com/files/stations-logos/te-radio-islami.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "TE Power",
+      "s": "https://stream-153.zeno.fm/7vuwzdprks8uv?zs=9qEwTvP3SaWg6oeffD3W9g",
+      "l": "https://kuasark.com/files/stations-logos/te-power.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радио Марија Македонија",
+      "s": "http://dreamsiteradiocp.com:8118/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-marija-makedonija.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Extra Radio",
+      "s": "https://eu10.fastcast4u.com/extralive",
+      "l": "https://kuasark.com/files/stations-logos/extra-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio MOST",
+      "s": "https://radio.dukahosting.com/8024/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-most-mk.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Bravo Relaxing",
+      "s": "http://77.68.84.201/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-bravo-relaxing.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TE Radio TURKE",
+      "s": "https://stream-035.zeno.fm/zbh23ebqrp8uv?zs=pVAvjJ46SZW6SGnzUwakjg",
+      "l": "https://kuasark.com/files/stations-logos/te-radio-turke.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sky Radio Hits",
+      "s": "https://s1.skyradio.com.mk/hits.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-hits-105259.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Zlatnik Radio",
+      "s": "https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=10849&type=s2&mount=1",
+      "l": "https://kuasark.com/files/stations-logos/zlatnik-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Sky Radio Retro",
+      "s": "https://s1.skyradio.com.mk/retro.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sky-radio-retro.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Радио Забава",
+      "s": "https://stream-163.zeno.fm/z8er3cqglopuv?zs=-pKZTBRuTzmbHICBINgkAQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-zabava-118692.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bikers Garage Radio",
+      "s": "https://i9.streams.ovh/sc/bikersgarageradio/stream",
+      "l": "https://kuasark.com/files/stations-logos/bikers-garage-radio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Радио Балон",
+      "s": "https://radio.shoutcast.mk:7014/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-balon.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Maria Macedonia",
+      "s": "http://dreamsiteradiocp.com:8118/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-macedonia.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Life Radio",
+      "s": "http://liferadio.ddns.net:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/life-radio-mk.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "University Radio UGD FM",
+      "s": "http://ugdfm-stream.ugd.edu.mk:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/university-radio-ugd-fm.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Lider FM 107,4",
+      "s": "https://liderfm.ipradio.mk/;",
+      "l": "https://kuasark.com/files/stations-logos/lider-fm-1074.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Скај Радио",
+      "s": "http://s1.skyradio.com.mk:8002/;",
+      "l": "https://kuasark.com/files/stations-logos/skaj-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Just Music Radio",
+      "s": "https://radiostream.neotel.mk/justmusicradio",
+      "l": "https://kuasark.com/files/stations-logos/just-music-radio.png",
+      "g": [
+        "Blues",
+        "Easy Listening",
+        "R&B and Urban",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Bum Kumanovo",
+      "s": "http://iandonov.radioca.st/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/bum-kumanovo.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "UKLO FM",
+      "s": "http://194.149.158.125:8888/stream.ogg",
+      "l": "https://kuasark.com/files/stations-logos/uklo-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 5fm",
+      "s": "http://5fm.mk:8000/stream/1/?type=http/;?d=",
+      "l": "https://kuasark.com/files/stations-logos/radio-5fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Aleksandar Makedonski",
+      "s": "https://s2.free-shoutcast.com/stream/18138;",
+      "l": "https://kuasark.com/files/stations-logos/radio-aleksandar-makedonski.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kiss Fm Radio",
+      "s": "https://kissfmradionet.radioca.st/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/kiss-fm-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Star Radio",
+      "s": "https://eu10.fastcast4u.com/staronline",
+      "l": "https://kuasark.com/files/stations-logos/star-radio-mk.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Biser Radio Orovnik",
+      "s": "https://biserradioohrid.radioca.st/stream?type=http&nocache=1573",
+      "l": "https://kuasark.com/files/stations-logos/biser-radio-orovnik.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "TE Radio",
+      "s": "https://stream-034.zeno.fm/28sbm03a7f8uv?zs=L2BjYft5SbuarbB2qqmHrw",
+      "l": "https://kuasark.com/files/stations-logos/te-radio.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Star World Retro",
+      "s": "https://eu10.fastcast4u.com:8900/stream/5/",
+      "l": "https://kuasark.com/files/stations-logos/star-world-retro.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Lider FM",
+      "s": "https://liderfm.ipradio.mk/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/lider-fm-mk.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mini Radio",
+      "s": "https://stream-154.zeno.fm/53qk63dhtkeuv?zs=jnM6hIdoQx-h5eE1Y05e6Q",
+      "l": "https://kuasark.com/files/stations-logos/mini-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Star Ex Yu Retro",
+      "s": "https://eu10.fastcast4u.com:8900/stream/2/",
+      "l": "https://kuasark.com/files/stations-logos/star-ex-yu-retro.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Balkan",
+      "s": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/9/",
+      "l": "https://kuasark.com/files/stations-logos/radio-balkan.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio KISS FM",
+      "s": "https://radio.shoutcast.mk:7000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-kiss-fm.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Play Radio - pop",
+      "s": "https://radio.shoutcast.mk/8044/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/play-radio-pop.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Play Radio - Retro",
+      "s": "https://radio.shoutcast.mk/8056/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/play-radio-retro.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "BockaMix Radio",
+      "s": "http://95.154.197.82:38669/;",
+      "l": "https://kuasark.com/files/stations-logos/bockamix-radio.png",
+      "g": [
+        "Rock",
+        "Pop",
+        "Rap",
+        "Decades",
+        "Electronic",
+        "Other",
+        "News"
+      ]
+    }
+  ]
+}

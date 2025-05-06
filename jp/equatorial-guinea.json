@@ -1,0 +1,15 @@
+{
+  "stations": [
+    {
+      "t": "La Voz De Los Sin Voz",
+      "s": "http://s2.voscast.com:8098/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/la-voz-de-los-sin-voz.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    }
+  ]
+}

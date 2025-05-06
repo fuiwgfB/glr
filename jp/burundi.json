@@ -1,0 +1,168 @@
+{
+  "stations": [
+    {
+      "t": "Radio TV Buntu",
+      "s": "https://stream.rcast.live/62581",
+      "l": "https://images.radiovolna.net/_files/images/stations/429461/cd85004983a16d55f0185739d3870758_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Hit Radio",
+      "s": "https://hr-burundi.ice.infomaniak.ch/hr-burundi-64.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/429459/14c601a31881115c6b1bb33cbcff1f01_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Isanganiro",
+      "s": "https://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429458/56407fccd3b99ce6fced26f59330ec3c_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Scolaire Nderagakura",
+      "s": "https://eu10.fastcast4u.com/nderagakura",
+      "l": "https://images.radiovolna.net/_files/images/stations/429457/487be9c54f624201ea5a64deae369ae9_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "RTNB Radio Burundi 2",
+      "s": "http://41.79.226.196:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429460/e6aeea4db8878d69ce793a215bf7e8ff_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Culture",
+      "s": "http://162.213.249.117:8003/radioculture",
+      "l": "https://images.radiovolna.net/_files/images/stations/429462/5b526f1c3d958a11173a46e81b239bc6_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "RTNB Radio Burundi 1",
+      "s": "http://41.79.226.195:8000/stream-RTNB1",
+      "l": "https://images.radiovolna.net/_files/images/stations/429464/28a7eb6f203a668bdc55283ea697ce80_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "https://dreamsiteradiocp2.com/proxy/rmburundi2?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429463/58192c59652c54a73d54d9191ba914b8_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Izere FM",
+      "s": "http://102.134.106.14:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-izere-fm.png",
+      "g": [
+        "Jazz",
+        "Reggae",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Bonesha FM",
+      "s": "https://streaming.zubahost.com/8002/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-bonesha-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RTMB Chaine 2",
+      "s": "http://41.79.226.196:8000/stream-RTNB2",
+      "l": "https://kuasark.com/files/stations-logos/rtmb-chaine-2.png",
+      "g": [
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "http://dreamsiteradiocp2.com:8080/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-bi.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Peace FM",
+      "s": "https://stream-148.zeno.fm/s0244utefg8uv?zs=yq2ya1p4Qlai0u36UiU72w",
+      "l": "https://kuasark.com/files/stations-logos/radio-peace-fm.png",
+      "g": [
+        "Classical",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Fo-Fe",
+      "s": "http://cast.thiff.com:8012/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-fo-fe.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Iteka FM",
+      "s": "https://stream-156.zeno.fm/nsmhaykzqf9uv?zs=sCrvYM4USpGnxEBg2ckLoQ",
+      "l": "https://kuasark.com/files/stations-logos/iteka-fm.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Intwali FM",
+      "s": "https://stream-149.zeno.fm/f4btyyc18vzuv?zs=rureF4vUTQuvkGHZyNI0kA",
+      "l": "https://kuasark.com/files/stations-logos/radio-intwali-fm.png",
+      "g": [
+        "Classical",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Regional Vibez Media",
+      "s": "https://stream-149.zeno.fm/p4r2f5wc8f0uv?zs=cge9mz7hTsmNjv-aB1ZwYQ",
+      "l": "https://kuasark.com/files/stations-logos/regional-vibez-media.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Shima FM",
+      "s": "http://5.189.189.39:8000/shimafm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-shima-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bdusa Media",
+      "s": "https://stream-153.zeno.fm/0fpegrf70fctv?zs=RY1gVIbRSrC-Ba616aH6Vg",
+      "l": "https://kuasark.com/files/stations-logos/bdusa-media.png",
+      "g": [
+        "News"
+      ]
+    }
+  ]
+}

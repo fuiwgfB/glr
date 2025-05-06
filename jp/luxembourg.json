@@ -1,0 +1,658 @@
+{
+  "stations": [
+    {
+      "t": "EldoRadio 80s",
+      "s": "http://sc-80s.eldoradio.lu:80/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4191/qeel5952c5c57a22a064841082_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "EldoRadio Chill",
+      "s": "https://shoutcast.rtl.lu/eldochill",
+      "l": "https://images.radiovolna.net/_files/images/stations/4193/b5g0595d020f0b809935528012_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "RTL Deutschlands Hit-Radio",
+      "s": "https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113",
+      "l": "https://images.radiovolna.net/_files/images/stations/4200/hq48596dac258f845039297324_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTL Radio Lëtzebuerg",
+      "s": "http://sc-rtllive.newmedia.lu:80/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4199/g5y3596c829451c53351835375_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "CLASSIQUE",
+      "s": "http://213.135.239.116:8000/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/4187/qxkp5a26daba3499e375493806_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "RTL – Weihnachtsradio",
+      "s": "https://stream.104.6rtl.com/rtl-event/mp3-128/radiovolna/",
+      "l": "https://images.radiovolna.net/_files/images/stations/401058/v45n596dad6c348fe976312653_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Gutt Laun",
+      "s": "https://streams.radio.co/sa631ff66a/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/4196/b5v95a26db1d941fe668733688_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "EldoRadio 90s",
+      "s": "https://shoutcast.rtl.lu/eldo90s",
+      "l": "https://images.radiovolna.net/_files/images/stations/422918/d451715717ec5baae1d4e8a12999d31a_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "EldoRadio Alternative",
+      "s": "https://shoutcast.rtl.lu/eldoalt",
+      "l": "https://images.radiovolna.net/_files/images/stations/4192/hil3595d0205265c0164607794_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "EldoRadio Top 25",
+      "s": "https://shoutcast.rtl.lu/eldotop25",
+      "l": "https://images.radiovolna.net/_files/images/stations/422917/5bb25e96d7a82ea7c95f701597e080c1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Generation Dance",
+      "s": "https://generationdance.lu/radio/8030/hd",
+      "l": "https://images.radiovolna.net/_files/images/stations/426044/0569a42320bafc2e31325e2c36caeb04_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "EldoRadio 25 Joer Chartbreaker",
+      "s": "https://shoutcast.rtl.lu/eldo25years",
+      "l": "https://images.radiovolna.net/_files/images/stations/422919/5e5de44274fb91441bc07bca70791002_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "L'essentiel Radio",
+      "s": "https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422916/cc77060274be0d2889d0a134b8e3b2ab_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "laut.fm / ni_haody",
+      "s": "https://nihaody.stream.laut.fm/ni_haody?t302=2020-04-23_06-21-56&uuid=6ecf679b-b7ea-4011-a107-561a73a8d546",
+      "l": "https://images.radiovolna.net/_files/images/stations/4194/lcu65a26da7f65f77041127505_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Belle Vallée",
+      "s": "http://radio.rbv.lu:8002/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4195/tmbg5978dd96ee46a630963762_130x130.webp",
+      "g": [
+        "Rock",
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "HERO RADIO",
+      "s": "https://a2.asurahosting.com:6790/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/431027/a1d04e43609df3c5abad5c8316fa0de9_130x130.webp",
+      "g": [
+        "International",
+        "Inspirational",
+        "Talk"
+      ]
+    },
+    {
+      "t": "100komma7",
+      "s": "http://stream2.100komma7.lu/100komma7/live/mp3/320/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4190/j38l597a44929315c117398141_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "ARA",
+      "s": "http://stream.ara.lu/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4188/u17b5a26d9cc26118158992685_130x130.webp",
+      "g": [
+        "International",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Cents",
+      "s": "http://onairradio.dyndns.org:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/425654/56ea99ef778702df9a052e2897e75b70_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "FCE Continuo",
+      "s": "https://www.radioking.com/play/fce-continuo/611591",
+      "l": "https://images.radiovolna.net/_files/images/stations/430723/ff4e073a709520fcddf57095c31346ea_130x130.webp",
+      "g": [
+        "International",
+        "Jazz",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Free Radio Luxembourg",
+      "s": "https://listen.radioking.com/radio/66160/stream/137599",
+      "l": "https://kuasark.com/files/stations-logos/free-radio-luxembourg.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bitter Sweet Music LU",
+      "s": "http://91.121.236.34:8520/lu",
+      "l": "https://kuasark.com/files/stations-logos/bitter-sweet-music-lu.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio Latina",
+      "s": "https://ice.creacast.com/radio-latina-lu-mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-latina-lu.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "RTL Luxembourg",
+      "s": "http://81.92.238.32/;",
+      "l": "https://kuasark.com/files/stations-logos/rtl-luxembourg.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Luxembourg Memories",
+      "s": "https://stream-160.zeno.fm/3384cgvyk2zuv?zs=3OEHxqWoRRC5Xl9fO8UReA",
+      "l": "https://kuasark.com/files/stations-logos/radio-luxembourg-memories.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Eldoradio",
+      "s": "https://eldo-streaming.eldo.lu/eldotv/smil:eldotv.smil/720p.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/eldoradio-lu.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Eldoradio Chill",
+      "s": "https://eldo-streaming.eldo.lu/radio/eldochill/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/eldoradio-chill.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio 100.7 FM",
+      "s": "https://100komma7--di--nacs-ice-01--01--cdn.cast.addradio.de/100komma7/live/mp3/128/stream.mp3?_art=dj0yJmlwPTk1LjEwNS45LjEyNCZpZD1pY3NjeGwtbG91bnd0M2xiJnQ9MTY4MjUzMDU0NyZzPTc4NjZmMjljI2FlMjEyZDY3ODdlNjc0Yjk1NWRjMzVkNGYwZGE2YjFj",
+      "l": "https://kuasark.com/files/stations-logos/radio-1007-fm.png",
+      "g": [
+        "Blues",
+        "Classical",
+        "Alternative",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Belle Vallée",
+      "s": "https://shoutcast.datateam.center/index.html",
+      "l": "https://kuasark.com/files/stations-logos/radio-belle-vallee.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Panachee",
+      "s": "https://panachee.stream.laut.fm/panachee?t302=2023-04-25_20-06-48&uuid=d945f100-c801-4d02-9203-4d7f8e650606",
+      "l": "https://kuasark.com/files/stations-logos/panachee.png",
+      "g": [
+        "Alternative",
+        "Blues",
+        "Classical",
+        "Easy Listening",
+        "Electronic",
+        "Jazz",
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Progressive FM",
+      "s": "https://stream-047.zeno.fm/6vu8pug96ehvv?zs=DirWuVonSD6jduGqlv787Q",
+      "l": "https://kuasark.com/files/stations-logos/progressive-fm.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Jeansgeneration",
+      "s": "https://listen.radioking.com/radio/301645/stream/348328",
+      "l": "https://kuasark.com/files/stations-logos/radio-jeansgeneration.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "ROM 106.5 FM",
+      "s": "http://rs1.radiostreamer.com:8270/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/rom-1065-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Eldoradio 80s",
+      "s": "https://eldo-streaming.eldo.lu/radio/eldo80s/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/eldoradio-80s.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio C Luxembourg",
+      "s": "https://edge62.streamonkey.net/radioc-live",
+      "l": "https://kuasark.com/files/stations-logos/radio-c-luxembourg.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Diddeleng",
+      "s": "https://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-diddeleng.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Reddrockradio",
+      "s": "https://reddrock.stream.laut.fm/reddrock?t302=2023-04-25_20-17-41&uuid=650dde53-fb1a-4c81-a270-b84b0f975cd0",
+      "l": "https://kuasark.com/files/stations-logos/reddrockradio.png",
+      "g": [
+        "Blues",
+        "Metal",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Lux",
+      "s": "https://lux.stream.laut.fm/lux",
+      "l": "https://kuasark.com/files/stations-logos/radio-lux-lu.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "RadioPuls",
+      "s": "https://cmr-hosting.com/8312/stream",
+      "l": "https://kuasark.com/files/stations-logos/radiopuls.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "RetroSonic Grooves",
+      "s": "https://rsra.net:8010/grooves.mp3",
+      "l": "https://kuasark.com/files/stations-logos/retrosonic-grooves.png",
+      "g": [
+        "R&B and Urban",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Country Radio Gilsdorf",
+      "s": "http://streaming.aoip.international:8000/cr-gilsdorf",
+      "l": "https://kuasark.com/files/stations-logos/country-radio-gilsdorf.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Radio Ara",
+      "s": "http://s1.voscast.com:11186/RadioARA.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-ara.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Eldoradio Alternative",
+      "s": "https://eldo-streaming.eldo.lu/radio/eldoalt/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/eldoradio-alternative.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ni Haody",
+      "s": "https://nihaody.stream.laut.fm/ni_haody?t302=2023-04-25_20-08-39&uuid=3899351f-0484-452e-90ad-70a7d470eaba",
+      "l": "https://kuasark.com/files/stations-logos/ni-haody.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "RetroSonic Alternative",
+      "s": "https://rsra.net:8030/alternative.mp3",
+      "l": "https://kuasark.com/files/stations-logos/retrosonic-alternative.png",
+      "g": [
+        "Alternative",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Aktiv",
+      "s": "http://zeus.lrb.lu:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-aktiv-lu.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio LRB",
+      "s": "http://zeus.lrb.lu:8000/lrb.live",
+      "l": "https://kuasark.com/files/stations-logos/radio-lrb.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Cents",
+      "s": "http://onairradio.dyndns.org:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-cents.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Sympa",
+      "s": "http://www.radiocampusparis.org:8000/stream_rcp",
+      "l": "https://kuasark.com/files/stations-logos/radio-sympa.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Eldoradio 90s",
+      "s": "https://eldo-streaming.eldo.lu/radio/eldo90s/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/eldoradio-90s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Eldoradio TOP25",
+      "s": "https://eldo-streaming.eldo.lu/radio/eldotop25/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/eldoradio-top25.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Larochete",
+      "s": "https://stream-150.zeno.fm/b584n833wwzuv?zs=q0IdsGXbSpyG5ea68HkGEw",
+      "l": "https://kuasark.com/files/stations-logos/radio-larochete.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Rosengarten",
+      "s": "http://edge64.streamonkey.net/radiorosengarten-live",
+      "l": "https://kuasark.com/files/stations-logos/radio-rosengarten.png",
+      "g": [
+        "R&B and Urban",
+        "Rap",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "RetroSonic Hits",
+      "s": "https://rsra.net:8060/hits.mp3",
+      "l": "https://kuasark.com/files/stations-logos/retrosonic-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pétange On Air",
+      "s": "http://stream.petangeonair.lu:9000/live",
+      "l": "https://kuasark.com/files/stations-logos/petange-on-air.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Cor Dos Teus Olhos",
+      "s": "https://sslradio.servsonic.com/8008/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-cor-dos-teus-olhos.png",
+      "g": [
+        "Blues",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RadioPortugalPeloMundo",
+      "s": "http://s2.stmxp.net:7252/;",
+      "l": "https://kuasark.com/files/stations-logos/radioportugalpelomundo-lu-136570.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RetroSonic Rock",
+      "s": "https://rsra.net:8070/rock.mp3",
+      "l": "https://kuasark.com/files/stations-logos/retrosonic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "FCE Continuo",
+      "s": "https://listen.radioking.com/radio/551009/stream/610262",
+      "l": "https://kuasark.com/files/stations-logos/fce-continuo.png",
+      "g": [
+        "Classical",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio Lusitana",
+      "s": "https://11.stmip.net:8404/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-lusitana.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Ràdio Rmg",
+      "s": "https://radio-rmg-loc.mixlr.com/",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmg.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Eldoradio Top 25",
+      "s": "http://shoutcast.rtl.lu/eldotop25",
+      "l": "https://kuasark.com/files/stations-logos/eldoradio-top-25.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTL Die besten Hits aller Zeiten",
+      "s": "http://rtlberlin.streamabc.net/rtlb-rtldebestehits-aacplus-64-5270603?sABC=64480r7o%230%23n1q9s1ns4osoonq326452q0po510q6pp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682443899",
+      "l": "https://kuasark.com/files/stations-logos/rtl-die-besten-hits-aller-zeiten-lu.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTL Radio Lëtzebuerg",
+      "s": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rtl-radio-letzebuerg-lu.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RTL Radio - Deutschlands Hit-Radio",
+      "s": "http://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-192-3082173?sABC=6448104q%230%23n1q9s1ns4osoonq326452q0po510q6pp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682444365",
+      "l": "https://kuasark.com/files/stations-logos/rtl-radio-deutschlands-hit-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Generation Dance Radio",
+      "s": "http://generationdance.lu:8010/hd",
+      "l": "https://kuasark.com/files/stations-logos/generation-dance-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Puls Luxembourg",
+      "s": "https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-puls-luxembourg.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio Larochette",
+      "s": "https://servidor14.brlogic.com:8150/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-larochette.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio 100komma7",
+      "s": "http://100komma7--di--nacs-ice-01--01--cdn.cast.addradio.de/100komma7/live/mp3/320/stream.mp3?_art=dj0yJmlwPTk1LjEwNS45LjEyNCZpZD1pY3NjeGwtNTR0cnpsNmxiJnQ9MTY4MjUzMTE5OCZzPTc4NjZmMjljIzliNWVkNzIzNTVlYmUxY2ZlZjdlMGFhMDcwMzU2Nzg5",
+      "l": "https://kuasark.com/files/stations-logos/radio-100komma7.png",
+      "g": [
+        "Classical",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Generation Dance Radio (64 Kbps)",
+      "s": "https://generationdance.lu/radio/8030/mobile",
+      "l": "https://kuasark.com/files/stations-logos/generation-dance-radio-64-kbps.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "RTL Schlagerliebe",
+      "s": "http://rtlberlin.streamabc.net/rtlb-schlager-mp3-192-8912786?sABC=6448123o%230%23n1q9s1ns4osoonq326452q0po510q6pp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682444859",
+      "l": "https://kuasark.com/files/stations-logos/rtl-schlagerliebe.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "RadioPortugalPeloMundo",
+      "s": "https://streamssl.hospedandosites.com.br/sc_rmp.php/;",
+      "l": "https://kuasark.com/files/stations-logos/radioportugalpelomundo-lu-128636.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

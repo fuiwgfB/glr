@@ -1,0 +1,362 @@
+{
+  "stations": [
+    {
+      "t": "Тумар FM",
+      "s": "https://radio.tumar.fm:8005/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/593/6366743cd2a6eca5c5e4326620db3749_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Кыргызстан Обондору",
+      "s": "https://cdn.radioplayer.kg:8443/obondoru64",
+      "l": "https://images.radiovolna.net/_files/images/stations/587/brmf58d18a80a9a7a007075225_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Territory",
+      "s": "http://a.streamsin.space:8000/territory",
+      "l": "https://images.radiovolna.net/_files/images/stations/7458/c7e9c88895aeb9eafbd87c51ace7faf7_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative",
+        "Blues"
+      ]
+    },
+    {
+      "t": "ОК",
+      "s": "http://stream.okradio.kg:8000/mp3-hq",
+      "l": "https://images.radiovolna.net/_files/images/stations/5769/ili1595aa5096a400770470381_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Manas FM",
+      "s": "http://live.mediamanas.kg:8000/online",
+      "l": "https://images.radiovolna.net/_files/images/stations/7457/lsc0597105c909f81613168780_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Алмаз",
+      "s": "http://almazfm.ddns.net:8888/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/7455/gwgz59d21a632022e207980296_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Хит FM",
+      "s": "http://212.112.106.107:8000/hitfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/7454/wwkf593d51b8da5cb418714423_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ынтымак радиосу",
+      "s": "http://81.88.192.51:8000/YntymakFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/400769/1486300729_logo-yntymak2.jpg-500312_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Европа Плюс",
+      "s": "https://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/400768/1486300458_logo_ep_g-250.png-250135_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Атом FM",
+      "s": "http://106.streamsin.space:8000/atom",
+      "l": "https://images.radiovolna.net/_files/images/stations/32434/1473001840_16477_130x130.webp",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Санжыра радиосу",
+      "s": "http://81.88.192.51:8000/Sanjyra",
+      "l": "https://images.radiovolna.net/_files/images/stations/405468/oybp5a477539e088f254623453_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ретро FM",
+      "s": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7456/dkz45943a15b0649b880740174_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Kyrgyz Radio",
+      "s": "https://liveradio.utrk.kg/kyrgyzradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/422718/f7a1ee0e91a0cf887b4dffe1e2710e42_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "ТНТ Music Radio",
+      "s": "http://tntradio.hostingradio.ru:8027/tntradio128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405464/aa9e33400e60bc67a5a3facb9a622195_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Азаттык - Азаттык радиосу - Кыргызстан",
+      "s": "https://n0a.radiojar.com/q9z8fs3nn3quv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427636/a2823db76c62e2862b60fae9b51b749c_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Сүйүнчү радиосу",
+      "s": "https://cdn.radioplayer.kg:8443//suiunchu64",
+      "l": "https://images.radiovolna.net/_files/images/stations/420251/de5a420a065b948d0c02a67e2c3d9049_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Record",
+      "s": "http://31.186.50.67:8000/record.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400767/1486300217_2756_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "России",
+      "s": "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/419008/686c566ecfca9685ffe9868b259575a5_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Retro (Bishkek)",
+      "s": "http://a.streamsin.space:8000/retro_exfm885",
+      "l": "https://images.radiovolna.net/_files/images/stations/417673/7fb8d13613f736f814fc46bd4c219053_130x130.webp",
+      "g": [
+        "Rock",
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "IRadio 92",
+      "s": "http://212.112.123.200:8000/stream.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/420289/4ceca140fc72dcd9a497dca6c4ad0f38_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Марал Радиосу",
+      "s": "https://stream03.pcradio.ru/maralfm_kg-med",
+      "l": "https://kuasark.com/files/stations-logos/maral-radiosu.png",
+      "g": [
+        "Folk",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Европа Плюс Кыргызстан",
+      "s": "https://cdn.radioplayer.kg:8443/europa64",
+      "l": "https://kuasark.com/files/stations-logos/evropa-plus-kyrgyzstan.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Сүйүнчү FM",
+      "s": "https://cdn.radioplayer.kg:8443/suiunchu64",
+      "l": "https://kuasark.com/files/stations-logos/sjnc-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Sputnik Кыргызстан",
+      "s": "https://icecast-rian.cdnvideo.ru/voicekgz",
+      "l": "https://kuasark.com/files/stations-logos/radio-sputnik-kyrgyzstan.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Пирамида",
+      "s": "https://prm.volna.top/128",
+      "l": "https://kuasark.com/files/stations-logos/radio-piramida-427.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Хит FM Кыргызстан",
+      "s": "https://cdn.radioplayer.kg:8443/hitfm64",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-kyrgyzstan.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ретро FM Кыргызстан",
+      "s": "https://cdn.radioplayer.kg:8443/retro64",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-kyrgyzstan.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд Кыргызстан",
+      "s": "https://hls-01-radiorecord.hostingradio.ru/record/112/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-kyrgyzstan.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Авторадио Киргизия",
+      "s": "http://212.112.106.66:8080",
+      "l": "https://kuasark.com/files/stations-logos/avtoradio-kirgizia.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио ОК",
+      "s": "https://stream.okradio.kg:8005/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-ok.png",
+      "g": [
+        "Pop",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "City FM 105",
+      "s": "https://edge.mixlr.com/channel/hqpry",
+      "l": "https://kuasark.com/files/stations-logos/city-fm-105.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "iradio.one - 80's channel",
+      "s": "http://a.streamsin.space:8000/80s",
+      "l": "https://kuasark.com/files/stations-logos/80s-channel-iradioone.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Радио Люкс",
+      "s": "https://cdn.radioplayer.kg:8443/new64",
+      "l": "https://kuasark.com/files/stations-logos/radio-luks.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "Emotions",
+      "s": "http://a.streamsin.space:8000/emotions",
+      "l": "https://kuasark.com/files/stations-logos/emotions-kg.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Dream Town",
+      "s": "http://a.streamsin.space:8000/dream_town",
+      "l": "https://kuasark.com/files/stations-logos/dream-town.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "MARAL FM",
+      "s": "http://212.42.115.186:8000/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/maral-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Радио Татина",
+      "s": "https://s0.radioheart.ru:8000/RH20675",
+      "l": "https://kuasark.com/files/stations-logos/radio-tatina.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tzgospel ( Kyrgyzstan)",
+      "s": "https://stream-151.zeno.fm/1n6f9y596ehvv?zs=OOGPV1-iQmaKUUz4pujZVw",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-kyrgyzstan.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Toguztoro FM",
+      "s": "https://listen3.myradio24.com/42010",
+      "l": "https://kuasark.com/files/stations-logos/toguztoro-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Coldstar Online",
+      "s": "https://ice.coldstar.online/low.ogg",
+      "l": "https://kuasark.com/files/stations-logos/coldstar-online.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "iradio.one - Fever",
+      "s": "http://a.streamsin.space:8000/fever",
+      "l": "https://kuasark.com/files/stations-logos/fever-iradioone.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    }
+  ]
+}

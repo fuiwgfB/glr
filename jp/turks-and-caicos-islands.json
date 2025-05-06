@@ -1,0 +1,51 @@
+{
+  "stations": [
+    {
+      "t": "Radio Turks & Caicos RTCFM",
+      "s": "http://air.doscast.com/proxy/rtc89fm/radio-turks-caicos",
+      "l": "https://kuasark.com/files/stations-logos/radio-turks-caicos-rtcfm.png",
+      "g": [
+        "Rap",
+        "Reggae",
+        "R&B and Urban",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "88.5 The Beat",
+      "s": "http://s2.yesstreaming.net:7212/;",
+      "l": "https://kuasark.com/files/stations-logos/885-the-beat.png",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Power 92.5 FM",
+      "s": "http://smi.ss32support.com:8092/;",
+      "l": "https://kuasark.com/files/stations-logos/power-925-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "88 JAMZ",
+      "s": "http://198.143.144.226:8057/stream",
+      "l": "https://kuasark.com/files/stations-logos/88-jamz.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hope Radio TCI",
+      "s": "http://5.135.158.214:19326/;",
+      "l": "https://kuasark.com/files/stations-logos/hope-radio-tci.png",
+      "g": [
+        "Inspirational"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "stations": [
+    {
+      "t": "UKNova",
+      "s": "http://uknr.org:8000/",
+      "l": "https://kuasark.com/files/stations-logos/uknova.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Muzaiko",
+      "s": "http://streaming.radionomy.com:80/JamendoLounge",
+      "l": "https://kuasark.com/files/stations-logos/muzaiko.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "wattsni",
+      "s": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/wattsni.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "lassulus radio",
+      "s": "http://radio.lassul.us/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/lassulus-radio.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

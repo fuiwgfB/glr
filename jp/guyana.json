@@ -1,0 +1,165 @@
+{
+  "stations": [
+    {
+      "t": "NCN Hot FM",
+      "s": "https://cast4.my-control-panel.com/proxy/ncn981/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421261/3da351a19452424d0e762c14606df890_130x130.webp",
+      "g": [
+        "News",
+        "Pop"
+      ]
+    },
+    {
+      "t": "NCN VYBZ",
+      "s": "https://cast4.asurahosting.com/proxy/ncn1001/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421262/9b4eec080868b989724967c83417f410_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RGI",
+      "s": "https://stream.radio.co/s9668e2ab5/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/421256/ce5c46679621f28eedb65bf40c5dc674_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "NTN Radio",
+      "s": "https://auds1.intacs.com/ntnradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/421255/c972b511a05ee5d9c0020ba2f04dfcd2_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Voice FM",
+      "s": "https://s4.radio.co/s75af666f2/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/421259/385b19b7ba4fddea5be55a114d0396fb_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Boom FM",
+      "s": "http://192.99.8.192:3630/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421258/e84f10dd2ef94f97d3cf60f16a580f83_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Guyana International",
+      "s": "https://halo.streamerr.co/listen/radioguyana/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429874/cd4f0e93727d778be919dbe3211fa592_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "NCN Voice of Guyana - VOG",
+      "s": "https://cast4.my-control-panel.com/proxy/ncn1025/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421263/2a37bad0adf336870302697501c450bf_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Real FM",
+      "s": "https://ic.streann.com/RealFm",
+      "l": "https://images.radiovolna.net/_files/images/stations/429277/be345c74cfe56e8f26cc5791e69c99d7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "https://audio-edge-5bkfj.fra.h.radiomast.io/aa758625-6c37-4a31-8262-b2bf84bbe17f",
+      "l": "https://images.radiovolna.net/_files/images/stations/421257/a198f57c0b8d7843ccebb6cf669d06fa_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Freedom Radio",
+      "s": "http://s5.voscast.com:10112/stream1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/429276/ad56c8195e6142a2422676d8f89818ab_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Maad FM",
+      "s": "http://streaming.broadcastradio.com:8870/maad975fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/421260/e1390aa2a41843123a074ced0c3f22f3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Boom FM",
+      "s": "http://192.99.8.192:3630/stream/",
+      "l": "https://kuasark.com/files/stations-logos/boom-fm-gy.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Guyana International",
+      "s": "https://halo.streamerr.co/radio/8030/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-guyana-international.png",
+      "g": [
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "GTriddim Guyana Radio",
+      "s": "http://www.gtriddim.net:8080/;",
+      "l": "https://kuasark.com/files/stations-logos/gtriddim-guyana-radio.png",
+      "g": [
+        "Rap",
+        "Reggae",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Bhajans Radio Guyana",
+      "s": "https://s5.citrus3.com:8148/stream",
+      "l": "https://kuasark.com/files/stations-logos/bhajans-radio-guyana.png",
+      "g": [
+        "Easy Listening",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Guyane 1ère",
+      "s": "https://guyane.ice.infomaniak.ch/guyane-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/guyane-1ere.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "TRACE FM",
+      "s": "https://n24a-eu.rcs.revma.com/nxvafk744k0uv?rj-ttl=5&rj-tok=AAABiq3GLAwAnKHmtXDwGYmf5Q",
+      "l": "https://kuasark.com/files/stations-logos/trace-fm-35613.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    }
+  ]
+}

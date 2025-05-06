@@ -1,0 +1,13 @@
+{
+  "stations": [
+    {
+      "t": "Chada FM",
+      "s": "https://streamer.eagrpservices.com/audio/chadafm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/chada-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    }
+  ]
+}

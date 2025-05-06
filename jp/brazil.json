@@ -1,0 +1,4070 @@
+{
+  "stations": [
+    {
+      "t": "77H FM GUARUJA SP",
+      "s": "https://stream.zeno.fm/wc7imbfxq9cvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423404/58457d05ab20d616e8654a63bfdda197_130x130.webp",
+      "g": [
+        "Decades",
+        "Themes",
+        "Easy Listening",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Kiss FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403020/49c6eed8a4c5d456b13337afd626d507_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "89 FM A Rádio Rock",
+      "s": "https://27393.live.streamtheworld.com/RADIO_89FM_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/421037/2fb6a7fd2d735cb93c582ffccb72b642_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Antena 1",
+      "s": "https://antenaone.crossradio.com.br/stream/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/7012/dxw8596da5f5c0804006203950_130x130.webp",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gaia",
+      "s": "http://sc-radiogaia.1.fm:10036/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/21032/a41e70502c295dbdd1afee3f4b0a0adb_130x130.webp",
+      "g": [
+        "Pop",
+        "Talk",
+        "International"
+      ]
+    },
+    {
+      "t": "Eurodance 90's",
+      "s": "https://stream.zeno.fm/pdgmg8eu8k0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9611/o307594cfc46edf9c344818429_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Coca-Cola FM",
+      "s": "https://listen.openstream.co/3908/audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/417646/43b48b93c4052ec378bfffd7dad53d5d_130x130.webp",
+      "g": [
+        "Themes",
+        "Pop",
+        "Electronic",
+        "Rock"
+      ]
+    },
+    {
+      "t": "80's Best",
+      "s": "http://stream.zeno.fm/xeydavk8seruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9610/a02bf45aae1a2d4d559d46f03ea2e9e7_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Amigos do Rock",
+      "s": "https://stm25.srvaudio.com.br:11358/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420302/6858c34080f5db175394945d78a16222_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Metrópole FM",
+      "s": "https://stream.zeno.fm/56zh7wgfay8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426200/b7c3276c35b2edb7c39df8356c9a6c4d_130x130.webp",
+      "g": [
+        "International",
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "audiogrooves.net Soul Channel",
+      "s": "http://soul.audiogrooves.net/soul.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2399/v9o85979de39b55df372873804_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Rádio Web Pop FM",
+      "s": "http://live8.livemus.com.br:27632/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/425418/bc9e45acf94baf48de7cef16f0f2d9b0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Groove Wave Lounge",
+      "s": "https://stm1.srvif.com:7576/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2411/vk92599c061706284949334745_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "KLC ORIGINAL",
+      "s": "https://stream.zeno.fm/775uvsss6s8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/424045/472a835486cfaac31dc0a5bf6db794c4_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Tropical",
+      "s": "https://8199.brasilstream.com.br/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2557/je0y5979c467cb0ba543156851_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "América Dance 90's",
+      "s": "https://ssl.srvstm.com:8212/1;",
+      "l": "https://images.radiovolna.net/_files/images/stations/24354/1acead1f21c13295ce774cc4ef86c5e0_130x130.webp",
+      "g": [
+        "Decades",
+        "Themes",
+        "International",
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "BESTRADIO BRASIL",
+      "s": "http://best.viaflux.com/radio/8000/radiovolnanet",
+      "l": "https://images.radiovolna.net/_files/images/stations/2402/wq4d594cf02f04882031281032_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Emerson lopes fm",
+      "s": "https://stream.zeno.fm/xeey1vw7by8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426009/8368e861fe34a67f7b73dfe449a828d3_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Groove Wave Dance",
+      "s": "https://stm1.srvif.com:7498/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2409/lg0a599543ae6e633341535639_130x130.webp",
+      "g": [
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Euro 90 - Dance 90",
+      "s": "https://stream.zeno.fm/g1u270e2ybruv\t\t\t",
+      "l": "https://images.radiovolna.net/_files/images/stations/417879/5788f9737f6288880c98a97117dc6dd9_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "102 FM",
+      "s": "http://rrdns-rcr.webnow.com.br/radio102.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2418/c84d59765cd99902d090642935_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "FS Web Rádio",
+      "s": "https://stream.zeno.fm/hhbrbhssrbruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423319/d2fd9913e4022297b300934b684dd0f9_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rádio Henicka fm",
+      "s": "https://stream-43.zeno.fm/t4pouwtpkaruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428735/12c625a91cb30e0f32721b21318788c3_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "FM Gospel",
+      "s": "http://8.fm5.com.br:8632/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2476/cjk9597b02c6151d1081989588_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Som Sertanejo",
+      "s": "http://70.38.18.79:12016/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2568/m1h459d727731bbdb651781122_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Vôo Livre FM",
+      "s": "https://stream.zeno.fm/nkggqp35qnruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423318/f5eb976a86039e961a0f5379970f66c8_130x130.webp",
+      "g": [
+        "Inspirational",
+        "Pop",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Central",
+      "s": "http://20823.live.streamtheworld.com/RADIOCENTRAL_AM_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/2452/sa2q59d69488c944c193104990_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Nova",
+      "s": "http://server2.webradios.com.br:9128/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2520/wbrr597c6ecd2bef4703921928_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Cidade Em Dia FM",
+      "s": "https://rrdns-rcr.webnow.com.br/cidade.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2440/fdad7dd0374f5c028ad37e6cd544ed1c_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio Grapiúna Pop",
+      "s": "https://s17.maxcast.com.br:8683/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/402482/b6cad52bed5d704088a800daffb02383_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Cantor Emerson Lopes",
+      "s": "https://node-19.zeno.fm/89v0dp4qhy8uv?rj-ttl=5&rj-tok=AAABehB2P0UA20mcdoD8Yf_Tdw",
+      "l": "https://images.radiovolna.net/_files/images/stations/426010/095f39d3c25025ce7acae1b121fa5ba3_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Scalla",
+      "s": "http://hts02.kshost.com.br:9710/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/405989/gxx95ba318e8e410d898414883_130x130.webp",
+      "g": [
+        "New Age",
+        "Jazz",
+        "Classical"
+      ]
+    },
+    {
+      "t": "AVIVA 7",
+      "s": "https://stream03.dghost.com.br:8290/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/418663/02c5d24661ebc84caf59d992530c9ecf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "105 FM",
+      "s": "https://radios.digital:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2420/qqds59765889d9dc2251732552_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Globo",
+      "s": "http://r13.ciclano.io:8366/stream.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2479/uyal59d679fb404e3156408446_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Alpha FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/7004/luen597620e8bf17c582727553_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "SANTO ANTÔNIO DO SUDOESTE FM",
+      "s": "https://stream-57.zeno.fm/hkb0wbfpmkhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426742/b04bbcb34095f33633853a2ec914860f_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Soft Hits FM",
+      "s": "https://stream.zeno.fm/28pqnd6drchvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/425925/9ff796826b689545d535a71052cc07f3_130x130.webp",
+      "g": [
+        "Pop",
+        "Themes",
+        "Rock"
+      ]
+    },
+    {
+      "t": "RÁDIO HENICKA FM",
+      "s": "https://stream-149.zeno.fm/t4pouwtpkaruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429825/f8fb68dc59f76df1145ae89ef4359d59_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Girassol BH",
+      "s": "https://s02.transmissaodigital.com:6754/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/430032/b83ee507372031220c1891be83d52023_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Itapoan FM",
+      "s": "http://streaming.livecenter.com.br:9300/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2489/wh1v59d6799d9fb1f459906700_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bossa Jazz",
+      "s": "http://62.138.6.196:8171/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/415490/iqwf5c1ff949b6f0f530538102_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Rádio Verdade FM Salvador",
+      "s": "https://stream.zenolive.com/9u205wa3tm0uv.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/425629/c567de2bd09b0b4c1575355de52ff290_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "Country"
+      ]
+    },
+    {
+      "t": "Anchieta FM",
+      "s": "https://stream.zeno.fm/hev8e6m794zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/425791/2a7a5376c66171c832b892301f755c8a_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "SEMA VAGNA FM",
+      "s": "https://node-24.zeno.fm/fyyq0cp0gchvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426099/26ecd139cc36a1ed8222a86639db5910_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio 99 FM",
+      "s": "http://hts02.kshost.com.br:8862/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403061/ebnm59dca9ae05ddc729850236_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Som Maior fm",
+      "s": "https://stream-149.zeno.fm/t4pouwtpkaruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426653/cb6ecea1376bb7b940da3707d5272e31_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Disney",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420907/d8cec329c01eea4bb1ff10394e7083f2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FlorestaFM",
+      "s": "https://stream.zeno.fm/mav5kh5d308uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430071/4eeeb4270307d4834091112b0df24b1e_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Moderna FM",
+      "s": "https://node-16.zeno.fm/q5k62gf0pp8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/425826/9c6ee586e3dbe879799152e7d6c55493_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "NORTE FM",
+      "s": "https://stream-41.zeno.fm/t4pouwtpkaruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426143/26a7f654f9e77d1761014897f72879d0_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio nova opção Goiânia",
+      "s": "http://stm11.srvstm.com:8110/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423841/9c787943cc40c5645822e3aabf3462a6_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Band FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SP.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428841/c0856834d1e5b9f758838b76d38b9502_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rede Glóbulo De Comunicação",
+      "s": "https://stream.zeno.fm/t4pouwtpkaruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/431089/92bab395825d24836d35b3c7a426f91c_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Dionisio Cerqueira fm",
+      "s": "https://stream-59.zeno.fm/4epfrfbfxa0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429648/a13ecf65db48c3b9645fefe98afc7e91_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Palma Sola FM",
+      "s": "https://stream.zeno.fm/xm457kwwkm0uv.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/425607/84e04c39fcefd2427f63a3e875cb1227_130x130.webp",
+      "g": [
+        "Themes",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Massa FM",
+      "s": "https://stm01.virtualcast.com.br:8118/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403090/cw9y59dcea4aaf279025283552_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "98 Live FM",
+      "s": "https://9554.brasilstream.com.br/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2425/irsb59d6211038272195712453_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ÁGUA PARADA FM",
+      "s": "https://stream.zeno.fm/4epfrfbfxa0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/425620/53e9ebf4bffd057281f4d6bab6edf945_130x130.webp",
+      "g": [
+        "Themes",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Meio Norte",
+      "s": "http://painel.amsolution.net.br:8080/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/2510/hbz95979dc5378870917862861_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "PRINCESA FM",
+      "s": "https://node-33.zeno.fm/wqa83qpk8s8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/425793/2227f3826750a64f692d8941dd853b21_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Super Jovem",
+      "s": "https://ice.fabricahost.com.br/superjovemfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/2550/ua555971e5a0cb342353250713_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Evangelizar FM",
+      "s": "https://shout07.crossradio.com.br:18000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/21378/1d4a0d82062f32f93901e97797d0d67a_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "JB FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/403180/fj9w59de37e3a3e0a058742824_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gazeta FM",
+      "s": "http://209.126.127.123:8177/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/421095/553acc807fae6ffbaaa3b134a7a37e23_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Santa Isabel",
+      "s": "http://149.56.200.90:20070/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2538/g3fr5a5c9f6796617011753974_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Cantor Compositor Emerson Lopes",
+      "s": "https://stream-40.zeno.fm/u45qws4cqxhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427089/8da8c3dc509df7fa06284e12704c16e7_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "GFM",
+      "s": "https://ice.fabricahost.com.br/radiogfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/2480/c37a94294e0d143f174d8e506ec1689a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Universitária",
+      "s": "http://webradio.dr.ufu.br:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/2558/exk259d692b2e0818440005504_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Liberdade FM",
+      "s": "https://8335.brasilstream.com.br/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2502/xqgk59d727d7f3066137779925_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Gaúcha",
+      "s": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/421059/a4acac5ffbbfb215396379110fa4e4e5_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Clube FM",
+      "s": "https://shout07.crossradio.com.br:18004/1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403092/23e99a0094f6446139592e99f1ecaae4_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Rádio Contemporânea",
+      "s": "http://stream.ouveai.com.br:10718/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403187/a9e4e6b40d95e1486c0eb2f78098d30f_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "audiogrooves.net Club Channel",
+      "s": "http://soul.audiogrooves.net/club.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401153/wcf75981f5357696b355319840_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Rádio Clube FM",
+      "s": "https://node-21.zeno.fm/5bhwbkctxc9uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426419/0fa1fec9fc668c8d780eaedd79646806_130x130.webp",
+      "g": [
+        "International",
+        "Decades",
+        "Pop",
+        "Country",
+        "Folk",
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "Rádio da Bispa",
+      "s": "https://radio.saopaulo01.com.br:10780/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421085/4e44f73b74be1f8a2f09520a216b21bf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Rosa fm",
+      "s": "https://stream-55.zeno.fm/gfyhzucvp0hvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427225/945d520bc1de7ceb9e2d8358f11bad33_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Antena 1",
+      "s": "https://stream.antena1.com.br/stream14",
+      "l": "https://images.radiovolna.net/_files/images/stations/428921/d865a4ded5ab912d0b0c1274926203a8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Metropolitana",
+      "s": "http://metro1090.flashplayer.acessaradios.com.br:8092/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403188/tvbz59de3e61d628d130267866_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "CANTOR SÓLON MENEGUETTI",
+      "s": "https://stream-40.zeno.fm/vv3q0aqzbfhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427387/da91ce3613da8753afbf45b57b739c47_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hot107",
+      "s": "https://shout35.crossradio.com.br:18116/1;",
+      "l": "https://images.radiovolna.net/_files/images/stations/10462/trie59d74dff5db29762740027_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RÁDIO XIXANDO FM",
+      "s": "https://stream-148.zeno.fm/vv3q0aqzbfhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429754/3ef7329658a53707a3bbf1ec8ccc1201_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Maravilha FM",
+      "s": "https://stream.zeno.fm/d30zcepw4yzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/425829/9f8cd04cb8cffe413606e0860daff6d4_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Super Funk Melody",
+      "s": "http://stm3.xcast.com.br:8156/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420346/3b6a9d31ac35637f28eff61899e0e73a_130x130.webp",
+      "g": [
+        "International",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Rádio Itaipu",
+      "s": "https://str1.streamhostpg.com.br:8064/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428901/15c5d3080cc899fdf1d98b01ba6b0203_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Difusora",
+      "s": "http://sd.dnip.com.br:9138/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2466/q2os59d67a475de91276198313_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "LOVETIMES | Romantic Music Hits",
+      "s": "https://c15.radioboss.fm:18152/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405730/eac25ab10ace840d4432760852_130x130.webp",
+      "g": [
+        "New Age",
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio 98 FM",
+      "s": "http://107-182-231-169.webnow.com.br/98fm.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/403091/qoob59dceacc25eb2940809511_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Bem Sertaneja",
+      "s": "https://tiagosilva.stream.laut.fm/tiagosilva",
+      "l": "https://images.radiovolna.net/_files/images/stations/430192/382741813c84d75c85b4142b412bcc63_130x130.webp",
+      "g": [
+        "Country",
+        "Decades",
+        "Latin",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Livre",
+      "s": "https://ssl.xcast.com.br:10616/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428847/f4004f3d451d32eab91599501f6f483c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "São Francisco",
+      "s": "https://shout25.crossradio.com.br:18190/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420964/8ee8c9008048b152c41587657bee5cf8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Flash BAck Mix",
+      "s": "http://stream.streamfacil.com.br:7004/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/419884/d12765fb34257816c0d3bb64ef296e4d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio JK FM",
+      "s": "https://radio.saopaulo01.com.br/8054/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27652/330243b425c091380097f74236c3623b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rede Aleluia",
+      "s": "https://264398c.ha.azioncdn.net/primary/radio90_7fm.sdp/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428859/43d357b1b69ccfd9cadb73974c526e47_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Amazônia Viva FM",
+      "s": "https://s03.maxcast.com.br:8112/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403055/td0v59dca01802075933486612_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Ouça FM",
+      "s": "https://stream.zeno.fm/rywwcrtm1b6tv",
+      "l": "https://images.radiovolna.net/_files/images/stations/431577/46b545b93d3a3e49d869fd00c3b3ab89_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "SÃO MIGUEL DO OESTE FM",
+      "s": "https://stream-55.zeno.fm/wxk26f9wn0hvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426551/809e4e62438f8ca3f06c43f036ef2d84_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Sociedade News FM",
+      "s": "http://209.126.127.123:9050/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421110/36a6b3fc477aa8b476e300b73cd192eb_130x130.webp",
+      "g": [
+        "Folk",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Positiva",
+      "s": "https://player.audiovox.pw/proxy/7126",
+      "l": "https://images.radiovolna.net/_files/images/stations/2529/js1i59d74956073f0878890821_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Band FM",
+      "s": "https://streaming.bluegestao.com.br:9443/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2439/xv7y596db05b65cf7705054234_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Music Pop Radio",
+      "s": "http://centova.onradio.biz:8000/live ",
+      "l": "https://images.radiovolna.net/_files/images/stations/418077/61605f5a016203a4c8eb530644c60311_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Excelsior FM",
+      "s": "https://www.appradio.app:8114/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/2563/z50h5b03b8d528135429574904_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Unama FM",
+      "s": "http://200.129.133.210:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403064/x0bv59dcab9fe84b7276504223_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Transcontinental FM",
+      "s": "https://shout25.crossradio.com.br:18200/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/414998/u9jx5c20af56e174c932974276_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Dimensão",
+      "s": "https://live1.livemus.com.br:27264/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421090/63a4675d5147e7fe148c722d4912ac00_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Rede Aleluia",
+      "s": "https://74398c.ha.azioncdn.net/primary/radio105fm.sdp/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428846/e0650c9ca31551434ce8d90a2b317948_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Tamandaré",
+      "s": "http://streaming09.maxcast.com.br:8058/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403171/pl1059de314b960a6860760500_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Verde Vale FM",
+      "s": "http://i9suaradio.com.br:7052/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2562/ucsa59d6942566b77511478178_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Timblesom",
+      "s": "https://stream.zeno.fm/du5bny6cwmqvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/431387/5454adbafe6c5991d9a6a88f1a1a0c4d_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Recife FM",
+      "s": "http://zoeweb.net:8046/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421086/c45e3b1bb4c0163d618427f65f570c3e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Energy FM Brazil",
+      "s": "https://media.energyfm.com.br/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31104/kep959d74f171803a615172819_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jornal Integração",
+      "s": "http://centova17.ciclanohost.com.br:8159/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2493/oiol59d74b6409c20744052331_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Jovem Pan",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FM.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403019/s8b059d8b5131f104522823785_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "audiogrooves.net Trax Channel",
+      "s": "http://soul.audiogrooves.net/trax.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401158/enq45981f665c19c5958985360_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Paz FM",
+      "s": "http://digital.umhost.com.br:9978/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403126/r4he59ddf63115035179399489_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Tranquilize Jazz FM",
+      "s": "https://streamingv2.shoutcast.com/TranquilizeJazzFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/25482/31dbca1eb3d14f4fa722230592d7fb54_130x130.webp",
+      "g": [
+        "New Age",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Nova Difusora",
+      "s": "https://cast.hoost.com.br:8314/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403038/u7xx59dc8399bc47c686552918_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "USP FM",
+      "s": "http://flow.emm.usp.br:8007/radiousp-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403014/q01159d8af781d251127472952_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Record",
+      "s": "https://stm2.painelcast.com:7532/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403031/rydm59dc80e09e691365597237_130x130.webp",
+      "g": [
+        "News",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Metropolitana",
+      "s": "https://ice.fabricahost.com.br/metropolitana985sp",
+      "l": "https://images.radiovolna.net/_files/images/stations/403016/l96s59d8b1282f18b737904706_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Marumby",
+      "s": "https://live.paineldj.com.br/proxy/marumbyfm885?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428878/41b627e30627fe0ced8eeb850f24308b_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Top FM",
+      "s": "http://cloud1.cdnseguro.com:8320/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403023/cxbn59d8b6ba5a1df118373550_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Canção Nova",
+      "s": "https://cloud1.cdnseguro.com:2614/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420945/9783b79494d57c43dd04ffe5f9af88bf_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Itatiaia",
+      "s": "https://8903.brasilstream.com.br/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403069/562c5f3094839d5f19daaa877f3dcddd_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Copas Verdes",
+      "s": "http://servidor20.dnip.com.br:8540/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/2460/tkhx59d61eb977408824744601_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Web Rádio Agitos Fm",
+      "s": "https://stream.zeno.fm/v4u806dyr0quv",
+      "l": "https://images.radiovolna.net/_files/images/stations/417677/ad43ffc57650a207f2faab0346f7aaaa_130x130.webp",
+      "g": [
+        "Latin",
+        "International"
+      ]
+    },
+    {
+      "t": "GOSPEL MAIS",
+      "s": "http://live1.livemus.com.br:7210/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/417488/fblr5cb241c94983c059496120_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Caruá FM",
+      "s": "http://74.63.250.82:8112/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/30828/fca18d8936480ddd93018ea820da8ad4_130x130.webp",
+      "g": [
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cidade",
+      "s": "https://rrdns-rcr.webnow.com.br/tb.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2454/sqij59d67cadc61e2213478893_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dumont FM",
+      "s": "https://up-continental.webnow.com.br/dumont.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/415578/o85k5c1ff05c90179416350304_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bicuda FM",
+      "s": "http://stm11.srvaudio.com.br:10920/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420931/c19646d333734c1f6528d1342e688866_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Amigos da Musica",
+      "s": "http://stm25.srvaudio.com.br:11358/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/418072/3ee9f3fa72a22372658ca0d663f92d19_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Eldorado",
+      "s": "https://estadaohls-lh.akamaihd.net/i/estadaohls_1@301351/master.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/420916/7bf2d08532839cf0850a3ff7eca3af2a_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Metrópole FM",
+      "s": "https://listen.radioking.com/radio/268642/stream/313975",
+      "l": "https://images.radiovolna.net/_files/images/stations/403195/pss959de437749ba6095819878_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio CDL FM",
+      "s": "https://9595.brasilstream.com.br/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2450/ljs859d61fdb278f7778027994_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Sampler",
+      "s": "http://stream.zeno.fm/999sdwk5nbruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/402779/a8jk59cdd1bdd1bb9127814554_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Amigos do Rock Nacional",
+      "s": "https://stm20.srvaudio.com.br:10714/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428359/f94356803d625c3f3580d573a6f59220_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Foz FM",
+      "s": "https://radio.saopaulo01.com.br/9954/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428899/c0c0d95fad8f68046c04c984de3a4572_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Tangará Da Serra fm",
+      "s": "https://stream-41.zeno.fm/t4pouwtpkaruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429517/94ee77261c38904cb237bb60a8adba6a_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Digital Birigui-FM",
+      "s": "http://streaming08.maxcast.com.br:8014/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/2405/smb459d67d125132b120857231_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rádio Liberdade HD",
+      "s": "https://stm14.xcast.com.br:11860/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429966/4064a5dad725dec0362a11835d1d30ae_130x130.webp",
+      "g": [
+        "Latin",
+        "Themes",
+        "News",
+        "Inspirational",
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Piatã FM",
+      "s": "http://192.163.193.115:9992/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2527/pbey59d68f6b3b93a876076826_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Clube AM",
+      "s": "https://radio.saopaulo01.com.br/8018/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421093/0a18d88f9a6ab5da3cc4c225fb32b0e7_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "audiogrooves.net Deeply Channel",
+      "s": "http://soul.audiogrooves.net/deeply.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401156/ujtm5981f5ff5b249157329934_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "A Tarde FM",
+      "s": "http://sh.upx.com.br:8120/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403196/qkm059de440b717e1852918932_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio A Vóz Da Libertação FM",
+      "s": "https://stream-55.zeno.fm/okxlta9qizstv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429526/a07db18c8d26ad143d09048404379915_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rede Aleluia",
+      "s": "https://384398c.ha.azioncdn.net/primary/brasilia.sdp/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/403017/uqwq59d8b1c1a4672197770062_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Clube",
+      "s": "http://stream.izap.com.br:443/amclube/mobile.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2458/obqt59d67e183371d821291314_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "audiogrooves.net Jazzy Flight Channel",
+      "s": "http://soul.audiogrooves.net/jazzy-flight.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401161/w23c5981f70e8bfc4399056525_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Globo",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/420909/030fd140b0173af3e419e95c7f3a3d66_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Everest",
+      "s": "https://paineldj6.com.br:20130/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420894/2e63c483d22229c3cf46b0496c6d7d04_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Felicidade Gospel FM",
+      "s": "http://centova10.ciclanohost.com.br:9230/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403152/sk2059de1d7605c58960802111_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Cidade FM",
+      "s": "https://server2.webradios.com.br:19168/9168",
+      "l": "https://images.radiovolna.net/_files/images/stations/421042/a6bf5f744de714c09f90df65876c52ef_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Distrital",
+      "s": "http://230.stm-ip.com:8552/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420968/d8b9477323ed36e26cfebac050019f84_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Amigos do Samba",
+      "s": "https://stm10.voxhd.com.br:7846/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428363/7b17276ee4d0f2107e764ddd32999b84_130x130.webp",
+      "g": [
+        "Decades",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Liberdade",
+      "s": "http://cast4.audiostream.com.br:8655/aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/421065/9a54c411913e510887dffcddb9d5e966_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Atividade",
+      "s": "https://ssl1.transmissaodigital.com:2490/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403052/h9tp59dc97f6abc43840219061_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tucano FM",
+      "s": "http://centova13.ciclanohost.com.br:8056/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/425363/f11c9e95-5ed6-4f00-bd46-d759dcdb51f9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sucesso FM",
+      "s": "http://216.245.220.173:8300/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/420919/2c853439fdf312d789b3786dd22e86d8_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Princesa FM",
+      "s": "http://209.126.127.123:9047/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421102/bfbb1e1ef1554ab93fea6b038b324480_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rede Boa Nova",
+      "s": "https://8592.brasilstream.com.br/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2565/mcn959d7273643956075834086_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "sucesso web radio sjn",
+      "s": "https://servidor34.brlogic.com:8318/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/409767/v1e35c030b4ad4fed496624603_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Difusora FM",
+      "s": "https://webradio.amsolution.com.br/radio/8430/saoluis",
+      "l": "https://images.radiovolna.net/_files/images/stations/428939/50817d90147acd0c7ea7b3e7707e8635_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Super Rádio",
+      "s": "http://cloud1.cdnseguro.com:13244/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403033/awxk59dc81a42bd80441215663_130x130.webp",
+      "g": [
+        "Folk",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Clube FM",
+      "s": "https://ssl.xcast.com.br:10638/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420956/6aa0fe3e9a0a3c9fc7ad527e90e0ab77_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "96 FM",
+      "s": "http://96fmbauru.crossradio.com.br:10090/2",
+      "l": "https://images.radiovolna.net/_files/images/stations/2423/a4b159d6905f55191964412355_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio 91FM",
+      "s": "https://ice.fabricahost.com.br/91fmcuritiba",
+      "l": "https://images.radiovolna.net/_files/images/stations/428879/c2168beeaafc81dfc8adebfab1222154_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Alta Frequencia",
+      "s": "http://cc4.streammaximum.com:8111/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423681/4a504a04453bff1c78ff4286a0946970_130x130.webp",
+      "g": [
+        "Decades",
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Benfica FM",
+      "s": "http://cast3.zadax.com.br:6060/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/421015/da5eb57af4d66d2bbb159dae6d80f7f8_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Sucesso (São Luís de Montes Belos)",
+      "s": "http://cast61.sitehosting.com.br:8168/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/20822/3ece41330fccc458ac81aa857cd12f11_130x130.webp",
+      "g": [
+        "Country",
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fama",
+      "s": "http://server03.stmsg.com.br:7028/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/421031/fb0418d5966db63264ca44195c0732dd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nordeste FM",
+      "s": "http://server15.livecenter.com.br:9988/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421100/70f2c34bf2cf85c2d4b709da6bacd3ad_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Atividade",
+      "s": "https://servidor38.brlogic.com:8070/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/421039/22b23b3157561f4199d20d46179b83f8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Sucesso",
+      "s": "https://stm5.painelcast.com:7582/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/419485/789d9c100f595cb957cc5e96af94e69b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Serra do Mar FM",
+      "s": "http://69.162.115.44:8166/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/421006/268e057e6b3d8b09f25e116a6f885885_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "FM 92",
+      "s": "https://servidor32.brlogic.com:8184/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/420948/9147d0aeb3ad58e34915eae3b6ff6121_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Comunidade",
+      "s": "http://stm20.srvstm.com:9662/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420952/a779835671555a01989cb801273f4fb0_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Rádio Transamérica",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/403068/t95o59dcd16f4f1a6626119555_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jovem Pan News FM",
+      "s": "https://shout25.crossradio.com.br:18030/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/428884/58df55225db5adc456465f24c97c6ed5_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Líder FM",
+      "s": "http://2.stm-ip.com:8578/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420957/bc7cc81e780a74ab15f052374933f625_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nova Brasil FM",
+      "s": "https://20823.live.streamtheworld.com/NOVABRASIL_SPAAC_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/403010/h3kb59d8ac0a0b31e784921575_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cabrito",
+      "s": "http://sc.radiocabrito.com:13386/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/416885/nlwy5c190fdcea6ba563797182_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Musical FM",
+      "s": "https://9176.brasilstream.com.br/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428843/13188927fb83693c4368e7faa44d645b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Aliança Notícias",
+      "s": "http://sceua.softhost.com.br:8136/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403139/bga959ddfbaaa5a8a545609702_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio Novo Tempo",
+      "s": "https://stream.live.novotempo.com/radio/smil:rntBelemPA.smil/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428855/0e527b4ea7ffbe3c9da595f321f37144_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Excelsior AM",
+      "s": "https://cantador.app:9051/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403198/bdak59de4562a2ee5368113002_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Play FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/PLAY_SP.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428839/d57dd851585ff88ce625daa909fd0a90_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Imprensa FM",
+      "s": "https://107-182-231-169.webnow.com.br/imprensafm.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2484/k44t59d745f30c7ff138818390_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Mais FM",
+      "s": "http://10.fm5.com.br:7800/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421012/8d3be09a54f48196733f6930aa0879b2_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Líder Gospel",
+      "s": "https://www.appradio.app:8180/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403111/fm4g59dddc0753dd8694646715_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Web Rádio Chico Xavier",
+      "s": "https://servidor29.brlogic.com:8156/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/30152/8af35a540fb6d8a4932af731bc439d36_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Paranóia",
+      "s": "https://cast.radioparanoia.net/radio/8000/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2525/dij159d67ac1ad08f548164870_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rádio Trianon",
+      "s": "https://shout25.crossradio.com.br:18014/1;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403029/oxhy59dc7ff020b7b623054125_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Mução - Forró",
+      "s": "https://cast.nextdial.com.br/mucaofm",
+      "l": "https://images.radiovolna.net/_files/images/stations/32468/ad93399e032bd01f39a9a62a82d69453_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Cordeiro",
+      "s": "https://stm7.painelcast.com:7590/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/28058/53247553d00ec6e884751e8b97f962d7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Serra FM",
+      "s": "https://servidor31.brlogic.com:8102/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/421002/ec4944b780a35f9f2d79b57efba1fd8b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rede Brasil FM",
+      "s": "http://rbc1.directradios.com:8294/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421082/be9a5e1c2e4011e04b8377bbe1c419c9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Mais Brasil News",
+      "s": "https://live8.livemus.com.br:27246/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428852/25f402ad3c5a827f125b3fdb016f2172_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Litoral FM",
+      "s": "http://cast4.hoost.com.br:9553/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420925/7884e017b4c625ba72cfc796d7fd860d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Difusora Sul da Bahia",
+      "s": "http://suaradio1.dyndns.ws:10553/stream?",
+      "l": "https://images.radiovolna.net/_files/images/stations/29806/fcww59d86756898de411564373_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "BIZ Webradio",
+      "s": "http://stream.bizwebradio.com:7104/mountpoint",
+      "l": "https://images.radiovolna.net/_files/images/stations/30835/f1a7429e14942ad849acced6a85d64d9_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Jovem Pan News",
+      "s": "http://142.44.230.74:9054/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421018/5a904cfd89e4df6fe24461a611c97137_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXRIOAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/403181/iwno59de386829394677496889_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bangu",
+      "s": "https://servidor37.brlogic.com:8128/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/420928/3fa6a54dc1d9eb823c7d53c67d949987_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Petrópolis Rádio Difusora",
+      "s": "https://s13.maxcast.com.br:8194/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403189/d9e04bb06ebeb5b92ce1ea0e528ec227_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "SulAmérica Paradiso",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SULAMERICA.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403177/mo9g59de35a7a5e5f039170604_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gospel Hits",
+      "s": "https://servidor37.brlogic.com:7068/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/285965/1479650836_radio_gospel_hits_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Super Rede Boa Vontade",
+      "s": "https://9000.brasilstream.com.br/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403035/enle59dc8250e1b8b290667955_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Imaculada Conceição",
+      "s": "http://www.caikron.com.br:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403037/c7sg59dc834a444bd944874495_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Vitoria FM",
+      "s": "https://servidor39.brlogic.com:8200/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/421083/c2e6f00bd481caa63ad40c62e6e64836_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Voz",
+      "s": "http://radio.pangeiaservice.com:8110/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428903/ce448bec79c0692b796122dcf42a40c6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vida FM",
+      "s": "https://8741.brasilstream.com.br/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420910/3adf2761236b78ff9622783c661d11bf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mundo Livre",
+      "s": "https://107-182-231-169.webnow.com.br/mundolivre.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/403086/m1zz59dce578eb21e969721787_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Cidadã",
+      "s": "https://servidor27.brlogic.com:8534/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/420899/d9e05c554968ee0e35e7b9abb0a52fff_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ABC AM",
+      "s": "http://centova2.ciclanohost.com.br:10294/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421074/b084a79f9536d7fcba13fe7def73e028_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RCB FM",
+      "s": "https://listen.shoutcast.com/rcb",
+      "l": "https://images.radiovolna.net/_files/images/stations/421004/da8b9469296201901ca2501ae881d421_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Educativa UFMS",
+      "s": "https://radiostream.ufms.br:8443/radioufms",
+      "l": "https://images.radiovolna.net/_files/images/stations/428869/c525560d91434ca837cb6858a6f36ae0_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Dalila FM",
+      "s": "https://centova4.transmissaodigital.com:20157/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420898/10e3611401458b47de27762b6e97d47a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Guará FM",
+      "s": "http://hts08.kshost.com.br:12668/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420959/43fb1e3df3c50b9d8134fb173a92ade7_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "92 Rádio",
+      "s": "https://liverd92fm.rbsdirect.com.br/primary/92fm.sdp/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428922/a90c3930821ef7e0b70e4bbb2acd6993_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Clássica",
+      "s": "https://ice.fabricahost.com.br/classicafm",
+      "l": "https://images.radiovolna.net/_files/images/stations/428895/c6499a6096a5d17f85603825ff22d313_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Caiobá FM",
+      "s": "https://servidor35.brlogic.com:7094/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403093/l50x59dcec0cd389c454194430_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "BandNews FM",
+      "s": "https://evpp.mm.uol.com.br/band/bandnewsfm_bsb/chunklist_w699593972.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428848/f1b68d4d3e9c524ec6e67d1c33e8b64f_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Costa Verde",
+      "s": "http://95.216.27.138:9302/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420923/d3502b72d454f70b3ccd818fe57cc6c1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Manchester FM",
+      "s": "http://10.fm5.com.br:8280/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421034/139edbb42bb8ffc002c7da6261953fdf_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Educadora",
+      "s": "https://08.stmip.net:8712/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/428946/7b7f65dc218a9bb67a77aa32bf4fe45e_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Osório FM",
+      "s": "http://centova17.ciclanohost.com.br:8425/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421071/82a2067b0534580da532db5d643a91ab_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio RCI",
+      "s": "https://stream.splug.com.br/Radio23",
+      "l": "https://images.radiovolna.net/_files/images/stations/428905/b94ffbf0320da077f11f308c24467ec6_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Saudade FM",
+      "s": "http://r16.ciclano.io:9039/site",
+      "l": "https://images.radiovolna.net/_files/images/stations/415178/o4415c20a7714a840350977955_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Difusora Pantanal",
+      "s": "https://ssl.painelshoutcast.com.br:7004/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428870/dafb7e55b64caecfe588c8df392d0d45_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Subaé AM",
+      "s": "http://server15.livecenter.com.br:9992/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421111/a8e84be4286ce9b37c87e6444b57c59e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nova Aliança",
+      "s": "http://rna.streams.com.br:7802/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403049/ylmj59dc9578b1c7b878541398_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Mais",
+      "s": "http://sv10.hdradios.net:25190/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421063/3b9e19af48f75b16dac04ce0c6973386_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Gaúcha Serra FM",
+      "s": "https://1852747t.ha.azioncdn.net/primary/gau_serra.sdp/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/421067/1777a7f4f734e5591dfe299e1e3dcbc9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Apollo",
+      "s": "http://198.100.144.122:7010/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421815/3f48132e5e80714f9bedb77ebee3d83d_130x130.webp",
+      "g": [
+        "Decades",
+        "International",
+        "Folk",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Imaculada Conceição",
+      "s": "http://www.redeimaculada945fm.ddns.com.br:8010/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403044/exj759dc86b40cfbe696653704_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rádio Pampa",
+      "s": "http://cast4.audiostream.com.br:8653/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421061/7855c6042e5feef9109b82e45964fb05_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mania",
+      "s": "http://shout35.crossradio.com.br:8086/1/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403135/nb8y59ddfa428e9b2139360900_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rede Aleluia",
+      "s": "https://254398c.ha.azioncdn.net/primary/radio91fm.sdp/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428931/7197255f6248cfe6348e9ae7c0fe1bb8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Relógio",
+      "s": "https://servidor35.brlogic.com:8212/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403185/k7lc59de3c67474b1191955610_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Gospel Adoradores",
+      "s": "https://servidor31.brlogic.com:8018/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/31649/b18aea28100596b6fe02dfeecac11b47_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Metropolitana FM",
+      "s": "http://6vlxr.srv27.brasilstream.com.br:9320/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420978/0ecfdcb1fb84d3fa2f5022ade09c2d6d_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_POA.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403158/dj2559de22be16c3d143451534_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Capital 95",
+      "s": "http://autodj.com.br:9072/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428866/1f6d9064645e58accd13c9fb533fdbec_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Águia Dourada",
+      "s": "https://centova4.transmissaodigital.com:20229/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420893/f71aaaf68374bff8057bbb9a1f5bd575_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Verde Oliva FM Manaus",
+      "s": "https://ice.fabricahost.com.br/verdeolivama",
+      "l": "https://images.radiovolna.net/_files/images/stations/426983/d0458f178810b1f0eab8435c00996f27_130x130.webp",
+      "g": [
+        "Themes",
+        "Decades",
+        "International",
+        "R&B and Urban",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Rádio Estádio",
+      "s": "https://stm5.painelcast.com:7556/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/419484/977ec322cc2568e6247c0eb97901484f_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Bandeirantes",
+      "s": "http://suaradio2.dyndns.ws:13633/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428913/c5c3865bb7a651a617a68d13c932e9b9_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Rádio Jesus entrando em sua casa",
+      "s": "https://stm22.xcast.com.br:10446/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429605/9e4ca733116a6719c0fceb5ea5bfa127_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Metrópole AM",
+      "s": "http://01.stmip.in:27186/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403160/tyb959de2960a8cc6488812231_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Cidade",
+      "s": "https://cast.youngtech.radio.br/radio/8550/radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/428885/41f0e81f96333708a0d9a450ccfecb3c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Autêntica Favela",
+      "s": "http://142.44.230.75:9149/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420992/3d0730a111125945f382490c83d3a6b1_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Nossa Rádio",
+      "s": "https://servidor35.brlogic.com:8206/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403070/rx8159dcd3771486e592233795_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Clube",
+      "s": "http://142.44.230.74:9073/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/421028/ca5a183dd26f39de4e726181b255e802_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rede Aleluia",
+      "s": "https://64398c.ha.azioncdn.net/primary/radio102_9fm.sdp/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428920/2d44d15e5e3b2ced6e5f3a2eb899b2c4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Paraná Educativa",
+      "s": "http://200.189.113.201/stream/educativaam.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403099/zdyr59dcef9541b0f271218849_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "94.3 FM do Povo",
+      "s": "http://streaming13.hstbr.net:8280/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403141/j0x159de0217d5b3a088936995_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Alegria",
+      "s": "http://stream01.ouveai.com.br:1046/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/403153/ad2d10432d17b6c356ad667058cb932f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Santa Cruz AM",
+      "s": "http://r13.ciclano.io:8686/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421055/aee84b92dac2a68e85423ec769765ff3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio C Brasil",
+      "s": "https://stm5.painelcast.com:7578/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/419486/ad4fe35ba01fdf725db8b05a75d578a7_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Rádio Diário",
+      "s": "http://server2.webradios.com.br:9116/9116",
+      "l": "https://images.radiovolna.net/_files/images/stations/421041/dac018d176cdc36dd8d0b8617175ec3d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nossa Senhora de Copacabana",
+      "s": "https://s33.maxcast.com.br:8180/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/420930/0cdf4c049f6fe831fe8fe2af4a493552_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cancella FM",
+      "s": "https://live03.dgradios.com/station/8130/cancellafm",
+      "l": "https://images.radiovolna.net/_files/images/stations/27665/4cc9f93448736aa5a95ea6e4e3d4c534_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nacional AM",
+      "s": "https://22722d.ha.azioncdn.net/hls-radio/STsEBCRNRJ/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/420943/d9f03c894dcc22ab877c8dd6645745f1_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mais FM",
+      "s": "https://whd1.webradios.com.br:18524/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420960/1e7247d80e164e72aaf2894b02aaeaf6_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Nova Pinhais",
+      "s": "http://216.245.222.131:8016/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/421007/0e84c4642ed4b667e02257dde2a5d38d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Maranata FM",
+      "s": "https://hts02.kshost.com.br:8774/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403168/oc7159de2f84ef509231977675_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "CBN",
+      "s": "http://ceb1.live.upx.net.br:8030/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/2446/auco59d693b9d49a6485391851_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Bandeirantes",
+      "s": "http://167.114.103.39:8470/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/403011/jz4u59d8accbbd94d635951528_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Super Notícia",
+      "s": "https://9134.brasilstream.com.br/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428858/d113e7de3d5b8a01543ab34a9c2c92cf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Paulista FM",
+      "s": "https://stream.zeno.fm/q6bvetaxhchvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/420902/a5fd1eceab3e959bd081a8b4bcd3b2b1_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "audiogrooves.net Sound Factory Channel",
+      "s": "http://soul.audiogrooves.net/sound-factory.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401157/zsil5981f63bb512b442678927_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Manchete",
+      "s": "http://192.163.213.186:9300/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/27506/2f8877079bd5961fa25a7ea888a15bbe_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Betel",
+      "s": "http://149.56.85.6:8028/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420932/6d77e267619eeff5a73f664c306b9a84_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Continental",
+      "s": "https://cast4.audiostream.com.br:2650/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403155/33f83cd296174ea885963c6136a970ef_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Metrópoles FM",
+      "s": "http://streaming12.hstbr.net:8136/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/420961/74d9aabe0b2f8158daaa64af1bddbd8c_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Viola FM",
+      "s": "https://casthttps1.suaradionanet.net/10866/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428893/4e94eda06acc5f79ac0c11ff351751e8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "https://www.bravecenterhost.com:8012/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428854/a263c98605603eb3d9e16bb353f29072_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RÁDIO LIVE HITS",
+      "s": "https://stream.zeno.fm/petbytb847zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/417606/6768a4ea0f559595f6c0d5f03acef03f_130x130.webp",
+      "g": [
+        "Decades",
+        "Themes",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Mais Brasil News",
+      "s": "http://radio.saopaulo01.com.br:8204/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428915/fa1ecb61b13735f986b7bffda028e0be_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Mirante AM",
+      "s": "https://cdn.jmvstream.com/w/LVW-8732/LVW8732_QzFqLP2V3J/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428947/2a571179f1b81b7e64633e9a5d3c7d1e_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Clube FM",
+      "s": "https://ice.fabricahost.com.br/clubefmbh",
+      "l": "https://images.radiovolna.net/_files/images/stations/420987/188430aa7bfdb442ac0762e3f08006a5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nova Brasil FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SSA.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421108/75616dfd6dd67792ce115d0c741e3cde_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Feliz FM",
+      "s": "https://cloud1.cdnseguro.com:27436/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403174/ztue59de33852cec4775151354_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "BandNews FM",
+      "s": "https://evpp.mm.uol.com.br/band/bandnewsfm_ctb/chunklist_w12960746.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428881/edcee81dc6c8722fbbae24c8b886fe0f_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio 99,5 FM",
+      "s": "https://ssl.zoeweb.net/proxy/serradourada?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428910/0f382883c7f8ed18b174a5da44eb868f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Evangélica FM",
+      "s": "http://directradios.net:8343/stream2",
+      "l": "https://images.radiovolna.net/_files/images/stations/403165/mip559de2e2e9160e020429685_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Paul in Rio",
+      "s": "http://69.175.13.131:8280/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/25785/70812234841859473a8a751cf6f91d94_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Rádio Cultura Foz",
+      "s": "https://audiostreaming1.septecloud.com.br/radio/8000/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428904/41d3003228fb7da40d6fb4bbfd800b15_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Rádio da Universidade",
+      "s": "http://143.54.213.50:8000/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403159/uy8959de266247531774430400_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Rádio Sertaneja",
+      "s": "https://stm5.painelcast.com:7584/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426851/d7fb8cccc7b9cba2f500cd4d8111d181_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "MAIS FM",
+      "s": "https://node-31.zeno.fm/ftukqs0t7hhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426723/3e0b40ee3e90109f4122967bb0bc3fa3_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Sucesso FM",
+      "s": "http://cast61.sitehosting.com.br:8446/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403131/xcb259ddf88bc034a582798843_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DJ vanomix",
+      "s": "https://stream.zeno.fm/0wyqskmw4s8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/419325/7cfd009bebb1ffde7d1300e16820630b_130x130.webp",
+      "g": [
+        "Decades",
+        "Themes",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Onda FM",
+      "s": "http://centova4.transmissaodigital.com:8550/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420897/04b311067dbf5fb7030841b5ca03e276_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Nova Brasil FM",
+      "s": "https://20823.live.streamtheworld.com/NOVABRASIL_REC.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421084/7819bbd255cfd5e6490e66a0d3efe3a6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Câmara",
+      "s": "https://stream3.camara.gov.br/radiocamara1t64/manifest.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/420951/af6745d30088950f328590bbc980efb5_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "FM O Dia",
+      "s": "https://shout25.crossradio.com.br:18124/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403140/ssr459de01a317c57283727940_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fortaleza FM",
+      "s": "http://cast62.sitehosting.com.br:8342/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/403110/e28072115b349d1be7d12bbc40ee992f_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Antena 1",
+      "s": "https://antenaone.crossradio.com.br/stream/2;",
+      "l": "https://kuasark.com/files/stations-logos/antena-1-br.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Villa Mix",
+      "s": "https://r16.ciclano.io:15032/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-villa-mix.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio ParadaHits",
+      "s": "http://178.128.186.113:8000//stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-paradahits.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "https://26643.live.streamtheworld.com:443/MIXFM_SAOPAULOAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/mix-fm-br-26484.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Saudade FM",
+      "s": "https://26643.live.streamtheworld.com:443/SAUDADE_FM.mp3",
+      "l": "https://kuasark.com/files/stations-logos/saudade-fm.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Alpha FM",
+      "s": "https://15123.live.streamtheworld.com:443/RADIO_ALPHAFM_ADP.aac",
+      "l": "https://kuasark.com/files/stations-logos/alpha-fm-br.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jovem Pan",
+      "s": "https://26483.live.streamtheworld.com:443/JP_SP_FMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/jovem-pan.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "1.FM - Love Classics",
+      "s": "http://strm112.1.fm/loveclassics_mobile_mp3",
+      "l": "https://kuasark.com/files/stations-logos/1fm-love-classics.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Metropolitana",
+      "s": "https://f34.fabricahost.com.br/metropolitana985sp?f=1682444543N01GYWR4SGDHFEGF9Y0WPN5NN8W&tid=01GYWQMF5GY19EAA9DGT3H90VA",
+      "l": "https://kuasark.com/files/stations-logos/radio-metropolitana-br-28335.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "89 FM A Rádio Rock",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac",
+      "l": "https://kuasark.com/files/stations-logos/89-fm-a-radio-rock.png",
+      "g": [
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Motel",
+      "s": "https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3",
+      "l": "https://kuasark.com/files/stations-logos/radio-motel-br-93613.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "FM O Dia",
+      "s": "https://streaming.livespanel.com:20000/live",
+      "l": "https://kuasark.com/files/stations-logos/fm-o-dia-br-83562.png",
+      "g": [
+        "Rap",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nativa FM",
+      "s": "https://15113.live.streamtheworld.com:443/NATIVA_SPAAC/HLS/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/nativa-fm-br-103620.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kiss FM",
+      "s": "https://cloud2.cdnseguro.com:20000/stream",
+      "l": "https://kuasark.com/files/stations-logos/kiss-fm-br.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Super Rádio Tupi",
+      "s": "https://8923.brasilstream.com.br/stream",
+      "l": "https://kuasark.com/files/stations-logos/super-radio-tupi-br-85998.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Só FlashBack",
+      "s": "https://servidor40-5.brlogic.com:8122/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-so-flashback.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Scalla Instrumental",
+      "s": "https://hts02.kshost.com.br:9710/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-scalla-instrumental.png",
+      "g": [
+        "New Age",
+        "Classical",
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Rádio JBFM",
+      "s": "https://26373.live.streamtheworld.com:443/JBFMAAC1.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-jbfm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Gold Instrumental",
+      "s": "https://centova.svdns.com.br:19373/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-gold-instrumental.png",
+      "g": [
+        "Easy Listening",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio CBN",
+      "s": "https://26503.live.streamtheworld.com:443/CBN_SP_ADP/HLS/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-cbn-br-113236.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nova Brasil FM",
+      "s": "https://19303.live.streamtheworld.com:443/NOVABRASIL_SPAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/nova-brasil-fm.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bossa Nova Brazil",
+      "s": "https://radio2.vip-radios.fm:18009/stream-128kmp3-BossaNovaBrazil",
+      "l": "https://kuasark.com/files/stations-logos/bossa-nova-brazil.png",
+      "g": [
+        "Latin",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Globo",
+      "s": "https://26253.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-globo-br.png",
+      "g": [
+        "Jazz",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio das Antigas",
+      "s": "http://stream.radiodasantigas.com.br:9992/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-das-antigas.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Energia 97 FM",
+      "s": "https://streaming.inweb.com.br/energia",
+      "l": "https://kuasark.com/files/stations-logos/energia-97-fm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Sertanejo Universitário",
+      "s": "https://player.transmissaodigital.com/proxy/6752;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-sertanejo-universitario-br-105915.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Disney Brasil",
+      "s": "https://26733.live.streamtheworld.com:443/DISNEY_BRA_SP.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-disney-brasil.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Web Flashback",
+      "s": "https://cors.streammaximum.com/https://cc6.streammaximum.com/proxy/radioflashbackfm//stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-web-flashback.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rádio Cidade 102.9 FM",
+      "s": "https://20843.live.streamtheworld.com:443/RADIOCIDADEAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-cidade-1029-fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Transamérica",
+      "s": "https://24073.live.streamtheworld.com:443/RT_SPAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-transamerica.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Raízes do Brasil",
+      "s": "http://srv1.braudio.com.br:7014/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-raizes-do-brasil.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sweet Melodies",
+      "s": "https://radio.sweetmelodies.tk:8000/stream1",
+      "l": "https://kuasark.com/files/stations-logos/sweet-melodies.png",
+      "g": [
+        "Easy Listening",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Rádio Romântica FM",
+      "s": "https://s11.w3bserver.com/radio/8020/romantica64.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-romantica-fm.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Transcontinental FM",
+      "s": "https://f39.fabricahost.com.br/transcontinentalsp48?f=1682445329N01GYWRWSDEXC2D6CV0WD1SEJTB&tid=01GYWQMF5GY19EAA9DGT3H90VA",
+      "l": "https://kuasark.com/files/stations-logos/transcontinental-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Mega Flash Web Rádio",
+      "s": "http://sv10.hdradios.net:16294/;",
+      "l": "https://kuasark.com/files/stations-logos/mega-flash-web-radio.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Roberto Carlos",
+      "s": "https://servidor15-2.brlogic.com:8058/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-roberto-carlos.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Themes",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio 105 FM",
+      "s": "https://appradio.app:8010//live",
+      "l": "https://kuasark.com/files/stations-logos/radio-105-fm-br-64666.png",
+      "g": [
+        "Rap",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Band News",
+      "s": "https://www.band.uol.com.br/radios/bandnews-fm/sao-paulo",
+      "l": "https://kuasark.com/files/stations-logos/band-news.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Jovem Pan News",
+      "s": "https://18693.live.streamtheworld.com:443/JP_NEWSAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/jovem-pan-news.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Band FM",
+      "s": "https://27413.live.streamtheworld.com:443/BANDFM_SPAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-band-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Alvorada FM",
+      "s": "https://26733.live.streamtheworld.com:443/RADIO_ALVORADAAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/alvorada-fm.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Modão Com Wisley Souto",
+      "s": "https://centova5.transmissaodigital.com:20024/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-modao-com-wisley-souto.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Vagalume.FM - O Melhor de Bob Marley",
+      "s": "https://stream.vagalume.fm/hls/1524167056721891/aac.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vagalumefm-o-melhor-de-bob-marley.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Hunter.FM - Hitz",
+      "s": "https://live.hunter.fm/pop_high",
+      "l": "https://kuasark.com/files/stations-logos/hunterfm-hitz.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Melodia FM",
+      "s": "https://26253.live.streamtheworld.com:443/MELODIAFMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-melodia-fm-br-93277.png",
+      "g": [
+        "Easy Listening",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Bossa Jazz Brasil",
+      "s": "https://centova5.transmissaodigital.com:20104/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-bossa-jazz-brasil.png",
+      "g": [
+        "Jazz",
+        "Pop",
+        "Latin",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Reggae Jamaicana",
+      "s": "https://s25.maxcast.com.br:8136/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-reggae-jamaicana.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Rádio Estilo FM",
+      "s": "https://cloud1.cdnseguro.com:20492/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-estilo-fm.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Evangelizar",
+      "s": "https://shout87.crossradio.com.br:18000/stream/1;",
+      "l": "https://kuasark.com/files/stations-logos/radio-evangelizar.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Metropolitana Sertanejo",
+      "s": "https://ice.fabricahost.com.br/metrospsertanejo",
+      "l": "https://kuasark.com/files/stations-logos/radio-metropolitana-sertanejo.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Atlântida FM",
+      "s": "https://1852747t.ha.azioncdn.net/primary/atl_poa.sdp/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-atlantida-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio 80's Best 4",
+      "s": "https://stream-158.zeno.fm/qwyzbw7wgnruv?zs=WUvirBHpR_eqwgi31-yG-w",
+      "l": "https://kuasark.com/files/stations-logos/radio-80s-best-4.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Mania",
+      "s": "https://24383.live.streamtheworld.com:443/MANIAFM_REDEAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-mania-br-75566.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Rádio Bandeirantes AM",
+      "s": "https://www.band.uol.com.br/radio-bandeirantes",
+      "l": "https://kuasark.com/files/stations-logos/radio-bandeirantes-am.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "SulAmérica Paradiso",
+      "s": "https://18693.live.streamtheworld.com:443/SULAMERICAAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/sulamerica-paradiso.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dance Music 90",
+      "s": "http://stm17.xcast.com.br:9404/stream",
+      "l": "https://kuasark.com/files/stations-logos/dance-music-90.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Nova Instrumental",
+      "s": "https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-nova-instrumental.png",
+      "g": [
+        "Classical",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Power Kpop Web Radio",
+      "s": "http://stm11.srvstm.com:12710/;",
+      "l": "https://kuasark.com/files/stations-logos/power-kpop-web-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Capital",
+      "s": "https://f19.fabricahost.com.br/capitalfmsp?f=1682445355N01GYWRXJEFFVSNG28D1AJXR281&tid=01GYWQMF5GY19EAA9DGT3H90VA",
+      "l": "https://kuasark.com/files/stations-logos/radio-capital-br-93753.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Clube FM",
+      "s": "https://8157.brasilstream.com.br/stream",
+      "l": "https://kuasark.com/files/stations-logos/clube-fm-15897.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio Love Cidade",
+      "s": "https://cloud.cdnseguro.com:2320/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-love-cidade.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Retro",
+      "s": "https://s1.reliastream.com/proxy/radioret?mp=/stream//stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-retro-17954.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Feliz FM",
+      "s": "https://cloud1.cdnseguro.com:5520/;",
+      "l": "https://kuasark.com/files/stations-logos/feliz-fm.png",
+      "g": [
+        "Inspirational",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Só Kakarecos Disco",
+      "s": "http://sokakarecos.ddns.net:9000/disco128",
+      "l": "https://kuasark.com/files/stations-logos/radio-so-kakarecos-disco.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Flashbacktotal",
+      "s": "https://ssl.painelshoutcast.com.br:6688/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-flashbacktotal.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Maanaim",
+      "s": "http://radiostream01.radiomaanaim.com.br:1935/liverm/rmaac/chunklist_w1919834617.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-maanaim.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "BH FM",
+      "s": "https://26683.live.streamtheworld.com:443/BHFMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/bh-fm-br-98586.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pop & Rock do Brasil",
+      "s": "http://c4.radioboss.fm:8216/stream",
+      "l": "https://kuasark.com/files/stations-logos/pop-rock-do-brasil.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rock FM Brasil",
+      "s": "https://paineldj6.com.br:20142/stream",
+      "l": "https://kuasark.com/files/stations-logos/rock-fm-brasil.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Gazeta FM",
+      "s": "https://shout25.crossradio.com.br:18002/1;/stream/1;",
+      "l": "https://kuasark.com/files/stations-logos/gazeta-fm-br-80408.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "GFM 90,1",
+      "s": "https://f65.fabricahost.com.br/radiogfm?f=1682444961N01GYWRHHEHEGTV690Z049XWNJ9&tid=01GYWQMF5GY19EAA9DGT3H90VA",
+      "l": "https://kuasark.com/files/stations-logos/gfm-901.png",
+      "g": [
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Túnel do Tempo",
+      "s": "https://player.xcast.com.br/proxy/8104",
+      "l": "https://kuasark.com/files/stations-logos/radio-tunel-do-tempo.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Love Songs",
+      "s": "http://stm2.voxhd.com.br:7236/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-love-songs-br-108353.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Continental",
+      "s": "http://cast4.audiostream.com.br:8650/mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-continental-br.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Gospel Campinas",
+      "s": "http://centova.nardele.com.br:4343/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-gospel-campinas.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vagalume.FM - K-Pop",
+      "s": "https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vagalumefm-k-pop.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Massa FM",
+      "s": "https://stm01.virtualcast.com.br:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-massa-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vagalume.FM - Disney Hits",
+      "s": "https://stream.vagalume.fm/hls/1520610897818233/aac.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vagalumefm-disney-hits.png",
+      "g": [
+        "Soundtracks",
+        "Themes"
+      ]
+    },
+    {
+      "t": "92 FM",
+      "s": "https://aovivord92fm.rbsdirect.com.br/memorystreams/HLS/92fm/92fm.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/92-fm-br-12990.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Planet Rock",
+      "s": "https://s44.maxcast.com.br:8056/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-planet-rock.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Atlântida FM",
+      "s": "https://stmv1.transmissaodigital.com/robson8957/robson8957/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/atlantida-fm-br.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "MPB FM",
+      "s": "https://stream-057.zeno.fm/81xnm788e3quv?zs=QHdaEEiUQMCQ8LFVTf0vxA",
+      "l": "https://kuasark.com/files/stations-logos/mpb-fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Viola Viva Caipira",
+      "s": "https://cc6.streammaximum.com:20058/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-viola-viva-caipira.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Studio Souto - Sertaneja",
+      "s": "https://centova5.transmissaodigital.com:20036/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-studio-souto-sertaneja.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rádio Dance Anos 90",
+      "s": "https://stream-036.zeno.fm/zx9h2b61u8quv?zs=WejYVPiTQ5qfRHleJYQ-dA",
+      "l": "https://kuasark.com/files/stations-logos/radio-dance-anos-90-br-103028.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Deus é Amor",
+      "s": "https://24923.live.streamtheworld.com:443/SP_STUDIOC.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-deus-e-amor.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Reggae Brasil",
+      "s": "https://casthttps.suaradionanet.net/13805/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-reggae-brasil.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Vagalume.FM - Samba e Pagode",
+      "s": "https://stream.vagalume.fm/hls/147015499779090/aac.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vagalumefm-samba-e-pagode.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Gospel FM",
+      "s": "https://www.appradio.app:8161/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-gospel-fm-br-25045.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Top FM",
+      "s": "https://centova.svdns.com.br:20019/stream",
+      "l": "https://kuasark.com/files/stations-logos/top-fm-br-13646.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "GOLD WEB RADIO (224k)",
+      "s": "https://centova.svdns.com.br:19418/stream2",
+      "l": "https://kuasark.com/files/stations-logos/gold-web-radio-224k.png",
+      "g": [
+        "Classical",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Gospel Mix SP",
+      "s": "https://servidor30-2.brlogic.com:8252/live",
+      "l": "https://kuasark.com/files/stations-logos/gospel-mix-sp.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rádio Romântica Love",
+      "s": "https://s11.w3bserver.com/radio/8030/love64.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-romantica-love.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "91 Rock",
+      "s": "https://servidor40.brlogic.com:8044/live",
+      "l": "https://kuasark.com/files/stations-logos/91-rock.png",
+      "g": [
+        "Rock",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio FlashBack FM",
+      "s": "https://stm1.matutos.com.br:8008/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-flashback-fm.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Só MPB",
+      "s": "http://srv1.braudio.com.br:7008/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-so-mpb.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Portal Clube do Rei",
+      "s": "https://s46.maxcast.com.br:8206/live",
+      "l": "https://kuasark.com/files/stations-logos/portal-clube-do-rei.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rádio Mução Forro",
+      "s": "https://f44.fabricahost.com.br/mucaofm?f=1682445950N01GYWSFQQ0TEN3426BP893CXHM&tid=01GYWQMF5GY19EAA9DGT3H90VA",
+      "l": "https://kuasark.com/files/stations-logos/radio-mucao-forro.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Jovem Pan 620 AM",
+      "s": "https://20833.live.streamtheworld.com:443/JP_SP_AMAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/jovem-pan-620-am.png",
+      "g": [
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Metropolitana MPB",
+      "s": "https://ice.fabricahost.com.br/metropolitanampb",
+      "l": "https://kuasark.com/files/stations-logos/radio-metropolitana-mpb.png",
+      "g": [
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "102.3 FM",
+      "s": "https://aovivord102fm.rbsdirect.com.br/streams/hls/ita_poa/ita_poa.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/1023-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vagalume.FM - O Melhor de Pink Floyd",
+      "s": "https://stream.vagalume.fm/hls/1498583990653093/aac.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vagalumefm-o-melhor-de-pink-floyd.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Aparecida",
+      "s": "https://aparecida.jmvstream.com/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-aparecida.png",
+      "g": [
+        "Inspirational",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vagalume.FM - Rap e Hip Hop",
+      "s": "https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vagalumefm-rap-e-hip-hop.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Euro 90's - Dance 90's",
+      "s": "https://stream-156.zeno.fm/g1u270e2ybruv?zs=wSJ2dXS_RVCyed3LXiLWvA",
+      "l": "https://kuasark.com/files/stations-logos/euro-90s-dance-90s.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Guaíba",
+      "s": "https://c1.audiostream.com.br:2007/site",
+      "l": "https://kuasark.com/files/stations-logos/radio-guaiba.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Estrela da Manhã Kids",
+      "s": "https://ssl.painelcast.com:6680/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-estrela-da-manha-kids.png",
+      "g": [
+        "Inspirational",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Cocais FM",
+      "s": "https://webradio.amsolution.com.br/radio/8230/cocais",
+      "l": "https://kuasark.com/files/stations-logos/radio-cocais-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Profecia Expresso Kids",
+      "s": "https://stream-150.zeno.fm/wy0rcktb3d0uv?zs=RCcAbDKqTRKnqKSEFZt3nA",
+      "l": "https://kuasark.com/files/stations-logos/radio-profecia-expresso-kids.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Grenal",
+      "s": "https://grenal.audiostream.com.br:20000/aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-grenal-br-10873.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Eldorado",
+      "s": "https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-eldorado-br-80405.png",
+      "g": [
+        "Jazz",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "66 Brasil FM",
+      "s": "http://centova15.ciclanohost.com.br:4409/stream",
+      "l": "https://kuasark.com/files/stations-logos/66-brasil-fm.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Flash Back Mix",
+      "s": "https://cc2.streammaximum.com:20134/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-flash-back-mix.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mega Rádio Kids",
+      "s": "https://stream-156.zeno.fm/yuu82xwymwzuv?zs=nzbZwljqTRi87a_Uix9xAg",
+      "l": "https://kuasark.com/files/stations-logos/mega-radio-kids.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Dom Bosco",
+      "s": "https://stream-040.zeno.fm/wb1ptm05dkhvv?zs=i1JWp3V7SX2OuJtzN9oAbg",
+      "l": "https://kuasark.com/files/stations-logos/radio-dom-bosco.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Clássicos Sertanejos",
+      "s": "https://servidor24-3.brlogic.com:7220/live",
+      "l": "https://kuasark.com/files/stations-logos/classicos-sertanejos.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Só Forró",
+      "s": "https://stm7.painelvox.com:8512/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-so-forro.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Jangadeiro FM",
+      "s": "https://fmfortaleza.jmvstream.com/FMFortaleza",
+      "l": "https://kuasark.com/files/stations-logos/jangadeiro-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Studio Souto - Love Songs",
+      "s": "https://centova5.transmissaodigital.com:20022/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-studio-souto-love-songs.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sertaneja Pop",
+      "s": "https://srv2.andradedeveloper.net/listen/sertanejapop/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/sertaneja-pop.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Mais Forró",
+      "s": "http://142.54.168.242:8627/stream?1681360223681",
+      "l": "https://kuasark.com/files/stations-logos/radio-mais-forro.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Vagalume.FM - Funk",
+      "s": "https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vagalumefm-funk.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Rádio Mini Kids",
+      "s": "https://stream-150.zeno.fm/shgv9qu39f0uv?zs=uCJWLE82Qw2GjH_4kC5uYw",
+      "l": "https://kuasark.com/files/stations-logos/radio-mini-kids.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Studio Souto - Sertanejo Universitário",
+      "s": "https://centova5.transmissaodigital.com:20042/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-studio-souto-sertanejo-universitario.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio 93 FM",
+      "s": "https://18163.live.streamtheworld.com:443/FM93AAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-93-fm-br-93737.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Diário",
+      "s": "https://rrdns-megasistema.webnow.com.br/diario.aac?v=2324",
+      "l": "https://kuasark.com/files/stations-logos/radio-diario-br-80788.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Espírita Sementinha de Luz",
+      "s": "https://stream-151.zeno.fm/5zafh0egfg8uv?zs=e9XMQceUS_aXVj5HKmog8w",
+      "l": "https://kuasark.com/files/stations-logos/radio-espirita-sementinha-de-luz.png",
+      "g": [
+        "Inspirational",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rede Brasil de Comunicação",
+      "s": "https://directradios.net/proxy/rbc2?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/rede-brasil-de-comunicacao.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Live Mix",
+      "s": "https://streaming.inweb.com.br/livemix",
+      "l": "https://kuasark.com/files/stations-logos/live-mix.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Animu FM",
+      "s": "https://cast.animu.com.br:9079/stream",
+      "l": "https://kuasark.com/files/stations-logos/animu-fm.png",
+      "g": [
+        "Themes",
+        "Pop",
+        "Soundtracks",
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio do Tio Pipa",
+      "s": "https://stream-061.zeno.fm/zbekt3atehruv?zs=MPtY6D7vSlmew1ouKzXtqw",
+      "l": "https://kuasark.com/files/stations-logos/radio-do-tio-pipa.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Raiz Sertaneja",
+      "s": "https://free.rcast.net/66450",
+      "l": "https://kuasark.com/files/stations-logos/radio-raiz-sertaneja.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Aquele Rock",
+      "s": "https://radio.aquelerock.com/radio/8000/radiobox.mp3",
+      "l": "https://kuasark.com/files/stations-logos/aquele-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Studio Souto - Hip Hop",
+      "s": "https://centova5.transmissaodigital.com:20019/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-studio-souto-hip-hop.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Rádio Metropolitana POP",
+      "s": "https://ice.fabricahost.com.br/metrosppop",
+      "l": "https://kuasark.com/files/stations-logos/radio-metropolitana-pop.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio 80 FM",
+      "s": "https://centova.euroti.com.br:20001/1/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-80-fm-br-106327.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Novas De Paz FM",
+      "s": "https://radio.saopaulo01.com.br/8304/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-novas-de-paz-fm-br-112232.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Ouro Verde",
+      "s": "https://servidor18.brlogic.com:7484/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-ouro-verde.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Geração Kids",
+      "s": "https://servidor.geracaoradios.com/listen/kids/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-geracao-kids.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Estação Reggae",
+      "s": "https://s16.maxcast.com.br:8028/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-estacao-reggae.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Rádio Viola de Ouro",
+      "s": "https://hts02.kshost.com.br:9322/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-viola-de-ouro.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Vagalume.FM - Deep House Mix",
+      "s": "https://stream.vagalume.fm/hls/1470426692759789/aac.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vagalumefm-deep-house-mix.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Bahia FM",
+      "s": "https://f53.fabricahost.com.br/radiobahiafm?f=1682444008N01GYWQMF5GJPREGH764PYC59WD&tid=01GYWQMF5GY19EAA9DGT3H90VA",
+      "l": "https://kuasark.com/files/stations-logos/bahia-fm-br.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Web Rádio Michael Jackson",
+      "s": "https://hts02.kshost.com.br:8062/live",
+      "l": "https://kuasark.com/files/stations-logos/web-radio-michael-jackson.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Instrumental Santos",
+      "s": "https://stm9.conectastreaming.com:6750/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-instrumental-santos.png",
+      "g": [
+        "Easy Listening",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Hunter.FM - Sertanejo",
+      "s": "https://hls.hunter.fm/sertanejo/192.m3u8?shtl=B0sbOBOgnImf8fSgQcQ2quFH.5amnWJ5rysBo3jVPc%2FwW9L2kOXdH2E%2BBYCQgtt%2BRL0s",
+      "l": "https://kuasark.com/files/stations-logos/hunterfm-sertanejo.png",
+      "g": [
+        "Country",
+        "Other"
+      ]
+    },
+    {
+      "t": "Dj Eduardo",
+      "s": "https://stream-150.zeno.fm/kcc7svztwd0uv?zs=jnyZDDvmQ76fQX6X95nFyA",
+      "l": "https://kuasark.com/files/stations-logos/dj-eduardo.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Studio Souto - Rap Nacional",
+      "s": "https://centova5.transmissaodigital.com:20031/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-studio-souto-rap-nacional.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Rádio Exclusivo Sertanejo",
+      "s": "https://player.stms.live/proxy/8408",
+      "l": "https://kuasark.com/files/stations-logos/radio-exclusivo-sertanejo.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vagalume.FM - Sertanejo",
+      "s": "https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vagalumefm-sertanejo.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Anos Dourados FM",
+      "s": "http://stm1.xcast.com.br:7882/stream",
+      "l": "https://kuasark.com/files/stations-logos/anos-dourados-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Dj Eduardo 2",
+      "s": "https://stream-151.zeno.fm/dc941rwuxd0uv?zs=y2RHSCEGRaKec004dtU9yw",
+      "l": "https://kuasark.com/files/stations-logos/dj-eduardo-2.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Vagalume.FM - Hits Anos 80",
+      "s": "https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vagalumefm-hits-anos-80.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Cidade 99.1 FM",
+      "s": "https://r10.ciclano.io:15057/stream",
+      "l": "https://kuasark.com/files/stations-logos/cidade-991-fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Estúdio 80",
+      "s": "https://azura.servercast.com.br/radio/8040/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-estudio-80.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Geração Funk",
+      "s": "https://servidor.geracaoradios.com/radio/8040/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-geracao-funk.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Sertanejo FM",
+      "s": "https://stream-057.zeno.fm/qcwuy1y3tm0uv?zs=EQ8JooXcSKSsfQ4V2X_cAQ",
+      "l": "https://kuasark.com/files/stations-logos/sertanejo-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Forró Tradicional",
+      "s": "https://forrotradicional.com.br/radio/8000/aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-forro-tradicional.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Axé Bahia",
+      "s": "http://euroticast5.euroti.com.br:8070/;?1493114288462.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-axe-bahia.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Itapoan FM",
+      "s": "https://player.radiu.live/proxy/9300",
+      "l": "https://kuasark.com/files/stations-logos/radio-itapoan-fm-br-106455.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Retro FM - Simplesmente Saudade",
+      "s": "https://paineldj5.com.br:20109/stream",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-simplesmente-saudade.png",
+      "g": [
+        "Classical",
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "GOLD WEB RADIO",
+      "s": "https://centova.svdns.com.br:19418/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/gold-web-radio.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "StudioBalaClubedaCriança03.fm",
+      "s": "https://stream-150.zeno.fm/duuvgvwc8f0uv?zs=ShbykCwNS_2XxjDB1d2Tfw",
+      "l": "https://kuasark.com/files/stations-logos/studiobalaclubedacrianca03fm.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Cultura Brasil",
+      "s": "https://radiocultura2.jmvstream.com/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-cultura-brasil.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Rádio Cidade Classic Rock",
+      "s": "https://24483.live.streamtheworld.com:443/CLASSICROCK_S01AAC_64.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-cidade-classic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Studio Souto - Saudade 80s",
+      "s": "https://centova5.transmissaodigital.com:20035/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-studio-souto-saudade-80s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rádio Metropolitana LIGHT",
+      "s": "https://ice.fabricahost.com.br/metropolitanasplight",
+      "l": "https://kuasark.com/files/stations-logos/radio-metropolitana-light.png",
+      "g": [
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Classic Pan",
+      "s": "https://sc1s.cdn.upx.com:8032/stream",
+      "l": "https://kuasark.com/files/stations-logos/classic-pan.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Liberdade",
+      "s": "http://cast4.audiostream.com.br:8655/mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-liberdade-br-12983.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Funk Brasil",
+      "s": "https://player.painelcast.com/proxy/6908/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-funk-brasil.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Rádio Geração Samba, Pagode",
+      "s": "https://servidor.geracaoradios.com/radio/8010/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-geracao-samba-pagode.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Music FM",
+      "s": "http://cast4.audiostream.com.br:8006/live",
+      "l": "https://kuasark.com/files/stations-logos/music-fm-br.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

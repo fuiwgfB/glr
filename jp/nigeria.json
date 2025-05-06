@@ -1,0 +1,2414 @@
+{
+  "stations": [
+    {
+      "t": "FRCN Bond FM",
+      "s": "https://www.go.webgateready.com/bondfm/bondstream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422097/776abcfe45fc68177ffc138c9f1ec53e_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "SMA FM",
+      "s": "http://192.99.170.8:5034/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422101/a33a51a03a3df7d83fccbd36319cecc6_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nishadi radio FM bauchi",
+      "s": "https://stream.zeno.fm/cm3s6305kg8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426398/729e6f7b66fdb4a70808bae2f4d20ac9_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "FRCN Radio One",
+      "s": "https://www.go.webgateready.com/radioonefm/radioonestream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422100/27388545d95ae9cac070efcf00c69b80_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Max FM",
+      "s": "https://audiostreamer.gridpapaservers.com:2000/stream/MAXABUJA",
+      "l": "https://images.radiovolna.net/_files/images/stations/422104/08c02fb33fd0ea3fd2b8d66be5c72784_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Darling FM",
+      "s": "http://46.28.49.164:7567/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/422128/9c4f808b21aded13f9349cb61467fb0b_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "FLO FM",
+      "s": "https://stream.zeno.fm/gbxh4dbskeruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422129/75f788e7296b229f44c56fe1cd5c8ff2_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "AudioHouse Radio",
+      "s": "https://stream.zeno.fm/rx7u42dsfzzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422662/9c31150555526efdaa17e407aec445df_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "32 FM",
+      "s": "https://edge.mixlr.com/channel/zbfuy",
+      "l": "https://images.radiovolna.net/_files/images/stations/422117/2649e29de4cd392800ded8d439bda075_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Human Rights Radio",
+      "s": "http://human-rights-radio-atunwadigital.streamguys1.com/human-rights-radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/422111/7b43895eecf836ae3af489b61ea35326_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Impact Business Radio",
+      "s": "https://radio.fmmaria.com:8030/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422150/fa66494d4486862f13ee3c47c937584c_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bride Radio",
+      "s": "http://192.99.17.12:5825/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422130/606ef29d9bfaadd44a05fa17389bc8b8_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Lagos Talks",
+      "s": "http://lagostalks.atunwadigital.streamguys1.com/lagostalks",
+      "l": "https://images.radiovolna.net/_files/images/stations/422095/1c9bb623dc7e9874619d5799771a6572_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Inlomax Radio",
+      "s": "https://stream.zeno.fm/sgpkuz6qq0hvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427690/73d849a5d0642bc176cff94e725a8413_130x130.webp",
+      "g": [
+        "International",
+        "Talk",
+        "News",
+        "Rap"
+      ]
+    },
+    {
+      "t": "DJ MoreMusic Radio",
+      "s": "https://node-10.zeno.fm/w7nfbyupqg8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426634/ad6602900c545065fdd967a93f45b5a6_130x130.webp",
+      "g": [
+        "International",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "HOD RADIO",
+      "s": "https://servidor21.brlogic.com:7766/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/430459/a5872b06a7487993d53275a01341f908_130x130.webp",
+      "g": [
+        "Inspirational",
+        "R&B and Urban",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Liberty Radio",
+      "s": "https://node-33.zeno.fm/ebt2pkyfxuquv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422112/156f65a74c621e6c8cd88b37e4aa19c6_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sports Radio Brila FM",
+      "s": "https://ice31.securenetsystems.net/BRILAMP3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422094/4e90b43c5c4e9438b2271f8ea19451c0_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Wellsradio",
+      "s": "https://streams.radio.co/sbf0607300/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422161/6cd35e8ae3cb58077441281acd6598ac_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Lagos Traffic Radio",
+      "s": "http://trafficradio.servotechstream.com:8550/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422098/fc46899fdc74f7cac30d9b0d58279cce_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nigeria Info",
+      "s": "https://stream.coolwazobiainfo.com/niginf_abuja",
+      "l": "https://images.radiovolna.net/_files/images/stations/30106/e3d4bea70e49e00aa071871284f114df_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nigeria Info",
+      "s": "http://icestream.coolwazobiainfo.com:8000/niginfo-ph",
+      "l": "https://images.radiovolna.net/_files/images/stations/30579/7637b0b208057b4342060ade9f7045c0_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "AFROPOP SWEETS",
+      "s": "https://stream.zeno.fm/ir6zahik8msuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429852/f8a49df8300fcd6541056118dce69c64_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Naija FM",
+      "s": "http://naijafmlagos.atunwadigital.streamguys1.com/naijafmlagos",
+      "l": "https://images.radiovolna.net/_files/images/stations/29929/628a9398cdcebf73d541d02abaf06f0c_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Afrobeat N1 FM",
+      "s": "https://streamer.radio.co/s919e54210/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/430260/95b9744e6af14d0fa8397050840c62b8_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Pinnacle Health Radio",
+      "s": "http://perseus.shoutca.st:9555/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422168/f8056aa6266478dce285c7ac1e2cb4eb_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vision FM",
+      "s": "https://node-03.zeno.fm/dh2ta5a8seruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422106/a2de551ea79a72f130fa3f932fa7d24d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Lagelu FM",
+      "s": "https://ice64.securenetsystems.net/LAGELU",
+      "l": "https://images.radiovolna.net/_files/images/stations/422116/a9abdf959f9fd761724802994e68b3f0_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Royal FM",
+      "s": "http://197.210.168.147:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422152/813320c80162a9552cc943acd7a0c925_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "City FM",
+      "s": "https://edge.mixlr.com/channel/hqpry",
+      "l": "https://images.radiovolna.net/_files/images/stations/422102/f99485d1d5e1e25756c7b5d69538c6fe_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Naija FM",
+      "s": "https://naijafmph-atunwadigital.streamguys1.com/naijafmph",
+      "l": "https://images.radiovolna.net/_files/images/stations/429317/5bd3e709f9c35352273a1bced26f1801_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Magic FM",
+      "s": "https://radio.ifastekpanel.com:1565/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422120/448d281a136bafb1954afe1784ca76d0_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Agidigbo FM",
+      "s": "https://agidigbostream.com.ng/radio/8000/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429308/46843532d18feee917829ed08cd639eb_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Cfaith Radio",
+      "s": "http://212.83.149.66:8959/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/27537/56228180a5b81da6a9ab813e27bcec46_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "The Beat",
+      "s": "http://beatfmlagos.atunwadigital.streamguys1.com/beatfmlagos",
+      "l": "https://images.radiovolna.net/_files/images/stations/405288/r84c5a4270e875b2f461414718_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Wisdom Gate Internet Radio",
+      "s": "http://s2.voscast.com:8322/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/30108/053517abafb13d7ddc16af4545d1d3b5_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Premier FM",
+      "s": "http://boxradio.link:5302/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422135/1136a018178f0e83b120e02cfc7ee92c_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Pidgin Radio",
+      "s": "http://s2.voscast.com:10228/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422165/da41a5a92caf02a8b8aac64c9db89240_130x130.webp",
+      "g": [
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "Freedom Radio",
+      "s": "https://stream.zeno.fm/9zdvuszaanzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422115/6786ad3a55cb29eed0ff73869022c7f3_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dala FM",
+      "s": "https://stream.zeno.fm/9zdvuszaanzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429312/4e55f94d670099d462297bfa301811af_130x130.webp",
+      "g": [
+        "Talk",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Partytrain Radio",
+      "s": "https://stream.zenolive.com/uqdz1vqh8v5tv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422160/fb6976bb2e2bfa8b06f65aa8834bac70_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Garkuwa FM",
+      "s": "http://pollux.shoutca.st:8270/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422121/f2e3138d903c3c23b04b1d6d8d17a505_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Nigeria Info",
+      "s": "http://stream.coolwazobiainfo.com/niginf_lag",
+      "l": "https://images.radiovolna.net/_files/images/stations/30105/d4bf78d83528591f4aab1f69d699059f_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Prince FM Radio",
+      "s": "http://167.99.32.26:8104/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422133/b4375ec152bd251de660c832bf0148dd_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Praiseworld Radio",
+      "s": "https://streaming.radio.co/s7dc18f0ad/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422140/4f3f7a5ad7143212a8619c1f5dd4466f_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Love 104.5",
+      "s": "https://s30.myradiostream.com/23140/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429307/9852ae467a48515ac412138d1069839a_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Space FM",
+      "s": "https://stream.zeno.fm/ekswoiqqjznvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422139/553231098baa965474be526a86cc51f8_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Splash FM",
+      "s": "http://s3.voscast.com:10026/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422119/bb8f9b14cd990580e046d214cc51c714_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "AmenRadio",
+      "s": "http://37.187.79.153:5942/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422131/95417497b6933b3d16168c3a975aff1b_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "JMPBliss Radio",
+      "s": "https://stream.zeno.fm/qqw25ecgka0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427092/4d9f5b1e986180efb4b78089791c978a_130x130.webp",
+      "g": [
+        "International",
+        "Decades",
+        "R&B and Urban",
+        "Pop",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Amplified Radio",
+      "s": "https://streamer.radio.co/sb5a3edee5/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422153/5679981780cd821b46194f31eed8bcd0_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Planet FM",
+      "s": "http://s1.voscast.com:9914/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422137/f1268c16b45a0c1868b66b2236b4934b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Life Radio",
+      "s": "https://stream.zeno.fm/b50fktyd468uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429311/67f402d2529f59c23c77ab2384915a00_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hallmark Radio",
+      "s": "http://51.255.235.165/proxy/hallmarkradio?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422126/13e7b8356f0150ad29ef02cde7360586_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ofure Radio",
+      "s": "http://178.32.107.151:5132/Ofure-RadioAutoDJ/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422142/c1c07cbdb40647f880a1d2205877348e_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Classic FM",
+      "s": "http://classicfmabuja.atunwadigital.streamguys1.com/classicfmabuja",
+      "l": "https://images.radiovolna.net/_files/images/stations/422109/8b02e7bec837f7b68c81e85b4e6315cd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Wazobia FM",
+      "s": "http://stream.zeno.fm/kerzz1ennfeuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/25668/b4b98e3008c76aebc25e6e314d00600c_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Ajísebí Òyó RADIO",
+      "s": "https://zeno.fm/ajisebi-oyo-radio/",
+      "l": "https://images.radiovolna.net/_files/images/stations/425505/ac21782b94cad09b3a3f62fb3f89ee4a_130x130.webp",
+      "g": [
+        "International",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Honesty Radio Ng",
+      "s": "http://178.32.146.187:5160/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422148/af3140f2b50628d15e522ca54bdec0e4_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RCCG Radio",
+      "s": "http://s8.voscast.com:9516/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422151/0d704ec3c38aded4c2bfceb40a5b9700_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Muallim Radio",
+      "s": "https://stream.zenolive.com/vfb2943ffkeuv.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422158/83c70fc2c463560141da6e205dfc2900_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Sapientia",
+      "s": "http://78.129.159.25:8163/stream1/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422118/d565b2eaa344daba7e51a30cac55b6d9_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Mirabel Radio",
+      "s": "https://stream.radio.co/sa46971966/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422132/e8c5c0f8733603324f5550fec3b70947_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Rockcity FM",
+      "s": "http://108.178.13.122:8193/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422136/d7e482bdd7c3f3d51852952715e91f11_130x130.webp",
+      "g": [
+        "Talk",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Lagos Jump Radio",
+      "s": "https://radio.lagosjumpradio.com/listen/lagosjump_radio/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422145/8d584cfb30aaaaf70c0a750b71a0d7dc_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Max FM",
+      "s": "https://audiostreamer.gridpapaservers.com:2000/stream/MAXLAGOS",
+      "l": "https://images.radiovolna.net/_files/images/stations/30107/n2zl5a42461d2a50b012147097_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "ACM Radio (African Christian Music Radio)",
+      "s": "https://stream.zeno.fm/fv4175ra0xhvv.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/427170/547604e6594b6c4ed7b3175a3beb6a1e_130x130.webp",
+      "g": [
+        "International",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Domi Media Radio",
+      "s": "http://radio.shoutcastmedia.net:8302/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422167/8d4ce15ff63d638da873180b3b0c9e2d_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Top Radio",
+      "s": "http://topradio.servotechstream.com:8550/;live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405284/dp4m5a426f5bcb58c703338943_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Don Bosco Radio",
+      "s": "https://streamer.radio.co/sedebce8e9/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422156/871e200c6cf3fe5c0e18cbd48b59ee81_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Great Ife NG",
+      "s": "http://46.28.49.164:7549/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/422155/372e8487339f76419bdbb5881d9a1be8_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "ASKiNG Radio SPEED FM",
+      "s": "https://streaming.radio.co/s580945dfc/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422154/27446afecf569ac11fe3385a8a5ab916_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Beat FM",
+      "s": "http://beatfmabuja.atunwadigital.streamguys1.com/beatfmabuja",
+      "l": "https://images.radiovolna.net/_files/images/stations/422110/195fac7ccbf6567026bbc580e948bc44_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Aminci Radio",
+      "s": "https://stream.zeno.fm/m1h9nn4bt7zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429316/eef770eb8fe74134ec3bdf0c1869ebd3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "WFM",
+      "s": "http://91.121.65.37:11618/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422096/dd028e06ec8c4e8c4489e34c997835ac_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Bloom Radio",
+      "s": "http://64.71.79.181:4235/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/417453/cf2e5c8c42c8a4ba4445469128_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Noble FM",
+      "s": "https://stream.zeno.fm/ysuxkw05e4duv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429310/c3878e4650b5ee758ee2f326c847060d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "234Radio",
+      "s": "https://streaming.radio.co/s7f3695a64/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422164/830fac67d24703d77d430c02d313bea6_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "OneRace Radio",
+      "s": "http://37.59.28.208:8206/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422159/22e157677da666d60832f6d0f520cb14_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Spice Of Africa Radio",
+      "s": "http://46.28.49.164:7096/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422157/ac5ffdcd9a035d47745530387ebd6e0b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Inform Me Radio",
+      "s": "https://stream.zeno.fm/ta1fke6sz1zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426711/36f292cc122fb4dea740da47c697fbdb_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Rivers 2FM",
+      "s": "https://stream13.shoutcastsolutions.com/proxy/radiorivers?mp=/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429318/7fcb0042f366f0c72efe7207d8fa48de_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Randa",
+      "s": "https://stream.zeno.fm/31coat5ukwhuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428412/b3e9a84f0ae2bcc5b5e7c6d8ed16001a_130x130.webp",
+      "g": [
+        "Talk",
+        "News",
+        "New Age"
+      ]
+    },
+    {
+      "t": "RHOGIC Radio",
+      "s": "https://rhogic.radioca.st/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422125/ef5a57e23b4e939b0d13b693718cf63e_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Aso Radio",
+      "s": "https://node-23.zeno.fm/qdeg1ha4a1duv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422108/1638ec785805fda5f187547735b325b2_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Adaba FM",
+      "s": "http://149.56.234.138:8051/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422123/fe4d6caac121ed92c84783f46fe4c8e2_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "FRCN Kapital",
+      "s": "https://radionghq.radioca.st/stream'",
+      "l": "https://images.radiovolna.net/_files/images/stations/422107/cb7696f06aa5057ce5f67b5c123db634_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "RFI Hausa",
+      "s": "http://live02.rfi.fr/rfihaoussa-96k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401136/rmqs5981791c83336149169830_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Amuludun FM",
+      "s": "http://boxradio.link:5312/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422144/fd3e535336ed62c46978824e7c3fb482_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Golden FM 365",
+      "s": "https://s2.radio.co/se100828ec/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/422138/79bb302abc69da9e4729e44638b85fe0_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Jordan 105.5",
+      "s": "https://pegasus.nucast.co.uk:8016/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429306/a3e0c3278e67751573b1f6331794e2d0_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "FRCN Metro FM",
+      "s": "https://go.webgateready.com/metrofm/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405287/pm1k5a42709226273297546757_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Soundcity Radio",
+      "s": "http://41.67.140.94:44002/livestream",
+      "l": "https://images.radiovolna.net/_files/images/stations/31663/988bdcc9c06fb75fc7c8093c2e69b156_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fresh 105.9 FM",
+      "s": "https://stream-157.zeno.fm/e9x2n97b9uduv?zs=u3bedIwUTfqvEMUZtUmNBA",
+      "l": "https://kuasark.com/files/stations-logos/fresh-1059-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Wazobia FM",
+      "s": "https://stream.coolwazobiainfo.com/wazo-lagos",
+      "l": "https://kuasark.com/files/stations-logos/wazobia-fm.png",
+      "g": [
+        "Rap",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cool FM",
+      "s": "https://stream.coolwazobiainfo.com/cool-lagos",
+      "l": "https://kuasark.com/files/stations-logos/cool-fm-ng.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "International",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "MAX 102.3 FM",
+      "s": "https://audiohq.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXLAGOS&mounturl=",
+      "l": "https://kuasark.com/files/stations-logos/max-1023-fm.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Nigeria Info",
+      "s": "https://stream.coolwazobiainfo.com/niginf_lag",
+      "l": "https://kuasark.com/files/stations-logos/nigeria-info.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Champion's Circle Kids Radio",
+      "s": "https://stream-152.zeno.fm/58v6w8r7gg8uv?zs=iA5juvuKQPyFjH5ArUXKBg",
+      "l": "https://kuasark.com/files/stations-logos/champions-circle-kids-radio.png",
+      "g": [
+        "Inspirational",
+        "Themes",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Champion's Circle Radio",
+      "s": "https://stream-148.zeno.fm/tx4fu0qn11zuv?zs=Iw08I1ZBTIGYAe1slmHJYA",
+      "l": "https://kuasark.com/files/stations-logos/champions-circle-radio.png",
+      "g": [
+        "Classical",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Gospotainment Radio",
+      "s": "https://radio.gotright.net/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/gospotainment-radio.png",
+      "g": [
+        "Inspirational",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Raypower Abuja",
+      "s": "https://streamlive2.hearthis.at:8000/9065169.ogg",
+      "l": "https://kuasark.com/files/stations-logos/raypower-abuja.png",
+      "g": [
+        "Classical",
+        "Rap",
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Splash FM Ibadan",
+      "s": "https://edge.mixlr.com/channel/cfeki",
+      "l": "https://kuasark.com/files/stations-logos/splash-fm-ibadan.png",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Beat 99.9 FM",
+      "s": "https://atunwapodcasts.com/player/beatfmlagos.html",
+      "l": "https://kuasark.com/files/stations-logos/the-beat-999-fm.png",
+      "g": [
+        "Electronic",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Champion's Circle Bible Radio",
+      "s": "https://stream-150.zeno.fm/ue7fk8s7gg8uv?zs=HsXnFePNRKypvMK2GaxcGQ",
+      "l": "https://kuasark.com/files/stations-logos/champions-circle-bible-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Adaba FM",
+      "s": "http://149.56.234.138:8008/live",
+      "l": "https://kuasark.com/files/stations-logos/adaba-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Pidgin Radio",
+      "s": "https://free.rcast.net/66702",
+      "l": "https://kuasark.com/files/stations-logos/pidgin-radio.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Smooth FM",
+      "s": "http://smoothlive.smooth981.fm:8000/smoothlivefm128",
+      "l": "https://kuasark.com/files/stations-logos/smooth-fm-ng.png",
+      "g": [
+        "Jazz",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Lagos Talks 91.3",
+      "s": "https://atunwapodcasts.com/player/lagostalks.html",
+      "l": "https://kuasark.com/files/stations-logos/lagos-talks-913.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NAIJA FM",
+      "s": "https://atunwapodcasts.com/player/naijafmlagos.html",
+      "l": "https://kuasark.com/files/stations-logos/naija-fm.png",
+      "g": [
+        "Rap",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Liveway Radio",
+      "s": "https://ice7.securenetsystems.net/LIVEWAY",
+      "l": "https://kuasark.com/files/stations-logos/liveway-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Freedom Radio",
+      "s": "https://stream-040.zeno.fm/t8bhnmek8mzuv?zs=mpAQnG0XSsCYplvwO4885w",
+      "l": "https://kuasark.com/files/stations-logos/freedom-radio-ng.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Naija Hits FM",
+      "s": "https://stream-037.zeno.fm/thbqnu2wvmzuv?zs=exFkpDgeTzexdXbA02fHjQ",
+      "l": "https://kuasark.com/files/stations-logos/naija-hits-fm.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "Inspirational",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Solutions FM",
+      "s": "http://95.211.178.215:8016/stream",
+      "l": "https://kuasark.com/files/stations-logos/solutions-fm.png",
+      "g": [
+        "Themes",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Lagelu FM 96.7",
+      "s": "https://edge.mixlr.com/channel/wupzh",
+      "l": "https://kuasark.com/files/stations-logos/lagelu-fm-967.png",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Browd Networks",
+      "s": "https://stream-150.zeno.fm/7esunmea7f8uv?zs=4hbIwUV4R4eVYpRqbN1Hcg",
+      "l": "https://kuasark.com/files/stations-logos/browd-networks.png",
+      "g": [
+        "Inspirational",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Magic FM",
+      "s": "https://stream.galaxywebsolutions.com/proxy/magic1029fm?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/magic-fm-ng.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rhythm 93.7 FM Jos",
+      "s": "https://s30.myradiostream.com/:29594/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rhythm-937-fm-jos.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Christovibes",
+      "s": "http://c8.radioboss.fm:8037/stream",
+      "l": "https://kuasark.com/files/stations-logos/christovibes.png",
+      "g": [
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fresh 107.9 FM",
+      "s": "https://stream-143.zeno.fm/7gs2681gqeruv?zs=2WzhCn4tRKuDdBxPQhjvYg",
+      "l": "https://kuasark.com/files/stations-logos/fresh-1079-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Muallim Radio",
+      "s": "https://stream-156.zeno.fm/vv5mc53ffkeuv?zs=NfVrVYSvRnSeI0JXzuq_UQ",
+      "l": "https://kuasark.com/files/stations-logos/muallim-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Space FM",
+      "s": "https://stream-061.zeno.fm/79hmhafteg0uv?zs=fDE1JN40RQSxIaBDrjs88A",
+      "l": "https://kuasark.com/files/stations-logos/space-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Gospel Fm Awka",
+      "s": "https://stream-047.zeno.fm/1b08xqds44zuv?zs=wiqPXG89RUi1nfx0zvi7nA",
+      "l": "https://kuasark.com/files/stations-logos/gospel-fm-awka.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Cfaith Radio Network",
+      "s": "https://cfaith.radioca.st/stream/",
+      "l": "https://kuasark.com/files/stations-logos/cfaith-radio-network.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Vision FM",
+      "s": "https://stream-061.zeno.fm/92mxpb1akhruv?zs=9D1TKR-mTAuWMDHvKPaeLw",
+      "l": "https://kuasark.com/files/stations-logos/vision-fm-ng.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "AmenRadio",
+      "s": "https://eu3.fastcast4u.com/proxy/amenradi?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/amenradio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dala FM",
+      "s": "https://stream-160.zeno.fm/9zdvuszaanzuv?zs=jnKZ7g-PT2SYVvdNgd7--A",
+      "l": "https://kuasark.com/files/stations-logos/dala-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Non Stop Music Channel",
+      "s": "https://stream.radio.co/s79798a252/listen",
+      "l": "https://kuasark.com/files/stations-logos/non-stop-music-channel.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Fresh 106.9 FM",
+      "s": "https://stream-057.zeno.fm/4qmtcx9an0quv?zs=hl-WjHlqT9yWjnUsSqrPew",
+      "l": "https://kuasark.com/files/stations-logos/fresh-1069-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "CLASSIC FM",
+      "s": "https://atunwapodcasts.com/player/classicfmabuja.html",
+      "l": "https://kuasark.com/files/stations-logos/classic-fm-79887.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "OSBC 104.5FM",
+      "s": "https://stream-037.zeno.fm/n6ayvhpwpfhvv?zs=gwxdoYXTTWWZ2fJ-yHaxGA",
+      "l": "https://kuasark.com/files/stations-logos/osbc-1045fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Liberty Radio",
+      "s": "https://stream-020.zeno.fm/sh70ask7da5tv?zs=n1QQA454TCG9jVTePRBdvg",
+      "l": "https://kuasark.com/files/stations-logos/liberty-radio-ng.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rhythm FM Abuja",
+      "s": "https://stream-150.zeno.fm/rgy9z1a5138uv?zs=pTAGa7KzQAWLWHVVYieg_A",
+      "l": "https://kuasark.com/files/stations-logos/rhythm-fm-abuja.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Noble FM Ibadan",
+      "s": "https://stream-047.zeno.fm/ysuxkw05e4duv?zs=_GiGMwQoTUO5-ZODsorLzw",
+      "l": "https://kuasark.com/files/stations-logos/noble-fm-ibadan.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kapital FM",
+      "s": "https://radionghq.radioca.st/;stream.mp3?_=1",
+      "l": "https://kuasark.com/files/stations-logos/kapital-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Triumphant Radio",
+      "s": "http://janus.shoutca.st:8887/;",
+      "l": "https://kuasark.com/files/stations-logos/triumphant-radio.png",
+      "g": [
+        "R&B and Urban",
+        "Inspirational",
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Lagoon Radio",
+      "s": "https://streams.radio.co/s704a86cbe/listen?hash=1571325825949.mp3",
+      "l": "https://kuasark.com/files/stations-logos/lagoon-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Jay 101.9 Fm",
+      "s": "http://live2.rcast.net:8970/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/jay-1019-fm.png",
+      "g": [
+        "Themes",
+        "Electronic",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "ABS Awka",
+      "s": "https://18163.live.streamtheworld.com:443/SP_R4531706_SC",
+      "l": "https://kuasark.com/files/stations-logos/abs-awka.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "۩ Alsiyada | Hausa ۩",
+      "s": "http://tijaniyyah.asuscomm.com:8000/stream/9/",
+      "l": "https://kuasark.com/files/stations-logos/-alsiyada-hausa-.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Kabiesi Radio",
+      "s": "https://stream-155.zeno.fm/2z28rbvndkeuv?zs=wlKBGqJDTSasyF8npy1qkA",
+      "l": "https://kuasark.com/files/stations-logos/kabiesi-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Benue Makurdi",
+      "s": "https://edge.mixlr.com/channel/hpyne",
+      "l": "https://kuasark.com/files/stations-logos/radio-benue-makurdi.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "UNIMED Radio",
+      "s": "https://unimedradio.radioca.st/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/unimed-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Sleekfm",
+      "s": "http://198.178.123.17:7654/stream/1/;",
+      "l": "https://kuasark.com/files/stations-logos/sleekfm.png",
+      "g": [
+        "Blues",
+        "Rap",
+        "R&B and Urban",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "BabaRadio",
+      "s": "https://stream-150.zeno.fm/v2tmu4q4pf9uv?zs=0iNhDx4nRzy-HXmIj24SUQ",
+      "l": "https://kuasark.com/files/stations-logos/babaradio.png",
+      "g": [
+        "Inspirational",
+        "Jazz",
+        "R&B and Urban",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "LagosJump Radio",
+      "s": "https://streaming.shoutcast.com/lagosjump-radio",
+      "l": "https://kuasark.com/files/stations-logos/lagosjump-radio.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kaakaki Radio",
+      "s": "https://stream-150.zeno.fm/fgetssyp7yzuv?zs=QUNKu0KRSDGXCgQUm1lcpQ",
+      "l": "https://kuasark.com/files/stations-logos/kaakaki-radio.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NGM Radio (Nigerian Gospel Music Radio)",
+      "s": "https://stream-034.zeno.fm/3fmqr74a7f8uv?zs=6NCgOdLHTRmhZPWnCUXvKg",
+      "l": "https://kuasark.com/files/stations-logos/ngm-radio-nigerian-gospel-music-radio.png",
+      "g": [
+        "Inspirational",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Broadcasting Corporation of Abia (BCA)",
+      "s": "https://broadcas.radioca.st/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/broadcasting-corporation-of-abia-bca.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Inspiration FM Ibadan",
+      "s": "https://5c0740dba62b3.streamlock.net/ifmibadan/myStream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/inspiration-fm-ibadan.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Roots 97.1 FM",
+      "s": "https://stream-149.zeno.fm/u79akfp7khruv?zs=1wpMHIO_SwGGjdoK4s9BeQ",
+      "l": "https://kuasark.com/files/stations-logos/roots-971-fm.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Mount Zion Radio Ibadan",
+      "s": "https://stream-150.zeno.fm/rn15yk41v7zuv?zs=DYfZ6sscQEONvEBsfQaXqw",
+      "l": "https://kuasark.com/files/stations-logos/mount-zion-radio-ibadan.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "ASKiNG Radio SPEED FM",
+      "s": "https://stream-061.zeno.fm/udf8tf8542quv?zs=_4g62XKgTk21vNGBTs3SJg",
+      "l": "https://kuasark.com/files/stations-logos/asking-radio-speed-fm.png",
+      "g": [
+        "R&B and Urban",
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Unity Radio 93.3 FM/TV",
+      "s": "http://46.105.124.120:8356/stream",
+      "l": "https://kuasark.com/files/stations-logos/unity-radio-933-fm-tv.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Wellsradio",
+      "s": "https://streams.radio.co:80/sbf0607300/listen",
+      "l": "https://kuasark.com/files/stations-logos/wellsradio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rockcity FM",
+      "s": "https://stream-156.zeno.fm/g6qax5vq0v8uv?zs=3QZ3mutQTkyXuZMj6riLgw",
+      "l": "https://kuasark.com/files/stations-logos/rockcity-fm.png",
+      "g": [
+        "Country",
+        "Rap",
+        "News"
+      ]
+    },
+    {
+      "t": "Uniosun Fm",
+      "s": "http://streaming.radionomy.com:80/JamendoLounge",
+      "l": "https://kuasark.com/files/stations-logos/uniosun-fm.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Apala Radio",
+      "s": "https://stream-150.zeno.fm/fqcszwwxra0uv?zs=zJLrKTmoSpi3NX8C_8i_ig",
+      "l": "https://kuasark.com/files/stations-logos/apala-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Outstanding Radio",
+      "s": "https://stream-052.zeno.fm/aafdwnvhzchvv?zs=aOXx7wK4Syi0Xswmp462lg",
+      "l": "https://kuasark.com/files/stations-logos/outstanding-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Real 99.1 FM Aba",
+      "s": "http://46.28.49.164:7683/stream",
+      "l": "https://kuasark.com/files/stations-logos/real-991-fm-aba.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "City FM",
+      "s": "https://cityfm.mixlr.com/",
+      "l": "https://kuasark.com/files/stations-logos/city-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Flo FM",
+      "s": "https://stream-046.zeno.fm/gbxh4dbskeruv?zs=OR-h2aBeSaenevem6-vfyw",
+      "l": "https://kuasark.com/files/stations-logos/flo-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "BOX : Afrofusion Naija",
+      "s": "https://ss-edge.joeycast.com/naija.mp3",
+      "l": "https://kuasark.com/files/stations-logos/box-afrofusion-naija.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Living Word Media Radio",
+      "s": "https://livingwordmedia.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/living-word-media-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Sinach Radio",
+      "s": "https://stream-061.zeno.fm/pt50hp3upv8uv?zs=T3Vxd4ZGS-O5UaZ-XGiI7g",
+      "l": "https://kuasark.com/files/stations-logos/sinach-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Youth Alive Radio",
+      "s": "https://stream-149.zeno.fm/2vakg1ggbm0uv?zs=x8SVbMm-RMGsa3-Kq_0KJQ",
+      "l": "https://kuasark.com/files/stations-logos/youth-alive-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kwenu Radio",
+      "s": "https://stream-148.zeno.fm/4zc2xh1z9f8uv?zs=kDZ4gy1OQTuQhs0HM9QDJA",
+      "l": "https://kuasark.com/files/stations-logos/kwenu-radio.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Splash 106.7 FM",
+      "s": "https://edge.mixlr.com/channel/vqisa",
+      "l": "https://kuasark.com/files/stations-logos/splash-1067-fm.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Crest 87.7 FM",
+      "s": "https://stream-067.zeno.fm/9cgtkwg3teruv?zs=u6XD-VCDSk24sdiE02VD0Q",
+      "l": "https://kuasark.com/files/stations-logos/crest-877-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "LivingWater Radio",
+      "s": "https://puma.streemlion.com:1795/stream",
+      "l": "https://kuasark.com/files/stations-logos/livingwater-radio.png",
+      "g": [
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Apostolic Flame Radio",
+      "s": "https://hoth.alonhosting.com:1695/stream",
+      "l": "https://kuasark.com/files/stations-logos/apostolic-flame-radio.png",
+      "g": [
+        "R&B and Urban",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "FISHFM",
+      "s": "https://stream-150.zeno.fm/wc0pn89gv6duv?zs=LHheqrtaRnWSBZ-UZfeGyw",
+      "l": "https://kuasark.com/files/stations-logos/fishfm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Royal Roots 92.9FM",
+      "s": "https://stream-151.zeno.fm/3kqutkg3s6vtv?zs=6AR-VwwfRg-ROn5U1yB6IQ",
+      "l": "https://kuasark.com/files/stations-logos/royal-roots-929fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "O Fm 92.5 Ilorin",
+      "s": "http://s41.myradiostream.com:36820/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/o-fm-925-ilorin.png",
+      "g": [
+        "Rap",
+        "Jazz",
+        "Other",
+        "News",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Spirit of Nigeria Radio",
+      "s": "http://e12492.cloudrad.io:9517/;",
+      "l": "https://kuasark.com/files/stations-logos/spirit-of-nigeria-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Awoko Radio",
+      "s": "https://stream-068.zeno.fm/tqq99en94v8uv?zs=3oCmF4ghS-6wu7-j1poBvw",
+      "l": "https://kuasark.com/files/stations-logos/awoko-radio.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Adamimogo FM",
+      "s": "https://stream-020.zeno.fm/sywy4vua6zhvv?zs=GILX8Xs8S_e98ufZmKteEQ",
+      "l": "https://kuasark.com/files/stations-logos/adamimogo-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Ajísebí Òyó Radio",
+      "s": "https://stream-153.zeno.fm/v3geyw3zrzzuv?zs=EN1B7PDDSz6uZOezvhl3hg",
+      "l": "https://kuasark.com/files/stations-logos/ajisebi-oyo-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Jatto 102.7 FM",
+      "s": "http://procyon.shoutca.st:8158/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/jatto-1027-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Family Love 97.7 FM",
+      "s": "https://stream13.shoutcastsolutions.com/proxy/phlovefm?mp=/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/family-love-977-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sdb Live Radio",
+      "s": "https://panel.sdblive.com:6457/stream",
+      "l": "https://kuasark.com/files/stations-logos/sdb-live-radio.png",
+      "g": [
+        "Classical",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Positive FM 102.5",
+      "s": "https://eu8.fastcast4u.com/proxy/positive?mp=/1&1613751265617",
+      "l": "https://kuasark.com/files/stations-logos/positive-fm-1025.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Krucial Reggae Radio",
+      "s": "https://stream-050.zeno.fm/g8wkbpm3mceuv?zs=AuHwfzliSlOfKXQiLiD3tg",
+      "l": "https://kuasark.com/files/stations-logos/krucial-reggae-radio.png",
+      "g": [
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bliss Radio",
+      "s": "https://stream-149.zeno.fm/ty5h0ecgka0uv?zs=Xs1WYZMXQDKATOrM1aZXqQ",
+      "l": "https://kuasark.com/files/stations-logos/bliss-radio.png",
+      "g": [
+        "Inspirational",
+        "Rap",
+        "R&B and Urban",
+        "News"
+      ]
+    },
+    {
+      "t": "FayaTic Radio",
+      "s": "https://stream-150.zeno.fm/dvqg9y8s7k0uv?zs=0sDx68ZPSGGNw5EwRX1XMw",
+      "l": "https://kuasark.com/files/stations-logos/fayatic-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "AbujaTalk",
+      "s": "https://stream-149.zeno.fm/054seb2cwg0uv?zs=IE5QBLRZQxmy_RLJxaQULw",
+      "l": "https://kuasark.com/files/stations-logos/abujatalk.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Upfull Reggae Radio",
+      "s": "https://stream-046.zeno.fm/q6n96gfy398uv?zs=2EQIH5bJSUy790Jv79TBzQ",
+      "l": "https://kuasark.com/files/stations-logos/upfull-reggae-radio.png",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "WiGRadio",
+      "s": "https://stream-152.zeno.fm/k4w8hv26nzzuv?zs=ZeezInC5THGejpnSDFyuLg",
+      "l": "https://kuasark.com/files/stations-logos/wigradio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "iPLAY Radio",
+      "s": "https://stream-148.zeno.fm/5nrvuy1uawzuv?zs=j02YDRFqTLqHrJO7luS0gA",
+      "l": "https://kuasark.com/files/stations-logos/iplay-radio-ng.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "KCity Radio",
+      "s": "https://radio.gotright.net/radio/8010/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kcity-radio.png",
+      "g": [
+        "Inspirational",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Old Time Faith Radio",
+      "s": "https://stream-150.zeno.fm/3q39f7wy2a0uv?zs=Z-nwF39fSBqqVfgUgAogOQ",
+      "l": "https://kuasark.com/files/stations-logos/old-time-faith-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Vibing",
+      "s": "https://s3.radio.co/s30fe5effe/listen",
+      "l": "https://kuasark.com/files/stations-logos/vibing.png",
+      "g": [
+        "Inspirational",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Pep 100.3 FM",
+      "s": "https://stream-150.zeno.fm/pnsnh6ffh5zuv?zs=NI4ObiwMSBu1yuI_Oxq8Ag",
+      "l": "https://kuasark.com/files/stations-logos/pep-1003-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Glory Vibes Radio",
+      "s": "https://stream-149.zeno.fm/0qdz39e47zhvv?zs=mhnYGrz9SeW-Xhf8kF8dUA",
+      "l": "https://kuasark.com/files/stations-logos/glory-vibes-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Unilag Radio 103.1fm",
+      "s": "https://stream-050.zeno.fm/w68a71f8568uv?zs=KehdS10qT1akv6A7JX7AEA",
+      "l": "https://kuasark.com/files/stations-logos/unilag-radio-1031fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Okin 105.7 fm",
+      "s": "https://cast3.asurahosting.com/proxy/okin/okinfm",
+      "l": "https://kuasark.com/files/stations-logos/okin-1057-fm.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Reel Radio",
+      "s": "https://stream-150.zeno.fm/vp4gms21s4zuv?zs=saOHtTgzSx-ME_7PO9GmXg",
+      "l": "https://kuasark.com/files/stations-logos/reel-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "TGz Africa Radio",
+      "s": "https://stream-149.zeno.fm/1bhcy85shy8uv?zs=8fcGk6SbT7iKpr6tHPm49w",
+      "l": "https://kuasark.com/files/stations-logos/tgz-africa-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Uniojukwu 106.1 fm",
+      "s": "https://stream-149.zeno.fm/pzhpdbvn54zuv?zs=CQ5kPrIISuKm8cuIk6_TCA",
+      "l": "https://kuasark.com/files/stations-logos/uniojukwu-1061-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Dominion Radio",
+      "s": "https://stream-150.zeno.fm/dkwex2g4pa0uv?zs=Ywx6Bk4IQB6roDkOAPfLfQ",
+      "l": "https://kuasark.com/files/stations-logos/dominion-radio-ng.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "The Fushys Radio",
+      "s": "https://stream-058.zeno.fm/7hpwpqyk4f8uv?zs=8A6E7v37QRyIm-tFWLKS-A",
+      "l": "https://kuasark.com/files/stations-logos/the-fushys-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Richieart fm",
+      "s": "https://stream-150.zeno.fm/xd23vgqdcm0uv?zs=KaJXx46CRqKb7rsZmYRdxw",
+      "l": "https://kuasark.com/files/stations-logos/richieart-fm.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ibile9jaradio",
+      "s": "https://stream-148.zeno.fm/fwf7kd6qvs8uv?zs=AU0YLjlARWGfTtol-GmZFA",
+      "l": "https://kuasark.com/files/stations-logos/ibile9jaradio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Soccerhub FM",
+      "s": "https://stream-150.zeno.fm/rm4dvy3dtwzuv?zs=sOAbRG5gQxOrWQe2B7V8BA",
+      "l": "https://kuasark.com/files/stations-logos/soccerhub-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "DVC Radio",
+      "s": "https://stream-052.zeno.fm/9dxhc51w0nhvv?zs=cRDXUYOvRPijh3AI1lNjhQ",
+      "l": "https://kuasark.com/files/stations-logos/dvc-radio-ng.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Pulse radio",
+      "s": "https://stream-148.zeno.fm/2756wffzs4zuv?zs=dSC4V_A6Ttmc4LL99MP9nA",
+      "l": "https://kuasark.com/files/stations-logos/pulse-radio-ng.png",
+      "g": [
+        "Blues",
+        "Rap",
+        "International",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fad Fm 93.1",
+      "s": "http://109.74.199.58:8030/stream.m3u",
+      "l": "https://kuasark.com/files/stations-logos/fad-fm-931.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio East",
+      "s": "https://stream-058.zeno.fm/7f4w4us5wp8uv?zs=iNJewATDSMe95-7ObDMD8g",
+      "l": "https://kuasark.com/files/stations-logos/radio-east.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Osumare FM",
+      "s": "https://stream-068.zeno.fm/u91kuskz81zuv?zs=007vMhh1RXSK2PaUQAmzNw",
+      "l": "https://kuasark.com/files/stations-logos/osumare-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Diligent Entrepreneurship Radio",
+      "s": "https://stream-148.zeno.fm/qqpquey0xwzuv?zs=XL8Tt3Q1TV2NiLL7HhXIjA",
+      "l": "https://kuasark.com/files/stations-logos/diligent-entrepreneurship-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "9jatalk Radio",
+      "s": "https://stream-149.zeno.fm/rrwazx86xa0uv?zs=A5PcZzY7QJ2PK1Uf1ykl3g",
+      "l": "https://kuasark.com/files/stations-logos/9jatalk-radio.png",
+      "g": [
+        "Inspirational",
+        "Rap",
+        "News",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Dexterity Media FM",
+      "s": "https://stream-061.zeno.fm/rp7z5vzpyd0uv?zs=pylg8FbpRTybmNGtv-xXkw",
+      "l": "https://kuasark.com/files/stations-logos/dexterity-media-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Pm Radio",
+      "s": "https://stream-149.zeno.fm/y0vppv39qs8uv?zs=lW_pUHS3TeacRku8wtsCtg",
+      "l": "https://kuasark.com/files/stations-logos/the-pm-radio.png",
+      "g": [
+        "Inspirational",
+        "Rap",
+        "Decades",
+        "International",
+        "Other",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Africa Music Radio",
+      "s": "https://stream-148.zeno.fm/g6dyy3p37p8uv?zs=4vb2G1qFSaWxpVzemtoXBg",
+      "l": "https://kuasark.com/files/stations-logos/africa-music-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "inisa fm",
+      "s": "https://stream-149.zeno.fm/50hfy18mwxhvv?zs=xemklXyEToWXVf-32MC2UQ",
+      "l": "https://kuasark.com/files/stations-logos/inisa-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Naijafans Radio",
+      "s": "https://cast2.asurahosting.com/proxy/naijafan/stream",
+      "l": "https://kuasark.com/files/stations-logos/naijafans-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "WFM91.7",
+      "s": "http://s28.myradiostream.com:11618/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/wfm917.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Al- Salaam Radio NG",
+      "s": "https://stream-150.zeno.fm/439vzu4c6f8uv?zs=aLVAg5ZcTxW1NapGLbmzHw",
+      "l": "https://kuasark.com/files/stations-logos/al-salaam-radio-ng.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "GanGan Radio",
+      "s": "https://stream-061.zeno.fm/9reuhyz8up8uv?zs=5P9YuhKSRPCXg1BY0oiydw",
+      "l": "https://kuasark.com/files/stations-logos/gangan-radio.png",
+      "g": [
+        "Classical",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Yabatech Radio",
+      "s": "https://stream.brainioustech.com/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/yabatech-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Super 93.3 FM",
+      "s": "https://radio.superfm963.com/proxy/superfmph2/stream",
+      "l": "https://kuasark.com/files/stations-logos/super-933-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "AIM FM RADIO & TV",
+      "s": "https://aimfmnigeria.radioca.st/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/aim-fm-radio-tv.png",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dear Oma Netwok",
+      "s": "https://stream-151.zeno.fm/vx4y404zumzuv?zs=C-sokqhZRYads9tyjSLraA",
+      "l": "https://kuasark.com/files/stations-logos/dear-oma-netwok.png",
+      "g": [
+        "Inspirational",
+        "Reggae",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Salt Radio Ibadan",
+      "s": "https://stream-153.zeno.fm/n0zwrycu79duv?zs=EVt061-oTK2weemzOd-hqQ",
+      "l": "https://kuasark.com/files/stations-logos/salt-radio-ibadan.png",
+      "g": [
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Inform Me Radio",
+      "s": "https://stream-153.zeno.fm/ta1fke6sz1zuv?zs=Dp2NMJFiTDenX6B9f1O4yw",
+      "l": "https://kuasark.com/files/stations-logos/inform-me-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "47.5 ATOBO Radio 1",
+      "s": "https://stream-149.zeno.fm/5vub580pn2zuv?zs=h_0wHW7qS4-fEJqShZxrhg",
+      "l": "https://kuasark.com/files/stations-logos/475-atobo-radio-1.png",
+      "g": [
+        "Inspirational",
+        "Decades",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "GVBN Radio (Igem Radio)",
+      "s": "https://stream-150.zeno.fm/bzgg1f142mzuv?zs=gtXZsQ9xQHScV61p-Fz3TQ",
+      "l": "https://kuasark.com/files/stations-logos/gvbn-radio-igem-radio.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Alaafins Radio",
+      "s": "https://stream-058.zeno.fm/vts7tvdz7k0uv?zs=AjqvvFnmRz--JzvgLANjZg",
+      "l": "https://kuasark.com/files/stations-logos/alaafins-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "88.5 UFM",
+      "s": "https://edge.mixlr.com/channel/adqkd",
+      "l": "https://kuasark.com/files/stations-logos/885-ufm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gospel Store",
+      "s": "https://ifastekpanel.com:1535/stream",
+      "l": "https://kuasark.com/files/stations-logos/gospel-store.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Primus Radio Nigeria",
+      "s": "https://stream-153.zeno.fm/paestzzxfm8uv?zs=92hkd8rBREi1xgWWksOpqg",
+      "l": "https://kuasark.com/files/stations-logos/primus-radio-nigeria.png",
+      "g": [
+        "Inspirational",
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "AudioHouse Radio",
+      "s": "https://stream-061.zeno.fm/rx7u42dsfzzuv?zs=bl76lKCnSdKAdhqLU4ifkg",
+      "l": "https://kuasark.com/files/stations-logos/audiohouse-radio.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Unilorin 89.3 FM",
+      "s": "http://102.131.64.20:8000/play",
+      "l": "https://kuasark.com/files/stations-logos/unilorin-893-fm.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Soul Winners Radio",
+      "s": "https://stream-148.zeno.fm/x0pd24u9kg0uv?zs=PVo3RdY_QIa4Ocx6dnfkug",
+      "l": "https://kuasark.com/files/stations-logos/soul-winners-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Edifice Radio",
+      "s": "https://stream-061.zeno.fm/qqfc65q1gd0uv?zs=ME10uqr6R_uzFhf9FPehLA",
+      "l": "https://kuasark.com/files/stations-logos/edifice-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Inspiration",
+      "s": "https://stream-058.zeno.fm/by3n4vbb7f8uv?zs=218RmCUWTUekBNDayIKWYQ",
+      "l": "https://kuasark.com/files/stations-logos/inspiration.png",
+      "g": [
+        "Inspirational",
+        "Pop"
+      ]
+    },
+    {
+      "t": "FreeSmoke Radio",
+      "s": "https://stream-148.zeno.fm/0n1539mmpm0uv?zs=jPAmbVOlQrGoRVKNSPfFIQ",
+      "l": "https://kuasark.com/files/stations-logos/freesmoke-radio.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Aloore Radio Oyo State",
+      "s": "https://stream-152.zeno.fm/0zmegeqw6hhvv?zs=K7qjiaZdQRWP-SwlJB8wJQ",
+      "l": "https://kuasark.com/files/stations-logos/aloore-radio-oyo-state.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NPFL Radio",
+      "s": "https://stream-148.zeno.fm/4xbbk1qyrf9uv?zs=rvHI8K2gQmaozle5Oc4_hw",
+      "l": "https://kuasark.com/files/stations-logos/npfl-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Petals1023 FM",
+      "s": "https://stream-148.zeno.fm/nzygak9ypfhvv?zs=lbkw5XlYSrKzy85lXiHNNw",
+      "l": "https://kuasark.com/files/stations-logos/petals1023-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "LifeShift Radio",
+      "s": "https://stream-153.zeno.fm/yh91bda19f8uv?zs=lyM_bx8bRzmlK1e76OKpgw",
+      "l": "https://kuasark.com/files/stations-logos/lifeshift-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "JMPBliss Radio",
+      "s": "https://stream-153.zeno.fm/qqw25ecgka0uv?zs=aCo7GwgJTTWt0cxHO3FVeA",
+      "l": "https://kuasark.com/files/stations-logos/jmpbliss-radio.png",
+      "g": [
+        "Inspirational",
+        "Rap",
+        "Pop",
+        "International",
+        "Other",
+        "News",
+        "Talk",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Borno FM",
+      "s": "https://stream-061.zeno.fm/px5k346357zuv?zs=yw-InsjDSFOw5xq_nZpOMw",
+      "l": "https://kuasark.com/files/stations-logos/borno-fm.png",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Digits 1024 Radio",
+      "s": "https://digits1024radio1.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/digits-1024-radio.png",
+      "g": [
+        "Alternative",
+        "Classical",
+        "Country",
+        "Electronic",
+        "Inspirational",
+        "Rap",
+        "Jazz",
+        "Reggae",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Yesma Radio",
+      "s": "https://stream-150.zeno.fm/be3uxnr067zuv?zs=E44Usif0Qz-DBsx9lE41xw",
+      "l": "https://kuasark.com/files/stations-logos/yesma-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Complete Impact Radio",
+      "s": "https://stream-148.zeno.fm/5bde964swk8uv?zs=9_LAONKiR5qSWLn4EQqPkQ",
+      "l": "https://kuasark.com/files/stations-logos/complete-impact-radio.png",
+      "g": [
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ibarapa Radio",
+      "s": "http://67.205.164.174:8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ibarapa-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "BMC Radio",
+      "s": "https://stream-148.zeno.fm/nbryaaxbdm0uv?zs=Kga5tZVrTo2wl6wPqA5aVA",
+      "l": "https://kuasark.com/files/stations-logos/bmc-radio-ng.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Majesty Radio",
+      "s": "https://stream-148.zeno.fm/2hbm82g7af9uv?zs=8vBGEtZnRXWnwfm0du-yeA",
+      "l": "https://kuasark.com/files/stations-logos/majesty-radio.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Yes FM 101.7",
+      "s": "https://stream-150.zeno.fm/kqgbf9g3mfhvv?zs=1KXhuRgkR7yWkeausHVx4w",
+      "l": "https://kuasark.com/files/stations-logos/yes-fm-1017.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Naijatastic Radio",
+      "s": "https://naijatastic.stream.laut.fm/naijatastic",
+      "l": "https://kuasark.com/files/stations-logos/naijatastic-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Tnm Radio Nigeria",
+      "s": "https://stream-153.zeno.fm/u4bw96m081zuv?zs=dbHRLoEZRKSZaU39O7pPtw",
+      "l": "https://kuasark.com/files/stations-logos/tnm-radio-nigeria.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Redlight Online Radio",
+      "s": "https://stream-153.zeno.fm/07ux8e8edd0uv?zs=fxmtMe4jS7eMhJCs0iINJA",
+      "l": "https://kuasark.com/files/stations-logos/redlight-online-radio.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Shining Light Christian Radio",
+      "s": "https://stream-152.zeno.fm/8a1n2pveys8uv?zs=t4vfM4RuSxqrVx7pz3mpBg",
+      "l": "https://kuasark.com/files/stations-logos/shining-light-christian-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "The Coded Radio Station",
+      "s": "https://stream-149.zeno.fm/6ukexvkz6k0uv?zs=oMVp2s19QduGiT6iF4o5Gg",
+      "l": "https://kuasark.com/files/stations-logos/the-coded-radio-station.png",
+      "g": [
+        "Easy Listening",
+        "Rap",
+        "R&B and Urban",
+        "Decades",
+        "International",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Sound kitchen Radio",
+      "s": "https://skrradio.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/sound-kitchen-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Air Radio",
+      "s": "https://stream-052.zeno.fm/59fxeamhw98uv?zs=mdSZxPa1RcSk-0BtkK6h-w",
+      "l": "https://kuasark.com/files/stations-logos/air-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rock Radio Ibadan",
+      "s": "https://stream-068.zeno.fm/z5h37k39wnhvv?zs=CKYDWRSUQ0COqKCC2u-_tQ",
+      "l": "https://kuasark.com/files/stations-logos/rock-radio-ibadan.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Isokan Omo Oodua",
+      "s": "https://stream-149.zeno.fm/gz4499gacshvv?zs=j90jKd5zSbWLMPTkZjY5Hg",
+      "l": "https://kuasark.com/files/stations-logos/isokan-omo-oodua-ng-134168.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Zunes Radio",
+      "s": "https://stream-058.zeno.fm/7vfrddbzvhhvv?zs=0of3ltIpTxuzhsSvtfQsPQ",
+      "l": "https://kuasark.com/files/stations-logos/zunes-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Otitolagba Radio",
+      "s": "https://stream-149.zeno.fm/8n5tyfhnsuhvv?zs=_xWPZ-X0T1OhfnHMWzfvPQ",
+      "l": "https://kuasark.com/files/stations-logos/otitolagba-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Nagari Radio",
+      "s": "https://stream-150.zeno.fm/1p9k47ksdg8uv?zs=Z_VjTE4GQ-6i7cPThq6iiw",
+      "l": "https://kuasark.com/files/stations-logos/nagari-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Dandal Kura Radio International",
+      "s": "https://dandalkura.radioca.st/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dandal-kura-radio-international.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "ROJ Radio Network",
+      "s": "https://stream-148.zeno.fm/p2h75nznp2zuv?zs=1CQCeCjsTYO9LE878JcbDQ",
+      "l": "https://kuasark.com/files/stations-logos/roj-radio-network.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Life Experience Radio",
+      "s": "https://stream-050.zeno.fm/c1sv4xcyhm0uv?zs=CFRZDE3dTwKO1B9qObrwJw",
+      "l": "https://kuasark.com/files/stations-logos/life-experience-radio.png",
+      "g": [
+        "Rap"
+      ]
+    }
+  ]
+}

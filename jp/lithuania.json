@@ -1,0 +1,840 @@
+{
+  "stations": [
+    {
+      "t": "Rock Radio",
+      "s": "https://cast2.my-control-panel.com/proxy/vladas/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/400858/ea9a0f57ffe1b2f9915a71c84c1bf4aa_130x130.webp",
+      "g": [
+        "Rock",
+        "Metal",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Rock FM",
+      "s": "https://stream2.rockfm.lt/crf128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/22321/fcd97fae40590fafdedc487614bbec91_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Power Hit Radio",
+      "s": "https://stream.powerhitradio.lt/PHR_AAC",
+      "l": "https://images.radiovolna.net/_files/images/stations/4181/ha0w59745b0613e07924905860_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio-R",
+      "s": "https://stream1.rusradio.lt/rrb128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/5660/309c5fca641f51659fb800d73a537f05_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Znad Wilii",
+      "s": "https://plays.zw.lt/zw128",
+      "l": "https://images.radiovolna.net/_files/images/stations/4176/qnxs595d3c31dbb28759960357_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Lietus",
+      "s": "https://radio.m-1.fm/LIETUS",
+      "l": "https://images.radiovolna.net/_files/images/stations/4178/h9dj596fac0949d29843046128_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радуга",
+      "s": "http://stream.m-1.fm:80/raduga/high",
+      "l": "https://images.radiovolna.net/_files/images/stations/400801/1486414407_-5-radio-raduga-radijo-stotis-raduga-klaipda-100.8-fm_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Relax FM",
+      "s": "https://stream2.relaxfm.lt/relaxfm128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4184/kgxy5c0cd25b07138697320687_130x130.webp",
+      "g": [
+        "Jazz",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Marijos Radijas",
+      "s": "http://streamer.marijosradijas.lt:8001/marijosradijas.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4183/hmp8597aec3b6b6e3550437379_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Super FM",
+      "s": "https://stream.ehr.lt:8443/superfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/405763/u94z5acc74d7506fd291013235_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radiocentras",
+      "s": "https://stream1.rc.lt/rc128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4182/m6lu597102ab847ac089169731_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Easy FM",
+      "s": "https://netradio.ziniur.lt/easyfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400782/1486321081_1491778_1519782554937661_3966837868754767538_n.png-330471_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "M-1 plius",
+      "s": "http://stream.m-1.fm:80/M-1PLIUS",
+      "l": "https://images.radiovolna.net/_files/images/stations/4180/eek85a26d578109a5123694682_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sveikatos Radijas",
+      "s": "http://193.219.87.11:8080/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/4185/peu95a26d5d04f003929306916_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "ZIP FM",
+      "s": "https://stream2.zipfm.lt/zipfm128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/26476/476d08dedc275bd5ba2110d5c8400052_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Stotis Laluna",
+      "s": "http://stream.m-1.fm:80/laluna/high",
+      "l": "https://images.radiovolna.net/_files/images/stations/400800/1486414162_unnamed_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Relax FM",
+      "s": "https://stream2.relaxfm.lt/relaxfm128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400790/v6ub5c0cd24788569614994609_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Tau FM",
+      "s": "http://radijas.tau.lt:8000/stream2",
+      "l": "https://images.radiovolna.net/_files/images/stations/400795/1486412918_8efcb9e2164d90dda0886609bc7c2aed_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ziniu Radijas",
+      "s": "http://netradio.ziniur.lt:8000/ziniur.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4186/d6p45a26d5a47280f940609389_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "XFM",
+      "s": "http://88.119.151.74:8001/xfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/27886/11b2940b007420456f3f81e7c914b18b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radijo Klubas",
+      "s": "http://didzdvaris.vinlita.lt:8009/stream.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/428025/b400fe039b4acbee2008bdb2397cb025_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RS2",
+      "s": "https://rs2online.eu:8000/gyvai",
+      "l": "https://images.radiovolna.net/_files/images/stations/400797/1486413455_10311774_967243506625756_633962488955669984_n_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kelyje",
+      "s": "http://82.135.234.195:8000/kelyje_vilnius.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400787/1486321557_c5mizdexsiybtt1g8ipk66h30qsmqfe_krycvrknqstjax9nxvl1o-ohxggzrahcgvmh300_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pulsas FM",
+      "s": "https://pulsasfm.com/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/400796/1486413179_14291673_1346244182095218_5820761500002122557_n_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "LRT Opus",
+      "s": "https://radijas.lrt.lt/radijas/lrt_opus/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/400778/a5db5a56b242ff72b7e117c269d0a6ee_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Start FM",
+      "s": "https://eteris.startfm.lt/startfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/21940/e191434503e30d66d691cd5ef0872018_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Leproradio",
+      "s": "https://relay.leproradio.com/bender.ogg?c5f8ba7cda469e748990daad0efb1ca29ebf56ed",
+      "l": "https://kuasark.com/files/stations-logos/leproradio.png",
+      "g": [
+        "New Age",
+        "Electronic",
+        "Easy Listening",
+        "R&B and Urban",
+        "Rap",
+        "Classical",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vaikų Radijas",
+      "s": "http://88.119.151.74:8001/vaikuradijas",
+      "l": "https://kuasark.com/files/stations-logos/vaiku-radijas.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Relax FM",
+      "s": "https://stream1.relaxfm.lt/relaxfm128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/relax-fm-lt.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "European Hit Radio",
+      "s": "http://82.135.234.195:8000/ehr.mp3",
+      "l": "https://kuasark.com/files/stations-logos/european-hit-radio-lt.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Power Hit Radio",
+      "s": "https://n03a-eu.rcs.revma.com/f31w7e0fveuvv?rj-ttl=5&rj-tok=AAABiLP4vmEAemisnp4GxXxL0g",
+      "l": "https://kuasark.com/files/stations-logos/power-hit-radio-lt.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Lietus Radio Vilnius - M-1 Radio",
+      "s": "https://radio.m-1.fm/M-1H",
+      "l": "https://kuasark.com/files/stations-logos/lietus-radio-vilnius-m-1-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radijo stotis \"RADUGA\"",
+      "s": "https://radio.m-1.fm/raduga/high",
+      "l": "https://kuasark.com/files/stations-logos/radijo-stotis-raduga.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Rock FM",
+      "s": "http://stream1.rockfm.lt/crf128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rock-fm-lt.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Geras FM",
+      "s": "http://82.135.234.195:8000/gerasfm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/geras-fm.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Extra FM",
+      "s": "http://82.135.234.195:8000/extrafm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/extra-fm-lt.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Laluna Radio",
+      "s": "https://stream.m-1.fm/laluna/mp3",
+      "l": "https://kuasark.com/files/stations-logos/laluna-radio.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "ZIP FM",
+      "s": "https://stream1.zipfm.lt/zipfm128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/zip-fm-lt.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Mano FM",
+      "s": "http://stream.manofm.lt/listen",
+      "l": "https://kuasark.com/files/stations-logos/mano-fm.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Neringa FM",
+      "s": "https://radio.15min.lt:8443/neringafm",
+      "l": "https://kuasark.com/files/stations-logos/neringa-fm.png",
+      "g": [
+        "Easy Listening",
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Radijo Stotis Kelyje",
+      "s": "http://82.135.234.195:8000/kelyje_kaunas.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radijo-stotis-kelyje.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Stotis Tau",
+      "s": "http://radijas.tau.lt:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-stotis-tau.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Beveik Radijas",
+      "s": "https://azura.shoutca.st/listen/beveikradijas/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/beveik-radijas.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Power Gold",
+      "s": "https://n06a-eu.rcs.revma.com/asdpz3qfbhuvv?rj-ttl=5&rj-tok=AAABiLQAvRMAnjDkYLXolIVUPw",
+      "l": "https://kuasark.com/files/stations-logos/power-gold-lt.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radijo stotis A2",
+      "s": "http://213.197.178.50:8000/A2",
+      "l": "https://kuasark.com/files/stations-logos/radijo-stotis-a2.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Upsas Radio",
+      "s": "http://185.5.52.50:8000/upsas_320",
+      "l": "https://kuasark.com/files/stations-logos/upsas-radio.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "radio.audiomastering.lt",
+      "s": "http://radio.audiomastering.lt:8000/hq",
+      "l": "https://kuasark.com/files/stations-logos/radioaudiomasteringlt.png",
+      "g": [
+        "New Age",
+        "Classical",
+        "Electronic",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Positive Impact Radio",
+      "s": "https://ec6.yesstreaming.net:1215/stream",
+      "l": "https://kuasark.com/files/stations-logos/positive-impact-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Taurages Radijas",
+      "s": "http://stream.tauragesradijas.lt:8000/tr1",
+      "l": "https://kuasark.com/files/stations-logos/taurages-radijas.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Лента",
+      "s": "https://media-edge2.hostin.live/radio-lenta.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-lenta.png",
+      "g": [
+        "Other",
+        "News",
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Pūkas 2",
+      "s": "http://82.135.234.195:8000/pukas2.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-pukas-2.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "PoWeR",
+      "s": "https://cast1.asurahosting.com/proxy/eventas/stream",
+      "l": "https://kuasark.com/files/stations-logos/power-lt.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Saulės Radijas FM",
+      "s": "http://saule-mp3.vinlita.lt:8008/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/saules-radijas-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radijo stotis Pūkas",
+      "s": "http://82.135.234.195:8000/pukas.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radijo-stotis-pukas.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radijo XXL FM",
+      "s": "http://91.211.246.42:8000/XXL-FM",
+      "l": "https://kuasark.com/files/stations-logos/radijo-xxl-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Mažeikiai Fm",
+      "s": "http://91.211.246.42:8000/Mazeikiai-HD",
+      "l": "https://kuasark.com/files/stations-logos/mazeikiai-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Aviafan Lounge",
+      "s": "https://relay.leproradio.com/letach.ogg?9f02439bbf80306a625f798964c44ea2f74e74aa",
+      "l": "https://kuasark.com/files/stations-logos/aviafan-lounge.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "RELAX FM Sentimentai",
+      "s": "https://listen.radioking.com/radio/506872/stream/564490",
+      "l": "https://kuasark.com/files/stations-logos/relax-fm-sentimentai.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Fred Film Radio",
+      "s": "https://s10.webradio-hosting.com/proxy/fredradiolt/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/fred-film-radio-lt.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "100 HITŲ",
+      "s": "https://listen.radioking.com/radio/483860/stream/540443",
+      "l": "https://kuasark.com/files/stations-logos/100-hitu.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kapsai",
+      "s": "http://91.211.246.42:8000/Kapsai",
+      "l": "https://kuasark.com/files/stations-logos/kapsai.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "PMR.lt",
+      "s": "http://82.135.234.195:8000/pmr.mp3",
+      "l": "https://kuasark.com/files/stations-logos/pmrlt.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Vilnius Urban Radio",
+      "s": "http://relay.leproradio.com/urban.mp3?f63586e295b774115269175b0dba7add8b769299",
+      "l": "https://kuasark.com/files/stations-logos/vilnius-urban-radio.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Vizija",
+      "s": "https://stream-150.zeno.fm/h9unubeaqtzuv?zs=JDsV5mKNSGiBjoVys6C1cQ",
+      "l": "https://kuasark.com/files/stations-logos/vizija.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radijo stotis FM99",
+      "s": "http://82.135.234.195:8000/fm99.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radijo-stotis-fm99.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Criminal Tribe",
+      "s": "https://relay.leproradio.com/tribe.ogg?1bca2026d2b3f03959ada289dd3e71228b8e477c",
+      "l": "https://kuasark.com/files/stations-logos/criminal-tribe.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Draugystės radijas",
+      "s": "http://213.226.189.174:8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/draugystes-radijas.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio ZW FUN",
+      "s": "https://plays.zw.lt/zwfun",
+      "l": "https://kuasark.com/files/stations-logos/radio-zw-fun.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Pulsas",
+      "s": "https://audio-edge-5bkfj.fra.h.radiomast.io/56f301cf-9788-4407-a0db-0bfea5d82b01",
+      "l": "https://kuasark.com/files/stations-logos/pulsas.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TG FM Radijas",
+      "s": "http://radijas.tgfm.lt:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/tg-fm-radijas.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Patejago Radijas",
+      "s": "https://stream-150.zeno.fm/f6m1zbud5p8uv?zs=cpAKOhScQ4etDOgI_fXwkw",
+      "l": "https://kuasark.com/files/stations-logos/patejago-radijas.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Haze Pub Radio",
+      "s": "https://relay.leproradio.com/rocks.ogg?5866ccf2203f91f10da109d7aaeaeebc127341d9",
+      "l": "https://kuasark.com/files/stations-logos/haze-pub-radio.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "Rap",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Fiesta",
+      "s": "https://stream1.radiofiesta.lt/rfs128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-fiesta-125301.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Žiniu Radijas",
+      "s": "https://netradio.ziniur.lt/ziniur_64.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ziniu-radijas.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Pūkas [160 kbps AAC]",
+      "s": "http://82.135.234.195:8000/pukas.aac",
+      "l": "https://kuasark.com/files/stations-logos/pukas-160-kbps-aac.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Pūkas 2 [160 kbps AAC]",
+      "s": "http://82.135.234.195:8000/pukas2.aac",
+      "l": "https://kuasark.com/files/stations-logos/pukas-2-160-kbps-aac.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kelyje",
+      "s": "http://82.135.234.195:8000/kelyje_klaipeda.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kelyje.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radijo stotis M-1 Plius",
+      "s": "https://radio.m-1.fm/m1plius/mp3",
+      "l": "https://kuasark.com/files/stations-logos/radijo-stotis-m-1-plius.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Laluna [MP3]",
+      "s": "http://radio.m-1.fm:80/laluna/mp3",
+      "l": "https://kuasark.com/files/stations-logos/laluna-mp3.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radijo Gold FM",
+      "s": "http://82.135.234.195:8000/goldfm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radijo-gold-fm.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "European Hit Radio [128 kbps AAC]",
+      "s": "http://82.135.234.195:8000/ehr.aac",
+      "l": "https://kuasark.com/files/stations-logos/european-hit-radio-128-kbps-aac.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Laluna [AAC]",
+      "s": "http://radio.m-1.fm:80/laluna/high",
+      "l": "https://kuasark.com/files/stations-logos/laluna-aac.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "M-1 [AAC]",
+      "s": "http://stream.m-1.fm/M-1aacp",
+      "l": "https://kuasark.com/files/stations-logos/m-1-aac.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "LRT 1",
+      "s": "http://lrt-cast.lrt.lt:8000/lrt_radijas",
+      "l": "https://kuasark.com/files/stations-logos/lrt-1.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Remix RA",
+      "s": "http://stream-149.zeno.fm/46tdskm12tzuv?zs=Ee-vcXWGQN6Ci0ElPQWBYA",
+      "l": "https://kuasark.com/files/stations-logos/remix-ra.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "LRT Opus",
+      "s": "http://lrt-cast.lrt.lt:8000/lrt_opus",
+      "l": "https://kuasark.com/files/stations-logos/lrt-opus.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "NeringaFM",
+      "s": "http://185.11.24.72:8000/neringafm",
+      "l": "https://kuasark.com/files/stations-logos/neringafm.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Mantra Radio",
+      "s": "http://stream.mantraradio.eu:14041/stream",
+      "l": "https://kuasark.com/files/stations-logos/mantra-radio.png",
+      "g": [
+        "R&B and Urban",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "pmr.lt - world music radio",
+      "s": "http://82.135.234.195:8000/pmr.aac",
+      "l": "https://kuasark.com/files/stations-logos/pmrlt-world-music-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Palanga Street Radio",
+      "s": "https://stream.palanga.live:8443/palanga128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/palanga-street-radio.png",
+      "g": [
+        "Themes",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Mažeikių Aidas",
+      "s": "http://maidas.kli.lt:8000/admin.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mazeikiu-aidas.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "M-1 Dance",
+      "s": "https://radio.m-1.fm/m-1dance/aac",
+      "l": "https://kuasark.com/files/stations-logos/m-1-dance.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Utenos radijas",
+      "s": "http://gyvai.utenosradijas.lt:8010/;",
+      "l": "https://kuasark.com/files/stations-logos/utenos-radijas.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Relax FM 100 HITU",
+      "s": "https://listen.radioking.com/radio/483860/stream/561907",
+      "l": "https://kuasark.com/files/stations-logos/relax-fm-100-hitu.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Relax FM Sentimental",
+      "s": "https://listen.radioking.com/radio/506872/stream/564496",
+      "l": "https://kuasark.com/files/stations-logos/relax-fm-sentimental.png",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

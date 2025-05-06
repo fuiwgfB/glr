@@ -1,0 +1,370 @@
+{
+  "stations": [
+    {
+      "t": "DFM",
+      "s": "https://5.restream.one/1964_1",
+      "l": "https://images.radiovolna.net/_files/images/stations/405716/7868035bcbd84ce386f0dafbbbb94bed_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Yurd FM",
+      "s": "https://icecast.livetv.az/yurdfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/428381/8eab45792917eed824d8076da2a47030_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "G! FM",
+      "s": "https://stream.zeno.fm/0kgkkzanmueuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/406103/9ad98d759035725a8e93780935973bb8_130x130.webp",
+      "g": [
+        "Classical",
+        "R&B and Urban",
+        "Rock",
+        "Alternative",
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "AutoLife Azerbaijan",
+      "s": "https://radio.autoliferadio.com:8005/radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/32573/ab79607442ee5addae291d2a7ec65acd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Media FM",
+      "s": "https://icecast.livetv.az/mediafm",
+      "l": "https://images.radiovolna.net/_files/images/stations/7451/di0q5971015a0a747002787858_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Anti Radio",
+      "s": "https://stream.antiradio.net/listen/anti_radio/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426845/a6e9179001197a8765b4af0eeb7d0deb_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Azərbaycan Radiosu",
+      "s": "https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8?token=9e0b89c00b413b57a38f5c2618397fae08d9323d-06fbfa3027c5bfca89294ba638b12e12-1673186220-1673175420",
+      "l": "https://images.radiovolna.net/_files/images/stations/428382/653993860e2dd9d8cf63a4d2d0754190_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TMB 100.5",
+      "s": "http://s39.myradiostream.com/5458/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420584/6f47a0785b69301e975aad4ad008b3c2_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Day AZ. Radio",
+      "s": "https://radio.day.az:9443/192",
+      "l": "https://images.radiovolna.net/_files/images/stations/30390/b82d8b3e0ac216f5d64245b16fe53477_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Avto FM",
+      "s": "http://5.191.241.101:8000/avtofm",
+      "l": "https://images.radiovolna.net/_files/images/stations/7449/d835bca68ea517afccbe3764ef1b8421_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Araz FM",
+      "s": "http://s14.myradiostream.com:30454/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/406097/khsg5bee9d965c12c855711980_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Space Radio",
+      "s": "http://5.191.241.101:8000/spaceradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/404538/3e4a333f958e0c9a19248233660b140e_130x130.webp",
+      "g": [
+        "Decades",
+        "International",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "İctimai Radio",
+      "s": "https://stream.itv.az/rtmp:/radio/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/420246/c23de83d23ad8cc2727b0611023fea7b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ASAN Radio",
+      "s": "http://94.20.74.206:4448/stream1",
+      "l": "https://images.radiovolna.net/_files/images/stations/400741/1486287968_cydlslqt_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Enerji",
+      "s": "http://95.217.196.109:8000/antennfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/7450/bf4977696bdffdc710072bb3e0dd4e3c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Caspian Business Radio BOSS",
+      "s": "https://myradio24.org/bosscomaz",
+      "l": "https://images.radiovolna.net/_files/images/stations/430451/c13d52cfe07c65ebc6b9b0e4cdda215c_130x130.webp",
+      "g": [
+        "Decades",
+        "Themes",
+        "International",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "VIVA FM",
+      "s": "http://stream.zeno.fm/tbfu8vxb84zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423925/8ba2f771d32fda16548791f415303271_130x130.webp",
+      "g": [
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "Xəzər FM",
+      "s": "https://s40.myradiostream.com/22546/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420585/ac2c63f32472696dd259f0c1f84344e0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kəpəz FM",
+      "s": "http://85.132.78.122:3344/now",
+      "l": "https://images.radiovolna.net/_files/images/stations/400742/1486288506_kpz-fm-poisk-v-google_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Azad Azərbaycan FM",
+      "s": "http://85.132.81.184:8080/106.3new/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/420247/9253b9fe37d6ba02363a2098e6d86dcb_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Anti Radio",
+      "s": "https://stream.antiradio.net/radio/8000/web",
+      "l": "https://kuasark.com/files/stations-logos/anti-radio.png",
+      "g": [
+        "Electronic",
+        "Alternative",
+        "Jazz",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Vətən",
+      "s": "https://stream-068.zeno.fm/0kgkkzanmueuv?zs=rOb3ScLpRTW5DTdI-paNSQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-vtn.png",
+      "g": [
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "106 FM",
+      "s": "https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581_720p1500kbps.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/106-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio YSF",
+      "s": "http://95.217.196.109:8000/yusif",
+      "l": "https://kuasark.com/files/stations-logos/radio-ysf.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "ASAN Radio",
+      "s": "https://play.asanradio.az/",
+      "l": "https://kuasark.com/files/stations-logos/asan-radio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Araz 103.3 FM",
+      "s": "https://s14.myradiostream.com/:30454/listen.mp3?",
+      "l": "https://kuasark.com/files/stations-logos/araz-1033-fm.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Naxçıvan Radiosu",
+      "s": "http://s33.myradiostream.com:12782/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/naxcivan-radiosu.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio TMB",
+      "s": "http://s39.myradiostream.com:5458/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-tmb-1005.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Balkan Rainbow",
+      "s": "https://s0.radioheart.ru:8000/RH20730",
+      "l": "https://kuasark.com/files/stations-logos/balkan-rainbow.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Xezer 103 FM",
+      "s": "https://s40.myradiostream.com/:22546/listen.mp3?",
+      "l": "https://kuasark.com/files/stations-logos/xezer-103-fm.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "VIVA FM (Azerbaijan)",
+      "s": "https://stream-023.zeno.fm/tbfu8vxb84zuv?zs=SGl62ef0QGaIPijVJUbpbw",
+      "l": "https://kuasark.com/files/stations-logos/viva-fm-azerbaijan.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Media FM",
+      "s": "http://95.217.196.109:8000/mediafm",
+      "l": "https://kuasark.com/files/stations-logos/media-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "DFM - Just Dance",
+      "s": "http://557e041d4bdc.sn.mynetname.net:8000/onefm.aacp56",
+      "l": "https://kuasark.com/files/stations-logos/dfm-just-dance.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Baku Jukebox",
+      "s": "http://78.109.52.73:8000/bkjbox",
+      "l": "https://kuasark.com/files/stations-logos/baku-jukebox.png",
+      "g": [
+        "Classical",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Qebele Radio",
+      "s": "https://radio.qebele.tv/radio/8010/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/qebele-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rakevet",
+      "s": "https://s0.radioheart.ru:8000/RH20728",
+      "l": "https://kuasark.com/files/stations-logos/rakevet.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Media FM Mugam",
+      "s": "http://95.217.196.109:8000/mediamugam",
+      "l": "https://kuasark.com/files/stations-logos/media-fm-mugam.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Baku Retro FM",
+      "s": "http://5.191.241.101:8000/bakuretrofm",
+      "l": "https://kuasark.com/files/stations-logos/baku-retro-fm.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Azərbaycan Radiosu 105 Fm",
+      "s": "http://85.132.27.212:8888/azradio?listening-from-radio-radio-garden=1654328466",
+      "l": "https://kuasark.com/files/stations-logos/105-fm-az.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "DANCE FM",
+      "s": "http://557e041d4bdc.sn.mynetname.net:8000/onefm",
+      "l": "https://kuasark.com/files/stations-logos/dance-fm-az.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

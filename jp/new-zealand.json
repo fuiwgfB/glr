@@ -1,0 +1,2131 @@
+{
+  "stations": [
+    {
+      "t": "Sleep Radio",
+      "s": "https://cast4.my-control-panel.com/proxy/sleeprad/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/6470/wu9e595ba356bd5ba079040806_130x130.webp",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "The Rock FM",
+      "s": "https://tunein-icecast.mediaworks.nz/rock_128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/21907/16a696fb6a9700dc875bd921b4582210_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Deluxe Music Radio",
+      "s": "https://listen.myrh.ru/id022065",
+      "l": "https://images.radiovolna.net/_files/images/stations/420321/99121885ef4727f55c2900a2d3bcba64_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Edge",
+      "s": "https://tunein-icecast.mediaworks.nz/edge_128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/27698/vtuu5991a0e81e197357399572_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "West FM Swing Radio",
+      "s": "http://dledgar.dyndns.org:8000/westfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/402421/o06359bc1f391db56120679319_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Niu FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402395/twgu59bbdb7ace8da705152908_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "XS80s",
+      "s": "http://s1.myradiostream.com:12508/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402437/j35859bcdaa5dcd7d014950416_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Magic",
+      "s": "https://tunein-icecast.mediaworks.nz/magic_128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/402414/5df90d943cf0e6f49070d0c77436d647_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "ZM - Today's Hit Music",
+      "s": "https://ais-nzme.streamguys1.com/nz_008_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/4766/n0ek595d44b6932b8867293963_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Today FM",
+      "s": "https://tunein-icecast.mediaworks.nz/today_[CHC]_128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/402435/78e795f210aa53cb66562ab21c097da2_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "World FM",
+      "s": "http://www.worldfm.co.nz:8882/worldfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4765/amnv597622bc52586343920142_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Dave FM",
+      "s": "http://s13.myradiostream.com:4618/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402438/v85z59bcdb0aaeb3d847978392_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Cheese",
+      "s": "http://thecheese.ddns.net:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4742/jepl5952d1011f047252094886_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio X",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/32499/c1a780dba66be5cccad9cc23a4aa1c0b_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Life FM",
+      "s": "https://rhema-radio.streamguys1.com/rhema-lifefm.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/402410/xqrt59bc1925c661e805646161_130x130.webp",
+      "g": [
+        "Rock",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "The Flea FM",
+      "s": "http://49.50.246.42:8020/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4762/jz6j59bcce7fec5d2696359327_130x130.webp",
+      "g": [
+        "Themes",
+        "Talk"
+      ]
+    },
+    {
+      "t": "SENZ sport radio",
+      "s": "https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402399/9db301219de9aedaf927b4ba5f86bd0c_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "George FM",
+      "s": "https://tunein-icecast.mediaworks.nz/george_128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/402396/h10i59bbdc013674b232191370_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "The Hits",
+      "s": "https://ais-nzme.streamguys1.com/nz_005_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401084/bt6e5976382d045f8507559038_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Te Reo o Tainui",
+      "s": "http://apple.irirangi.net:8000/F_Tainui.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/402447/22947129e6d797c92f2d360418f88848_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Just FM",
+      "s": "http://stream.justfm.co.nz:88/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402440/sgvj59bcdbb30d7c4297438677_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rush FM",
+      "s": "http://rushbroadcasting.serverroom.us:5204/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402420/lfc059bc1e7bc50b7868000891_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "8k",
+      "s": "https://radio8k.out.airtime.pro/radio8k_a",
+      "l": "https://images.radiovolna.net/_files/images/stations/22254/71a9384477092306d5a411111f253f5c_130x130.webp",
+      "g": [
+        "Electronic",
+        "Alternative",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rhema",
+      "s": "https://rhema-radio.streamguys1.com/rhema.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/402402/yl4w59bbe0be3ca7f121274670_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Total FM",
+      "s": "http://219.89.83.33:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402444/w07959bcde9167795298817995_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Star - Christian Radio",
+      "s": "https://rhema-radio.streamguys1.com/rhema-star.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423114/fc6d3d9023536cc267f7c9c8638f1da0_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Kix FM",
+      "s": "http://stream.amsmusic.co.nz:8178/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402403/x79o59bbe1e458faf711936819_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mai FM",
+      "s": "https://tunein-icecast.mediaworks.nz/mai_[WTN]_128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/428577/5973f6ac3593bbda01f2820885916223_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Free FM",
+      "s": "https://live.accessmedia.nz/FreeFM.stream_aac/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/428578/033e519ce51cb8ef3eeca88a9b2f77fe_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Compass FM",
+      "s": "http://stream.compassfm.org.nz:8000/Compass_FM_104.9",
+      "l": "https://images.radiovolna.net/_files/images/stations/423121/b971c877fcb3803c082b9a3d45531080_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mai FM",
+      "s": "https://tunein-icecast.mediaworks.nz/maifm_128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/402392/b5ji59bbd98f848e7593852608_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Humm FM",
+      "s": "https://tunein-icecast.mediaworks.nz/humm_128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/402412/3afb19b86c8f97974820ca9673217eef_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Anthemz FM",
+      "s": "https://s2.reliastream.com/proxy/anthemz?mp=/Anthemz1",
+      "l": "https://images.radiovolna.net/_files/images/stations/428579/dcfc774920f4fb8e0407396aaa4c4e98_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Calvary Radio",
+      "s": "https://s1.voscast.com:11363/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/402425/bxgo59bccf3878782412856701_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "The Sound",
+      "s": "https://tunein-icecast.mediaworks.nz/sound_128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/402389/pmt859bbd53e247eb999926752_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Hauraki",
+      "s": "https://ais-nzme.streamguys1.com/nz_009_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/402385/wryw59bbd3b97f481899742008_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "New Zealand Parliament",
+      "s": "http://radionz-ice.streamguys.com/parliament",
+      "l": "https://images.radiovolna.net/_files/images/stations/402398/is4e59bbddeb35983732251250_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Planet FM",
+      "s": "https://cp12.shoutcheap.com:18220/strem",
+      "l": "https://images.radiovolna.net/_files/images/stations/402411/uvf559bc19bda357f072937970_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Hits",
+      "s": "https://ais-nzme.streamguys1.com/nz_027_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423124/33420ff71780335df6d63ad0313ee659_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Active",
+      "s": "https://radio123-gecko.radioca.st/radioactivefm",
+      "l": "https://images.radiovolna.net/_files/images/stations/402382/z3m359bbd22c20691563332175_130x130.webp",
+      "g": [
+        "Rap",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Flava",
+      "s": "https://ais-nzme.streamguys1.com/nz_010_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/402409/y4db59bc18aa66312741218864_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "City FM",
+      "s": "http://54.251.110.128:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/402404/hld159bbe2656a661360779340_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "531pi",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PI.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402413/ty2u59bc1b4d3c8bd598023745_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Tahu FM",
+      "s": "http://icast1.streamcom.net:8000/TahuFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/402429/57600c82ca0c98ad3793c1be4c04fe0b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "West Coast Radio WCR",
+      "s": "http://stream.nrgkits.co.nz:5000/wcrfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/402415/kvkw59bc1dd3147c5525173295_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Newstalk ZB",
+      "s": "https://ais-nzme.streamguys1.com/nz_004_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/402383/wais59bbd2db1ed67869310546_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "andhow.FM",
+      "s": "http://199.180.75.6:80/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4744/g9fs59770b7d0051f286093758_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Positively Waihou",
+      "s": "https://c32.radioboss.fm:18121/stream ",
+      "l": "https://images.radiovolna.net/_files/images/stations/425877/2ba5335b1c5e40e6932db0aac74f8a6a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Hits",
+      "s": "https://ais-nzme.streamguys1.com/nz_007_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423118/33f4c43beb8d75e16e7f95703a842733_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Apna",
+      "s": "http://69.30.243.166:12108/;;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423115/709f4e13c586289afaceba08b3e39850_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Rock It",
+      "s": "http://108.163.223.242:8368/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402445/dlt159bcdef6a6208933271900_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Tarana",
+      "s": "http://peridot.streamguys.com:7150/Tarana.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423116/93cb6f50df6f0d28a40231e927a8bd49_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Classic Gold",
+      "s": "http://shoutcast.classicgold.co.nz:80/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423122/9728425795d3136aa6d02b1330ee0b5d_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "The Hits",
+      "s": "https://ais-nzme.streamguys1.com/nz_006_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423120/e69cb5990ca3477462810055daa83df1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Hits",
+      "s": "https://ais-nzme.streamguys1.com/nz_014_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/423123/72bb91d860c02949f621b72de755b340_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RDU",
+      "s": "https://rdu985fm-gecko.radioca.st/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402433/561c5a9460740786ed3b9c96d35b99dd_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "MAD FM",
+      "s": "http://falcon.shoutca.st:8325/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/402426/eeo959bccfd3008e2317287419_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Positively Morrinsville",
+      "s": "https://c16.radioboss.fm:18262/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426848/b35dd2803c6d74b8246366d8d5a1f390_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Atiawa Toa FM",
+      "s": "http://apple.irirangi.net:8000/Q_Atiawa_Toa.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/402393/jgb559bbda7c75120876684439_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Otago Access Radio",
+      "s": "https://live.accessmedia.nz/Otago.stream_aac/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402442/qwbh59bcdda7e1a2d762769754_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Virsa NZ",
+      "s": "http://s8.voscast.com:7992/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402427/l7r359bcd045e27e9984957153_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Wellington Access Radio",
+      "s": "https://live.accessmedia.nz/Wellington.stream_aac/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402400/qwuh59bbdf052844a226137452_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Tama-Ohi Radio",
+      "s": "https://stream.zeno.fm/wnd22q3485quv",
+      "l": "https://images.radiovolna.net/_files/images/stations/402417/e2so59bc1cfa7fbc0773640007_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Power Hit Radio",
+      "s": "http://listen.powerhitfm.co.nz:16100/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402436/pvpu59bcda2385a94319241851_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "One",
+      "s": "http://stream.r1.co.nz:8090/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4759/tq4459bcdc58cab05442066906_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Pulzar FM",
+      "s": "https://tunein-icecast.mediaworks.nz/PulzarFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/402434/y2ij59bcd915ea7e8785190330_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "The Breeze",
+      "s": "https://tunein-icecast.mediaworks.nz/breeze_wellington_128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/402387/xize59bbd47476047229928694_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "New Zealand Net Radio",
+      "s": "https://radio.nznetradio.net.nz/stream3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429976/6ec269d030347f03da99ef11a3d2ea75_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Groove FM",
+      "s": "http://live.outcastdigital.com:8000/groove",
+      "l": "https://images.radiovolna.net/_files/images/stations/423119/aee05f4cb0a04f57a97a204110f608e6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Plains FM",
+      "s": "https://live.accessmedia.nz/plains.stream_aac/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402432/re1m59bcd8242efe7068590880_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "SIBC",
+      "s": "https://listen.mixlr.com/0560e47339f515d3a00f9b9c3593f750",
+      "l": "https://images.radiovolna.net/_files/images/stations/426171/b428828f2d3d851f8b3b445a51d65c26_130x130.webp",
+      "g": [
+        "Latin",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Gold Sport",
+      "s": "https://ais-nzme.streamguys1.com/nz_016_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/4760/eb3c4e1630f3f09049288affeaa261d1_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "New Zealand National",
+      "s": "http://radionz-ice.streamguys.com/national.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402394/geea59bbdada718b3143647998_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Spice",
+      "s": "http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/402397/scdt59bbdcf52d53f334396903_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Today FM",
+      "s": "https://tunein-icecast.mediaworks.nz/today_am_128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/428573/c41b631be41725f6e6378a0777e1191f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Newstalk ZB",
+      "s": "https://ais-nzme.streamguys1.com/nz_002_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/4754/du35597b627e48261366065343_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "LFM",
+      "s": "http://stream.lfmonline.co.nz:8028/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/4752/fgx75a2c0b2e62bfa728867330_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Raukawa FM",
+      "s": "http://apple.irirangi.net:8000/W_Raukava.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/402446/yh8t59bce0ca6d0c3352385817_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "More FM",
+      "s": "https://tunein-icecast.mediaworks.nz/more_wlg_128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/402391/pwo159bbd910d882f531825449_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dunedin",
+      "s": "https://livestream.mediaworks.nz/radio_origin/Radio_Dunedin/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/402443/mdrj59bcdde4a4f7a291676531_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Magic",
+      "s": "https://livestream.mediaworks.nz/radio_origin/magic_128kbps/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/magic-nz.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Coast FM",
+      "s": "https://ais-nzme.streamguys1.com/nz_011_aac",
+      "l": "https://kuasark.com/files/stations-logos/coast-fm-nz.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RNZ - National",
+      "s": "https://radionz.streamguys1.com/national/national/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rnz-national-nz-88392.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Sound",
+      "s": "https://livestream.mediaworks.nz/radio_origin/sound_128kbps/chunklist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/the-sound-nz.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Sport",
+      "s": "https://us-ais-nzme.streamguys1.com/nz_002/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-sport-nz.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "More FM",
+      "s": "https://livestream.mediaworks.nz/radio_origin/more_128kbps/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/more-fm-nz.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bitter Sweet Music NZ",
+      "s": "http://91.121.236.34:8520/nz",
+      "l": "https://kuasark.com/files/stations-logos/bitter-sweet-music-nz.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "The Hits",
+      "s": "https://ais-nzme.streamguys1.com/nz_005/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/the-hits-nz.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Life FM",
+      "s": "https://rhema-radio.streamguys1.com/rhema-lifefm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/life-fm-nz.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Niu FM",
+      "s": "https://24923.live.streamtheworld.com:443/NIUFM.mp3",
+      "l": "https://kuasark.com/files/stations-logos/niu-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Retro Hit Radio",
+      "s": "https://riphel02.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/retro-hit-radio.png",
+      "g": [
+        "Classical",
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dave FM",
+      "s": "http://s13.myradiostream.com:4618/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dave-fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "RNZ - Concert",
+      "s": "https://radionz.streamguys1.com/concert/concert/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rnz-concert.png",
+      "g": [
+        "Classical",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "ROVA - Acoustic Chill",
+      "s": "https://14093.live.streamtheworld.com:443/ROVA_ACOUSTICCHILL_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/rova-acoustic-chill.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "The Generator FM",
+      "s": "http://s1.myradiostream.com:14268/;",
+      "l": "https://kuasark.com/files/stations-logos/the-generator-fm.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "RNZ - International",
+      "s": "http://radionz-ice.streamguys.com/international.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rnz-international.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rhema Radio",
+      "s": "https://rhema-radio.streamguys1.com/rhema.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rhema-radio-nz.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tiri 2",
+      "s": "https://streamer.radio.co/s81fc850fd/listen",
+      "l": "https://kuasark.com/files/stations-logos/tiri-2.png",
+      "g": [
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "ROVA - Country Chill",
+      "s": "https://14073.live.streamtheworld.com:443/ROVA_COUNTRYCHILL_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/rova-country-chill.png",
+      "g": [
+        "Easy Listening",
+        "Country"
+      ]
+    },
+    {
+      "t": "ROVA - Chill Hop",
+      "s": "https://24863.live.streamtheworld.com:443/ROVA_CHILLHOP_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/rova-chill-hop.png",
+      "g": [
+        "Easy Listening",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Radio X",
+      "s": "https://26453.live.streamtheworld.com:443/SAM02AAC65_SC",
+      "l": "https://kuasark.com/files/stations-logos/radio-x-nz-115611.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Mix FM",
+      "s": "https://stream.mixfm.nz/",
+      "l": "https://kuasark.com/files/stations-logos/mix-fm-nz.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio 531pi",
+      "s": "https://18703.live.streamtheworld.com:443/531PI.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-531pi.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "ZFM Non-Stop",
+      "s": "http://nebula.shoutca.st:8545/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/zfm-non-stop.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ROVA - Big Country",
+      "s": "https://18303.live.streamtheworld.com:443/BIGCOUNTRY_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/rova-big-country.png",
+      "g": [
+        "Country",
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Most FM",
+      "s": "http://gordon.mostfm.com:8000/high",
+      "l": "https://kuasark.com/files/stations-logos/most-fm.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "RAG-FM 107.7 Raglan New Zealand",
+      "s": "https://ssl.shoutcaststreaming.us:8138/;",
+      "l": "https://kuasark.com/files/stations-logos/rag-fm-1077-raglan-new-zealand.png",
+      "g": [
+        "Country",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Coast Access",
+      "s": "https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/coast-access.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Control",
+      "s": "https://michae14-gecko.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-control.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Tarana",
+      "s": "https://peridot.streamguys1.com:7150/Tarana.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-tarana-nz-100405.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "SANZLive Radio",
+      "s": "https://s3.radio.co/s47a56becc/listen",
+      "l": "https://kuasark.com/files/stations-logos/sanzlive-radio.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "R&B and Urban",
+        "Jazz",
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "George FM DnB",
+      "s": "https://24973.live.streamtheworld.com:443/GEORGE_DNB_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/george-fm-dnb.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "95b FM",
+      "s": "https://ssl.geckohost.nz/proxy/caitlinssl?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/95b-fm.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "andHow.FM",
+      "s": "https://us4.internet-radio.com/proxy/andhowfm?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/andhowfm.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vinyl Radio NZ",
+      "s": "https://s40.myradiostream.com/:17794/listen.aac?nocache=1682447178",
+      "l": "https://kuasark.com/files/stations-logos/vinyl-radio-nz.png",
+      "g": [
+        "Rock",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Heads FM",
+      "s": "http://167.114.156.116:8760/;",
+      "l": "https://kuasark.com/files/stations-logos/heads-fm.png",
+      "g": [
+        "Themes",
+        "Electronic",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Base FM",
+      "s": "https://stream.basefm.co.nz:8443/Base256AAC",
+      "l": "https://kuasark.com/files/stations-logos/base-fm-nz.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Rap",
+        "Jazz",
+        "Pop",
+        "Reggae",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Switch FM Gisborne",
+      "s": "http://s8.myradiostream.com:56886/listen.m4a",
+      "l": "https://kuasark.com/files/stations-logos/switch-fm-gisborne.png",
+      "g": [
+        "Alternative",
+        "Electronic",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Gold FM",
+      "s": "https://ais-nzme.streamguys1.com/nz_015/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/gold-fm-nz.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "New Zealand Net Radio",
+      "s": "https://www.nznetradio.net.nz:8443/stream3",
+      "l": "https://kuasark.com/files/stations-logos/new-zealand-net-radio.png",
+      "g": [
+        "Classical",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Power Hit FM 87.8",
+      "s": "https://pstnet1.shoutcastnet.com:16104/stream",
+      "l": "https://kuasark.com/files/stations-logos/power-hit-fm-878.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "East FM",
+      "s": "https://listen.eastfm.nz/stream.aac",
+      "l": "https://kuasark.com/files/stations-logos/east-fm-nz-88399.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Hokonui Radio",
+      "s": "https://ais-nzme.streamguys1.com/nz_013_aac",
+      "l": "https://kuasark.com/files/stations-logos/hokonui-radio.png",
+      "g": [
+        "Country",
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Flea FM",
+      "s": "http://49.50.246.42:8020/;",
+      "l": "https://kuasark.com/files/stations-logos/the-flea-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Sound Deep Cuts",
+      "s": "https://18323.live.streamtheworld.com:443/THESOUND_DC_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/the-sound-deep-cuts.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Gaia FM",
+      "s": "https://s2.stationplaylist.com:9000/gaiafm.aac",
+      "l": "https://kuasark.com/files/stations-logos/gaia-fm.png",
+      "g": [
+        "Jazz",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio One",
+      "s": "http://stream.r1.co.nz:8090/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-one-nz.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Kaos FM NZ",
+      "s": "http://74.91.125.187:8068/stream",
+      "l": "https://kuasark.com/files/stations-logos/kaos-fm-nz.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Metal",
+        "Other"
+      ]
+    },
+    {
+      "t": "The Rock 90s",
+      "s": "https://22963.live.streamtheworld.com:443/ROCK_90S_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/the-rock-90s.png",
+      "g": [
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Jazz Cafe",
+      "s": "https://radio.wanderingsheep.net:8000/jazzcafe",
+      "l": "https://kuasark.com/files/stations-logos/jazz-cafe-nz.png",
+      "g": [
+        "Easy Listening",
+        "Inspirational",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Coromandel’s CFM",
+      "s": "https://stream.cfm.co.nz/low",
+      "l": "https://kuasark.com/files/stations-logos/coromandels-cfm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Apna 990 AM",
+      "s": "https://ais-nzme.streamguys1.com/nz_145/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-apna-990-am.png",
+      "g": [
+        "International",
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "One Double-X",
+      "s": "https://radio.e-cast.co.nz/1xxone/stream.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/one-double-x.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "The Breeze Relax",
+      "s": "https://19213.live.streamtheworld.com:443/BREEZE_RELAX_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/the-breeze-relax.png",
+      "g": [
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Beach Hop Magic",
+      "s": "https://22973.live.streamtheworld.com:443/MAGIC_BEACHHOP_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/beach-hop-magic.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Tautoko",
+      "s": "https://s5.voscast.com:9751/TautokoFM.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-tautoko.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nui FM",
+      "s": "https://nuifmjac-gecko.radioca.st/index",
+      "l": "https://kuasark.com/files/stations-logos/nui-fm.png",
+      "g": [
+        "Pop",
+        "Rap",
+        "Other"
+      ]
+    },
+    {
+      "t": "Bayrock",
+      "s": "https://radio.e-cast.co.nz/bayrock/stream.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/bayrock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "NOW! Radio",
+      "s": "https://broadcast.airwaven.com/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/now-radio-nz.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "The Breeze Totally 80s",
+      "s": "https://22963.live.streamtheworld.com:443/BREEZE80S_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/the-breeze-totally-80s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Mai FM Top 200 of the 2000's",
+      "s": "https://14073.live.streamtheworld.com:443/MAI_2000S_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/mai-fm-top-200-of-the-2000s.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "World FM",
+      "s": "http://www.worldfm.co.nz:8882/worldfm.aac",
+      "l": "https://kuasark.com/files/stations-logos/world-fm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Southland",
+      "s": "https://live.accessmedia.nz/Southland.stream_aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-southland.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Static FM",
+      "s": "http://commsweb.aut.ac.nz:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/static-fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Pulzar FM",
+      "s": "https://icecast.mediaworks.nz/PulzarFM",
+      "l": "https://kuasark.com/files/stations-logos/pulzar-fm.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "R&B and Urban",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tamil Panpalai ANZ",
+      "s": "https://tamilpanpalai.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/tamil-panpalai-anz.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Q97",
+      "s": "https://radio.e-cast.co.nz/q97/stream.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/q97-nz.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "AWA FM",
+      "s": "https://stream.iwi.radio/Awa_FM.aac",
+      "l": "https://kuasark.com/files/stations-logos/awa-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mushroom FM",
+      "s": "https://cast3.my-control-panel.com/proxy/jonatha1/live",
+      "l": "https://kuasark.com/files/stations-logos/mushroom-fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Robotic",
+      "s": "https://stream-023.zeno.fm/rhscse2a41zuv?zs=Y0xdDc4lSEydfDAusmKudQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-robotic.png",
+      "g": [
+        "Alternative",
+        "Other"
+      ]
+    },
+    {
+      "t": "Fresh FM",
+      "s": "https://live.accessmedia.nz/Fresh.stream_aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/fresh-fm-nz.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Rock 2000 Replay",
+      "s": "https://18313.live.streamtheworld.com:443/ROCK1500_REPLAY_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/the-rock-2000-replay.png",
+      "g": [
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Black Caps Radio",
+      "s": "https://22983.live.streamtheworld.com:443/BLACKCAPS_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/black-caps-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Hydra",
+      "s": "https://streaming.radio.co/sed9109681/listen",
+      "l": "https://kuasark.com/files/stations-logos/radio-hydra.png",
+      "g": [
+        "Blues",
+        "Country",
+        "Decades",
+        "Other",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "100.3 FM South Canterbury",
+      "s": "http://uk4-vn.mixstream.net:8066/;",
+      "l": "https://kuasark.com/files/stations-logos/1003-fm-south-canterbury.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "George FM Chillsville",
+      "s": "https://18323.live.streamtheworld.com:443/CHILLSVILLE_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/george-fm-chillsville.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "More FM High School Hits",
+      "s": "https://18313.live.streamtheworld.com:443/MOREFM_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/more-fm-high-school-hits.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Kia Ora",
+      "s": "https://wowza.iwi.radio/icecast-to-hls/ngrp:KiaOraFM.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/kia-ora.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio A Nelson",
+      "s": "https://listen.radioking.com/radio/106324/stream/145267",
+      "l": "https://kuasark.com/files/stations-logos/radio-a-nelson.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Big River",
+      "s": "http://bigriver.broadcast.co.nz/bigriverfm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/big-river.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Hutt Radio",
+      "s": "https://stream-150.zeno.fm/argf5n7rbrruv?zs=N6vty2ODS4Gesx2gO9lW1w",
+      "l": "https://kuasark.com/files/stations-logos/hutt-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "badradio | 24/7 PHONK",
+      "s": "https://s2.radio.co/s2b2b68744/listen",
+      "l": "https://kuasark.com/files/stations-logos/badradio-24-7-phonk.png",
+      "g": [
+        "Easy Listening",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Jeewan Dhaara",
+      "s": "https://stream.radio.co/s82f023bab/listen",
+      "l": "https://kuasark.com/files/stations-logos/jeewan-dhaara.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Brian FM Whanganui",
+      "s": "https://ais-sa1.streamon.fm/7100_128k.aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/brian-fm-whanganui.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "The Edge Mix",
+      "s": "https://14073.live.streamtheworld.com:443/EDGEMIX_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/the-edge-mix.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Sound Acoustic Sunrise",
+      "s": "https://19213.live.streamtheworld.com:443/ACOUSTICSUNRISE_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/the-sound-acoustic-sunrise.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mai Hot 1200 on Shuffle",
+      "s": "https://18323.live.streamtheworld.com:443/MAIHOT900_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/mai-hot-1200-on-shuffle.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Rock FM",
+      "s": "http://www.radiorockfm.co.nz:8000/listenlive",
+      "l": "https://kuasark.com/files/stations-logos/radio-rock-fm-nz.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Metal",
+        "Other"
+      ]
+    },
+    {
+      "t": "FLEET FM",
+      "s": "https://audio.fleetfm.co.nz/shows/jimmy_210115.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fleet-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Waiheke Wireless Meditate",
+      "s": "http://66.70.249.70:5654/stream",
+      "l": "https://kuasark.com/files/stations-logos/waiheke-wireless-meditate.png",
+      "g": [
+        "Alternative",
+        "Classical",
+        "Themes",
+        "Electronic",
+        "R&B and Urban",
+        "Jazz",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "SKI FM",
+      "s": "https://s2.radio.co/s6436891bc/listen",
+      "l": "https://kuasark.com/files/stations-logos/ski-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TC Radio",
+      "s": "https://kris-gecko.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/tc-radio-nz.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "George FM Club Classics",
+      "s": "https://18303.live.streamtheworld.com:443/GEORGEFM_CC_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/george-fm-club-classics.png",
+      "g": [
+        "Other",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "GuruBox Radio",
+      "s": "https://s3.castbox.fm/c5/8e/12/a67a624f318f861068543fbafc.mp3",
+      "l": "https://kuasark.com/files/stations-logos/gurubox-radio.png",
+      "g": [
+        "Easy Listening",
+        "New Age",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radiowave NZ",
+      "s": "https://stream.radiowavenz.com/stream",
+      "l": "https://kuasark.com/files/stations-logos/radiowave-nz.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Raukawa FM",
+      "s": "https://wowza.iwi.radio/icecast-to-hls/ngrp:RaukawaFM.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/raukawa-fm.png",
+      "g": [
+        "Folk",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Wireless 90.4FM",
+      "s": "https://thewireless.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/the-wireless-904fm.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Gold AM",
+      "s": "https://ais-nzme.streamguys1.com/nz_016/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/gold-am.png",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Manawatu People's Radio",
+      "s": "https://live.accessmedia.nz/MPR.stream_aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/manawatu-peoples-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mai FM Backyard Beats",
+      "s": "https://19213.live.streamtheworld.com:443/MAIBB_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/mai-fm-backyard-beats.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Classic Gold Radio Redwood",
+      "s": "http://123.255.61.226:8020/;",
+      "l": "https://kuasark.com/files/stations-logos/classic-gold-radio-redwood.png",
+      "g": [
+        "Country",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Tama-Ohi",
+      "s": "https://stream-154.zeno.fm/y4xnq17q068uv?zs=OjOHyeJqQ_20gDQ1deELLw",
+      "l": "https://kuasark.com/files/stations-logos/radio-tama-ohi.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mai FM Jordan Lee",
+      "s": "https://23043.live.streamtheworld.com:443/MAIJORDANLEE_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/mai-fm-jordan-lee.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "The Edge 40",
+      "s": "https://23263.live.streamtheworld.com:443/EDGE40_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/the-edge-40.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Titan Radio",
+      "s": "https://stream-149.zeno.fm/peva0zqmvoitv?zs=BQ4nD4bhTaOhaU9XR-OGwg",
+      "l": "https://kuasark.com/files/stations-logos/titan-radio.png",
+      "g": [
+        "Rap",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kidnappers",
+      "s": "https://live.accessmedia.nz/Kidnappers.stream_aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-kidnappers.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "8k.nz",
+      "s": "https://radio8k.out.airtime.pro/radio8k_b",
+      "l": "https://kuasark.com/files/stations-logos/8knz.png",
+      "g": [
+        "Themes",
+        "Electronic",
+        "Alternative",
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Platform",
+      "s": "https://tp-hls-1.resonate.net.nz/hls/stream.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/the-platform.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mai FM DJ 09",
+      "s": "https://14073.live.streamtheworld.com:443/MAIDJ09_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/mai-fm-dj-09.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio BurgerFuel",
+      "s": "https://s3.radio.co/s9909bd65f/listen",
+      "l": "https://kuasark.com/files/stations-logos/radio-burgerfuel.png",
+      "g": [
+        "Alternative",
+        "Rap",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "936新闻台",
+      "s": "http://radio.936.nz:8000/am936",
+      "l": "https://kuasark.com/files/stations-logos/936xin-wen-tai.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Love FM 交通音乐广播",
+      "s": "http://radio.936.nz:8000/fm994",
+      "l": "https://kuasark.com/files/stations-logos/love-fm-jiao-tong-yin-le-guang-bo.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Latin Play (Nueva Zelanda)",
+      "s": "https://stream-107.zeno.fm/08u6gygd5zhvv?zs=x2T0IpdwQPuDU8BT95SPXQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-latin-play-nueva-zelanda.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tiki FM",
+      "s": "https://stream-148.zeno.fm/ac0spkfrx6buv?zs=aBqIyGY4SSaAn5cSJp2HoQ",
+      "l": "https://kuasark.com/files/stations-logos/tiki-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Waiheke Wireless Old is Cool",
+      "s": "http://66.70.249.70:5651/stream",
+      "l": "https://kuasark.com/files/stations-logos/waiheke-wireless-old-is-cool.png",
+      "g": [
+        "Easy Listening",
+        "Classical",
+        "R&B and Urban",
+        "Jazz",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "White Ferns Radio",
+      "s": "https://14093.live.streamtheworld.com:443/WHITEFERNS_S01.aac",
+      "l": "https://kuasark.com/files/stations-logos/white-ferns-radio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Waiheke Wireless Work",
+      "s": "http://66.70.249.70:5015/stream",
+      "l": "https://kuasark.com/files/stations-logos/waiheke-wireless-work.png",
+      "g": [
+        "Easy Listening",
+        "Classical",
+        "R&B and Urban",
+        "Jazz",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Waiheke Wireless Rock Salt",
+      "s": "http://66.70.249.70:5657/stream",
+      "l": "https://kuasark.com/files/stations-logos/waiheke-wireless-rock-salt.png",
+      "g": [
+        "Easy Listening",
+        "Classical",
+        "R&B and Urban",
+        "Jazz",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Trucking Radio 24/7",
+      "s": "https://truckingradio247.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/trucking-radio-24-7.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Viperfm",
+      "s": "https://viperfm-gecko.radioca.st/viperfmlive",
+      "l": "https://kuasark.com/files/stations-logos/viperfm.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Station Beta",
+      "s": "https://stream-153.zeno.fm/irlu7nxorn5uv?zs=aMHildSPSwKLvesR091BWA",
+      "l": "https://kuasark.com/files/stations-logos/station-beta-124871.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Talk FM",
+      "s": "https://stream-152.zeno.fm/oev73pq1wcavv?zs=CYydIIKmTAesIX3JixNmTg",
+      "l": "https://kuasark.com/files/stations-logos/talk-fm.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Paekakariki",
+      "s": "http://icecast.groundtruth.co.nz:8000/paekakfm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/paekakariki.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Wandering Sheep Radio - Jazz Cafe",
+      "s": "http://radio.wanderingsheep.tv:8000/jazzcafe",
+      "l": "https://kuasark.com/files/stations-logos/wandering-sheep-radio-jazz-cafe.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Galaxy 107 FM  Kawerau",
+      "s": "http://s39.myradiostream.com:14858/;listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/galaxy-107-fm-kawerau.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Wandering Sheep Radio - Christian Smooth Jazz",
+      "s": "http://radio.wanderingsheep.tv:8021/christianjazz",
+      "l": "https://kuasark.com/files/stations-logos/wandering-sheep-radio-christian-smooth-jazz.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Wandering Sheep Radio - Hope Alive",
+      "s": "http://radio.wanderingsheep.tv:8012/hopealive",
+      "l": "https://kuasark.com/files/stations-logos/wandering-sheep-radio-hope-alive.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "95bFM Auckland",
+      "s": "http://streams.95bfm.com/stream112",
+      "l": "https://kuasark.com/files/stations-logos/95bfm-auckland.png",
+      "g": [
+        "Alternative",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio New Zealand Concert",
+      "s": "http://radionz-ice.streamguys.com/Concert_aac128",
+      "l": "https://kuasark.com/files/stations-logos/radio-new-zealand-concert.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "RNZ Pacific (64kbps)",
+      "s": "http://radionz-ice.streamguys.com/international_aac64",
+      "l": "https://kuasark.com/files/stations-logos/rnz-pacific-64kbps.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Newstalk ZB Christchurch",
+      "s": "https://us-ais-nzme.streamguys1.com/nz_003_aac",
+      "l": "https://kuasark.com/files/stations-logos/newstalk-zb-christchurch.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Newstalk ZB Wellington",
+      "s": "https://us-ais-nzme.streamguys1.com/nz_004_aac",
+      "l": "https://kuasark.com/files/stations-logos/newstalk-zb-wellington.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mix",
+      "s": "https://ais-nzme.streamguys1.com/nz_012/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/mix-nz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RNZ - Radio New Zealand - In Parliament",
+      "s": "http://radionz-ice.streamguys.com/parliament.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rnz-radio-new-zealand-in-parliament.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "RNZ - Radio New Zealand Classic",
+      "s": "http://radionz-ice.streamguys.com/concert.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rnz-radio-new-zealand-classic.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "RNZ Concert AAC+",
+      "s": "http://radionz-ice.streamguys.com/fallback-concert_aac128",
+      "l": "https://kuasark.com/files/stations-logos/rnz-concert-aac-.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "The Edge NZL",
+      "s": "https://livestream.mediaworks.nz/radio_origin/edge_128kbps/chunklist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/the-edge-nzl.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Tarana",
+      "s": "http://ais-nzme.streamguys1.com/nz_116_aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-tarana-nz-20097.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "East FM",
+      "s": "http://listen.eastfm.nz/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/east-fm-nz-20456.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "The Cheese (lossless)",
+      "s": "http://thecheese.ddns.net:8004/stream",
+      "l": "https://kuasark.com/files/stations-logos/the-cheese-lossless.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Breeze Auckland",
+      "s": "http://tunein-icecast.mediaworks.nz/breeze_128kbps",
+      "l": "https://kuasark.com/files/stations-logos/the-breeze-auckland.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Smooth 105.6 FM",
+      "s": "https://smooth.radioca.st/streams/64kbps",
+      "l": "https://kuasark.com/files/stations-logos/smooth-1056-fm.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "The Generator",
+      "s": "https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892",
+      "l": "https://kuasark.com/files/stations-logos/the-generator.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "MORE 92.8FM Nelson NZ",
+      "s": "https://tunein-icecast.mediaworks.nz/more_nelson_128kbps",
+      "l": "https://kuasark.com/files/stations-logos/more-928fm-nelson-nz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Coast FM 96.5 Westport - New Zealand",
+      "s": "http://37.59.37.6:12364/;nocache=1625478274?0.931107896726214",
+      "l": "https://kuasark.com/files/stations-logos/coast-fm-965-westport-new-zealand.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Brian FM 105.6 Nelson NZ",
+      "s": "https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/brian-fm-1056-nelson-nz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "XS80s",
+      "s": "http://s1.myradiostream.com:12508/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/xs80s.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Hits 89.6 Nelson - New Zealand",
+      "s": "http://ais-nzme.streamguys1.com/nz_020_aac",
+      "l": "https://kuasark.com/files/stations-logos/the-hits-896-nelson-new-zealand.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "GOLD 105.4 Auckland - New Zealand",
+      "s": "http://ais-nzme.streamguys1.com/nz_015_aac",
+      "l": "https://kuasark.com/files/stations-logos/gold-1054-auckland-new-zealand.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Beach FM 106.3",
+      "s": "https://s8.myradiostream.com:58408/;",
+      "l": "https://kuasark.com/files/stations-logos/beach-fm-1063.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "2XS FM Palmerston North",
+      "s": "http://125.236.204.178:8001/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/2xs-fm-palmerston-north.png",
+      "g": [
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "THE BREEZE 97.6 Nelson - NZ",
+      "s": "https://tunein-icecast.mediaworks.nz/breeze_nelson_128kbps",
+      "l": "https://kuasark.com/files/stations-logos/the-breeze-976-nelson-nz.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Coast Access Radio MP3",
+      "s": "https://live.accessmedia.nz/Coast.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/coast-access-radio-mp3.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mushroom Escape",
+      "s": "http://65.108.124.70:8676/escape",
+      "l": "https://kuasark.com/files/stations-logos/mushroom-escape.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Horror Punk Radio",
+      "s": "http://procyon.shoutca.st:8428/stream",
+      "l": "https://kuasark.com/files/stations-logos/horror-punk-radio.png",
+      "g": [
+        "Rock"
+      ]
+    }
+  ]
+}

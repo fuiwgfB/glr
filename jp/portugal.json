@@ -1,0 +1,2578 @@
+{
+  "stations": [
+    {
+      "t": "Hard & Heavy Metal Hits Radio",
+      "s": "https://stream.zeno.fm/6qkgp2q90feuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/5059/xz4i5a291a028dbe4617391015_130x130.webp",
+      "g": [
+        "Metal"
+      ]
+    },
+    {
+      "t": "SBSR",
+      "s": "https://centova.radios.pt/proxy/435?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401875/dxqq59afe9e53542f534206776_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RFM - On The Rock",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMONTHEROCKAAC.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/420383/c3828f810a4c2397db0cce7302d1a933_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Festival Madeira",
+      "s": "http://radiosmadeira.net:8012/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/31792/96583b2feceea1d076f5af13810c00c8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Deep in Radio",
+      "s": "https://ssl1.viastreaming.net:8525/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/5055/ucbl596dfb1e16676740897073_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "The VIBE - Dancefloor Radio",
+      "s": "http://109.71.41.6:8046/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/24194/92cbf55f0a4bacfcbbfed5182aea9fe3_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "RFM",
+      "s": "https://20073.live.streamtheworld.com/RFMAAC_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/6698/qp38596da48fab593215142776_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "São Miguel",
+      "s": "https://nl.digitalrm.pt:8140/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27919/873f8b2eb1c24a735375e66a51d531fe_130x130.webp",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "RDS - Rádio Seixal",
+      "s": "https://s9.yesstreaming.net:7070/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423370/08dc3a3edd9436c935ab797e2cbf6951_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "TSF Rádio Notícias",
+      "s": "https://tsfdirecto.tsf.pt/tsfdirecto.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/6697/behx597b60774e888275068635_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Golo FM",
+      "s": "http://play.golo.fm:8020/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423373/2943363ab4c9fb7197ae451f69f12216_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Portuguesa do Var",
+      "s": "http://rcpvar.org:8558/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/5077/mttt595f34bd27f5c542355457_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "RFM 80s",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/GR80SRFMAAC_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/25003/3520e74574de49bf63096d7375d5450f_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Popular FM",
+      "s": "http://185.11.164.106:32281/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/5068/e94b597619d41e960928919383_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Noite FM",
+      "s": "http://live.noite.pt:8080/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/5064/ibqn595e2e756c243787929937_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nova",
+      "s": "https://centova.radio.com.pt/proxy/528?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/5074/vf0m595b7c81016d5950462057_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Rlcb Tuga",
+      "s": "https://ssl.conectastreaming.com:8272/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/285929/1479650480_dois1.gif-646622_130x130.webp",
+      "g": [
+        "International",
+        "Folk",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Porão da nau radio",
+      "s": "https://stream.zeno.fm/pexep60uhnruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/431410/745f98af212538ec4884e851039d381d_130x130.webp",
+      "g": [
+        "Decades",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Smooth FM",
+      "s": "https://mcrscast.mcr.iol.pt/smoothfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/401881/ea168abc43f98cc404b8940571caf0fd_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Popular",
+      "s": "http://radiosmadeira.net:8008/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/31790/7a46088f714c764ca90435b3f3672392_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Miradouro",
+      "s": "http://radio.miradouro.pt:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/5063/zov8596cd7ed03938199454689_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Popular de Soure",
+      "s": "https://nl.digitalrm.pt:8072/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27916/1e928423e9590a7c25691a95b89529ce_130x130.webp",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "FAUSTEX",
+      "s": "http://95.154.196.33:7904/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/21219/231a36cb45d9d99a695d8807db0692f1_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock",
+        "Pop",
+        "Blues"
+      ]
+    },
+    {
+      "t": "Rádio Positiva",
+      "s": "https://nl.digitalrm.pt:8016/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428252/69e45f71e4c1cb02ff53455fe017d7f4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RUC - Rádio Universidade de Coimbra",
+      "s": "https://stream.ruc.pt/high",
+      "l": "https://images.radiovolna.net/_files/images/stations/26998/f3944fde53d5ba0f164c835809e5376e_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Cidade Hoje",
+      "s": "http://centova.radio.com.pt:8119/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27666/bb72539f7ca8fb73ccad1943be6da69f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Barca",
+      "s": "http://centova.radios.pt:8483/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26907/18d838ca48e4d7cb55967f3009495d5a_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Altitude FM",
+      "s": "http://centova.radio.com.pt:9034/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26967/6915db46339192f2ad2cb2d256a227c8_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "TLA Rádio",
+      "s": "http://centova.radio.com.pt:8545/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/29644/39e28d3688c36b5cfda2bc247deb36b5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ultra FM",
+      "s": "https://centova.radio.com.pt/proxy/506?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27191/0c7895e32cea5518578898788fab5534_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "RADIO FAUSTEX PORTUGUESE MUSIC 2",
+      "s": "http://109.169.23.22:14926/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420368/0553ec86ea5666c4f97a8a7cad6abaa0_130x130.webp",
+      "g": [
+        "Pop",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Palmeira Madeira",
+      "s": "http://radiosmadeira.net:8018/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/31789/af3b74a302f7e7647d692482ddc4daff_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MARCOENSE FM",
+      "s": "http://137.74.160.250:8000/;stream/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/27963/584f8f8be60e831ee541c222792c34cb_130x130.webp",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Total FM",
+      "s": "http://176.61.144.80:9300/;type=mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/28333/93f38b9220f3fe150c421035d3bf6cf9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "paulo pintao",
+      "s": "https://stream.zeno.fm/dxdd2hgh4zhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427206/40a43bc45b7b3681677dee6016d158d5_130x130.webp",
+      "g": [
+        "Decades",
+        "Rap",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Horizonte - Açores",
+      "s": "https://horizonte-radiohorizonte.radioca.st/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/5072/xpf4596f0a6f8b438122403915_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Lumena",
+      "s": "http://185.32.188.17:8103/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/27969/0b94a53a71077832697deffc87de1483_130x130.webp",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Antena 1",
+      "s": "http://radiocast.rtp.pt/antena180a.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401880/qwid59aff18137aaa406547882_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RLCB Dance",
+      "s": "http://rlcbdance.no-ip.org:8431/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26569/c002ce38d34b3913dfe2d9d06cdbb7f0_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Cantinho da Madeira",
+      "s": "http://109.71.41.6:8129/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/5054/fp3t596da6a660597840740868_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Festival",
+      "s": "https://centova.radio.com.pt/proxy/520?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401889/ca3559aff9ad56057493655924_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Elvas",
+      "s": "http://radios.dotsi.pt:8025/stream/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/27672/022db9a71a851fd20b6769d8ff43f3cd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sesimbra FM",
+      "s": "http://centova.radios.pt:9444/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27925/2fd82506206d1bf217aa10d4b3f60b59_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio NoAr",
+      "s": "https://radios.justweb.pt/8034/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27973/d682dd008d555a4fcbaaef41511d2ad2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RADIOSUPERMUNDOPAULOPINTAO",
+      "s": "https://server.vendaslotus.pt:7033/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427114/e3359a70e13a8e4c5072b758cb2cf577_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "On the Radio- Lisbon",
+      "s": "https://cast3.asurahosting.com/proxy/mediawis/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/429927/190ef1d5a433e6613930f41d6b13dbff_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Nova Era",
+      "s": "http://centova.radios.pt:9478/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/21237/ffa814d0a949874ee1f1c1ea776a00c4_130x130.webp",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "24",
+      "s": "http://r24.zibiz.net:8000/stream2",
+      "l": "https://images.radiovolna.net/_files/images/stations/6585/mz1u5a292716c3718846691253_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Promove Portugal",
+      "s": "https://stream1.svrdedicado.org/8410/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27939/642bfc3773813a72f8e966bfb04ae400_130x130.webp",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "nRP - Net Radio Porto",
+      "s": "http://nrp.mywire.org:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/10497/d1485f45764daccba7f4596e8909d8c4_130x130.webp",
+      "g": [
+        "Themes",
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Allis",
+      "s": "http://51.254.29.39/stream/2/",
+      "l": "https://images.radiovolna.net/_files/images/stations/403996/b2pk5a02324a3ca96805125091_130x130.webp",
+      "g": [
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Musik CoLab FM",
+      "s": "http://freeuk13.listen2myradio.com:20223/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/418050/f1353d36fd3811c4528244b6370dd46b_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Zarco Madeira",
+      "s": "http://radiosmadeira.net:8014/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/31788/f5ad96fcd92d413e42a7ba34cb1ee24e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Super FM",
+      "s": "http://95.217.75.38:9962/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/24612/374c20c4a576dea9960d0fc64fcfd26e_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radar",
+      "s": "https://proic1.evspt.com/radar_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/23191/2a5cb4a008ae5f9c0438469087096328_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Atlântida",
+      "s": "https://centova.radio.com.pt/proxy/505?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401891/iqvb59affc538996c991547511_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Antena 1",
+      "s": "http://radiocast.rtp.pt/antena1madeira80a.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423380/6e3f9d9df77787e79d228c5ebd15b7e3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mais Oeste",
+      "s": "http://centova.radios.pt:8515/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27970/2d4f2c95847dcbd0b56af55a0cb1555d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Web Radio Gospel Geração Adoradora",
+      "s": "http://stm1.streaminghd.net.br:7040/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401175/gbcb59908400561d3229212067_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Montalegre",
+      "s": "http://centova.radios.pt:9566/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27900/8c4659254117256c2d5b3f0cc7ae0e42_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Elmo",
+      "s": "http://centova.radio.com.pt:8463/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26926/2525928720e17801fd28738663c2e4e6_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Clube Paços de Ferreira",
+      "s": "http://nrf1.newradio.it:9812/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/26301/6b9b394b3a5d267cf3eae5d390971de1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Zoom",
+      "s": "https://streaming.brazink.com/?p=7045",
+      "l": "https://images.radiovolna.net/_files/images/stations/426333/87f04e9e4280eeb83bd416a6e28ef797_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "Electronic",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Rádio Cantinho dos Emigrantes",
+      "s": "http://185.240.251.169:9148/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429744/5a4c3f7c56420bd6cc0106cabcb6f886_130x130.webp",
+      "g": [
+        "Decades",
+        "Folk",
+        "International",
+        "Easy Listening",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Antena 1",
+      "s": "http://radiocast.rtp.pt/antena1acores80a.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423378/e03a89ce4df5564a1710e0b2f6d54ad4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Observador",
+      "s": "https://centova.radio.com.pt/proxy/455?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401884/74c45adea3232f88abdd5a754e5aaee9_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Celorico da Beira web rádio",
+      "s": "http://185.32.188.17:8033/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27643/3748ee97a5f3f0747a6d36010a18ef13_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Record FM",
+      "s": "https://nl.digitalrm.pt:8010/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428255/9f97ca36a908b0a1c3b2bb3369665193_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Felgueiras FM",
+      "s": "http://centova.radios.pt:8459/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27650/8203ede5e2f024cb07d7ca697af65563_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Lusitânia CB",
+      "s": "http://rlcbdance.no-ip.org:8092/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/27898/0d8d1413778fbff317dcfe5f408cb70d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Caria",
+      "s": "http://centova.radios.pt:8521/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26695/ae258e24344cd250bfb2a7e15fca2197_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "LUNA FM",
+      "s": "http://lunaworld.lunabroadcasting.net/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/24996/agjx5a4ca6f4dc8f2477714760_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Covilhã",
+      "s": "http://centova.radios.pt:9450/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27670/d940b8802eb3a176700877e1f62129da_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Digital",
+      "s": "http://digitalfm.dynu.com:8000/digitalfm64",
+      "l": "https://images.radiovolna.net/_files/images/stations/5057/pih2595e2b892e815361137206_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Diana FM",
+      "s": "http://centova.radios.pt:9460/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26826/d283c5d441226f0c9ccf62645f11de0c_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Vida FM",
+      "s": "http://centova.radio.com.pt:9482/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423376/ff5862323eaa0acad72115047331d201_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Voz da Planicie",
+      "s": "http://centova.radios.pt:8441/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/26647/dc3db335ff0af7fcfd5e54b78a516b61_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Canal FM",
+      "s": "http://centova.radios.pt:9466/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401892/z9rf59affcac46d9a748439178_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vodafone.fm",
+      "s": "http://195.23.102.207/vodafone",
+      "l": "https://images.radiovolna.net/_files/images/stations/401886/qgll59aff65f387d7878443506_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Eurovision Song Contest Radio",
+      "s": "http://icepool.silvacast.com:80/ESCRADIO.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/20801/017603adde019d19ba465d00d246169d_130x130.webp",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Foia",
+      "s": "http://centova.radio.com.pt:8559/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26929/11ae6f4bc40bd506c6894f81f89c4567_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "RADIO FAUSTEX ORCHESTRES 2",
+      "s": "http://78.129.222.70:18254/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420364/db13adf963b1588d01fa6e7f1fafe86c_130x130.webp",
+      "g": [
+        "Classical",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Granada FM",
+      "s": "http://centova.radio.com.pt:8549/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/30338/9a7fed53f539f37ff5eb6d83d142528f_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Clube de Sintra",
+      "s": "http://centova.radios.pt:8445/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/26919/7a0df0be5a029a919076a71ab8b10364_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Lafões",
+      "s": "http://centova.radio.com.pt:9564/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27889/616b5b0720eb01f8069b31ca819c2a0f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Popular Afifense",
+      "s": "http://centova.radios.pt:8471/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27941/208831a7a03c1db5db24e088f292258e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Horizonte",
+      "s": "https://centova.radio.com.pt/proxy/436?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401877/wnxd59afeccd219b3115675748_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Meo Sudoeste",
+      "s": "http://centova.radios.pt:8495/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27971/0b5b0eca790128e682ef5e7ed0240eaf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Clube de Lamego",
+      "s": "http://46.4.33.73:9300/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/26353/0b650626acd5bcd7a25ddd0f75f7871e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Condestável",
+      "s": "http://centova.radios.pt:8427/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/27668/796f54b5e0c13c1fcee6ed18261e3faf_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio do Concelho de Mafra",
+      "s": "http://centova.radios.pt:8551/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/20866/3c04b9d96c9faf54e9252533281350a5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Zero",
+      "s": "http://stream.radiozero.pt:8000/zero128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/10096/ladj5a5c7f8a3bb0c423209116_130x130.webp",
+      "g": [
+        "International",
+        "Electronic",
+        "Pop",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "FAUSTEX OLDIES 2",
+      "s": "http://109.169.15.20:17777/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420365/f99de6bc97b60cffa7eced454e782115_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Tropical FM",
+      "s": "https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401879/kyj659aff0f21b337379840750_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "Utopia",
+      "s": "http://109.71.41.6:8034/;stream/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/23489/64c6142d2a3127ba76c9fdc6e4ad469a_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "cabriz radio",
+      "s": "https://streamingv2.shoutcast.com/cabrizradio---",
+      "l": "https://images.radiovolna.net/_files/images/stations/418172/33efd0839c1e95c6fb97d6decc058641_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Alto Ave",
+      "s": "http://centova.radio.com.pt:8517/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26904/ca21b4823c853537958906f7e9a66745_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "TSF Rádio Açores",
+      "s": "https://www.acorianooriental.pt/files/multimedia/podcasts/11_Noticiarios_Regionais/7853.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401893/pzx459affd3dd5cfc082709561_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Vida Nova",
+      "s": "http://centova.radios.pt:8061/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27922/6d90c67776ff187340b8312e86cf0647_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Antena 3",
+      "s": "http://radiocast.rtp.pt/antena3madeira80a.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423379/76fcb6d0ea5e87da71a352d1c6b594ae_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Quântica",
+      "s": "http://stream.radioquantica.com:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/30306/025d1d510bb9ffa0c2aa458f9170d373_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "RDP África",
+      "s": "http://radiocast.rtp.pt/rdpafrica80a.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401887/ho9659aff6b33ba01326962614_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Limite",
+      "s": "http://centova.radio.com.pt:9408/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/21393/d952bb4dd5f2a4647f10e985762f2cea_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Voz De Alenquer",
+      "s": "http://centova.radios.pt:8479/;listen.pls/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423372/a18bb33b7c9256dbbb7c9e47477adffd_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Riba Távora",
+      "s": "http://195.23.85.126:9542/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27918/944181ef76b083f3a00553398c19ab2f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Globalmix",
+      "s": "https://s2.stmxp.net:7220/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420478/608400f71ca73f54ae5e281dcedafd15_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "M24",
+      "s": "http://95.217.75.38:9924/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/26329/d8c0668c7099d673c5876e64d34635e6_130x130.webp",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Antena 2",
+      "s": "http://radiocast.rtp.pt/antena280a.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401878/hvsd59afef9fada06812602702_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Marte Madeira",
+      "s": "http://37.187.93.104:8010/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420495/a222befb0aec2090ef6ee355f39ab89f_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "nove3cinco",
+      "s": "http://centova.radios.pt:9522/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27829/4a20cdaac1981470c3360ff13b5904f3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cascais",
+      "s": "http://95.217.75.38:9956/;/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/22413/6b37ca705d8d4c23ec7b0975d6528fd3_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Terra Quente FM",
+      "s": "http://centova.radios.pt:9402/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/26628/e350caea9ae1962534f7fe4716a64e77_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Caminha",
+      "s": "http://95.217.75.38:9348/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/27664/32ab2573d9010dc7c6c6be268175dc71_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Oxigénio",
+      "s": "https://proic1.evspt.com/oxigenio_aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/23326/ee221de89bb34343df001dd5876cf65c_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Planí­cie",
+      "s": "http://109.71.41.6:8026/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/5075/cgw55a2927f507823445379142_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Cister",
+      "s": "http://centova.radio.com.pt:8453/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26918/c94d1305dc7eab964b291bc31e28f495_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Renascença",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/5078/scss599d7c4e5eba8291424487_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Alto Minho",
+      "s": "http://centova.radios.pt:8403/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27660/863316ec6022a679c5af9564d9f9deaa_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ecos da Raia",
+      "s": "http://centova.radios.pt:9434/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/21225/1464888619_radio8511_1439401338_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "105 FM",
+      "s": "http://195.8.58.141:34179/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401894/tba359affe1bbf50c610050714_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Onda Viva",
+      "s": "http://link.radios.pt/radioondaviva",
+      "l": "https://images.radiovolna.net/_files/images/stations/33018/b2c96b1ff958fb7415e62b57b608f2c2_130x130.webp",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Comercial",
+      "s": "https://stream-icy.bauermedia.pt/comercial.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-comercial-pt.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "RFM",
+      "s": "https://20103.live.streamtheworld.com:443/RFM_SC",
+      "l": "https://kuasark.com/files/stations-logos/rfm-pt.png",
+      "g": [
+        "Folk",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "M80 Radio",
+      "s": "https://stream-icy.bauermedia.pt/m80.aac",
+      "l": "https://kuasark.com/files/stations-logos/m80-radio-pt.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Orbital",
+      "s": "http://centova.radios.pt:8401/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-orbital.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Antena 1",
+      "s": "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/antena-1-pt-79577.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Smooth FM",
+      "s": "https://stream-icy.bauermedia.pt/smooth.aac",
+      "l": "https://kuasark.com/files/stations-logos/smooth-fm-pt.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Hard & Heavy Metal Hits Radio",
+      "s": "https://audio.serv.pt/8040/stream",
+      "l": "https://kuasark.com/files/stations-logos/hard-heavy-metal-hits-radio.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Mega Hits",
+      "s": "https://22733.live.streamtheworld.com:443/MEGA_HITSAAC_SC",
+      "l": "https://kuasark.com/files/stations-logos/mega-hits-pt-94617.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RCS 91.2 FM Lisboa",
+      "s": "http://centova.radios.pt:8445/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/rcs-912-fm-lisboa.png",
+      "g": [
+        "Themes",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Renascença",
+      "s": "https://25533.live.streamtheworld.com:443/RADIO_RENASCENCA_SC",
+      "l": "https://kuasark.com/files/stations-logos/radio-renascenca.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Miúdos",
+      "s": "https://s5.radio.co/s9c516a065/listen",
+      "l": "https://kuasark.com/files/stations-logos/radio-miudos.png",
+      "g": [
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Antena 3",
+      "s": "http://radiocast.rtp.pt/antena380a.mp3",
+      "l": "https://kuasark.com/files/stations-logos/antena-3-pt.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "RTP- ZIG ZAG",
+      "s": "http://radiocast.rtp.pt/zigzag80a.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rtp-zig-zag.png",
+      "g": [
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio XL FM",
+      "s": "https://radios.justweb.pt:7000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-xl-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Amalia FM",
+      "s": "http://centova.radios.pt:9496/stream?1444874431322.mp3/;",
+      "l": "https://kuasark.com/files/stations-logos/amalia-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Cidade FM",
+      "s": "https://stream-icy.bauermedia.pt/cidade.aac",
+      "l": "https://kuasark.com/files/stations-logos/cidade-fm-pt.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Comercial - Dance",
+      "s": "https://stream-icy.bauermedia.pt/rcdance.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
+      "l": "https://kuasark.com/files/stations-logos/radio-comercial-dance.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Comercial - Rock",
+      "s": "https://stream-icy.bauermedia.pt/rcrock.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
+      "l": "https://kuasark.com/files/stations-logos/radio-comercial-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Antena 2",
+      "s": "https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/antena-2-pt.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bitter Sweet Music PT",
+      "s": "http://91.121.236.34:8520/pt",
+      "l": "https://kuasark.com/files/stations-logos/bitter-sweet-music-pt.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Beat Fm Rádio",
+      "s": "https://rs2.ptservidor.com/proxy/incrivei?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/beat-fm-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kiss Fm 101.2",
+      "s": "https://nl.digitalrm.pt:8024/stream",
+      "l": "https://kuasark.com/files/stations-logos/kiss-fm-1012.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Smooth FM - Bossa Nova",
+      "s": "https://stream-icy.bauermedia.pt/smobossa.aac",
+      "l": "https://kuasark.com/files/stations-logos/smooth-fm-bossa-nova.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Comercial - Kids",
+      "s": "https://stream-icy.bauermedia.pt/rckids.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
+      "l": "https://kuasark.com/files/stations-logos/radio-comercial-kids.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "RES FM 107.9",
+      "s": "https://stream2.soundflux.eu/8440/stream",
+      "l": "https://kuasark.com/files/stations-logos/res-fm-1079.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio do Folclore Português",
+      "s": "https://sonic.servsonic.com/8012/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-do-folclore-portugues.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Comercial - Made in Portugal",
+      "s": "https://stream-icy.bauermedia.pt/rctuga.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
+      "l": "https://kuasark.com/files/stations-logos/radio-comercial-made-in-portugal.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Comercial - One Hit Wonders",
+      "s": "https://stream-icy.bauermedia.pt/rchit.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
+      "l": "https://kuasark.com/files/stations-logos/radio-comercial-one-hit-wonders.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Metal On: The Brutal",
+      "s": "https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-metal-on-the-brutal.png",
+      "g": [
+        "New Age",
+        "Metal",
+        "Classical",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radar FM",
+      "s": "https://proic1.evspt.com/radar_aac",
+      "l": "https://kuasark.com/files/stations-logos/radar-fm-pt.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Oxigénio",
+      "s": "http://176.9.92.205/oxigenio_mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-oxigenio-pt.png",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Rap",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio Comercial - By Night",
+      "s": "https://stream-icy.bauermedia.pt/rcsoft.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
+      "l": "https://kuasark.com/files/stations-logos/radio-comercial-by-night.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Comercial - Brasil",
+      "s": "https://stream-icy.bauermedia.pt/rcbrasil.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
+      "l": "https://kuasark.com/files/stations-logos/radio-comercial-brasil.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Comercial - Best 90's",
+      "s": "https://stream-icy.bauermedia.pt/rcbest90.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
+      "l": "https://kuasark.com/files/stations-logos/radio-comercial-best-90s.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Comercial - Best 2000",
+      "s": "https://stream-icy.bauermedia.pt/rcbest2000.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
+      "l": "https://kuasark.com/files/stations-logos/radio-comercial-best-2000.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "M80 Radio - Ballads",
+      "s": "https://stream-icy.bauermedia.pt/m80ballads.aac",
+      "l": "https://kuasark.com/files/stations-logos/m80-radio-ballads.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Antena 1 - Fado",
+      "s": "http://radiocast.rtp.pt/antena1fado80a.mp3",
+      "l": "https://kuasark.com/files/stations-logos/antena-1-fado.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Smooth FM - Vocal Jazz",
+      "s": "https://stream-icy.bauermedia.pt/smovocaljazz.aac",
+      "l": "https://kuasark.com/files/stations-logos/smooth-fm-vocal-jazz.png",
+      "g": [
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RFM - 80s RFM",
+      "s": "https://22533.live.streamtheworld.com:443/GR80SRFMAAC_SC",
+      "l": "https://kuasark.com/files/stations-logos/rfm-80s-rfm.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Voz de Santo Tirso",
+      "s": "https://radios.justweb.pt/8024/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-voz-de-santo-tirso.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Portugal Mais",
+      "s": "https://sv15.hdradios.net:7432/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-portugal-mais.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Smooth FM - Blues",
+      "s": "https://stream-icy.bauermedia.pt/smoblues.aac",
+      "l": "https://kuasark.com/files/stations-logos/smooth-fm-blues.png",
+      "g": [
+        "Blues"
+      ]
+    },
+    {
+      "t": "Radio Comercial - Santos Populares",
+      "s": "https://stream-icy.bauermedia.pt/rcsantos.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
+      "l": "https://kuasark.com/files/stations-logos/radio-comercial-santos-populares.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "RDP Internacional",
+      "s": "https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rdp-internacional.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Nova Era",
+      "s": "http://centova.radios.pt:9478/;listen.pls",
+      "l": "https://kuasark.com/files/stations-logos/radio-nova-era-pt.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "M80 Radio - 80's",
+      "s": "https://stream-icy.bauermedia.pt/m8080.aac",
+      "l": "https://kuasark.com/files/stations-logos/m80-radio-80s.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "M80 Radio - 90's",
+      "s": "https://stream-icy.bauermedia.pt/m8090.aac",
+      "l": "https://kuasark.com/files/stations-logos/m80-radio-90s.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Folclore Portugal",
+      "s": "https://sonic.servsonic.com:7002/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-folclore-portugal.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "RDP África",
+      "s": "https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/rdp-africa-pt-85084.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "International",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Hiper FM",
+      "s": "https://centova.radio.com.pt/proxy/500?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/hiper-fm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "M80 Radio - Rock",
+      "s": "https://stream-icy.bauermedia.pt/m80rock.aac",
+      "l": "https://kuasark.com/files/stations-logos/m80-radio-rock.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Rádio Meo Sudoeste",
+      "s": "http://centova.radios.pt:8495/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-meo-sudoeste.png",
+      "g": [
+        "Pop",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Radio Marginal",
+      "s": "http://centova.radios.pt:8499/;listen.pls",
+      "l": "https://kuasark.com/files/stations-logos/radio-marginal.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "HITS CUBA",
+      "s": "https://s11.w3bserver.com/listen/hits_cuba/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/hits-cuba.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vodafone FM",
+      "s": "https://stream-icy.bauermedia.pt/vodafone.mp3",
+      "l": "https://kuasark.com/files/stations-logos/vodafone-fm.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Smooth FM - Soul",
+      "s": "https://stream-icy.bauermedia.pt/smoothsoul.aac",
+      "l": "https://kuasark.com/files/stations-logos/smooth-fm-soul.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Rádio Remember FM",
+      "s": "http://176.9.43.216:8449/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-remember-fm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "M80 Radio - 70's",
+      "s": "https://stream-icy.bauermedia.pt/m8070.aac",
+      "l": "https://kuasark.com/files/stations-logos/m80-radio-70s.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Trance Passion",
+      "s": "https://stream-151.zeno.fm/9kwfufxcewzuv?zs=9y5xipowQxuKfABFYbUhtA",
+      "l": "https://kuasark.com/files/stations-logos/trance-passion.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Barca Fm Rádio",
+      "s": "http://centova.radios.pt:8483/;",
+      "l": "https://kuasark.com/files/stations-logos/barca-fm-radio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "RFM - On The Rock",
+      "s": "https://25703.live.streamtheworld.com:443/RFMONTHEROCKAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/rfm-on-the-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "M80 Radio - Dance",
+      "s": "https://stream-icy.bauermedia.pt/m80dance.aac",
+      "l": "https://kuasark.com/files/stations-logos/m80-radio-dance.png",
+      "g": [
+        "Electronic",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "ROXX 2 METAL",
+      "s": "https://listen6.myradio24.com/6359",
+      "l": "https://kuasark.com/files/stations-logos/roxx-2-metal.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "TOP FM",
+      "s": "http://213.136.92.8:8038/;",
+      "l": "https://kuasark.com/files/stations-logos/top-fm-pt.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Noite FM",
+      "s": "http://live.top80.fm:8080/;",
+      "l": "https://kuasark.com/files/stations-logos/noite-fm.png",
+      "g": [
+        "Electronic",
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Antena 2 Jazz in",
+      "s": "http://radiocast.rtp.pt/antena2jazzin80a.mp3",
+      "l": "https://kuasark.com/files/stations-logos/antena-2-jazz-in.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "M80 Radio - Indie",
+      "s": "https://stream-icy.bauermedia.pt/m80indie.aac",
+      "l": "https://kuasark.com/files/stations-logos/m80-radio-indie.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "M80 Radio - Portugal",
+      "s": "https://stream-icy.bauermedia.pt/m80nacional.aac",
+      "l": "https://kuasark.com/files/stations-logos/m80-radio-portugal.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Festival",
+      "s": "https://audio.serv.pt/8012/stream.mp3?_=5",
+      "l": "https://kuasark.com/files/stations-logos/radio-festival-pt.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio Festival 94.8",
+      "s": "http://centova.radios.pt:9520/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-festival-948.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "RFM - Dancefloor",
+      "s": "https://22533.live.streamtheworld.com:443/DANCEONTHEFLOORAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/rfm-dancefloor.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Nove3cinco",
+      "s": "http://centova.radios.pt:9522/;listen.pls/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-nove3cinco.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Hip Hop Rádio",
+      "s": "https://hiphopradio.pt/stream/index.php",
+      "l": "https://kuasark.com/files/stations-logos/hip-hop-radio-pt.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Rádio Ondas do Lima",
+      "s": "http://centova.radios.pt:8407/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-ondas-do-lima.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Observador",
+      "s": "https://23613.live.streamtheworld.com:443/OBSERVADORAAC.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-observador.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "M80 Radio - Pop",
+      "s": "https://stream-icy.bauermedia.pt/m80pop.aac",
+      "l": "https://kuasark.com/files/stations-logos/m80-radio-pop.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "PT Radio",
+      "s": "http://c3.radioboss.fm:8106/stream",
+      "l": "https://kuasark.com/files/stations-logos/pt-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Santiago",
+      "s": "http://eu6.fastcast4u.com:5002/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-santiago-pt.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Calheta",
+      "s": "https://streamonline.pt/radio/8000/radiocalheta/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-calheta.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Atlantida",
+      "s": "https://atlantida.lunabroadcasting.net/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-atlantida-pt.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Sagres FM",
+      "s": "http://176.61.144.80:9302/;type=mp3",
+      "l": "https://kuasark.com/files/stations-logos/sagres-fm.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "4FM",
+      "s": "https://s41.radiolize.com/radio/8150/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/4fm.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Nuvem Branca",
+      "s": "https://s2.stmxp.net:7096/stream?icy=http",
+      "l": "https://kuasark.com/files/stations-logos/radio-nuvem-branca.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Metal ON: The Thrasher",
+      "s": "https://radiometalon.com/radio/8020/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-metal-on-the-thrasher.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Castelo Branco",
+      "s": "https://centova.radio.com.pt/proxy/462?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-castelo-branco.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Fóia",
+      "s": "http://centova.radio.com.pt:8559/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-foia.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Antena 2 Opera",
+      "s": "https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/antena-2-opera.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "HappyHardcore",
+      "s": "https://audio-edge-5bkfj.fra.h.radiomast.io/0cef93cd-5974-43b1-868e-c739e81f4f2b",
+      "l": "https://kuasark.com/files/stations-logos/happyhardcore.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Metal On: Metal Masters",
+      "s": "https://radiometalon.com/radio/8050/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-metal-on-metal-masters.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Radio Clube De Arganil",
+      "s": "http://176.9.43.216:8135/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clube-de-arganil.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Linear",
+      "s": "https://nl.digitalrm.pt:8184/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-linear.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NWOBHM Radio",
+      "s": "https://stream-148.zeno.fm/admqxb7de2zuv?zs=zmjrX0buQ7emLgSN0azJlA",
+      "l": "https://kuasark.com/files/stations-logos/nwobhm-radio.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Radio 94 FM",
+      "s": "http://185.11.164.106:35022/stream?type",
+      "l": "https://kuasark.com/files/stations-logos/radio-94-fm-pt.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Evolução Radio",
+      "s": "http://95.217.75.38:9952/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/evolucao-radio.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rádio Lousada",
+      "s": "http://95.217.75.38:9932/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-lousada.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Cidade",
+      "s": "https://stream-060.zeno.fm/q9k377tdzy8uv?zs=DXSpUmH8SjGgTOtrPpvbCg",
+      "l": "https://kuasark.com/files/stations-logos/radio-cidade-pt.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Metal On: 80s HNH",
+      "s": "https://radiometalon.com/radio/8030/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-metal-on-80s-hnh.png",
+      "g": [
+        "Rock",
+        "Metal",
+        "Decades"
+      ]
+    },
+    {
+      "t": "DMR - Dance Mix Radio",
+      "s": "https://stream-152.zeno.fm/0tc6vdd57p8uv?zs=hxXsZTSXTqCNDmOqkGOtLw",
+      "l": "https://kuasark.com/files/stations-logos/dmr-dance-mix-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Amor Eterno",
+      "s": "https://ssl.stmxp.net:7134/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-amor-eterno.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "M80 Radio - 60's",
+      "s": "https://stream-icy.bauermedia.pt/m8060.aac",
+      "l": "https://kuasark.com/files/stations-logos/m80-radio-60s.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Clube de Armamar",
+      "s": "http://213.136.92.8:8002/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-clube-de-armamar.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio-Atlantico",
+      "s": "https://stream-061.zeno.fm/bf6kzg37wp8uv?zs=ikeel4MCQK2t4qXCT3uK6w",
+      "l": "https://kuasark.com/files/stations-logos/radio-atlantico-pt.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Planície",
+      "s": "http://109.71.41.6:8026/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-planicie.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Alto Minho",
+      "s": "https://ec2.yesstreaming.net:3705/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-alto-minho.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Barcelos FM 91.9",
+      "s": "http://centova.radios.pt:8563/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-barcelos-fm-919.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Gilao",
+      "s": "https://centova.radio.com.pt/proxy/440?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-gilao.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "M80 Radio - Soul",
+      "s": "https://stream-icy.bauermedia.pt/m80soul.aac",
+      "l": "https://kuasark.com/files/stations-logos/m80-radio-soul.png",
+      "g": [
+        "R&B and Urban",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Caria",
+      "s": "http://centova.radios.pt:8521/;listen.pls",
+      "l": "https://kuasark.com/files/stations-logos/radio-caria.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Lagoa",
+      "s": "http://centova.radio.com.pt:9488/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-lagoa.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Regional De Arouca",
+      "s": "http://centova.radios.pt:8485/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-regional-de-arouca.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "ABC Portugal FM",
+      "s": "https://centova.radio.com.pt/proxy/547?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/abc-portugal-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Guadiana",
+      "s": "http://95.217.75.38:9844/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-guadiana.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Clube de Alcoutim",
+      "s": "http://radios.dotsi.pt:8020/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-clube-de-alcoutim.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "LUNA FM - Portugal",
+      "s": "https://cast1.lunabroadcasting.net/listen/lunaportugal/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/luna-fm-portugal.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Vieira Amigos Unidos",
+      "s": "https://s5.stmxp.net:7015/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-vieira-amigos-unidos.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Valdevez",
+      "s": "http://centova.radios.pt:9508/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-valdevez.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RÁDIO REGIONAL",
+      "s": "https://play2.radioregional.pt/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/radio-regional-pt.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Planeta Love",
+      "s": "https://stream-150.zeno.fm/ut9t91zdma0uv?zs=5M9MNgQUTVWFY4A6l26Nag",
+      "l": "https://kuasark.com/files/stations-logos/planeta-love.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Top FM",
+      "s": "http://5.9.71.122:8420/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/top-fm-20047.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Smooth FM - Jazz",
+      "s": "https://stream-icy.bauermedia.pt/smojazz.aac",
+      "l": "https://kuasark.com/files/stations-logos/smooth-fm-jazz.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Smooth FM - Cool",
+      "s": "https://stream-icy.bauermedia.pt/smocool.aac",
+      "l": "https://kuasark.com/files/stations-logos/smooth-fm-cool.png",
+      "g": [
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Diana FM",
+      "s": "http://centova.radio.com.pt:9460/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/diana-fm.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Posto Emissor do Funchal",
+      "s": "https://centova.radio.com.pt/proxy/426?mp=/stream;",
+      "l": "https://kuasark.com/files/stations-logos/radio-posto-emissor-do-funchal.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tropical FM",
+      "s": "https://solid9.streamupsolutions.com/proxy/vgiyxlil?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/tropical-fm-pt.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Beach Radio",
+      "s": "https://beach-radio.stream.laut.fm/beach-radio",
+      "l": "https://kuasark.com/files/stations-logos/beach-radio-pt.png",
+      "g": [
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "TugaFm",
+      "s": "https://tugafm.stream.laut.fm/tugafm?t302=2023-04-25_20-18-37&uuid=c6b76dae-c1b3-4174-ac79-fd2e51da0e1a",
+      "l": "https://kuasark.com/files/stations-logos/tugafm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Reggae",
+        "Latin",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Antena 1 - Lusitânia",
+      "s": "https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/antena-1-lusitania.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Onda Viva",
+      "s": "http://centova.radios.pt:9524/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-onda-viva-pt.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Emissora das Beiras",
+      "s": "http://centova.radios.pt:8465/;",
+      "l": "https://kuasark.com/files/stations-logos/emissora-das-beiras.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Vidigueira",
+      "s": "http://centova.radios.pt:8567/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-vidigueira.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio Nostalgia Elvas",
+      "s": "http://stm6.srvstm.com:6162/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-nostalgia-elvas.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rude Party Web Radio",
+      "s": "http://176.9.43.216:8346/stream",
+      "l": "https://kuasark.com/files/stations-logos/rude-party-web-radio.png",
+      "g": [
+        "Rock",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Mehefil Radio",
+      "s": "http://mehefil.no-ip.com/mehefil",
+      "l": "https://kuasark.com/files/stations-logos/mehefil-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Onda Livre",
+      "s": "http://centova.radio.com.pt:9572/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-onda-livre-pt.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Êxitos Portugueses",
+      "s": "https://stm9.voxhd.com.br:8686/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-exitos-portugueses.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RADIO_BRB_MATOSINHOS",
+      "s": "https://stream-052.zeno.fm/xg1npstvz08uv?zs=Foam6F_yQ-OdgPhgbNiDWA",
+      "l": "https://kuasark.com/files/stations-logos/radiobrbmatosinhos.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Antena Minho",
+      "s": "https://centova.radio.com.pt/proxy/464?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/antena-minho.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Universitaria do Minho",
+      "s": "https://centova.radio.com.pt/proxy/558?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-universitaria-do-minho.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Clube De Monsanto",
+      "s": "http://centova.radio.com.pt:9424/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-clube-de-monsanto.png",
+      "g": [
+        "Folk",
+        "Classical",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Portalegre",
+      "s": "https://centova.radio.com.pt/proxy/492?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-portalegre.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Açores TSF",
+      "s": "http://centova.radio.com.pt:8243/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-acores-tsf.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Pico",
+      "s": "https://radiopico.com:9420/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-pico-pt.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Diário de Notícias Madeira",
+      "s": "http://centova.radio.com.pt:9470/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/diario-de-noticias-madeira.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Canal FM 100.5",
+      "s": "http://centova.radios.pt:9466/;",
+      "l": "https://kuasark.com/files/stations-logos/canal-fm-1005.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Rlcb Tuga",
+      "s": "https://stm6.conectastreaming.com:8272/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-rlcb-tuga.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Quando Portugal Canta",
+      "s": "https://ssl.ndvendas.eu:7148/;",
+      "l": "https://kuasark.com/files/stations-logos/quando-portugal-canta.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Ultra FM",
+      "s": "http://centova.radios.pt:9506/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/ultra-fm-pt.png",
+      "g": [
+        "Inspirational",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Tempo Gospel",
+      "s": "https://s08.maxcast.com.br:8276/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-tempo-gospel.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "The Fashion Radio",
+      "s": "https://servidor18-2.brlogic.com:7682/live",
+      "l": "https://kuasark.com/files/stations-logos/the-fashion-radio.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Portugal",
+      "s": "https://stream-061.zeno.fm/yyue51ta998uv?zs=Zd7KvbIKQZi1z9sxnVcs0g",
+      "l": "https://kuasark.com/files/stations-logos/radio-portugal.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Voz da Planicie",
+      "s": "https://centova.radio.com.pt/proxy/441?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-voz-da-planicie.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Alto Ave",
+      "s": "https://centova.radio.com.pt/proxy/517?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-alto-ave.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Alvor",
+      "s": "https://centova.radio.com.pt/proxy/469?mp=/stream/;listen.pls",
+      "l": "https://kuasark.com/files/stations-logos/radio-alvor.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Popular Afifense",
+      "s": "http://centova.radios.pt:8471/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-popular-afifense.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Rádio Metropolitana Porto",
+      "s": "https://stream-058.zeno.fm/merfn44vwd0uv?zs=qKQwCIhJSGOD927G0J_Fig",
+      "l": "https://kuasark.com/files/stations-logos/radio-metropolitana-porto.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Universitaria do Algarve",
+      "s": "http://centova.radios.pt:9536/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-universitaria-do-algarve.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rádio Infante",
+      "s": "https://stream-150.zeno.fm/u6e8nue7krruv?zs=tt2TruynR0CbLH3nprwrHw",
+      "l": "https://kuasark.com/files/stations-logos/radio-infante.png",
+      "g": [
+        "Folk",
+        "Electronic",
+        "News"
+      ]
+    },
+    {
+      "t": "Classic Rock Portugal",
+      "s": "http://online.classicrock.pt:8002/;",
+      "l": "https://kuasark.com/files/stations-logos/classic-rock-portugal.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rádio Cidade de Matosinhos",
+      "s": "https://ssl.stmxp.net:8064/;;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-cidade-de-matosinhos.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Fronteirense",
+      "s": "https://stream-153.zeno.fm/rhwxv5204k8uv?zs=uw-2Zg82S4KomDFX7Fys7w",
+      "l": "https://kuasark.com/files/stations-logos/radio-fronteirense.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Mega Montijo",
+      "s": "https://ssl.hdradios.net:7916/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-mega-montijo.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Riba-Tavora",
+      "s": "http://centova.radios.pt:9542/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-riba-tavora.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Utopia",
+      "s": "https://free.rcast.net/66027",
+      "l": "https://kuasark.com/files/stations-logos/radio-utopia.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    }
+  ]
+}

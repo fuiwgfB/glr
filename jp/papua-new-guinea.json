@@ -1,0 +1,74 @@
+{
+  "stations": [
+    {
+      "t": "Nau FM",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/NAUFM_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/402463/jhwg59bd2068132d4126006661_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Wantok Radio Light",
+      "s": "https://ca7ssl.rcast.net/stream/61643//;type=mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428580/6d25df9809487a53f0890e0efb0dc8b2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Maria",
+      "s": "http://dreamsiteradiocp2.com:8112/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/402462/orvu59bd2000ce241841102400_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "HOPE RADIO",
+      "s": "http://s6.voscast.com:10816/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/hope-radio-pg.png",
+      "g": [
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Station Beta",
+      "s": "https://stream-151.zeno.fm/dct2xh8xnbnvv?zs=TiHxSrrgR7CicvaR-BhB0w",
+      "l": "https://kuasark.com/files/stations-logos/station-beta-124860.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tzgospel (Papua New Guinea)",
+      "s": "https://stream-150.zeno.fm/qbsupxanffhvv?zs=pQdlGb-zTECl2-rZ_CCbCA",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-papua-new-guinea.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "NAU FM 96.5 Port Moresby",
+      "s": "http://27223.live.streamtheworld.com:80/NAUFMAAC_SC",
+      "l": "https://kuasark.com/files/stations-logos/nau-fm-965-port-moresby.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Yumi FM 93.1 Port Moresby",
+      "s": "http://25043.live.streamtheworld.com:80/YUMIFMAAC_SC",
+      "l": "https://kuasark.com/files/stations-logos/yumi-fm-931-port-moresby.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    }
+  ]
+}

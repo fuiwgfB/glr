@@ -1,0 +1,2438 @@
+{
+  "stations": [
+    {
+      "t": "Rock FM",
+      "s": "https://live.rockfm.ro:8443/rockfm.aacp",
+      "l": "https://images.radiovolna.net/_files/images/stations/401912/sjet59b0e359d33ae432056549_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Petrecere",
+      "s": "http://petrecere.fmradiomanele.ro:8123/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/475/1163f5b0105a5e96ae16a790866cefed_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Virgin Radio ex (21)",
+      "s": "http://astreaming.virginradio.ro:8000/virgin_aacp_64k",
+      "l": "https://images.radiovolna.net/_files/images/stations/21091/chqv5c0a40b0572d3580023821_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Social FM",
+      "s": "https://noasrv.caster.fm:10085/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/401920/oaue59b11d6fd6ffc602706718_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "România Muzical",
+      "s": "http://stream2.srr.ro:8022/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7550/vixx597c6f842352b977576358_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Manele",
+      "s": "http://b.fmradiomanele.ro:8044/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/548/08f53f99154a5ba83988b95d4325243f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Deep House Radio",
+      "s": "http://live.dancemusic.ro:7000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/419009/ca0c5fcb913b3aacf5ccdaddf6d68ba7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ambiento",
+      "s": "http://strw1.openstream.co/390",
+      "l": "https://images.radiovolna.net/_files/images/stations/26216/542161c9bae84267a2436eb397779575_130x130.webp",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Gangsta' Dance",
+      "s": "http://dance.radiogangsta.ro:8800/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7539/m9h7597a503df148e731127996_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Lautaru Populara",
+      "s": "http://live.radiolautaru.ro:9000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27407/ea227ad4e5ebbcbefc5a08e3a4ca2442_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "90s 3NeRgY",
+      "s": "https://s11.ssl-stream.com/ssl/90s_energy?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/425963/a7ca29f6eec442ca40661b39c2392222_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Romantic",
+      "s": "https://radio-romantic.ro/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429685/0108ee270748de4e5846c5154d111cc6_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Next Radio",
+      "s": "https://stream.nextradio.live/listen/nextradio/NextHD",
+      "l": "https://images.radiovolna.net/_files/images/stations/420468/46f701666a63df98b997d1bcf653c7cc_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "România Actualităţi",
+      "s": "http://stream2.srr.ro:8002/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7542/jdsa597b4a4d7cc56160318549_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Traditional - Radio Manele",
+      "s": "http://asculta.radiotraditional.ro:7000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7541/ai7j5a2944b6d8acc187305922_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "România Cultural",
+      "s": "http://stream2.srr.ro:8012/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7549/lntv59b0e4a5d7c21306015161_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "România Oltenia-Craiova",
+      "s": "http://stream2.srr.ro:8370/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401939/vrok59b1318dc47e8011771242_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Plusz FM (Nagyvárada)",
+      "s": "https://stream2.radiotransilvania.ro/Margitta",
+      "l": "https://images.radiovolna.net/_files/images/stations/401943/d8km59b135fcdb5d5058819375_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "România București",
+      "s": "http://stream2.srr.ro:8032/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7543/whg659b0e1c47d672804605072_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bitter Sweet Music",
+      "s": "http://91.121.236.34:8520/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405652/asp25a58844581920513531665_130x130.webp",
+      "g": [
+        "Jazz",
+        "Folk",
+        "Easy Listening",
+        "Themes",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Trinitas",
+      "s": "http://live.radiotrinitas.ro:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401898/amap59b0db4701eb9220016656_130x130.webp",
+      "g": [
+        "Talk",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Favorit FM",
+      "s": "http://91.250.252.251:8001/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401944/cq4759b13af8b389a683664987_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Big FM",
+      "s": "http://82.208.143.10:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7548/dznd5a294b6f633d7388407010_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dance FM",
+      "s": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/30765/0586f16d2665605a46c118170d9182b6_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Clasic Romania",
+      "s": "http://www.clasicradio.ro:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/23933/f0ae8c4c61b6dc1754ea91e021da8b8e_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Drums.ro Radio",
+      "s": "http://radio.drums.ro:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26793/q9st5a294c04f1d7a363879978_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "România Târgu Mureş",
+      "s": "http://streaming.radiomures.ro:8302/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7573/qpxp59b13f2b83a79229124824_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Digi FM",
+      "s": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401909/b8m459b0e17f68604159551761_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DJ1",
+      "s": "http://142.132.213.6:8504/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426992/c27342417edcb6210ed501813bac1a26_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "România Cluj",
+      "s": "http://89.238.227.6:8384/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7575/i9sb59b1266c28064263163870_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "România Constanța",
+      "s": "http://89.238.227.6:8330/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7547/nqeu59b1296832b63244606437_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Elim Air",
+      "s": "http://91.213.11.102:8011/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/22553/5f7214f749d435edaf789820b2620db5_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Sky FM",
+      "s": "http://89.43.138.116:8000/radiosky.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401935/z56759b12f9dd1eaf495195243_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Unique Romania",
+      "s": "https://listen.radiounique.ro:8106/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/426827/3712f60f3a29cba2cff16dc992de2fd9_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Click Romania",
+      "s": "http://live.radioclick.ro:8008/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/426504/cc0a51ff2537d3588ecfbb0eba85e278_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Romanian Popular",
+      "s": "http://asculta.radioromanian.net:8500/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27373/576f2f87efdf00ab54b79b3716e22b79_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "radio SOMEȘ",
+      "s": "http://radio.mediacp.eu/stream/radiosomes",
+      "l": "https://images.radiovolna.net/_files/images/stations/431188/8952fbd4037e06dd3e100bc18c033a36_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Romania International 2",
+      "s": "http://stream2.srr.ro:8062/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27686/b951621c14c35cab883c896a42419a2d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Gold FM",
+      "s": "http://80.86.106.110:8002/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401908/fi5n59b0e128d28e1668006876_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Virgin Radio",
+      "s": "http://astreaming.virginradio.ro:8000/virgin_mp3_64k",
+      "l": "https://images.radiovolna.net/_files/images/stations/401911/az4j59b0e2efc2695185784214_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Campus",
+      "s": "https://radio.campusbuzau.ro:8443/CAMPUS.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401926/we7o59b124800f8ab577335449_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Popular",
+      "s": "https://asculta.radiopopular.ro:7777/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/401919/t6rr59b11cc2c695f158539213_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Guerrilla",
+      "s": "https://live.guerrillaradio.ro:8443/guerrilla.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401906/gsmg59b0e022b9e7d539022322_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Traditional Oldies",
+      "s": "http://oldies.radiotraditional.ro:3700/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/22854/73bf07f8b13bb0d2229090b9298eab92_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Romania International 1",
+      "s": "http://stream2.srr.ro:8052/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27372/b1e4514691bf76b25211bc4daaca5d5a_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Tequila Manele Romania",
+      "s": "http://live.radiotequila.ro:7000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423842/a2a5ce8b37ff794dca7f3c4b436586a3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RFI Romania",
+      "s": "http://asculta.rfi.ro:9128/live.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/7576/zd4n5a294b97afa9c388889632_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Impuls",
+      "s": "http://live2.radio-impuls.ro/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401897/kp8h59b0daac7ec82379536149_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Noise Romania",
+      "s": "http://live.radionoise.ro:9100/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/24315/ac33f35cb5c7e7b99473b2a763caec3b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "City Rádió",
+      "s": "https://mscp1.gazduireradio.ro/cityradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/428261/2cb8bd657f2b86f7e3514f0e8f9c45db_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mega-HiT Popular",
+      "s": "http://megahitpopular.zapto.org:9000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420450/ad3e0a8136b16f74803446d0b4b88989_130x130.webp",
+      "g": [
+        "International",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Gaga (Erdély)",
+      "s": "http://rc.radiogaga.ro:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/7572/q5ke59b13e9d22d7c920715376_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Octavian",
+      "s": "https://stream.zeno.fm/2nmszjoo2zvuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430149/90c0bcb555814fdb0b414469a534d7fa_130x130.webp",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Renașterea",
+      "s": "http://5.2.193.15:8000/renasterea.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401927/mz0o59b124f93a8ba440489446_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio  Romance  21 -  Etno",
+      "s": "https://etno.radioromance21.ro:8012/strean",
+      "l": "https://images.radiovolna.net/_files/images/stations/431536/00eaf0a3fe2dc485f693cf0e46403901_130x130.webp",
+      "g": [
+        "Country",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Tequila Petrecere Romania",
+      "s": "http://petrecere.radiotequila.ro:7000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422415/28b95a817cfb184521a897e858aafeb9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Smart Radio",
+      "s": "https://live.smartradio.ro:8443/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/401917/9faf69bf26382ca098f4a4e8197a0d51_130x130.webp",
+      "g": [
+        "Jazz",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Impact FM",
+      "s": "http://109.166.241.233:8500/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401941/mgmh59b1339439ecf603499253_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nova FM",
+      "s": "http://86.125.106.34:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401923/kp9t59b11f22476b8184672806_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Medias 725",
+      "s": "http://mediasfm.eushells.ro:8082/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26892/fcec3d2bffbf45d5e2ed9b190917aa36_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Dobrogea",
+      "s": "http://stream.arhivaradiodobrogea.ro:7000/dobrogea",
+      "l": "https://images.radiovolna.net/_files/images/stations/401934/ori459b12f4f0024f755522559_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RADIO ROMANCE 21 - ROMANEASCA",
+      "s": "https://manele.radioromance21.ro:8014/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/431537/220563469b04d74b2d84850e37605a04_130x130.webp",
+      "g": [
+        "Country",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Manele Romania",
+      "s": "http://a.fmradiomanele.ro:8054/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422416/cbf5726f113fdf473e3c5f3a9e0f57c2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "EBS Radio",
+      "s": "https://azura.ebsmedia.ro/radio/8010/live128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428262/5634acd38bc9da2ff51b38989c61f5b8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SOS",
+      "s": "http://5.2.180.231:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/401946/q44959b13d0bcc736884984218_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Viva FM",
+      "s": "http://89.39.189.20:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401942/xmyc59b13422638c7729050348_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Muntenia FM",
+      "s": "http://munteniafm.servemp3.com:8012/stream;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401945/j93j59b13b7f7cdf4921545066_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Boom",
+      "s": "http://89.38.8.133:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401925/r7wg59b12421bf56b387021137_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ERCIS FM",
+      "s": "https://ercislive.enkosoft.com/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/428260/4211d2d8600f79a28f5a5c465fd84f20_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MUSIC LAND RADIO",
+      "s": "http://sonic1-rbx.cloud-center.ro:8068/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/431468/62d0e792b2ceaf743be2db2617680a1a_130x130.webp",
+      "g": [
+        "Decades",
+        "Electronic",
+        "R&B and Urban",
+        "Rock",
+        "Rap",
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RADIO  VIVI.FM",
+      "s": "https://stream.rcast.net/200690",
+      "l": "https://images.radiovolna.net/_files/images/stations/429753/7da20719e74c771f4e4a81d0855b4d6b_130x130.webp",
+      "g": [
+        "Decades",
+        "Themes",
+        "International"
+      ]
+    },
+    {
+      "t": "Tanănana",
+      "s": "http://live.tananana.ro:8010/stream-48.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/401903/h6gr59b0ded60f7e2936986302_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Național FM",
+      "s": "http://live2.nationalfm.ro:8001/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401901/bs8u59b0ddcc2cfca257371347_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Atlas FM",
+      "s": "http://5.2.168.50:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401949/ewb459b13ffb9b3b4268715632_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "West City Radio",
+      "s": "http://live.westcityradio.ro:8000/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401950/oj7e59b140e7797e4567277951_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Erdély FM",
+      "s": "http://89.32.44.110:9990/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401947/weqy59b13ee771313309184149_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Brașov",
+      "s": "https://live.radiobrasov.ro/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401922/iclg59b11e72d2045781455990_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ENERGYFM.RO",
+      "s": "https://live.playradio.org:8443/90HD",
+      "l": "https://images.radiovolna.net/_files/images/stations/31557/4cd75acc2606b6a94db6f7d6b3d09a5a_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Copilumik",
+      "s": "http://live.radiocopilumik.com:9986/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27669/b31caa0b0c39f129676bcbce8ce9bd94_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Romania International 3",
+      "s": "http://stream2.srr.ro:8072/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27687/f65d3e16a58997836c4df17cd4816e8f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Napoca FM",
+      "s": "https://streaming.napocalive.ro/napoca-fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/401930/s3vi59b127220f79d120656427_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Sport Total FM",
+      "s": "http://81.196.109.34:1935/SPTFM/Audio128/chunklist_w767861833.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/29820/b9fed28c2803bd23aa4ec10e88c8a031_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "ZU",
+      "s": "https://live7digi.antenaplay.ro/radiozu/radiozu-48000.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/401899/vjmf59b0dbda4d4e2623348862_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tequila Dance",
+      "s": "http://dance.radiotequila.ro:7000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/26469/63420f810a8937e56038487c15077427_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Mega-HiT Romania",
+      "s": "http://live.radiomegahit.eu:8080/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420449/5ffb8f35490705050b85316f264a0166_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Tequila Colinde Romania",
+      "s": "http://colinde.radiotequila.ro:8989/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/425539/fd8ba7f5435ffa33d282b0114ab61c8b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Realitatea FM",
+      "s": "https://shout.realitatea.net:8001/rfmweb",
+      "l": "https://images.radiovolna.net/_files/images/stations/428258/72828619d1b9e3376cc2e656de7ae2e3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Paprika Rádió (Kolozsvár)",
+      "s": "http://stream1.paprikaradio.ro:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/401929/l52259b126216e3f7184171784_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Crazy Romania",
+      "s": "http://live.crazyradio.ro:8024/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/20860/9ee306a7f653f5f541460dce9ee5431f_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Super FM",
+      "s": "https://live.superfm.ro/stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/7577/p35o5978dbf97dbbc900486080_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "YOU FM Romania",
+      "s": "https://asculta.muzicaok.de:8034/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426824/f16041cfbae957b1fe4d69f8cb111f80_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Dream FM",
+      "s": "https://dreamfm.dtech.ro/dreamfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/401918/e3wn59b11bdd16c7b445254718_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chill FM",
+      "s": "http://edge126.rdsnet.ro:84/profm/chillfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401916/c519bbf222fead667aef4e46f48e27d5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tequila Hip-Hop Romania",
+      "s": "http://necenzurat.radiotequila.ro:7000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/422413/241e65080c45960bb46a4a18682f9245_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Blue",
+      "s": "https://ssl.omegahost.ro/8014/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426668/e56813a6b145f9706d95cfe1f3bfa5b2_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Latin"
+      ]
+    },
+    {
+      "t": "MegaHit Romania Station",
+      "s": "https://air.broadcastinggroup.ro/MegaHit",
+      "l": "https://images.radiovolna.net/_files/images/stations/4546/d74fabc91dd6b74d804e2642f7c29abf_130x130.webp",
+      "g": [
+        "Pop",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "7 Romania",
+      "s": "http://80.86.106.32:8000/radio7.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401915/j8x259b0e5fb775fa622230897_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio T",
+      "s": "http://82.77.249.68:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401936/ums859b1301c0d710091338322_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Mária Rádió - Erdély",
+      "s": "https://dreamsiteradiocp6.com/proxy/rmromaniahun?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428263/3677b21ea59affd2e3beaf80004aab60_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Pro Manele",
+      "s": "http://radiopromanele.zapto.org:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/417501/d9c03699390bd0f17d4cffa99943c426_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Vocea Evangheliei",
+      "s": "https://streamer.radio.co/sb94ce6fe2/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/401904/qe6o59b0df647830b706283711_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Oldies Romania",
+      "s": "http://listen.radiooldies.ro:9200/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/25011/2c2dffba25d509629fdf633e5fc75fcd_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Sud",
+      "s": "http://media.gds.ro:8500/128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/401938/p5pp59b1311f76125415426879_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Digi24 FM",
+      "s": "https://edge126.rcs-rds.ro/digifm/digi24fm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428259/d34610e9ab0e7d2b5e39ab21c207f94b_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fir",
+      "s": "http://89.36.154.36:8000/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/25658/9ecd6df551bfb047588b2d8ad57aa86f_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio ZU",
+      "s": "https://live4ro.antenaplay.ro/radiozu/radiozu-48000.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-zu.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "News"
+      ]
+    },
+    {
+      "t": "Magic FM",
+      "s": "https://live.magicfm.ro/magicfm.aacp",
+      "l": "https://kuasark.com/files/stations-logos/magic-fm-ro.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Europa FM",
+      "s": "https://astreaming.edi.ro:8443/EuropaFM_aac",
+      "l": "https://kuasark.com/files/stations-logos/europa-fm-ro.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kiss FM",
+      "s": "https://live.kissfm.ro/kissfm.aacp",
+      "l": "https://kuasark.com/files/stations-logos/kiss-fm-ro-ro-94409.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Virgin Radio (Radio 21)",
+      "s": "https://astreaming.edi.ro:8443/VirginRadio_aac",
+      "l": "https://kuasark.com/files/stations-logos/virgin-radio-radio-21.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "News"
+      ]
+    },
+    {
+      "t": "Nova22",
+      "s": "https://s2.myradiostream.com:4520/listen.mp3?nocache=1682446803",
+      "l": "https://kuasark.com/files/stations-logos/nova22.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Cafe",
+      "s": "http://live.radiocafe.ro:8048/live.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-cafe-ro.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio România Actualități",
+      "s": "http://stream2.srr.ro:8002/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/radio-romania-actualitati.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "ProFM",
+      "s": "http://edge126.rdsnet.ro:84/profm/profm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/profm.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Manele",
+      "s": "http://a.fmradiomanele.ro:8054/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-manele-ro-94447.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Rock FM",
+      "s": "https://live.rockfm.ro/rockfm.aacp",
+      "l": "https://kuasark.com/files/stations-logos/rock-fm-ro.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Petrecaretzu",
+      "s": "http://live.radiopetrecaretzu.ro:8383/;audio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-petrecaretzu.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Impuls",
+      "s": "https://live.radio-impuls.ro/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-impuls-ro.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Deep House Radio",
+      "s": "http://62.210.105.16:7000/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/deep-house-radio-ro.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Pro Music 90s",
+      "s": "https://strw3.openstream.co/1421",
+      "l": "https://kuasark.com/files/stations-logos/radio-pro-music-90s.png",
+      "g": [
+        "Blues",
+        "Electronic",
+        "Folk",
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Petrecere",
+      "s": "http://petrecere.fmradiomanele.ro:8123/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-petrecere.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Focus",
+      "s": "http://live.focusfm.ro:8000/focusfmlow.ogg",
+      "l": "https://kuasark.com/files/stations-logos/radio-focus.png",
+      "g": [
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "One World Radio",
+      "s": "https://22673.live.streamtheworld.com/OWR_INTERNATIONAL_ADP/HLS/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/one-world-radio-ro.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "One FM",
+      "s": "https://live.onefm.ro/onefm.aacp",
+      "l": "https://kuasark.com/files/stations-logos/one-fm-ro.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Pro-B",
+      "s": "http://live.radioprob.ro:8888/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-pro-b.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Rap",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Manele Vechi",
+      "s": "http://b.fmradiomanele.ro:8044/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-manele-vechi-ro-117517.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RADIO CLASIC MOZART",
+      "s": "https://radioclasic.ro:8666/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-mozart.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Popular",
+      "s": "https://livessl.radiopopular.ro:7777//live",
+      "l": "https://kuasark.com/files/stations-logos/radio-popular-ro.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Greu De Difuzat",
+      "s": "https://greudedifuzat.ro/stream/",
+      "l": "https://kuasark.com/files/stations-logos/radio-greu-de-difuzat.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "National FM",
+      "s": "http://live2.nationalfm.ro:8001/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/national-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Pro Popular",
+      "s": "http://live.radiopropopular.com:9998/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-pro-popular.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "24 House Radio",
+      "s": "https://strw3.openstream.co/1487",
+      "l": "https://kuasark.com/files/stations-logos/24-house-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 1 Manele",
+      "s": "http://radio1manele.no-ip.org:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-1-manele.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Itsy Bitsy",
+      "s": "http://live.itsybitsy.ro:8000/itsybitsy",
+      "l": "https://kuasark.com/files/stations-logos/itsy-bitsy.png",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Guerrilla",
+      "s": "http://live.guerrillaradio.ro:8010/guerrilla.aac?flashversion=11.1&type=mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-guerrilla.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mega-HIT Romania",
+      "s": "https://live.radiomegahit.eu:8080/stream",
+      "l": "https://kuasark.com/files/stations-logos/mega-hit-romania.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Teatrul Național Radiofonic",
+      "s": "http://stream2.srr.ro:8078/eteatru.mp3",
+      "l": "https://kuasark.com/files/stations-logos/teatrul-national-radiofonic.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Trinitas",
+      "s": "http://live.radiotrinitas.ro:8003/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-trinitas.png",
+      "g": [
+        "Classical",
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio TimiBanat-Populară",
+      "s": "https://streaming12.elitecomunicacion.es:8096/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-timibanat-populara.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RADIO CLASIC KIDS",
+      "s": "https://radioclasic.ro:8636/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-kids.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio România Antena Satelor",
+      "s": "http://89.238.227.6:8042/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-romania-antena-satelor.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Sun Romania",
+      "s": "https://live.radiosun.ro/sunfm",
+      "l": "https://kuasark.com/files/stations-logos/radio-sun-romania.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Accent Oltenia 96.2 FM",
+      "s": "http://86.122.157.14:8900/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-accent-oltenia-962-fm.jpg",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Nebunya",
+      "s": "http://radionebunya.sytes.net:7575/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-nebunya.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Clasic Romania",
+      "s": "http://37.251.146.169:8000/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-romania.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "City Rádió",
+      "s": "http://live.city-radio.ro:8800/;stream",
+      "l": "https://kuasark.com/files/stations-logos/city-radio-ro.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bitter Sweet Music",
+      "s": "http://91.121.236.34:8520/ro",
+      "l": "https://kuasark.com/files/stations-logos/bitter-sweet-music.png",
+      "g": [
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Teatru Radiofonic Romania",
+      "s": "https://asculta.teatruradiofonic.com/teatru",
+      "l": "https://kuasark.com/files/stations-logos/radio-teatru-radiofonic-romania.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RADIO BEETHOVEN",
+      "s": "https://radioclasic.ro:8526/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-beethoven.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Club Mix",
+      "s": "http://live.radioclubmix.ro:9999/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-club-mix.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Pro Manele",
+      "s": "http://radiopromanele.zapto.org:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-pro-manele.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Bucuresti FM",
+      "s": "http://89.238.227.6:8032/;",
+      "l": "https://kuasark.com/files/stations-logos/bucuresti-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RADIO CLASIC STRAUSS",
+      "s": "https://radioclasic.ro:8776/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-strauss.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "100% ROMÂNESC",
+      "s": "https://radioclasic.ro:8036/stream",
+      "l": "https://kuasark.com/files/stations-logos/100-romanesc.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Doina",
+      "s": "http://89.43.138.116:8000/radiodoina.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-doina.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Bandit",
+      "s": "http://live.radiobandit.ro:8000/bandit.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-bandit.png",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Pop",
+        "Decades",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Folclor",
+      "s": "https://ssl.omegahost.ro/8092/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-folclor-ro.png",
+      "g": [
+        "Folk",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Intens",
+      "s": "http://live.radiointens.ro:8070/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-intens.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Clasic Jazz",
+      "s": "https://radioclasic.ro:8626/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-jazz.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Gold",
+      "s": "http://80.86.106.110:8020/radiogoldfm-32.aac?1465411573960.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-gold-ro.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Live 247",
+      "s": "https://stream19.expo-media.eu:9000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-live-247.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Deea",
+      "s": "https://radiocdn.nxthost.com/radio-deea",
+      "l": "https://kuasark.com/files/stations-logos/radio-deea.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio ZEN",
+      "s": "https://streaming.shoutcast.com/radiozen",
+      "l": "https://kuasark.com/files/stations-logos/radio-zen.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio Badita Popular",
+      "s": "http://89.39.189.29:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-badita-popular.png",
+      "g": [
+        "Country",
+        "Folk"
+      ]
+    },
+    {
+      "t": "GherlaFM",
+      "s": "http://89.39.189.52:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/gherlafm.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "RADIO CLASIC ROCK",
+      "s": "https://radioclasic.ro:8057/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Lipova",
+      "s": "https://securestreams5.autopo.st:1888/;listen.pls",
+      "l": "https://kuasark.com/files/stations-logos/radio-lipova.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RADIO CLASIC OPERA",
+      "s": "https://radioclasic.ro:8686/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-opera.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Bucovina",
+      "s": "https://live.radiobucovina.ro/8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-bucovina.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Balada",
+      "s": "http://94.52.142.229:85/broadwavehigh.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-balada.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio X Net Manele",
+      "s": "http://asculta.radioxnet.ro:8888/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-x-net-manele.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Gosen",
+      "s": "https://sp.totalstreaming.net/8125/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-gosen.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RADIO TCHAIKOVSCKY",
+      "s": "https://radioclasic.ro:8796/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-tchaikovscky.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Szépvíz FM",
+      "s": "https://szepvizfm.ro:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/szepviz-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Elim KIDS",
+      "s": "http://91.213.11.102:8007/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-elim-kids.png",
+      "g": [
+        "Inspirational",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio România Muzical",
+      "s": "http://stream2.srr.ro:8022/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-romania-muzical.png",
+      "g": [
+        "Classical",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "RFI Romania",
+      "s": "https://asculta.rfi.ro/live.aac",
+      "l": "https://kuasark.com/files/stations-logos/rfi-romania.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ortodox Radio",
+      "s": "https://ortodoxradio.ro:8000/stream64",
+      "l": "https://kuasark.com/files/stations-logos/ortodox-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "SUMMER HITS",
+      "s": "http://37.251.146.169:8008/stream",
+      "l": "https://kuasark.com/files/stations-logos/summer-hits.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ambiento Radio",
+      "s": "https://strw3.openstream.co/390",
+      "l": "https://kuasark.com/files/stations-logos/ambiento-radio.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Clasic Hits",
+      "s": "https://radioclasic.ro:8576/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-hits.png",
+      "g": [
+        "Blues",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Romantik",
+      "s": "https://radio-romantik.ro/listen/radio_romantic/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-romantik.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Clasic Bach",
+      "s": "https://radioclasic.ro:8516/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-bach.png",
+      "g": [
+        "Classical",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Miloș Radio",
+      "s": "http://melos.ro:8803/;stream",
+      "l": "https://kuasark.com/files/stations-logos/milos-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Sound Four You",
+      "s": "https://ssl.asculta.live/8222/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-sound-four-you.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "RADIO CLASIC LATINO",
+      "s": "https://radioclasic.ro:8646/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-latino.png",
+      "g": [
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Dance Effect Radio",
+      "s": "http://asculta.danceeffect.ro:3333/;",
+      "l": "https://kuasark.com/files/stations-logos/dance-effect-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Play Café",
+      "s": "https://live.playradio.org:8443/CafeHD",
+      "l": "https://kuasark.com/files/stations-logos/play-cafe.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "Pop",
+        "Rock",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "RVE - Suceava",
+      "s": "https://s9.yesstreaming.net:7014/stream",
+      "l": "https://kuasark.com/files/stations-logos/rve-suceava.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Manele Premium",
+      "s": "http://stream.adradio.ro/mp128",
+      "l": "https://kuasark.com/files/stations-logos/manele-premium.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Renasterea",
+      "s": "https://live.renastereacluj.ro/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-renasterea.png",
+      "g": [
+        "Classical",
+        "Inspirational",
+        "Other",
+        "News",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "CFM Constanta",
+      "s": "http://stream2.radiocfm.ro:9290/;",
+      "l": "https://kuasark.com/files/stations-logos/cfm-constanta.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio TOP DANCE Romania",
+      "s": "http://radiotopdance.ddns.net:8010/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-top-dance-romania.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Doxologia",
+      "s": "http://rlive.doxologia.ro/stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-doxologia.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Clasic Relax",
+      "s": "https://radioclasic.ro:8726/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-relax.png",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio Best Dance",
+      "s": "https://sonicssl.namehost.ro/8500/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-best-dance.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Paprika Rádió",
+      "s": "http://stream1.paprikaradio.ro:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/paprika-radio.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Elim",
+      "s": "http://91.213.11.102:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-elim.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Mix Craiova",
+      "s": "http://livemp3.radiopopular.ro:7777/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-mix-craiova.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Hot Style",
+      "s": "http://mp3.radiohot.ro:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-hot-style.png",
+      "g": [
+        "Electronic",
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Drums.ro Radio",
+      "s": "http://radio.drums.ro:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/drumsro-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Fun FM",
+      "s": "http://online.funfm.ro:8000/funfm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/fun-fm-ro.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Clasic Popular",
+      "s": "https://radioclasic.ro:8706/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-popular.png",
+      "g": [
+        "Classical",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Clasic Folk",
+      "s": "https://radioclasic.ro:8606/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-folk.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Jazz FM Romania",
+      "s": "https://s4.radio.co/s1e25bf273/listen",
+      "l": "https://kuasark.com/files/stations-logos/jazz-fm-romania.png",
+      "g": [
+        "Easy Listening",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Chill FM Radio",
+      "s": "https://edge126.rcs-rds.ro/profm/chillfm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/chill-fm-radio.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio Clasic Country",
+      "s": "https://radioclasic.ro:8586/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-country.png",
+      "g": [
+        "Country"
+      ]
+    },
+    {
+      "t": "Radio Clasic Chopin",
+      "s": "https://radioclasic.ro:8556/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-chopin.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Clasic Vivaldi",
+      "s": "https://radioclasic.ro:8816/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-vivaldi.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Vocea Evangheliei Timişoara",
+      "s": "https://lb01.bpstream.com:8624/rvetm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-vocea-evangheliei-timisoara.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Romanian Manele",
+      "s": "https://asculta.radioromanian.net:8300/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-romanian-manele.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "DJ Radio Romania",
+      "s": "https://stream.djradio.ro/listen/dj_radio_romania/aac",
+      "l": "https://kuasark.com/files/stations-logos/dj-radio-romania.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Elim PLUS",
+      "s": "http://91.213.11.102:8003/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-elim-plus.png",
+      "g": [
+        "Inspirational",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Vibe Underground Radio",
+      "s": "https://stream-156.zeno.fm/s98kga59qnruv?zs=WEiShEirTx-lgmBssI-bLA",
+      "l": "https://kuasark.com/files/stations-logos/vibe-underground-radio.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sláger Rádió",
+      "s": "http://93.115.175.206:8000/raspi",
+      "l": "https://kuasark.com/files/stations-logos/slager-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Sport Total FM",
+      "s": "https://livesptfm.com/SPTFM/Live/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/sport-total-fm.png",
+      "g": [
+        "Rock",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio 3Net",
+      "s": "http://media.3netmedia.ro:8000/Live128",
+      "l": "https://kuasark.com/files/stations-logos/radio-3net.png",
+      "g": [
+        "Electronic",
+        "Folk",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Nostalgic FM",
+      "s": "https://nostalgicfm.ro/offline.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nostalgic-fm.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Marosvásárhelyi Rádió",
+      "s": "http://streaming.radiomures.ro:8312/;stream",
+      "l": "https://kuasark.com/files/stations-logos/marosvasarhelyi-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio HiT FM Manele Romania",
+      "s": "https://ssl.radiohitfm.net/8340/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-hit-fm-manele-romania.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Blue Jazz Radio",
+      "s": "http://37.251.146.169:8400/stream",
+      "l": "https://kuasark.com/files/stations-logos/blue-jazz-radio.png",
+      "g": [
+        "Blues",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio Clasic Christmas",
+      "s": "https://radioclasic.ro:8826/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-christmas.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Tequila Manele (București)",
+      "s": "https://ssl.servereradio.ro/7000/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-tequila-manele-bucuresti.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kolozsvari Radio",
+      "s": "http://89.238.227.6:8386/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/kolozsvari-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Clasic Love",
+      "s": "https://radioclasic.ro:8656/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-love.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Veselia Folclor",
+      "s": "https://ssl.omegahost.ro/8232/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-veselia-folclor.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio SunLove Romania",
+      "s": "https://live.radiosun.ro/sunlove",
+      "l": "https://kuasark.com/files/stations-logos/radio-sunlove-romania.png",
+      "g": [
+        "Easy Listening",
+        "Themes"
+      ]
+    },
+    {
+      "t": "SoundTrack",
+      "s": "https://radioclasic.ro:8766/stream",
+      "l": "https://kuasark.com/files/stations-logos/soundtrack.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Kids România",
+      "s": "https://asculta.radioromanian.net:10997/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-kids-romania.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Transilvania",
+      "s": "https://stream2.radiotransilvania.ro/Oradea",
+      "l": "https://kuasark.com/files/stations-logos/radio-transilvania.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Erdélyi Magyar Rádió",
+      "s": "http://adas.erdelyimagyarradio.eu:8000/emr",
+      "l": "https://kuasark.com/files/stations-logos/erdelyi-magyar-radio.png",
+      "g": [
+        "Folk",
+        "Decades",
+        "Rock",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Clasic R’n’B/Soul",
+      "s": "https://radioclasic.ro:8736/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-rnb-soul.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Baraka",
+      "s": "https://ice.streams.ovh:1165/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-baraka.png",
+      "g": [
+        "Themes",
+        "Electronic",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Best Fm",
+      "s": "https://play.discomix.ro/8002/stream",
+      "l": "https://kuasark.com/files/stations-logos/best-fm-ro.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Red Radio",
+      "s": "http://37.251.146.169:7900/stream",
+      "l": "https://kuasark.com/files/stations-logos/red-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Constanta",
+      "s": "http://89.238.227.6:8332/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-constanta.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "News"
+      ]
+    },
+    {
+      "t": "Rádió Gaga Gyergyószék",
+      "s": "https://a3.my-control-panel.com:6690/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-gaga-gyergyoszek.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Liberty",
+      "s": "http://asculta.radioliberty.ro:1989/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-liberty.png",
+      "g": [
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Muzica Petrecere",
+      "s": "https://stream-043.zeno.fm/6hgkkpka1rhvv?zs=Wf3bsRdDSRGxmxELmP5Nfg",
+      "l": "https://kuasark.com/files/stations-logos/radio-muzica-petrecere.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Clasic Plus",
+      "s": "http://37.251.146.169:7006/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-clasic-plus.png",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Radio Bailesti Oltenia",
+      "s": "https://asculta.radiobailesti.ro/bailestifm",
+      "l": "https://kuasark.com/files/stations-logos/radio-bailesti-oltenia.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Elim Air",
+      "s": "http://91.213.11.102:8011/stream:",
+      "l": "https://kuasark.com/files/stations-logos/radio-elim-air.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio SunFolk Romania",
+      "s": "https://live.radiosun.ro/sunfolk",
+      "l": "https://kuasark.com/files/stations-logos/radio-sunfolk-romania.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "AltRock Radio",
+      "s": "https://radioclasic.ro:8506/stream",
+      "l": "https://kuasark.com/files/stations-logos/altrock-radio.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Lautaru Popular",
+      "s": "http://live.radiolautaru.ro:9000/Stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-lautaru-popular.png",
+      "g": [
+        "Classical",
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Pentru Voi",
+      "s": "https://eu2.fastcast4u.com/proxy/radiopentruvoi?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-pentru-voi.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio SunGold Hits Romania",
+      "s": "https://live.radiosun.ro/sungold",
+      "l": "https://kuasark.com/files/stations-logos/radio-sungold-hits-romania.png",
+      "g": [
+        "Electronic",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Dobrogea",
+      "s": "https://fmradiohub.in/play?url=http://stream.arhivaradiodobrogea.ro:7000/dobrogea-mobil",
+      "l": "https://kuasark.com/files/stations-logos/radio-dobrogea.png",
+      "g": [
+        "Inspirational",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Romania Popular",
+      "s": "https://asculta.romaniapopular.ro:8080/;",
+      "l": "https://kuasark.com/files/stations-logos/romania-popular.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Oastea Domnului",
+      "s": "http://rod128.oasteadomnului.ro:8000/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-oastea-domnului.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "MixMusic Radio România",
+      "s": "http://mixmusicdance.zapto.org:8890/;",
+      "l": "https://kuasark.com/files/stations-logos/mixmusic-radio-romania.png",
+      "g": [
+        "Electronic",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Retró Rádió",
+      "s": "http://online.radioretro.ro:8002/RetroRadio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/retro-radio-ro.png",
+      "g": [
+        "Blues",
+        "Classical",
+        "R&B and Urban",
+        "Jazz",
+        "Pop",
+        "Decades",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Liberty Manele",
+      "s": "http://manele.radioliberty.ro:1989/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-liberty-manele.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Vocea Evangheliei Sibiu",
+      "s": "https://c13.radioboss.fm:18286/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-vocea-evangheliei-sibiu.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Lumina",
+      "s": "http://live.radiolumina.ro:9000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-lumina.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Babilon",
+      "s": "http://138.201.52.248:8027/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-babilon.png",
+      "g": [
+        "Country",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Arges Mioveni Nr1",
+      "s": "http://89.39.189.53:8000/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/radio-arges-mioveni-nr1.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Romance 21",
+      "s": "https://radio.cloud23.eu/radioromance21",
+      "l": "https://kuasark.com/files/stations-logos/radio-romance-21.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "ZeZe Radio",
+      "s": "http://37.251.146.169:7030/stream",
+      "l": "https://kuasark.com/files/stations-logos/zeze-radio.png",
+      "g": [
+        "Alternative",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio AS petrecere",
+      "s": "https://stream-036.zeno.fm/zp999wm4tm0uv?zs=nPQ8oX-aSl2y0eAbXuza6Q",
+      "l": "https://kuasark.com/files/stations-logos/radio-as-petrecere.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio HIT FM Alba",
+      "s": "https://s3.myradiostream.com/:4404/listen.mp3?nocache=1682446447",
+      "l": "https://kuasark.com/files/stations-logos/radio-hit-fm-alba.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio FAN",
+      "s": "http://asculta.radio-fan.ro:3750/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-fan-ro.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio SunDance Romania",
+      "s": "https://live.radiosun.ro/sundance",
+      "l": "https://kuasark.com/files/stations-logos/radio-sundance-romania.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vox Rádió",
+      "s": "http://stream.voxfm.ro:8000/stream/1/",
+      "l": "https://kuasark.com/files/stations-logos/vox-radio-ro.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Soundtracks",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Dream FM",
+      "s": "http://dreamfm.dtech.ro:9220/dreamfm",
+      "l": "https://kuasark.com/files/stations-logos/dream-fm-ro.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Romanian Hip Hop",
+      "s": "https://asculta.radioromanian.net:8400/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-romanian-hip-hop.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Erdély FM",
+      "s": "https://efm.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/erdely-fm.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Domeldo Live",
+      "s": "http://185.105.4.53:3000/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-domeldo-live.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "New Age",
+        "Soundtracks"
+      ]
+    }
+  ]
+}

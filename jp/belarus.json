@@ -1,0 +1,1114 @@
+{
+  "stations": [
+    {
+      "t": "Народное Радио",
+      "s": "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/9182/m9wg593fff0340795526553598_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Новое радио",
+      "s": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/476/nyxy5942eb4f78656955206407_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Пилот FM",
+      "s": "https://stream.hoster.by/pilotfm/pilot/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/5584/4a77ce377448ae0b9aecade43be68bab_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Гродно",
+      "s": "https://stream.radiogrodno.by:8005/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/5664/ce76594d26fa9cb84479290152_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Monte Carlo Lounge",
+      "s": "https://listen.openstream.co/7411/audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/32755/000808a86db423156d0f77438cb1a814_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Витебск",
+      "s": "http://radio.vtv.by:8000/radio_vitebsk_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/411/v8ag5b3f2af78a023790927586_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "4you",
+      "s": "https://listen7.myradio24.com/2455",
+      "l": "https://images.radiovolna.net/_files/images/stations/418899/80e29917ee7ff20be76cd0876a86abf6_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Брест",
+      "s": "https://stream2.datacenter.by/trkbrest",
+      "l": "https://images.radiovolna.net/_files/images/stations/5667/h0ek594d2f9476525805051329_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Сябры",
+      "s": "http://109.68.190.202:8131/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/414/w8jl594d2fbe153f3311436039_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Мелодии Века",
+      "s": "https://air.melodiiveka.by:8443/mv",
+      "l": "https://images.radiovolna.net/_files/images/stations/5585/qmu5594d2fe5193e8046868066_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Unistar",
+      "s": "https://advertizer.hoster.by/unistar/unistar-128kb/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/415/afb062d78e7f72adf17c10d03c082712_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "HIPHOPBY",
+      "s": "http://online.hiphop.by:9000/8000",
+      "l": "https://images.radiovolna.net/_files/images/stations/32349/s0ex594d306935608014327765_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Барановичи FM",
+      "s": "http://radio.100fm.by:8000/100fm128",
+      "l": "https://images.radiovolna.net/_files/images/stations/5793/dtk6594d30c0990dc123250434_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Русское радио",
+      "s": "https://stream.hoster.by/rusradio/russkoe/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/489/ya08593f95df3319a172501186_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Гомель FM",
+      "s": "https://a1.radioheart.ru:8001/radiogomelfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/5748/l6815bbf03f82120a420738015_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Душевное Радио",
+      "s": "https://stream.hoster.by/pilotfm/audio/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/7345/ertw594d319b7224b980101191_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Юмор FM",
+      "s": "http://live.humorfm.by:8000/veseloe",
+      "l": "https://images.radiovolna.net/_files/images/stations/7062/bjqt5956530b1b843266527797_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Могилёв",
+      "s": "https://stream2.datacenter.by/tvrmogilev",
+      "l": "https://images.radiovolna.net/_files/images/stations/5709/mgvx594d31730f8e6366616790_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Гомельское городское радио",
+      "s": "http://31.130.206.32:2015/gomelradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/9180/lwpc594d31e2183be362165207_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Аплюс Бит",
+      "s": "https://s.aplus.fm/aplus_beat_64",
+      "l": "https://images.radiovolna.net/_files/images/stations/660/bo8r594d32bd57bb3357363202_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "MH•radio",
+      "s": "https://stream.mhradio.net/free.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400843/jj91594a3a82b7c09642094302_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "MEGA Rock",
+      "s": "http://194.67.200.84:8000/rock.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426768/0e7f8a40eb52349dc8bd500665cf5186_130x130.webp",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "MEGA BY",
+      "s": "http://194.67.200.84:8000/by.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426769/6f79331870bce6ad4c7a5941a2898c65_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Ретро FM",
+      "s": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/418503/6d5067908dd74dabfe3ace6ec879ed99_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "MEGA Light",
+      "s": "http://194.67.200.84:8000/light.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426767/1a5638ffc40e131f6f625b859d899068_130x130.webp",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Pop"
+      ]
+    },
+    {
+      "t": "БР Радыё Сталіца",
+      "s": "https://stream2.datacenter.by/stalica",
+      "l": "https://images.radiovolna.net/_files/images/stations/400729/1486139627_l6hfkxdvuxo.jpg-237216_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Unistar - Top Channel",
+      "s": "https://unistar.webcaramba.com/unistar_top128.mp3?radiostatistica=orb",
+      "l": "https://images.radiovolna.net/_files/images/stations/32480/c9d297cfad63c2e772c583c790a950c7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Unistar - Офисный канал",
+      "s": "https://unistar.webcaramba.com/unistar_office128.mp3?radiostatistica=orb",
+      "l": "https://images.radiovolna.net/_files/images/stations/32481/baef43c92e572e3f00b10f3e7e10f15c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MEGA",
+      "s": "http://194.67.200.84:8000/mega.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426766/d08cee14452402f2ffd3c6a1642d6317_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Новое радио - Megamix",
+      "s": "https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/8278/hx6s5942eb71d3c54552192650_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "БР Першы нацыянальны канал",
+      "s": "https://stream2.datacenter.by/1kanal",
+      "l": "https://images.radiovolna.net/_files/images/stations/400730/1486139911_1446691107_1-kanal-belarusskogo-radio.jpg-350285_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Правда Радио",
+      "s": "http://79.98.49.5:8132/pravda",
+      "l": "https://images.radiovolna.net/_files/images/stations/405761/lwso5acc70ded8177040409947_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Unistar - The Best",
+      "s": "https://unistar.webcaramba.com/unistar_best128.mp3?radiostatistica=orb",
+      "l": "https://images.radiovolna.net/_files/images/stations/32482/b7128c069b429240b900e7f73b783e40_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Компас FM",
+      "s": "https://radio.mil.by/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/425531/fad9a3627765653abf0ab13fe48de95f_130x130.webp",
+      "g": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Relax",
+      "s": "http://live.humorfm.by:8000/relax",
+      "l": "https://images.radiovolna.net/_files/images/stations/405759/jt3y5acc6e2f02f0b236873846_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Zефир FM",
+      "s": "http://178.124.152.212:8008/Zefir",
+      "l": "https://images.radiovolna.net/_files/images/stations/405760/houw5acc6fba05709431556366_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ХитоМаниЯ",
+      "s": "http://stream.volnorez.com:8000/live/xitomaniya/f073f74bb0b82a4a44793f3859a0861095316.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/417578/sjx75cf81e831b689263792641_130x130.webp",
+      "g": [
+        "Electronic",
+        "Rap",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Центр FM",
+      "s": "https://stream2.datacenter.by/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/412/jb4t5bbda6d8d8a2d345228249_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Synthez.Net",
+      "s": "http://air.synthez.net:8000/192.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2785/v9k65979eaebea36f808028628_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "BONN",
+      "s": "https://listen5.myradio24.com/73028",
+      "l": "https://images.radiovolna.net/_files/images/stations/423202/57d148d40f29610c1ed927e3d95d6cf9_130x130.webp",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Unistar - Мой Рок-н-ролл",
+      "s": "https://unistar.webcaramba.com/unistar_rock128.mp3?radiostatistica=orb",
+      "l": "https://images.radiovolna.net/_files/images/stations/406029/6e0580cfe99ec86fe0203b79b23cc185_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "DWGradio Радио Слово Божье",
+      "s": "https://server32349.streamplus.de/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/407212/rzn95bfbf12aec6ba234700371_130x130.webp",
+      "g": [
+        "Inspirational",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Би-Эй",
+      "s": "https://air.radioba.by:8443/ba",
+      "l": "https://images.radiovolna.net/_files/images/stations/9183/xbbn599190629f687079617570_130x130.webp",
+      "g": [
+        "News",
+        "Pop"
+      ]
+    },
+    {
+      "t": "MEGA Kids",
+      "s": "http://194.67.200.84:8000/kids.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427571/c2d18c8e21474c42ff84c0ffcf780bd6_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Aplus Deep",
+      "s": "https://s.aplus.fm/aplus_deep_128",
+      "l": "https://images.radiovolna.net/_files/images/stations/420286/179fca8af9fcedc1b49ecfcb0e7a6f80_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "БР Радиус FM",
+      "s": "https://stream2.datacenter.by/radiusfm_main",
+      "l": "https://images.radiovolna.net/_files/images/stations/400728/1486139474_2viretdzsga.jpg-470470_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "LOVEIS RADIO",
+      "s": "https://myradio24.org/3355",
+      "l": "https://images.radiovolna.net/_files/images/stations/400905/uwyh5c3daf4f6ffb6950480444_130x130.webp",
+      "g": [
+        "International",
+        "Themes",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Легенды FM",
+      "s": "http://live.legendy.by:8000/legendyfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/406026/a5lc5bb9ddd2caeae603445935_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "MEGA Rap",
+      "s": "http://194.67.200.84:8000/rap.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427574/6e3d17e011b4ff2e1e60839898d7219c_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Местное радио",
+      "s": "http://www.mestnoe.com/pp_mestnoe_radio_2010.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9184/plhj5a229aa07c24b064517123_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MEGA Fresh",
+      "s": "http://194.67.200.84:8000/fresh.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427582/756daaa86f2b5da088522212bfc47a83_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MEGA Popsa",
+      "s": "http://194.67.200.84:8000/popsa.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427569/d4efe6f2d8ecbbdc7abd84543646c871_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "MEGA UA",
+      "s": "http://194.67.200.84:8000/ua.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427579/7b7b05fe2a23db2ebe1eaf79158cbe74_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "MEGA Y2K",
+      "s": "http://194.67.200.84:8000/y2k.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427580/4b53f9f855c577640c21ac35a9a48e84_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MEGA Gold",
+      "s": "http://194.67.200.84:8000/gold.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427583/386b95c0be6daa085f2ece7c0407a8bb_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "MEGA Urbana",
+      "s": "http://194.67.200.84:8000/urbana.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427576/001a3d3e87ee4b30c959686954c10f41_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "MEGA Humor",
+      "s": "http://194.67.200.84:8000/humor.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427584/3476351f4c77ee7518aa9bc5dc33cb97_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MEGA Chanson",
+      "s": "http://194.67.200.84:8000/chanson.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427581/76700fb587d93e17048dd1f5e56ea1e0_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Авторадио",
+      "s": "http://live.humorfm.by:8000/avtoradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/406028/ak5p5bbb130f4ca14140892569_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Ретро FM",
+      "s": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/399327/1484495077_ffsqb3ik8tk_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Рокс",
+      "s": "https://de.streams.radioplayer.by:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/7431/ub9m5977399bccb25110353988_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Blow Back Radio",
+      "s": "https://a9.radioheart.ru:9031/RH22303",
+      "l": "https://images.radiovolna.net/_files/images/stations/420528/46c503a294e82b0ad5450d7ccf73aafb_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "MEGA Xmas",
+      "s": "http://194.67.200.84:8000/xmas.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427578/0891a8af9d2384cb08107acf1022ea13_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "MEGA Pulse",
+      "s": "http://194.67.200.84:8000/pulse.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427573/ef5d468f96625b88f5f2dd4dd608f595_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "MEGA Mix",
+      "s": "http://194.67.200.84:8000/mix.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427572/972dd0a4a78157a8b2b1c1bced0c0596_130x130.webp",
+      "g": [
+        "Talk",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "MEGA Alter",
+      "s": "http://194.67.200.84:8000/alter.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427570/8d0426dc1005abe9498a0befd4442512_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock",
+        "Metal",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Город FM",
+      "s": "https://stream2.datacenter.by/GorodFM",
+      "l": "https://images.radiovolna.net/_files/images/stations/428299/50c8d24a064059a2139e6b5a8c0f43a1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Европа Плюс",
+      "s": "https://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/418114/bd94f0ba21961415b4f77de6aa53cfa6_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Прайм Радио",
+      "s": "http://46.105.180.202:8126/Bel256",
+      "l": "https://images.radiovolna.net/_files/images/stations/285368/1479648778_8d4c081ceb69_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "БР Канал Культура",
+      "s": "https://stream2.datacenter.by/kultura",
+      "l": "https://images.radiovolna.net/_files/images/stations/400727/b629cf135cf579d2137a72f5d77079cf_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Energy FM",
+      "s": "https://stream2.datacenter.by/energy",
+      "l": "https://images.radiovolna.net/_files/images/stations/420025/4cb3d6568bd00bb414785618fa69345a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Европа Плюс",
+      "s": "https://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/418174/b2323b9a17bc45c79f9f203b8bcede8e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Душевное Радио",
+      "s": "https://stream2.datacenter.by/dushevnoe",
+      "l": "https://kuasark.com/files/stations-logos/dusevnoe.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио РОКС-М",
+      "s": "https://stream.hoster.by/radioroks/roks/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/radio-roks-m.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Чайная роза радио",
+      "s": "https://s04.volnorez.com/live-app/788219",
+      "l": "https://kuasark.com/files/stations-logos/cajnaa-roza-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Юмор FM Беларусь",
+      "s": "https://live.humorfm.by:8443/veseloeradio",
+      "l": "https://kuasark.com/files/stations-logos/umor-fm-by.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Unistar",
+      "s": "https://unistar.webcaramba.com/unistar_main128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-unistar.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Relax",
+      "s": "https://live.humorfm.by:8443/relax-high",
+      "l": "https://kuasark.com/files/stations-logos/radio-relax.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "Wargaming.FM",
+      "s": "https://sv.netradio.by/1/128",
+      "l": "https://kuasark.com/files/stations-logos/wargamingfm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Авторадио",
+      "s": "https://live.humorfm.by:8443/avtoradio",
+      "l": "https://kuasark.com/files/stations-logos/avtoradio-belarus.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Витебск",
+      "s": "https://live.radiovitebsk.by/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-vitebsk.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Молодечно FM",
+      "s": "https://radio.tvs.by:8089/Radio/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/molodecno-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Мир",
+      "s": "https://stream2.datacenter.by/radiomir",
+      "l": "https://kuasark.com/files/stations-logos/radio-mir-belarus.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio 4YOU",
+      "s": "https://myradio24.org/2455",
+      "l": "https://kuasark.com/files/stations-logos/radio-4you.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Минск",
+      "s": "https://radio.mk.by:8443/mk128",
+      "l": "https://kuasark.com/files/stations-logos/radio-minsk.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Unistar - Двухтысячные",
+      "s": "https://unistar.webcaramba.com/unistar_best128.mp3?radiostatistica=site",
+      "l": "https://kuasark.com/files/stations-logos/radio-unistar-dvuhtysacnye.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Беларусь",
+      "s": "https://stream2.datacenter.by/belarusfm",
+      "l": "https://kuasark.com/files/stations-logos/radio-belarus.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Unistar - Офисный канал",
+      "s": "https://unistar.webcaramba.com/unistar_office128.mp3?radiostatistica=site",
+      "l": "https://kuasark.com/files/stations-logos/radio-unistar-ofisnyj-kanal.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "Aplus FM",
+      "s": "https://s.aplus.fm/aplus_48.aac",
+      "l": "https://kuasark.com/files/stations-logos/aplus-one-aac-16-kb-s.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Гомель FM",
+      "s": "https://stream2.datacenter.by/gomelfm",
+      "l": "https://kuasark.com/files/stations-logos/gomel-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Правда Радио",
+      "s": "https://stream2.datacenter.by/gomelskayapravda?type=.mp3",
+      "l": "https://kuasark.com/files/stations-logos/pravda-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Unistar - Мой рок-н-ролл",
+      "s": "https://unistar.webcaramba.com/unistar_rock128.mp3?radiostatistica=site",
+      "l": "https://kuasark.com/files/stations-logos/radio-unistar-moj-rok-n-roll.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Альфа Радио",
+      "s": "http://live.alpha.by:7000/alpha",
+      "l": "https://kuasark.com/files/stations-logos/alfa-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Новое Радио - Top Non-Stop",
+      "s": "https://live.novoeradio.by:444/live/novoeradio_TOP100_aac128/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/novoe-radio-top-non-stop.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Aplus FM - Relax",
+      "s": "https://s.aplus.fm/aplus_relax_64",
+      "l": "https://kuasark.com/files/stations-logos/aplus-relax.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "Минская волна (МВ-Радио)",
+      "s": "https://stream2.datacenter.by/mvradio",
+      "l": "https://kuasark.com/files/stations-logos/minskaa-volna-mv-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Unistar - Свежие хиты",
+      "s": "https://unistar.webcaramba.com/unistar_top128.mp3?radiostatistica=site",
+      "l": "https://kuasark.com/files/stations-logos/radio-unistar-svezie-hity.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Лидер FM",
+      "s": "https://icecast.lider-fm.by/liderfm",
+      "l": "https://kuasark.com/files/stations-logos/lider-fm-by.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "MFM 105.0",
+      "s": "https://radio.105fm.by/radio.105.0mfm",
+      "l": "https://kuasark.com/files/stations-logos/mfm-1050.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "NETradioWOT",
+      "s": "https://sv.netradio.by/1/256",
+      "l": "https://kuasark.com/files/stations-logos/netradiowot.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Твое Радио",
+      "s": "http://lider-fm.by:8020/radio",
+      "l": "https://kuasark.com/files/stations-logos/tvoe-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Aplus FM - Rock",
+      "s": "https://s.aplus.fm/aplus_rock_64",
+      "l": "https://kuasark.com/files/stations-logos/aplus-fm-rock.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио s13.ru",
+      "s": "https://c28.radioboss.fm:18099/stream",
+      "l": "https://kuasark.com/files/stations-logos/s13.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Новое Радио - Fresh",
+      "s": "https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/novoe-radio-fresh.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 97",
+      "s": "http://air.radio97.net:8008/128",
+      "l": "https://kuasark.com/files/stations-logos/radio-97.png",
+      "g": [
+        "Rock",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Beloe Radio",
+      "s": "https://listen6.myradio24.com/4592",
+      "l": "https://kuasark.com/files/stations-logos/beloe-radio-1891.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Прайм Радио",
+      "s": "https://listen7.myradio24.com/praims",
+      "l": "https://kuasark.com/files/stations-logos/prajm-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Скиф",
+      "s": "http://178.172.150.248:2530/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-skif.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Aplus FM - Beat",
+      "s": "https://s.aplus.fm/aplus_beat_128",
+      "l": "https://kuasark.com/files/stations-logos/aplus-fm-beat.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Новое Радио - Wake Up Show",
+      "s": "https://live.novoeradio.by:444/live/novoeradio_wakeupshow_aac128/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/novoe-radio-wake-up-show.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Alyaxen Radiostation",
+      "s": "https://listen7.myradio24.com/alyaxen",
+      "l": "https://kuasark.com/files/stations-logos/alyaxen-radiostation.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Еўрарадыё - Alternative",
+      "s": "http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910",
+      "l": "https://kuasark.com/files/stations-logos/euraradye-alternative.png",
+      "g": [
+        "Alternative",
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Еўрарадыё - Soft Rock",
+      "s": "http://stream1.euroradio.fm:8000/euroradio3?seed=1493711245",
+      "l": "https://kuasark.com/files/stations-logos/euraradye-soft-rock.png",
+      "g": [
+        "Rock",
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Love Is Radio Belarus",
+      "s": "https://listen1.myradio24.com/3355",
+      "l": "https://kuasark.com/files/stations-logos/love-is-radio-belarus.png",
+      "g": [
+        "Themes",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Гомель Плюс",
+      "s": "http://s1.radioheart.ru:8001/radiogomel",
+      "l": "https://kuasark.com/files/stations-logos/gomel-plus.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радыё Relax",
+      "s": "http://live.humorfm.by:8000/radiorelax",
+      "l": "https://kuasark.com/files/stations-logos/radye-relax.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Plato",
+      "s": "https://azura.radioplato.by/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-plato.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Rawsound",
+      "s": "http://stream.rawsound.by:8080/;",
+      "l": "https://kuasark.com/files/stations-logos/rawsound.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Адкрытае Слова",
+      "s": "https://rs.radioslovo.net:4005/radio?1619348678875",
+      "l": "https://kuasark.com/files/stations-logos/adkrytae-slova.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rawsound mobile",
+      "s": "http://stream.rawsound.by:8090/;",
+      "l": "https://kuasark.com/files/stations-logos/rawsound-mobile.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Радые Марыя",
+      "s": "https://server.radiorm.by:8443/live",
+      "l": "https://kuasark.com/files/stations-logos/radye-marya.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ватыканскае радыё",
+      "s": "https://radio.vaticannews.va/stream-be",
+      "l": "https://kuasark.com/files/stations-logos/vatykanskae-radye.png",
+      "g": [
+        "Classical",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Soundeo Soul Records",
+      "s": "https://listen7.myradio24.com/93299",
+      "l": "https://kuasark.com/files/stations-logos/soundeo-soul-records.png",
+      "g": [
+        "Electronic",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio.Uvaga.By",
+      "s": "http://up.uvaga.by:8100/uvaga128",
+      "l": "https://kuasark.com/files/stations-logos/radiouvagaby.png",
+      "g": [
+        "Alternative",
+        "Other"
+      ]
+    },
+    {
+      "t": "Milky Way Radio",
+      "s": "https://milky-way.network/320kbps.m4a",
+      "l": "https://kuasark.com/files/stations-logos/milky-way-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Jazz Radio Network - Belarus",
+      "s": "https://kathy.torontocast.com:3375/stream",
+      "l": "https://kuasark.com/files/stations-logos/gjr.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Радио Сигнал",
+      "s": "https://media-edge3.hostin.live/radio-singnal.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-signal-by.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

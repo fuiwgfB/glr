@@ -1,0 +1,108 @@
+{
+  "stations": [
+    {
+      "t": "Maria",
+      "s": "http://dreamsiteradiocp.com:8116/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421528/a8030564c2253ae6c70a66bdbf1412f6_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Africa Online",
+      "s": "http://136.0.17.26:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/30429/091fe354a4bc808cd86eb236c1755a86_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Okapi",
+      "s": "https://stream.zeno.fm/y9y2bhvzs4zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429406/d267a323ca5f5170ccfe624438879ec4_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kultura FM",
+      "s": "https://yohanfm.ice.infomaniak.ch/yohanfm-128.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/430411/cf286a8d0c6f7549e1c09db283aab96d_130x130.webp",
+      "g": [
+        "International",
+        "News",
+        "Inspirational",
+        "Talk",
+        "New Age",
+        "Classical",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Lushiactu Radio",
+      "s": "https://cast3.asurahosting.com/proxy/deograti/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/427036/f7d277178f901c1b1c3eb5d968d81959_130x130.webp",
+      "g": [
+        "International",
+        "R&B and Urban",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio-Télé Groupe Avenir",
+      "s": "https://stream.zeno.fm/y9y2bhvzs4zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429405/71387227b8fa8f4acfa448138dd2d8f9_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Trace FM",
+      "s": "https://stream.rcs.revma.com/u98b8f5q54zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429407/b27fa71b024c0ed20c352da0148a5f67_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "HsdOne FM",
+      "s": "https://manager7.streamradio.fr:1235/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426789/45ba8c74a81fc5c8c2c7a2215eb5068c_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "SBFMBROADCAST RADIO",
+      "s": "https://servidor27.brlogic.com:7190/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/430102/95a5bc8af65cabc11f85f8608abcc436_130x130.webp",
+      "g": [
+        "Country",
+        "Seasonal and Holiday",
+        "Rock",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Urban FM",
+      "s": "http://edge.iono.fm/xice/138_medium.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/430410/ac921e7d5da3945522b18e364770424f_130x130.webp",
+      "g": [
+        "International",
+        "Latin",
+        "Talk",
+        "News"
+      ]
+    },
+    {
+      "t": "Top Congo FM",
+      "s": "http://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/405241/eep65a4115b8b6dfa949599127_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    }
+  ]
+}

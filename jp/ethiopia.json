@@ -1,0 +1,198 @@
+{
+  "stations": [
+    {
+      "t": "OBN Raadiyoo Oromiyaa",
+      "s": "https://stream.zeno.fm/9kha8gxkpd0uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429413/fb4bad15f8944434af4a03b4f7098f8c_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Sheger FM",
+      "s": "https://node-23.zeno.fm/st55ta775wquv",
+      "l": "https://images.radiovolna.net/_files/images/stations/415313/p24f5c20088ad56ea260092690_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "FM Addis 97.1",
+      "s": "https://stream.zeno.fm/rb6wbrap7yzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429415/5758cf689b35fbc514648cc8bf67306f_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Bisrat FM",
+      "s": "https://node-19.zeno.fm/zvaru17saxquv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423804/53d3bf8ad888c7a44bf35117e2fefb40_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sinfonia Super Stereo",
+      "s": "https://sonic.portalfoxmix.cl:7163/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423437/61f646426da114fc5f7b66479208377b_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "EBC National",
+      "s": "https://stream.zeno.fm/ad402tap7yzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429414/a9ab184be6d985504748f1565d5c8ebd_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Afro",
+      "s": "https://node-15.zeno.fm/t5td4ky6hkeuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423805/48a0d9fe75dbbcc08adb98c01f0f51fd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ahadu Radio",
+      "s": "https://stream.zenolive.com/wbwxeuqrwueuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423803/bf82865571d3e7f29cabe101714975e7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Zami Radio",
+      "s": "http://node-27.zeno.fm/61hxscaatxquv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423802/f120ac0d71288e72ef70e53b00ed1f1e_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "EBC 104.7",
+      "s": "https://stream.zeno.fm/2xguamap7yzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429416/54d2f37b033fa401fd831c5b48d3044c_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ethio FM",
+      "s": "https://stream.zeno.fm/72y045deqeruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429417/2f77ab38015ff500a238c539194b2fc8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Ethio FM",
+      "s": "https://stream-057.zeno.fm/b8skbyqeqeruv?zs=fF3GTcg8Q_GAOs9uFbgjCQ",
+      "l": "https://kuasark.com/files/stations-logos/ethio-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Sheger FM",
+      "s": "https://stream-157.zeno.fm/6tgb6cp9k1duv?zs=6G6QmgJtSf-0mPRDbn09Pg",
+      "l": "https://kuasark.com/files/stations-logos/sheger-fm.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fana Broadcasting Corporate",
+      "s": "https://www.fanabc.com/english/live/",
+      "l": "https://kuasark.com/files/stations-logos/fana-broadcasting-corporate.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Taem Radio ጣዕም ሬድዮ",
+      "s": "https://stream-155.zeno.fm/ppqkstkh1k0uv?zs=XtPW3pqQR6-TEeK629_qWw",
+      "l": "https://kuasark.com/files/stations-logos/taem-radio-.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Ethio-Sudan Radio",
+      "s": "https://stream-156.zeno.fm/rmz1mlw6scguv?zs=pL_0_tgYRZ-RDK5PW8-oNg",
+      "l": "https://kuasark.com/files/stations-logos/ethio-sudan-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Jano FM",
+      "s": "https://stream-048.zeno.fm/1cyn1as4v68uv?zs=D8SF0-vQQYCc_oHAmXhSSw",
+      "l": "https://kuasark.com/files/stations-logos/jano-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sheger FM 102.1",
+      "s": "https://stream-155.zeno.fm/y91n1vtbaw5tv?zs=B-5g8Ij1RDSOB0Tmao_BhQ",
+      "l": "https://kuasark.com/files/stations-logos/sheger-fm-1021.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Rahel Radio",
+      "s": "https://stream-057.zeno.fm/vt1u6fr1h2zuv?zs=PjrchaawTuKX7lfoMDJk8A",
+      "l": "https://kuasark.com/files/stations-logos/rahel-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mirt Internet Radio",
+      "s": "http://stream-043.zeno.fm/akmuznguawzuv?zs=IDcMOstuSbSzHpQsw7BMRQ",
+      "l": "https://kuasark.com/files/stations-logos/mirt-internet-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Afro FM",
+      "s": "http://stream-038.zeno.fm/fu367ky6hkeuv?zs=9OHo_hXAR3ukQvwfyL59sg",
+      "l": "https://kuasark.com/files/stations-logos/afro-fm.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "fm addis 97.1",
+      "s": "http://stream-156.zeno.fm/7tzrhrap7yzuv?zs=NG6uJQS0Q8if1xn4H1LQIw",
+      "l": "https://kuasark.com/files/stations-logos/fm-addis-971.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "yonjon",
+      "s": "http://stream-148.zeno.fm/tkkjml4sqsguv?zs=78L5VP8IQtCR7_KK05YqBQ",
+      "l": "https://kuasark.com/files/stations-logos/yonjon.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "stations": [
+    {
+      "t": "Soleil Radio",
+      "s": "https://n26a-eu.rcs.revma.com/sa3ccwa9yy8uv?rj-ttl=5&rj-tok=AAABiLQc-BkAdqMiXZrocEl0nA",
+      "l": "https://kuasark.com/files/stations-logos/soleil-radio.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "BBC Radio Jersey",
+      "s": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_jersey",
+      "l": "https://kuasark.com/files/stations-logos/bbc-radio-jersey.png",
+      "g": [
+        "News"
+      ]
+    }
+  ]
+}

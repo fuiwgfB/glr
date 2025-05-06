@@ -1,0 +1,167 @@
+{
+  "stations": [
+    {
+      "t": "Hala FM",
+      "s": "https://listen-halafm.sharp-stream.com/halafmmid.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/10424/fdaf0221c603fd5f4da82b650d29f5f3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Virgin Radio",
+      "s": "http://uk5.internet-radio.com:8115/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423169/8d33f725dd41e16bc9dbb09ae5fd2767_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Al Wisal",
+      "s": "http://uk7.internet-radio.com:8067/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/10042/7325409ec2b1718a8bedb0dc2320351e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Al Shabab Radio Oman Youth",
+      "s": "https://streaming.zaytonatube.com/test2.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/426192/7462919dfb42e4406ca584ccf24c2c2f_130x130.webp",
+      "g": [
+        "Inspirational",
+        "Folk",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hi FM",
+      "s": "http://listen-hifmtemp.sharp-stream.com/hifmmid.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/20961/469cdee888cc3817bf8b08420cc15c59_130x130.webp",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "T FM",
+      "s": "https://stream.timesofoman.fm:9018/tfm",
+      "l": "https://images.radiovolna.net/_files/images/stations/428429/6b35ebbd41837897f27301a00c92d138_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Merge FM",
+      "s": "http://uk7.internet-radio.com:8040/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405379/vb025a44d27579eb9773443826_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Muscat FM",
+      "s": "https://playoutonestreaming.com/proxy/muscatfm/?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428431/c920e83be1ec3a179b5e5fceded27be3_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Alsu Mood FM / إذاعة الصمود FM",
+      "s": "https://us3.internet-radio.com/proxy/alsumoodfm2020?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/428428/dc6ab4168c6f708c73d0f86eaa3555eb_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Shabiba FM",
+      "s": "https://stream.shabiba.fm:9010/shabiba",
+      "l": "https://images.radiovolna.net/_files/images/stations/428430/e8f3e0f728de4e5ea314577fdefdf5d5_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Muscat FM",
+      "s": "https://playoutonestreaming.com/proxy/muscatfm/?mp=/stream;&r=0.08381912881745279",
+      "l": "https://kuasark.com/files/stations-logos/muscat-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Chaska Oman",
+      "s": "http://qurum.ddns.net:8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-chaska-oman.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Virgin Radio Oman",
+      "s": "http://uk5.internet-radio.com:8115/stream?type=http&nocache=234",
+      "l": "https://kuasark.com/files/stations-logos/virgin-radio-oman.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "freefm.lk - Oman Sinhala Radio",
+      "s": "https://stream-155.zeno.fm/t0jwd83zaayvv?zs=cBQ2KmY1R6aDJQqJz2PTjQ",
+      "l": "https://kuasark.com/files/stations-logos/freefmlk-oman-sinhala-radio.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Merge",
+      "s": "http://uk7.internet-radio.com:8040/;",
+      "l": "https://kuasark.com/files/stations-logos/merge.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "90.4 FM   الإذاعة-الإنجليزية",
+      "s": "https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/904-fm-aladhat-alanjlyzyt.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Youth Program Oman  إذاعة-الشباب",
+      "s": "https://partneta.cdn.mgmlcdn.com/shababrdoorg/shababrdo.stream_aac/chunklist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/youth-program-oman-adhat-alshbab.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Public Radio Oman   الإذاعة-العامة",
+      "s": "https://partneta.cdn.mgmlcdn.com/omanrdoorg/omanrdo.stream_aac/chunklist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/public-radio-oman-aladhat-alamt.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Quran Program Oman   إذاعة-القرآن-الكريم",
+      "s": "https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/quran-program-oman-adhat-alqran-alkrym.png",
+      "g": [
+        "Inspirational"
+      ]
+    }
+  ]
+}

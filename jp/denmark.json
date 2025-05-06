@@ -1,0 +1,2071 @@
+{
+  "stations": [
+    {
+      "t": "MyRock",
+      "s": "https://live-bauerdk.sharp-stream.com/myrock.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/6660/fp4x59b2e67b28dc0280778463_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Classic Rock (København)",
+      "s": "https://stream.probroadcast.dk/classicrockkbhmp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421489/a1b2077c3fac136465cfbedd9cc3bfad_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Planet Rock",
+      "s": "https://live-bauerdk.sharp-stream.com/planetrock_dk.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427996/a674fbf4367ddb8e64d58098892a762b_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rockkanalen",
+      "s": "http://stream.dbmedia.se/kp128",
+      "l": "https://images.radiovolna.net/_files/images/stations/24610/9950f0564d5ced0108ed811495453a85_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Nova",
+      "s": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2921/xvok596d1730c8d27975718495_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Pop FM",
+      "s": "https://live-bauerdk.sharp-stream.com/popfm128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2922/ii1y596de92946270587205514_130x130.webp",
+      "g": [
+        "Themes",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Retro Radio",
+      "s": "https://streammp3.retro-radio.dk/retro-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/6661/jwcq5a23fc50d480d104182039_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "NM Radio",
+      "s": "http://5.56.158.246:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/6679/xq5v5a2411741be22382624037_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "go!FM",
+      "s": "http://netradio.radiogofm.dk/",
+      "l": "https://images.radiovolna.net/_files/images/stations/2919/fe5e595e2a02bdfe6554964984_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Soft",
+      "s": "http://onair.100fmlive.dk/soft_live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2938/augg59b2e7d261f2d550183320_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nordic Lodge Copenhagen",
+      "s": "http://sky1.torontocast.com:9095/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/22554/750849c64f794170e73b8e1a292c974e_130x130.webp",
+      "g": [
+        "Electronic",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radiohuset Aarhus",
+      "s": "https://radiohuset.out.airtime.pro/radiohuset_a",
+      "l": "https://images.radiovolna.net/_files/images/stations/421519/ad2d5527edefa2af066d5c1bb66b3e1a_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "DR P1",
+      "s": "http://live-icy.gss.dr.dk:8000/A/A03H.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2899/suua595f639fada7d889318638_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Retro Radio Millennium",
+      "s": "https://tx-2.retro-radio.dk/TX-2",
+      "l": "https://images.radiovolna.net/_files/images/stations/421510/6b323637b3a0ea44c0318c0c648dde43_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Folk",
+      "s": "https://stream.radiojar.com/fqt2y0ds97zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/25655/jr3f5a242b0739522388594897_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "DR P4 København",
+      "s": "http://live-icy.gss.dr.dk:80/A/A08L.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2907/kvhq595f65e9e716c087529003_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "DR Nyheder",
+      "s": "http://live-icy.gss.dr.dk:80/A/A02L.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2903/b9dy595f6424d1407208524576_130x130.webp",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Marimanga",
+      "s": "https://s11.ssl-stream.com/ssl/marimanga?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/506/2d0e8a530cf12cb24b40477cb125db74_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "The Voice",
+      "s": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2946/zxwf596de19a33ab4033284480_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "PartyFM",
+      "s": "https://stream1.partyfm.dk/Party128",
+      "l": "https://images.radiovolna.net/_files/images/stations/6677/hon65a241d01379af553820266_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Tønder",
+      "s": "http://s1.vibestream.dk:8012/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/10507/445fc280a5c8c3e104f559ece601ceb4_130x130.webp",
+      "g": [
+        "Rock",
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "2TOWN RADIO",
+      "s": "https://streaming.radio.co/sd9d980ff0/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/24473/eccd9d0da37224b3e8329b36ded4fc17_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "902FM Det nye Radio Ballerup",
+      "s": "http://stream.wlmm.dk/902fmmp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/24414/bzuc5a242a6798048258006939_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Loud",
+      "s": "https://stream.radioloud.dk/loud128",
+      "l": "https://images.radiovolna.net/_files/images/stations/421512/f6c2c6a3fc7e0c4a384bbcd348e47904_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dobre Vibracije",
+      "s": "http://81.7.160.152:8010/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/421499/cc6e65b38a3a5f8124f65cb3ac3b53c6_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Norea Radio",
+      "s": "http://ss.norea.dk:8080/;stream.nsv&type=mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/29934/58904ed2e5e3c68c3a2b5c3699148515_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Alfa",
+      "s": "http://89.249.7.68/alfaaarhus",
+      "l": "https://images.radiovolna.net/_files/images/stations/421525/308da029256eda4275fb44882c52edd1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Uniradioen / Universitetsradioen",
+      "s": "https://uniradio.out.airtime.pro/uniradio_a",
+      "l": "https://images.radiovolna.net/_files/images/stations/421495/0cecc6f17bc1c4b1d82621b026f1210e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Amager",
+      "s": "http://stream.amagerradio.dk:8058/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421501/e5c96813c79e3f04765ba5abbfa14428_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Kultur",
+      "s": "https://443-1.autopo.st/12/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421497/b4e59909e56288dad4e3978813760e7b_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "10FM",
+      "s": "http://149.202.22.75:8052/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421505/d841e8a0470cb4fa13ff0460bb1c7782_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ANR",
+      "s": "http://stream.anr.dk:80/anr",
+      "l": "https://images.radiovolna.net/_files/images/stations/2897/exev59b2edfab48c8778234422_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DK4 Dansktop",
+      "s": "https://n03.rcs.revma.com/puch9s6pshruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/421511/55e6b85fc831b28b38d4ab7ddf7472ef_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Globus Guld",
+      "s": "http://media.wlmm.dk:80/guld",
+      "l": "https://images.radiovolna.net/_files/images/stations/6657/gdsu5a23fcfd147d4617160054_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Classic FM",
+      "s": "https://webradio.classicfm.dk/classickolding",
+      "l": "https://images.radiovolna.net/_files/images/stations/24446/my3n5b085d8d296f0352101489_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Freja",
+      "s": "http://144.217.180.30:8054/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/27534/xhxi5cb9dadf9bce3877817860_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rønde - Syddjurslokalradio",
+      "s": "http://media.wlmm.dk:80/djurs",
+      "l": "https://images.radiovolna.net/_files/images/stations/421522/e65395bc3b4811e761a167df8994ab7a_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Klitholm",
+      "s": "http://stream.radioklitholm.dk:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/2932/t0w65a240ec4c06b2538744836_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Pak Link",
+      "s": "http://eu2.fastcast4u.com:4256/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/421494/f4868632c48aa4ce43b56f0097a642bd_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "208",
+      "s": "http://stream.wlmm.dk:8010/radio208",
+      "l": "https://images.radiovolna.net/_files/images/stations/421514/a2fd0f1c711d757b39b7bc3a74d1ebd8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Alfa Gold",
+      "s": "http://89.249.7.68/alfaevent",
+      "l": "https://images.radiovolna.net/_files/images/stations/421526/67629528dc77ef9d3dc87bd4b81efbbb_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio 100",
+      "s": "http://onair.100fmlive.dk/100fm_live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2923/di0j59b2e9fd068c1368442054_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fri-born",
+      "s": "https://s2.radio.co/s8367afdd8/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/27929/bbaea67e5b43a7b161d5f677f12c777b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Antena",
+      "s": "http://s38.myradiostream.com:8598/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421490/1155aa02f121b677a5c4ac92854c1623_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "DR P3",
+      "s": "http://live-icy.gss.dr.dk:80/A/A05L.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2901/xbt4595f63d33460a440961514_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Odsherred",
+      "s": "http://5.103.128.66:88/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/6667/xaj15a24128a8b6fc081871969_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Humleborg",
+      "s": "https://ca6ssl.rcast.net/stream/64145.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421508/072ee600f3c3a4c7879e1ce4bd294368_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Pop FM 80'er",
+      "s": "https://live-bauerdk.sharp-stream.com/popfm80.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427995/dd32fbe434a69967c94cfb6af9b4108d_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Komiteens Radio",
+      "s": "http://deltatek.dk:8000/komiteens.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421527/9933c9d52f84aa04e4e9385164ba0bc6_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Viborg",
+      "s": "http://netradio.radioviborg.dk/viborg.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/2940/ww9z5a23fca572403721983546_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "LUMI Radio",
+      "s": "http://stream.lumiradio.dk:8000/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/21616/6f9b6e47c79d86b0e78fd6690d582336_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "World Music Radio",
+      "s": "http://stream.wlmm.dk:8010/wmr",
+      "l": "https://images.radiovolna.net/_files/images/stations/421513/d9050ad34c0a176180280eb054cd625b_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Classic FM",
+      "s": "https://netradio.classicfm.dk/cla8d",
+      "l": "https://images.radiovolna.net/_files/images/stations/427994/0418f213ffc177e66a83c906ae7d5567_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Heartbeats",
+      "s": "https://streaming02.zfast.co.uk/proxy/heartbea?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/6658/c84z597a41181730b450850133_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Rusty Leather Radio",
+      "s": "http://64.71.79.181:9106/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/31754/11a9cdcfb85fec6849849db8645ac6d8_130x130.webp",
+      "g": [
+        "Metal",
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Skala FM",
+      "s": "http://netradio.skala.fm/varde",
+      "l": "https://images.radiovolna.net/_files/images/stations/2943/uf2t5971e37b39d2e776102478_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ALR",
+      "s": "https://streamer.radio.co/s6a9beb92e/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/10421/dvjc5b085c2574c80337529709_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "VLR",
+      "s": "https://webradio.vlr.dk/vlrhorsens",
+      "l": "https://images.radiovolna.net/_files/images/stations/421523/d78a4af60560037cac94226e43574f00_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Alfa",
+      "s": "http://netradio.radioalfa.dk:80/alfa",
+      "l": "https://images.radiovolna.net/_files/images/stations/2926/oqoy59b2ef2a0aa39674233501_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Øst FM",
+      "s": "http://stream.wlmm.dk/oestfmmp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421520/ca7670c005420cd4dec33402b5aa2f84_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 24syv",
+      "s": "https://stream.radioloud.dk/loud128",
+      "l": "https://images.radiovolna.net/_files/images/stations/427998/ef18730ada9953131bbcd0a3f0b96aa1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Helsingør",
+      "s": "https://stream.radiohelsingor.dk/rh",
+      "l": "https://images.radiovolna.net/_files/images/stations/421507/ceebe0d55b97b2b74ca366c94377eb41_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Midtfjord Radio",
+      "s": "http://stream.midtfjordradio.dk/netradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/421518/b7d63898e9992af33569cd79431d5390_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Solo FM",
+      "s": "http://netradio.radiosolo.dk/",
+      "l": "https://images.radiovolna.net/_files/images/stations/2944/kktr5a23ff7baed2f144314593_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DR P2",
+      "s": "http://live-icy.gss.dr.dk:80/A/A04L.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/2904/tinp595f64c08b6ba311902701_130x130.webp",
+      "g": [
+        "News",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Aap ki Awaz",
+      "s": "http://162.244.80.106:11332/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/28476/fda739dcad40890a26548512b10f30db_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Vinyl",
+      "s": "https://live-bauerdk.sharp-stream.com/Vinyl_dk.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421504/5ad1f81f5b783cd8b006e4d8b8e51a04_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Playback",
+      "s": "https://stream02.radioplayback.dk/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/6686/nfau5a241cccb1630598983618_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Alfa Silkeborg",
+      "s": "http://netradio.radioalfa.dk/silkeborg",
+      "l": "https://images.radiovolna.net/_files/images/stations/27659/cd5289d99aa3d4df362cd597e2d1b9bd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "UCB Radio",
+      "s": "https://s2.radio.co/s6f04f551c/listen",
+      "l": "https://images.radiovolna.net/_files/images/stations/30009/796faab8f6be9603519fb769775a866a_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mix 7",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_RP20.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421503/82b14ff44ef36a6b2280e73c04cb4a07_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Horsens Garage Radio",
+      "s": "http://radio.protestbandet.dk:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430187/0f1fc4ff17a520e1def850f540fb4b49_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Alfa - Always Elvis Radio",
+      "s": "http://netradio.radioalfa.dk/alwayselvisradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/6665/c1h35a23fb78561d0476328539_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "The Lake Radio",
+      "s": "http://hyades.shoutca.st:8627/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/23493/f7046085155b763832c35a4fd1803769_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Frederiksberg Lokal Radio",
+      "s": "https://c14.radioboss.fm:18228/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/421496/056cb7cbfe983d4d709c6d1f3b779d4b_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Boost",
+      "s": "http://149.202.22.75:8066/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421506/30beb061c76b689d282a6f187273d686_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "40 plus",
+      "s": "http://stream.radiosolutions.dk/radio40plus",
+      "l": "https://images.radiovolna.net/_files/images/stations/23047/bba749d2e9a8b900df005036eb32d345_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Alfa Sydfyn",
+      "s": "http://icecast3.radiostuff.dk:8000/Alfasydfyn128",
+      "l": "https://images.radiovolna.net/_files/images/stations/2927/r94c5a24113aa9f5b144324444_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NRJ (Danmark)",
+      "s": "https://n01a-eu.rcs.revma.com/vf65su7pshruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427997/7cd7fd6a7eadb6848ea9f6319ab9c0c2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Folkets Radio",
+      "s": "https://folketsradio.out.airtime.pro/folketsradio_a",
+      "l": "https://images.radiovolna.net/_files/images/stations/30010/e796d07083a7503132c4b2ecd97905a1_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Nordjyske",
+      "s": "https://stream.anr.dk/nordjyske",
+      "l": "https://images.radiovolna.net/_files/images/stations/2928/b2d2523d3bf6bc88730bfd5ed95a52df_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Payvand",
+      "s": "http://83.92.100.53/payvand/offline.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421502/e042f1e5af7ff2225e61ad9aa02cadbf_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Metallica & Iron Maiden ONLY",
+      "s": "http://46.4.184.212:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/metallica-iron-maiden-only.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Radio DK4 Dansktop",
+      "s": "https://n13a-eu.rcs.revma.com/puch9s6pshruv?rj-ttl=5&rj-tok=AAABiLQNqTYAhy1FKVD1H5zEUQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-dk4-dansktop.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Bitter Sweet Music DK",
+      "s": "http://91.121.236.34:8520/dk",
+      "l": "https://kuasark.com/files/stations-logos/bitter-sweet-music-dk.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Italo Sound Radio",
+      "s": "https://icecast.italosound.com/italosound",
+      "l": "https://kuasark.com/files/stations-logos/italo-sound-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "DR P1",
+      "s": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/dr-p1.png",
+      "g": [
+        "Classical",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "DR P8 JAZZ",
+      "s": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/playlist-320000.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/dr-p8-jazz-dk-3840.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "DR P5",
+      "s": "http://live-icy.gss.dr.dk/A/A25L.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p5.png",
+      "g": [
+        "Classical",
+        "Country",
+        "Folk",
+        "Other",
+        "News",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "PartyFM",
+      "s": "https://stream1.partyfm.dk/Party128web",
+      "l": "https://kuasark.com/files/stations-logos/partyfm.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio 100",
+      "s": "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-100-dk-91485.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Pop FM",
+      "s": "https://live-bauerdk.sharp-stream.com/popfm_dk_mp3",
+      "l": "https://kuasark.com/files/stations-logos/pop-fm-dk-91785.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Soft",
+      "s": "https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-soft-dk-115224.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "80's Hits",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac",
+      "l": "https://kuasark.com/files/stations-logos/80s-hits-dk.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "La Salsa Del Tren Del Sabor",
+      "s": "https://pstnet5.shoutcastnet.com:50384/stream",
+      "l": "https://kuasark.com/files/stations-logos/la-salsa-del-tren-del-sabor.png",
+      "g": [
+        "Classical",
+        "Jazz",
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radio Freja",
+      "s": "https://solid67.streamupsolutions.com/proxy/ingjmhed?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-freja.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "myROCK",
+      "s": "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3",
+      "l": "https://kuasark.com/files/stations-logos/myrock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "00's Hits",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP07.aac",
+      "l": "https://kuasark.com/files/stations-logos/00s-hits.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Classic FM",
+      "s": "https://webradio.classicfm.dk/classicstruer",
+      "l": "https://kuasark.com/files/stations-logos/classic-fm-dk.png",
+      "g": [
+        "Decades",
+        "Other",
+        "Pop",
+        "Talk"
+      ]
+    },
+    {
+      "t": "DR P3",
+      "s": "http://live-icy.gss.dr.dk/A/A05L.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p3.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "90's Hits",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP06.aac",
+      "l": "https://kuasark.com/files/stations-logos/90s-hits-dk.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "DR P4",
+      "s": "http://live-icy.gss.dr.dk:8000/A/A08L.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p4.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "DR P2",
+      "s": "http://live-icy.gss.dr.dk:8000/A/A04L.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p2.png",
+      "g": [
+        "Classical",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio 208",
+      "s": "https://stream.probroadcast.dk/radio208mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-208.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "DR P6 Beat",
+      "s": "http://live-icy.gss.dr.dk:8000/A/A29H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p6-beat.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Alfa Østjylland",
+      "s": "https://radioserver.dk/alfa",
+      "l": "https://kuasark.com/files/stations-logos/radio-alfa-ostjylland.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Skala FM",
+      "s": "https://webradio.skala.fm/kolding",
+      "l": "https://kuasark.com/files/stations-logos/skala-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Viborg",
+      "s": "https://webradio.radioviborg.dk/viborg",
+      "l": "https://kuasark.com/files/stations-logos/radio-viborg.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Rockkanalen",
+      "s": "https://stream.kanalplus.fm/kp128",
+      "l": "https://kuasark.com/files/stations-logos/rockkanalen.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Alfa Juleradio",
+      "s": "https://radioserver.dk/alfaevent",
+      "l": "https://kuasark.com/files/stations-logos/radio-alfa-juleradio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Limfjord Schlager",
+      "s": "http://media.limfjordnetradio.dk/plusslager128",
+      "l": "https://kuasark.com/files/stations-logos/limfjord-schlager.png",
+      "g": [
+        "Country",
+        "Pop"
+      ]
+    },
+    {
+      "t": "ANR Radio",
+      "s": "https://stream.anr.dk/anr",
+      "l": "https://kuasark.com/files/stations-logos/anr-radio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "World Music Radio",
+      "s": "https://stream.probroadcast.dk/wmrmp3",
+      "l": "https://kuasark.com/files/stations-logos/world-music-radio.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Solo FM",
+      "s": "https://radioserver.dk/solo",
+      "l": "https://kuasark.com/files/stations-logos/solo-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Funky Vibes FM",
+      "s": "https://s4.radio.co/s4902de73b/listen",
+      "l": "https://kuasark.com/files/stations-logos/funky-vibes-fm.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio VLR",
+      "s": "https://webradio.vlr.dk/vlrvejle",
+      "l": "https://kuasark.com/files/stations-logos/radio-vlr.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Boost",
+      "s": "http://149.202.22.75:8066/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-boost.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Radio M",
+      "s": "https://radioserver.dk/radiom",
+      "l": "https://kuasark.com/files/stations-logos/radio-m-dk.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Limfjord",
+      "s": "http://media.limfjordnetradio.dk/limfjord128",
+      "l": "https://kuasark.com/files/stations-logos/radio-limfjord.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Globus Guld",
+      "s": "https://stream.probroadcast.dk/guldmidt",
+      "l": "https://kuasark.com/files/stations-logos/globus-guld.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Globus",
+      "s": "https://stream.probroadcast.dk/radioglobus",
+      "l": "https://kuasark.com/files/stations-logos/radio-globus.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Marlab",
+      "s": "https://marlab.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-marlab.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Danske 80'er Hits",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP05.aac",
+      "l": "https://kuasark.com/files/stations-logos/danske-80er-hits.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Soft Modern",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP09.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-soft-modern.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Skive",
+      "s": "https://radioserver.dk/skive",
+      "l": "https://kuasark.com/files/stations-logos/radio-skive.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio go!FM",
+      "s": "https://radioserver.dk/gofm",
+      "l": "https://kuasark.com/files/stations-logos/radio-gofm.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Silkeborg",
+      "s": "https://radioserver.dk/silkeborg",
+      "l": "https://kuasark.com/files/stations-logos/radio-silkeborg.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio MFK",
+      "s": "https://stream1.radiomfk.dk/radiomfk",
+      "l": "https://kuasark.com/files/stations-logos/radio-mfk.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Limfjord Mix",
+      "s": "http://media.limfjordnetradio.dk/plus128",
+      "l": "https://kuasark.com/files/stations-logos/limfjord-mix.png",
+      "g": [
+        "Classical",
+        "Country",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio SLR Slagelse",
+      "s": "https://stream.probroadcast.dk/slagelsemp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-slr-slagelse.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "902FM - Det Nye Radio Ballerup",
+      "s": "https://s25.myradiostream.com/:15246/;",
+      "l": "https://kuasark.com/files/stations-logos/902fm-det-nye-radio-ballerup.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Ådalen",
+      "s": "http://stream.radiosolutions.dk/radioaadalen",
+      "l": "https://kuasark.com/files/stations-logos/radio-adalen.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "10's Hits",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP13.aac",
+      "l": "https://kuasark.com/files/stations-logos/10s-hits.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Soft Classic",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP08.aac",
+      "l": "https://kuasark.com/files/stations-logos/radio-soft-classic.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "myROCK Legends Of Rock",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP19.aac",
+      "l": "https://kuasark.com/files/stations-logos/myrock-legends-of-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Retro radio jul",
+      "s": "http://isstream.kanalplus.fm/TX-1",
+      "l": "https://kuasark.com/files/stations-logos/retro-radio-jul.png",
+      "g": [
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio 4",
+      "s": "https://22673.live.streamtheworld.com:443/RADIO4.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-4-dk.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Antena Denmark",
+      "s": "http://s38.myradiostream.com:8598/.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-antena-denmark.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "ClubFM.dk - Soft",
+      "s": "https://stream.plexter.dk/soft",
+      "l": "https://kuasark.com/files/stations-logos/clubfmdk-soft.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio ABC",
+      "s": "https://radioserver.dk/abc",
+      "l": "https://kuasark.com/files/stations-logos/radio-abc-dk.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Radio Diablo",
+      "s": "https://icecast1.radiostuff.dk/Diablo128",
+      "l": "https://kuasark.com/files/stations-logos/radio-diablo.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Projekti 21",
+      "s": "http://64.150.176.42:8178/;?1494865587033.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-projekti-21.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Oest FM",
+      "s": "https://stream.probroadcast.dk/oestfmmp3",
+      "l": "https://kuasark.com/files/stations-logos/oest-fm.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Classic Pop",
+      "s": "https://stream.classicpop.dk/stream",
+      "l": "https://kuasark.com/files/stations-logos/classic-pop.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Freja Christmas",
+      "s": "https://solid67.streamupsolutions.com/proxy/fbarcklk?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-freja-christmas.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "DR Nyheder",
+      "s": "http://live-icy.gss.dr.dk:8000/A/A02L.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-nyheder.png",
+      "g": [
+        "Folk",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Retro DK",
+      "s": "http://10336.cloudrad.io:9010/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-retro-dk.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Mix 7",
+      "s": "https://live-bauerdk.sharp-stream.com/Mix7.mp3",
+      "l": "https://kuasark.com/files/stations-logos/mix-7.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "SkagaFM",
+      "s": "http://stream.wlmm.dk/skagafm",
+      "l": "https://kuasark.com/files/stations-logos/skagafm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Det Rigtige Faaborg",
+      "s": "http://stream.wlmm.dk/detrigtigefaaborgaac",
+      "l": "https://kuasark.com/files/stations-logos/det-rigtige-faaborg.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Mælkebøtten",
+      "s": "http://live2.rcast.net:8722/;stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-maelkebotten.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Victoria",
+      "s": "https://stream.probroadcast.dk/victoria",
+      "l": "https://kuasark.com/files/stations-logos/radio-victoria-dk.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "NOVA Top 40",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP12.aac",
+      "l": "https://kuasark.com/files/stations-logos/nova-top-40.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Odsherred",
+      "s": "http://87.104.40.139:88/broadwave.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-odsherred.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Skala Christmas",
+      "s": "https://webradio.skala.fm/skala",
+      "l": "https://kuasark.com/files/stations-logos/skala-christmas.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "WEB fm dk",
+      "s": "https://stream1.webfm.dk/Web192",
+      "l": "https://kuasark.com/files/stations-logos/web-fm-dk.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Nord",
+      "s": "https://netradio.radionord.dk:8443/RadioNord",
+      "l": "https://kuasark.com/files/stations-logos/radio-nord-dk.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "NOVA 100% Dansk",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac",
+      "l": "https://kuasark.com/files/stations-logos/nova-100-dansk.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio SydhavsØerne",
+      "s": "https://stream.probroadcast.dk/sydhavsradiomp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-sydhavsoerne.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Assyrian Babylon Radio",
+      "s": "http://server.assyrians.dk:1930/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/assyrian-babylon-radio.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Faaborg Classic 24/7",
+      "s": "https://solid41.streamupsolutions.com/proxy/wrchdupm/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-faaborg-classic-24-7.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio VLR Classic Christmas",
+      "s": "https://webradio.vlr.dk/vlr",
+      "l": "https://kuasark.com/files/stations-logos/radio-vlr-classic-christmas.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Voksenradio DK",
+      "s": "http://voksenradio.dk:8000/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/voksenradio-dk.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Globus Guld Jul",
+      "s": "https://stream.probroadcast.dk/guldjul",
+      "l": "https://kuasark.com/files/stations-logos/globus-guld-jul.png",
+      "g": [
+        "Seasonal and Holiday",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio i Ringkøbing",
+      "s": "http://netradio.radioringkobing.dk:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-i-ringkobing.png",
+      "g": [
+        "Pop",
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Pulz FM",
+      "s": "http://netradio.skala.fm/pulz",
+      "l": "https://kuasark.com/files/stations-logos/pulz-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Marimanga",
+      "s": "http://91.82.85.44:4981/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-marimanga-dk.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Head FM.net",
+      "s": "https://443-1.reliastream.com/35/stream",
+      "l": "https://kuasark.com/files/stations-logos/head-fmnet.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Strax",
+      "s": "https://playoutonestreaming.com/proxy/strax?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-strax.png",
+      "g": [
+        "R&B and Urban",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vinylhits",
+      "s": "https://stream.vinylhits.dk/vinylmp3",
+      "l": "https://kuasark.com/files/stations-logos/vinylhits.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Kultur",
+      "s": "http://198.7.62.157:8278/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-kultur.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ahenfo Radio",
+      "s": "https://s35.myradiostream.com/:4702/;",
+      "l": "https://kuasark.com/files/stations-logos/ahenfo-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Køge",
+      "s": "http://stream.wlmm.dk/radiokoege",
+      "l": "https://kuasark.com/files/stations-logos/radio-koge.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Tønder",
+      "s": "http://stream.wlmm.dk/syddanmark",
+      "l": "https://kuasark.com/files/stations-logos/radio-tonder.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "The Voice In The Mix",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP16.aac",
+      "l": "https://kuasark.com/files/stations-logos/the-voice-in-the-mix.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Classic Pop - Dance",
+      "s": "https://stream.classicpop.dk/dance",
+      "l": "https://kuasark.com/files/stations-logos/classic-pop-dance.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Naestved Lokalradio",
+      "s": "https://solid67.streamupsolutions.com/proxy/wcwmpntf?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/naestved-lokalradio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Halsnæs",
+      "s": "http://halsstream.spdns.de/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-halsnaes.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Stinesen",
+      "s": "https://st1.stinesen.dk/StineM320",
+      "l": "https://kuasark.com/files/stations-logos/radio-stinesen.png",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Kolding",
+      "s": "https://s4.radio.co/sf3f766dec/listen",
+      "l": "https://kuasark.com/files/stations-logos/radio-kolding.png",
+      "g": [
+        "R&B and Urban",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Midtsjælland",
+      "s": "http://player.radiomidt.dk/",
+      "l": "https://kuasark.com/files/stations-logos/radio-midtsjaelland.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "The Voice Urban",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP15.aac",
+      "l": "https://kuasark.com/files/stations-logos/the-voice-urban.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "The Voice Throwback",
+      "s": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP17.aac",
+      "l": "https://kuasark.com/files/stations-logos/the-voice-throwback.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Hit Radio DK",
+      "s": "https://cast5.asurahosting.com/proxy/iradioje/stream",
+      "l": "https://kuasark.com/files/stations-logos/hit-radio-dk.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Humleborg",
+      "s": "http://ca6.rcast.net:4058/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-humleborg.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Rollo",
+      "s": "http://stream.radiosolutions.dk/rollo?hash=1650478358746.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-rollo.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pop Musik Radio",
+      "s": "https://stream-149.zeno.fm/kuzbge06qy8uv?zs=1uYFGoRuTSaPoc1lQlSM4w",
+      "l": "https://kuasark.com/files/stations-logos/pop-musik-radio.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Northernsounds",
+      "s": "https://northernsounds.stream.laut.fm/northernsounds",
+      "l": "https://kuasark.com/files/stations-logos/northernsounds.png",
+      "g": [
+        "R&B and Urban",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "NCF Mix",
+      "s": "https://stream.ncfradio.com/listen/mix/mix.mp3",
+      "l": "https://kuasark.com/files/stations-logos/ncf-mix.png",
+      "g": [
+        "R&B and Urban",
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "FRED FILM RADIO",
+      "s": "https://s10.webradio-hosting.com/proxy/fredradiodk/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/fred-film-radio-46852.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Globus Guld Evergreens",
+      "s": "https://stream.probroadcast.dk/evergreensmp3",
+      "l": "https://kuasark.com/files/stations-logos/globus-guld-evergreens.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Vendsyssel FM",
+      "s": "https://audiossl.radiosolution.info:9002/;",
+      "l": "https://kuasark.com/files/stations-logos/vendsyssel-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Vesterbro",
+      "s": "http://185.80.220.12:8006/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-vesterbro.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Globus Guld Country",
+      "s": "https://stream.probroadcast.dk/guldcountrymp3",
+      "l": "https://kuasark.com/files/stations-logos/globus-guld-country.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tzgospel ( Denmark)",
+      "s": "https://stream-153.zeno.fm/x9dz3k01uchvv?zs=r4uI3kuoQNOyH-qULwi4Kg",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-denmark.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "DR Ramasjang/Ultra Radio",
+      "s": "http://live-icy.gss.dr.dk/A/A24H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-ramasjang-ultra-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "The Voice",
+      "s": "http://live-bauerdk.sharp-stream.com/voice128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/the-voice-dk-684.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pop FM",
+      "s": "http://live-bauerdk.sharp-stream.com/popfm128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/pop-fm-dk-685.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DR P4 Esbjerg",
+      "s": "http://live-icy.gslb01.dr.dk:80/A/A15H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p4-esbjerg.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "DR P4 Fyn",
+      "s": "http://live-icy.gslb01.dr.dk:80/A/A07H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p4-fyn.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "DR P4 København",
+      "s": "http://live-icy.gslb01.dr.dk:80/A/A08H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p4-kobenhavn.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "DR P4 Midt & Vest",
+      "s": "http://live-icy.gslb01.dr.dk:80/A/A09H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p4-midt-vest.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "DR P4 Nordjylland",
+      "s": "http://live-icy.gslb01.dr.dk:80/A/A10H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p4-nordjylland.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "DR P4 Sjælland",
+      "s": "http://live-icy.gslb01.dr.dk:80/A/A11H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p4-sjaelland.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "DR P4 Syd",
+      "s": "http://live-icy.gslb01.dr.dk:80/A/A12H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p4-syd.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "DR P4 Østjyllands Radio",
+      "s": "http://live-icy.gslb01.dr.dk:80/A/A14H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p4-ostjyllands-radio.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "NOVA",
+      "s": "http://live-bauerdk.sharp-stream.com/nova128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nova-dk.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Soft",
+      "s": "http://edge-bauerdk-04-thn.sharp-stream.com/radiosoft_dk_mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-soft-dk-3609.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DR P4 Bornholm",
+      "s": "http://live-icy.gslb01.dr.dk:80/A/A06H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p4-bornholm.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Danmarks Radio P6",
+      "s": "https://live-icy.dr.dk/A/A29H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/danmarks-radio-p6.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "TechnoBase.FM - AACplus 96k",
+      "s": "http://listener2.aach.tb-group.fm:80/tb-high.aac",
+      "l": "https://kuasark.com/files/stations-logos/technobasefm-aacplus-96k.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "TechnoBase.FM - MP3 192k",
+      "s": "http://listener3.mp3.tb-group.fm:80/tb.mp3",
+      "l": "https://kuasark.com/files/stations-logos/technobasefm-mp3-192k.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Danmarks Radio P4; Trekanten",
+      "s": "http://live-icy.gslb01.dr.dk:80/A/A13H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/danmarks-radio-p4-trekanten.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "WMR - World Music Radio",
+      "s": "https://stream.probroadcast.dk/wmr",
+      "l": "https://kuasark.com/files/stations-logos/wmr-world-music-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Fimbul Radio - Danheim",
+      "s": "http://s4.radio.co/sdda8682fb/listen",
+      "l": "https://kuasark.com/files/stations-logos/fimbul-radio-danheim.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tango Copenhagen Radio",
+      "s": "https://tangocopenhagen.stream.laut.fm/tangocopenhagen?t302=2021-01-15_18-47-40&uuid=64db9a91-4a6e-4bc8-ba24-26a2fa7f24d0",
+      "l": "https://kuasark.com/files/stations-logos/tango-copenhagen-radio.png",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "ALWAYS ELVIS Radio",
+      "s": "http://89.249.7.68/alwayselvisradio",
+      "l": "https://kuasark.com/files/stations-logos/always-elvis-radio-dk.png",
+      "g": [
+        "Rock",
+        "Decades"
+      ]
+    },
+    {
+      "t": "DR P8 Jazz",
+      "s": "http://live-icy.gss.dr.dk/A/A22H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p8-jazz-dk-74053.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "DR P4 København (MP3)",
+      "s": "http://live-icy.dr.dk/A/A08H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p4-kobenhavn-mp3.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "DFM Radio Television International",
+      "s": "http://stereo.dfm.nu:8205/dfm_1",
+      "l": "https://kuasark.com/files/stations-logos/dfm-radio-television-international.png",
+      "g": [
+        "Alternative",
+        "New Age",
+        "Electronic",
+        "International",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "DR P5 Trekanten",
+      "s": "http://live-icy.gslb01.dr.dk:80/A/A23H.mp3",
+      "l": "https://kuasark.com/files/stations-logos/dr-p5-trekanten.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "DR P4 Trekanten (AAC)",
+      "s": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/dr-p4-trekanten-aac.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Musaiko",
+      "s": "http://fluo.muzaiko.saluton.dk:8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/musaiko.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Norea Radio",
+      "s": "http://radio.norea.dk:8080/;",
+      "l": "https://kuasark.com/files/stations-logos/norea-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Albertslund Radio",
+      "s": "http://87.61.251.162:8080/stream",
+      "l": "https://kuasark.com/files/stations-logos/albertslund-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio S.N.R",
+      "s": "http://10420.cloudrad.io:9070/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-snr.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Corona",
+      "s": "https://s3.radio.co/sc85a422ba/listen",
+      "l": "https://kuasark.com/files/stations-logos/radio-corona-dk.png",
+      "g": [
+        "Country",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 432Hz.dk - Royalty Free Music",
+      "s": "https://radio.danmarkvaagner.dk:8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-432hzdk-royalty-free-music.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Rock",
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Epic Denmark",
+      "s": "http://nossl.play.radioepic.dk/radio/8000/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-epic-denmark.png",
+      "g": [
+        "Jazz",
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Funny Radio",
+      "s": "https://my3.radiolize.com:8030/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/funny-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Non Stop Pop FM",
+      "s": "https://stream-153.zeno.fm/gt1ihgjjxauuv?zs=l8DB8LogSdGWrkoSV0jyxA",
+      "l": "https://kuasark.com/files/stations-logos/non-stop-pop-fm.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    }
+  ]
+}

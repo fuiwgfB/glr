@@ -1,0 +1,61 @@
+{
+  "stations": [
+    {
+      "t": "Centennial Radio",
+      "s": "http://103.29.225.125:8000/101fm",
+      "l": "https://images.radiovolna.net/_files/images/stations/428473/8e7dfa60024d13922979ed8ce3ac18db_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "BBS Radio (རྫོང་ཁ་)",
+      "s": "http://202.144.155.12/radio2",
+      "l": "https://images.radiovolna.net/_files/images/stations/428472/c24ea8e84d98facf88f002b388ba256d_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kuzoo (English)",
+      "s": "http://43.241.137.236:8000/Kuzooeng",
+      "l": "https://images.radiovolna.net/_files/images/stations/428475/d8b38953e394d77d61f2a97fd5407221_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "BBS Radio (English)",
+      "s": "http://202.144.155.12/radio1",
+      "l": "https://images.radiovolna.net/_files/images/stations/428471/f29204f8b4736c99094b6520dabd71ed_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Kuzoo FM (རྫོང་ཁ་)",
+      "s": "http://43.241.137.236:8000/kuzoodzo",
+      "l": "https://images.radiovolna.net/_files/images/stations/428474/e5c222aedd39ebaf2df0531960b84b5f_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Tzgospel (Bhutan)",
+      "s": "https://stream-152.zeno.fm/24d79gma7ehvv?zs=shGYvp7USNOgIa9KH5GGWA",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-bhutan.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "थिम्पु शहर",
+      "s": "https://stream-153.zeno.fm/x9r4kgcboaitv?zs=oJspZByJRF-gKaXmftDkBA",
+      "l": "https://kuasark.com/files/stations-logos/thimpu-sahara.png",
+      "g": [
+        "Themes",
+        "Electronic"
+      ]
+    }
+  ]
+}

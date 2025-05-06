@@ -1,0 +1,295 @@
+{
+  "stations": [
+    {
+      "t": "Record FM",
+      "s": "http://nl.digitalrm.pt:8148/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/422935/fd05742680572a263272841afbe589e6_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Haja Mic",
+      "s": "https://stream-57.zeno.fm/squ603a6cxhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429544/9057c1537ad757b3efacbf98a3f58fe5_130x130.webp",
+      "g": [
+        "Pop",
+        "Themes",
+        "Jazz",
+        "Rock",
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "RNA Madagascar",
+      "s": "http://drs-live-rna.gasy-internet.info:9001/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/28148/d41204267b32ce712805ae1cb335fdd3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RVM / Vaovao Mahasoa",
+      "s": "http://91.121.148.49:7777/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422940/531c82a111fcbdf39584b8bf3159798d_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RDJ",
+      "s": "http://rdj966.net:8000/rdj966.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422937/4d8238b955a78879b6a4d51fe60c93ff_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Taratra FM",
+      "s": "http://41.188.43.211:8000/taratraradio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422939/b32903f0967c9350433f59f3c86ab7e5_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Don Bosco",
+      "s": "http://onair15.xdevel.com:9248/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422936/debac25d55e3c7fc721e685782b6203a_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Soa i Madagasikara",
+      "s": "http://planner.soaimadagasikara.org:8080/streaming",
+      "l": "https://images.radiovolna.net/_files/images/stations/425617/f027396cd7083a85ad6b63bf8ceef0cb_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Alliance 92",
+      "s": "http://41.188.43.211:8000/alliance92.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422934/ce73087abfd681f8627fa36459c93dda_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Fahazavana",
+      "s": "https://listen.radioking.com/radio/3657/stream/11144",
+      "l": "https://images.radiovolna.net/_files/images/stations/422930/26d73ce76930fa5412a1b5ab90b0313a_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Dago Radio Sound",
+      "s": "http://drs-live.gasy-internet.info:322/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/30312/c434fdb749929c32ac87891fd9511eaf_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "mtv madagascar",
+      "s": "http://176.31.244.83:46488/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420462/9702e4f8cb9b66b7f92db410f1ac1bb8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DREAM'ON",
+      "s": "http://41.188.49.210:8000/dreamon",
+      "l": "https://images.radiovolna.net/_files/images/stations/21710/41e4d95ca5956e9baf8b0c1c3dbcfb11_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mana Balsama",
+      "s": "http://91.121.148.49:7710/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/426459/8d2541ad05929513567b0b3b2a281b31_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Fahasoavana Mahagaga",
+      "s": "http://91.121.148.49:5777/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422938/1b254c09847ab5ea754dc0679d8d74f4_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "vazogasy",
+      "s": "https://stream.radiovazogasy.com/stream?1.mp3&t=1649329482",
+      "l": "https://images.radiovolna.net/_files/images/stations/30354/5aa54c24a11c22879f3b3a6427ab2da2_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Paradisagasy",
+      "s": "https://stream.deevaradio.net:10443/paradisagasy",
+      "l": "https://kuasark.com/files/stations-logos/radio-paradisagasy.png",
+      "g": [
+        "Folk",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Tiako be... La radio",
+      "s": "https://tiakobe.ice.infomaniak.ch/tiakobe-64.aac",
+      "l": "https://kuasark.com/files/stations-logos/tiako-be-la-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio vazo gasy",
+      "s": "https://stream.radiovazogasy.com/stream?1.mp3&t=1642690217",
+      "l": "https://kuasark.com/files/stations-logos/radio-vazo-gasy.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Dago Radio Sound",
+      "s": "http://drs-live.gasy-internet.info:8011/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/dago-radio-sound.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Rna Antananarivo",
+      "s": "https://stream-020.zeno.fm/p1zt1ahsks8uv?zs=7EXYsq2-SzCOIA2o_RrGqg",
+      "l": "https://kuasark.com/files/stations-logos/rna-antananarivo.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Oasis Tana 106.4 FM",
+      "s": "http://freeuk21.listen2myradio.com:29083/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-oasis-tana-1064-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Joy Radio Africa",
+      "s": "https://audio-joyradioafricacom.bisericilive.com/joyradioafricacom.mp3",
+      "l": "https://kuasark.com/files/stations-logos/joy-radio-africa.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Vatsy",
+      "s": "https://listen.radioking.com/radio/298018/stream/344575",
+      "l": "https://kuasark.com/files/stations-logos/radio-vatsy.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "UCG Mada",
+      "s": "https://stream-061.zeno.fm/mp24wpdh6ehvv?zs=C6boHj27Ro-J-RgVG8h8XQ",
+      "l": "https://kuasark.com/files/stations-logos/ucg-mada.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Fiami Radio",
+      "s": "https://stream-148.zeno.fm/56v03bnh6ehvv?zs=3KXaoKkESlCD1LbKWDHfdw",
+      "l": "https://kuasark.com/files/stations-logos/fiami-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Haja MIC",
+      "s": "https://stream-149.zeno.fm/cv0rw3a6cxhvv?zs=vXzPFhMRQdejPwy7L7o2Ag",
+      "l": "https://kuasark.com/files/stations-logos/haja-mic.png",
+      "g": [
+        "Pop",
+        "Rap",
+        "Rock"
+      ]
+    },
+    {
+      "t": "RTV Soafia",
+      "s": "http://102.16.44.51:8000/radiosoafia",
+      "l": "https://kuasark.com/files/stations-logos/rtv-soafia.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Tzgospel ( Madagascar)",
+      "s": "https://stream-150.zeno.fm/abaurks1uchvv?zs=tZEy25lsSPW0yYj8EkGrCw",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-madagascar.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RADIO VAOVAO MAHASOA",
+      "s": "http://91.121.148.49:7777/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-vaovao-mahasoa.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Maria Madagascar (AAC 48k)",
+      "s": "http://dreamsiteradiocp4.com:8108/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-madagascar-aac-48k.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Dago Radio",
+      "s": "http://51.75.24.191:8011/;",
+      "l": "https://kuasark.com/files/stations-logos/dago-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Hi&Fi",
+      "s": "https://listen.radioking.com/radio/52108/stream/89122",
+      "l": "https://kuasark.com/files/stations-logos/radio-hifi.png",
+      "g": [
+        "Folk",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "RADIO MTV MADAGASCAR",
+      "s": "https://azuracast.myautodj.com/listen/radio_mtv_madagascar/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radiomtvmadagascar.png",
+      "g": [
+        "Inspirational",
+        "Other"
+      ]
+    }
+  ]
+}

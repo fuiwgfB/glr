@@ -1,0 +1,106 @@
+{
+  "stations": [
+    {
+      "t": "Miramar",
+      "s": "https://nl.digitalrm.pt:8066/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423073/debb2b77d76edeba21c339675e06de2f_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "LM Radio",
+      "s": "https://streaming.fabrik.fm/lm-radio/echocast/audio/medium/index.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/405344/x9r35a43a88404f2a369571222_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RM Maputo Corridor Radio",
+      "s": "https://node.stream-africa.com:8443/MaputoCorridor",
+      "l": "https://images.radiovolna.net/_files/images/stations/429505/c00f242034e99f4f7653a8f7fd357001_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio Cidade",
+      "s": "https://node.stream-africa.com:8443/RadioCidadeMaputo",
+      "l": "https://images.radiovolna.net/_files/images/stations/429504/f748b9e421967c53a3ad9a482415f9f3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Maria",
+      "s": "http://dreamsiteradiocp2.com:8088/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423074/695019d3159c99c5dbe63ec313dddbe3_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Moçambique Antena Nacional",
+      "s": "https://node.stream-africa.com:8443/AntenaNacional",
+      "l": "https://images.radiovolna.net/_files/images/stations/423072/cd9a9a150bd5d26496a77e75e0cbf12a_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "LM Radio",
+      "s": "http://sc13.shoutcaststreaming.us:8003/stream",
+      "l": "https://kuasark.com/files/stations-logos/lm-radio-mz.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Moçambique RM Desporto",
+      "s": "https://node.stream-africa.com:8443/RMDesporto",
+      "l": "https://kuasark.com/files/stations-logos/radio-mocambique-rm-desporto.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "https://dreamsiteradiocp2.com/proxy/rmmozambique2?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-mz.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rádio Planeta Rap LuSo",
+      "s": "https://stream-148.zeno.fm/szs3r2e3cf9uv?zs=DSl7HwjpR8al7vZudOWfEw",
+      "l": "https://kuasark.com/files/stations-logos/radio-planeta-rap-luso.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Rádio Egea Gospel - Heaven Full",
+      "s": "https://stream-151.zeno.fm/gbktm9u0czzuv?zs=k-siOOhKQoWEcO6IQ0tx_Q",
+      "l": "https://kuasark.com/files/stations-logos/radio-egea-gospel-heaven-full.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Super FM (101.9 MHz FM, Maputo)",
+      "s": "http://41.223.153.14:8000/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/super-fm-1019-mhz-fm-maputo.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    }
+  ]
+}

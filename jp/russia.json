@@ -1,0 +1,1784 @@
+{
+  "stations": [
+    {
+      "t": "Маруся ФМ",
+      "s": "https://radio-holding.ru:9433/marusya_default",
+      "l": "https://kuasark.com/files/stations-logos/marusa-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Русское Радио",
+      "s": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/russkoe-radio-ru-39561.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Европа Плюс",
+      "s": "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
+      "l": "https://kuasark.com/files/stations-logos/evropa-plus.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other",
+        "International",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Радио ВАНЯ",
+      "s": "https://stream03.pcradio.ru/rad_rdvnrspb-med",
+      "l": "https://kuasark.com/files/stations-logos/radio-vana.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Soundpark - Deep",
+      "s": "https://relay1.radiotoolkit.com/spdeep",
+      "l": "https://kuasark.com/files/stations-logos/soundpark-deep.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Новое Радио",
+      "s": "https://stream.newradio.ru/novoe96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/novoe-radio-911-spb.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ретро FM",
+      "s": "https://retro.hostingradio.ru:8043/retro256.mp3",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-ru-7921.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Рекорд",
+      "s": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-256k.png",
+      "g": [
+        "Classical",
+        "Electronic",
+        "Pop",
+        "Rap",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Радио NRJ ENERGY",
+      "s": "https://pub0102.101.ru:8443/stream/air/mp3/256/99",
+      "l": "https://kuasark.com/files/stations-logos/radio-energy-moskva-1042-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Вести ФМ",
+      "s": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
+      "l": "https://kuasark.com/files/stations-logos/vesti-fm-vesti-fm.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Авторадио",
+      "s": "https://pub0101.101.ru:8443/stream/air/mp3/256/100",
+      "l": "https://kuasark.com/files/stations-logos/avtoradio-fm-903-moskva.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - \n Russian Mix",
+      "s": "https://radiorecord.hostingradio.ru/rus96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-russian-mix.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Electronic",
+        "International"
+      ]
+    },
+    {
+      "t": "DFM",
+      "s": "https://dfm.hostingradio.ru/dfm96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/dfm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Дорожное радио",
+      "s": "https://dorognoe.hostingradio.ru/dorognoe",
+      "l": "https://kuasark.com/files/stations-logos/doroznoe-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Юмор FM",
+      "s": "https://ic5.101.ru:8000/v5_1",
+      "l": "https://kuasark.com/files/stations-logos/umor-fm-ru-60150.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Монте-Карло",
+      "s": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-monte-karlo-ru-11111.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "НАШЕ Радио",
+      "s": "https://nashe1.hostingradio.ru/nashe-256",
+      "l": "https://kuasark.com/files/stations-logos/nase-radio-ru-11101.png",
+      "g": [
+        "Rock",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Супердискотека 90-х",
+      "s": "https://radiorecord.hostingradio.ru/sd9096.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-superdiskoteka-90-h-ru-33902.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Хит FM",
+      "s": "https://hitfm.hostingradio.ru/hitfm96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-ru-83162.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Маяк",
+      "s": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
+      "l": "https://kuasark.com/files/stations-logos/radio-maak.png",
+      "g": [
+        "Pop",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Comedy Radio (Камеди радио)",
+      "s": "https://pub0302.101.ru:8000/stream/air/aac/64/202",
+      "l": "https://kuasark.com/files/stations-logos/comedy-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Relax FM",
+      "s": "https://pub0301.101.ru:8443/stream/air/mp3/256/200",
+      "l": "https://kuasark.com/files/stations-logos/relax-fm-908-main-moscow.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Радио 7 на семи холмах",
+      "s": "https://radio7.hostingradio.ru:8040/radio7256.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-7-na-semi-holmah.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Дача",
+      "s": "https://www.radiodacha.ru/player.htm",
+      "l": "https://kuasark.com/files/stations-logos/radio-daca-ru-82367.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Свое FM",
+      "s": "https://relay.radiotoolkit.com/svoefm",
+      "l": "https://kuasark.com/files/stations-logos/svoe-fm-1538.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Rock",
+      "s": "https://radiorecord.hostingradio.ru/rock96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-rock.png",
+      "g": [
+        "Rock",
+        "Other",
+        "News",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Комсомольская Правда",
+      "s": "https://kpradio.hostingradio.ru:8000/128",
+      "l": "https://kuasark.com/files/stations-logos/komsomolskaa-pravda.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Maximum",
+      "s": "https://maximum.hostingradio.ru/maximum96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/maximum.png",
+      "g": [
+        "Rock",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Русское Радио - Русский Рок",
+      "s": "https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/russkoe-radio-russkij-rok.png",
+      "g": [
+        "Rock",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "DFM Дискач 90-х",
+      "s": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
+      "l": "https://kuasark.com/files/stations-logos/dfm-diskac-90-h.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио для двоих",
+      "s": "https://stream.pcradio.ru/rddfm_ru-med",
+      "l": "https://kuasark.com/files/stations-logos/radio-dla-dvoih.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "DFM Russian Dance",
+      "s": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/dfm-russian-dance.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио звезда",
+      "s": "https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128",
+      "l": "https://kuasark.com/files/stations-logos/zvezda-ru-79087.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Шоколад",
+      "s": "https://choco.hostingradio.ru:10010/fm",
+      "l": "https://kuasark.com/files/stations-logos/radio-sokolad.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Like FM",
+      "s": "https://pub0301.101.ru:8443/stream/air/mp3/256/219",
+      "l": "https://kuasark.com/files/stations-logos/like-fm-moscow-russia.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Соловьёв FM Live",
+      "s": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
+      "l": "https://kuasark.com/files/stations-logos/solovev-live.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Romantika",
+      "s": "https://stream03.pcradio.ru/romantica-med",
+      "l": "https://kuasark.com/files/stations-logos/radio-romantika.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Гоп FM",
+      "s": "https://radiorecord.hostingradio.ru/gop96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-gop-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио России",
+      "s": "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps",
+      "l": "https://kuasark.com/files/stations-logos/radio-rossii.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио МИР",
+      "s": "https://icecast-mirtv.cdnvideo.ru/radio_mir_256",
+      "l": "https://kuasark.com/files/stations-logos/radio-mir.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Love Radio",
+      "s": "http://loveradio.ru",
+      "l": "https://kuasark.com/files/stations-logos/love-radio-20.png",
+      "g": [
+        "Pop",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ретро FM 80-е",
+      "s": "https://retro80.hostingradio.ru:8025/retro80-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-80e.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "DFM Deep",
+      "s": "https://dfm-dfmdeep.hostingradio.ru/dfmdeep96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/dfm-deep.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Питер FM",
+      "s": "https://piterfm-hls.cdnvideo.ru/piterfm-live/piterfm.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/piter-fm-sankt-peterburg-1009-mgc.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Chill-Out",
+      "s": "https://radiorecord.hostingradio.ru/chil96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-record-chill-out.png",
+      "g": [
+        "Easy Listening",
+        "Classical",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Русская Волна",
+      "s": "https://ru2.amgradio.ru/RuWave48",
+      "l": "https://kuasark.com/files/stations-logos/russkaa-volna-ru-36354.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Книга",
+      "s": "https://bookradio.hostingradio.ru:8069/fm",
+      "l": "https://kuasark.com/files/stations-logos/radio-kniga.png",
+      "g": [
+        "Electronic",
+        "Themes",
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ретро FM 90-е",
+      "s": "https://retro90.hostingradio.ru:8025/retro90-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-90e.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Искатель",
+      "s": "https://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/iskatel.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Пи FM",
+      "s": "https://cdn.pifm.ru/mp3",
+      "l": "https://kuasark.com/files/stations-logos/pi-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Нафталин FM",
+      "s": "https://radiorecord.hostingradio.ru/naft96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-naftalin-fm-ru-33905.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Deep",
+      "s": "https://radiorecord.hostingradio.ru/deep96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-record-deep.png",
+      "g": [
+        "New Age",
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио JAZZ",
+      "s": "https://nashe1.hostingradio.ru/jazz-256",
+      "l": "https://kuasark.com/files/stations-logos/radio-jazz-ru-9592.png",
+      "g": [
+        "Blues",
+        "Easy Listening",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Пионер FM",
+      "s": "https://ppr.status-media.ru/ppr128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/pioner.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Детское радио",
+      "s": "https://pub0301.101.ru:8443/stream/air/mp3/256/199",
+      "l": "https://kuasark.com/files/stations-logos/detskoe-radio.png",
+      "g": [
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Милицейская Волна",
+      "s": "https://radiomv.hostingradio.ru:80/radiomv256.mp3",
+      "l": "https://kuasark.com/files/stations-logos/milicejskaa-volna-nn.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Жара FM",
+      "s": "https://live1.zharafm.ru/internet",
+      "l": "https://kuasark.com/files/stations-logos/zara-fm-1005-fm-zhara-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Rock FM",
+      "s": "https://nashe1.hostingradio.ru/rock-256",
+      "l": "https://kuasark.com/files/stations-logos/rock-fm-ru-5747.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Business FM",
+      "s": "https://bfm.hostingradio.ru:9075/fm",
+      "l": "https://kuasark.com/files/stations-logos/business-fm-ru.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Медляк FM",
+      "s": "https://radiorecord.hostingradio.ru/mdl96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-medlak-fm.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "RCM radio - Deep House",
+      "s": "https://relay.radiotoolkit.com/rcmdeep",
+      "l": "https://kuasark.com/files/stations-logos/rcm-radio-deep-house.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Наше Радио - Панки хой!",
+      "s": "https://nashe1.hostingradio.ru/nashepunks.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nase-radio-panki-hoj.png",
+      "g": [
+        "Rock",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Relax FM - Nature",
+      "s": "https://pub0101.101.ru/stream/trust/mp3/128/263",
+      "l": "https://kuasark.com/files/stations-logos/relax-fm-nature.png",
+      "g": [
+        "Easy Listening",
+        "Other",
+        "New Age"
+      ]
+    },
+    {
+      "t": "Радио Русские Песни",
+      "s": "https://rusongs.amgradio.ru/rusongs",
+      "l": "https://kuasark.com/files/stations-logos/radio-russkie-pesni.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Trancemission",
+      "s": "https://radiorecord.hostingradio.ru/tm96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-trancemission.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "UralSound FM",
+      "s": "https://stream.pcradio.ru/rad_uralsndfm-med",
+      "l": "https://kuasark.com/files/stations-logos/uralsound-fm.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Хорошее радио",
+      "s": "https://hr.amgradio.ru/Horoshee",
+      "l": "https://kuasark.com/files/stations-logos/horosee-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Кекс FM",
+      "s": "https://dorognoe.hostingradio.ru/keksfm64.aac",
+      "l": "https://kuasark.com/files/stations-logos/keks-fm.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Европа Плюс - Топ 40",
+      "s": "https://europaplus.hostingradio.ru:8014/ep-top256.mp3",
+      "l": "https://kuasark.com/files/stations-logos/evropa-plus-top-40.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Коммерсантъ FM",
+      "s": "https://kommersant77.hostingradio.ru:8016/kommersant128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kommersant-fm-936.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Remix",
+      "s": "https://radiorecord.hostingradio.ru/rmx96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-remix.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "STUDIO 21",
+      "s": "https://stream.studio21.ru/studio2196.aacp",
+      "l": "https://kuasark.com/files/stations-logos/studio-21.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Ретро FM 70-е",
+      "s": "https://retro70.hostingradio.ru:8025/retro70-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-70e.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Русское Радио - Высоцкий",
+      "s": "https://rr-vysockij.hostingradio.ru/vysockij96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/russkoe-radio-vysockij.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Родных Дорог",
+      "s": "https://stream1.radiord.ru:8000/live128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-rodnyh-dorog.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Relax FM - Jazz",
+      "s": "https://pub0101.101.ru/stream/trust/mp3/128/264",
+      "l": "https://kuasark.com/files/stations-logos/relax-fm-jazz.png",
+      "g": [
+        "Blues",
+        "Easy Listening",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Ваня - Не лихие 90-е",
+      "s": "https://stream.pcradio.ru/vanya_90-med",
+      "l": "https://kuasark.com/files/stations-logos/radio-vana-ne-lihie-90-e.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "ТНТ Music Radio",
+      "s": "https://tntradio.hostingradio.ru:8027/tntradio128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/tnt-music-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Megamix",
+      "s": "https://radiorecord.hostingradio.ru/mix96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-record-megamix.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Монте-Карло - Музыка без слов",
+      "s": "https://montecarlo.hostingradio.ru/muzykabezslov96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-monte-karlo-muzyka-bez-slov.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Мелодия",
+      "s": "http://stream128.melodiafm.spb.ru:8000/melodia128",
+      "l": "https://kuasark.com/files/stations-logos/radiokanal-melodia.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радиола",
+      "s": "https://radiola.hostingradio.ru/radiola_sam_128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radiola-ru-13837.png",
+      "g": [
+        "Classical",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Зайцев.FM - Rus",
+      "s": "https://abs.zaycev.fm/rus128k",
+      "l": "https://kuasark.com/files/stations-logos/zajcevfm-rus.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Атмосфера",
+      "s": "https://listen10.myradio24.com/atmo",
+      "l": "https://kuasark.com/files/stations-logos/radio-atmosfera.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Блатняк",
+      "s": "https://stream03.pcradio.ru/Blatradio-med",
+      "l": "https://kuasark.com/files/stations-logos/radio-blatnak.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Соль FM",
+      "s": "http://solfm.ru:8000/online128",
+      "l": "https://kuasark.com/files/stations-logos/sol-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Дорожное радио - Ностальгия ",
+      "s": "https://hls-01-dorognoe-nostalgia.emgsound.ru/19/112/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/doroznoe-radio-nostalgia-.png",
+      "g": [
+        "Decades",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Ретро FM Вечеринка",
+      "s": "https://hls-01-retro-vecherinka.emgsound.ru/20/112/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vecerinka-retro-fm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Sputnik (Cпутник)",
+      "s": "https://icecast-rian.cdnvideo.ru/voicerus",
+      "l": "https://kuasark.com/files/stations-logos/radio-sputnik-novosti-radio-sputnik-news.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Говорит Москва",
+      "s": "https://media.govoritmoskva.ru/radio/rufm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/govorit-moskva-ru-78108.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Орфей",
+      "s": "https://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-orfej-radio-orpheus.png",
+      "g": [
+        "Classical",
+        "Other",
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "Эльдорадио",
+      "s": "https://emgspb.hostingradio.ru/eldoradio128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/eldoradio-eldo-radio-1014-st-petersburg.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Классик",
+      "s": "https://jfm1.hostingradio.ru:14536/rcstream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-klassik-ru.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Эрмитаж",
+      "s": "https://hermitage.hostingradio.ru/hermitage128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-ermitaz.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Руки Вверх!",
+      "s": "https://radiorecord.hostingradio.ru/rv96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-ruki-vverh.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "101.ru - Дискотека СССР",
+      "s": "https://pub0302.101.ru:8000/stream/pro/aac/64/144?",
+      "l": "https://kuasark.com/files/stations-logos/101ru-diskoteka-sssr.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Decades",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Record 80-х",
+      "s": "https://radiorecord.hostingradio.ru/198096.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-80-h.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Дорожное радио - Танцы по-русски",
+      "s": "https://dorognoe.hostingradio.ru/dorognoe1945.mp3",
+      "l": "https://kuasark.com/files/stations-logos/doroznoe-radio-tancy-po-russki.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Русское Радио - Золотой Граммофон",
+      "s": "https://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/russkoe-radio-zolotoj-grammofon.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Relax FM - Gold",
+      "s": "https://pub0302.101.ru:8000/stream/trust/mp3/128/266",
+      "l": "https://kuasark.com/files/stations-logos/relax-fm-gold.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Типичное FM",
+      "s": "http://listen9.myradio24.com:9000/9696",
+      "l": "https://kuasark.com/files/stations-logos/tipicnoe-fm.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Pirate Station",
+      "s": "https://radiorecord.hostingradio.ru/ps96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-pirate-station.png",
+      "g": [
+        "R&B and Urban",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Наше Радио - Классик рок",
+      "s": "https://nashe1.hostingradio.ru/nasheclassic.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nase-radio-klassik-rok.png",
+      "g": [
+        "Rock",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Russian Hits",
+      "s": "https://radiorecord.hostingradio.ru/russianhits96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-russian-hits.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Анекдоты - Юмор FM",
+      "s": "https://pub0102.101.ru:8443/stream/trust/mp3/128/20?",
+      "l": "https://kuasark.com/files/stations-logos/anekdoty-umor-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Ваня - Весёлый Dance",
+      "s": "https://stream03.pcradio.ru/vanya_fundance-med",
+      "l": "https://kuasark.com/files/stations-logos/radio-vana-veselyj-dance.png",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "DFM Chill",
+      "s": "https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/dfm-chill.png",
+      "g": [
+        "New Age",
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио JAZZ - Smooth Jazz",
+      "s": "https://jfm1.hostingradio.ru:14536/sjstream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-jazz-smooth-jazz.png",
+      "g": [
+        "Blues",
+        "Easy Listening",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Наше Радио - Щас спою",
+      "s": "https://nashe1.hostingradio.ru/nashesongs.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nase-radio-sas-spou.png",
+      "g": [
+        "Rock",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "101.ru - СССР 50-70",
+      "s": "https://pub0202.101.ru:8443/stream/pro/aac/64/47?",
+      "l": "https://kuasark.com/files/stations-logos/101ru-sssr-50-70.png",
+      "g": [
+        "Decades",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Популярная Классика",
+      "s": "https://icecast-radioclassica.cdnvideo.ru/sberzvuk\n",
+      "l": "https://kuasark.com/files/stations-logos/radio-popularnaa-klassika.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Казак FM",
+      "s": "https://radio.mediacdn.ru/kazak_fm.mp3",
+      "l": "https://kuasark.com/files/stations-logos/kazak-fm.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Юлдаш",
+      "s": "https://radio.mediacdn.ru/uldash.mp3",
+      "l": "https://kuasark.com/files/stations-logos/uldas-radioy.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Радио Русский Хит",
+      "s": "http://stream.n340.com:80/19_ruhit_24",
+      "l": "https://kuasark.com/files/stations-logos/radio-russkij-hit.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Море",
+      "s": "https://sea.1tvcrimea.ru:19003/stream_sea.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-more-ru.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "NRJ Trance",
+      "s": "https://pub0101.101.ru/stream/trust/mp3/128/19",
+      "l": "https://kuasark.com/files/stations-logos/nrj-trance.png",
+      "g": [
+        "Easy Listening",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Ваня - Олдскул",
+      "s": "https://stream03.pcradio.ru/vanya_oldschool-med",
+      "l": "https://kuasark.com/files/stations-logos/radio-vana-oldskul.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "LOLZ FM",
+      "s": "https://listen1.myradio24.com/lolz",
+      "l": "https://kuasark.com/files/stations-logos/lolz-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Фантастики",
+      "s": "https://listen6.myradio24.com/55699",
+      "l": "https://kuasark.com/files/stations-logos/radio-fantastiki.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Best Deep FM",
+      "s": "https://listen8.myradio24.com/5129",
+      "l": "https://kuasark.com/files/stations-logos/best-deep-fm.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Ваня - Свежий бит",
+      "s": "https://stream03.pcradio.ru/vanya_freshbit-med",
+      "l": "https://kuasark.com/files/stations-logos/radio-vana-svezij-bit.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Монте-Карло - Золотая коллекция",
+      "s": "https://montecarlo.hostingradio.ru/mcgold96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-monte-karlo-zolotaa-kollekcia.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио День",
+      "s": "https://stream03.pcradio.ru/radioday_fm-med",
+      "l": "https://kuasark.com/files/stations-logos/radio-den.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Юность (ЮFM)",
+      "s": "https://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps",
+      "l": "https://kuasark.com/files/stations-logos/radio-unost.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "101.ru - Deep House",
+      "s": "https://pub0302.101.ru:8000/stream/trust/mp3/128/173?",
+      "l": "https://kuasark.com/files/stations-logos/101ru-deep-house.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Innocence",
+      "s": "https://radiorecord.hostingradio.ru/ibiza96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-innocence.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Европа плюс - Свежее радио",
+      "s": "https://epdop.hostingradio.ru:8033/fresh64.aac",
+      "l": "https://kuasark.com/files/stations-logos/svezee-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Trance Classics",
+      "s": "https://radiorecord.hostingradio.ru/trancehits96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/record-trance-classics.png",
+      "g": [
+        "Pop",
+        "Electronic",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Авторадио - Дискотека 80-х",
+      "s": "https://pub0202.101.ru:8443/stream/pro/aac/64/1",
+      "l": "https://kuasark.com/files/stations-logos/avtoradio-diskoteka-80-h.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Классик - Classic Gold",
+      "s": "https://jfm1.hostingradio.ru:14536/gcstream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-klassik-classic-gold.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "LRadio",
+      "s": "https://air.unmixed.ru/lradio256",
+      "l": "https://kuasark.com/files/stations-logos/lradio-ru.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Континенталь",
+      "s": "http://stream01.radiocon.ru:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-kontinental.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Deep One - Deep House radio",
+      "s": "https://stream.deep1.ru/deep1aac",
+      "l": "https://kuasark.com/files/stations-logos/deep-one.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио 107",
+      "s": "http://62.183.34.109:8000/radio107_256.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-107-ru.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Хит FM Dance 2000s",
+      "s": "https://stream03.pcradio.ru/rad_htdnc20-med",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-dance-2000s.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Ретро Хит",
+      "s": "https://retro.amgradio.ru/Retro",
+      "l": "https://kuasark.com/files/stations-logos/retro-hit-retro-hit.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Соль FM - Chill",
+      "s": "http://solfm.ru:8000/chill128",
+      "l": "https://kuasark.com/files/stations-logos/sol-fm-chill.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "Татар Радиосы",
+      "s": "https://tatarradio.hostingradio.ru/tatarradio320.mp3",
+      "l": "https://kuasark.com/files/stations-logos/tatar-radiosy-tatar-radiosi.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Bass House",
+      "s": "https://radiorecord.hostingradio.ru/jackin96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-record-bass-house.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "101.ru - Blues",
+      "s": "https://pub0202.101.ru:8443/stream/pro/aac/64/76?",
+      "l": "https://kuasark.com/files/stations-logos/101ru-blues.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Культура",
+      "s": "https://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps",
+      "l": "https://kuasark.com/files/stations-logos/kultura-aac-.png",
+      "g": [
+        "Classical",
+        "Folk",
+        "Jazz",
+        "Other",
+        "Talk",
+        "News"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Vip House",
+      "s": "https://radiorecord.hostingradio.ru/vip96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-vip-house.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Н-Радио",
+      "s": "http://178.47.34.174:8000/n-radio",
+      "l": "https://kuasark.com/files/stations-logos/n-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Серебряный Дождь",
+      "s": "https://silverrain.hostingradio.ru/silver128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/serebranyj-dozd-silver.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "DFM Insomnia",
+      "s": "https://dfm-insomnia.hostingradio.ru/insomnia96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/dfm-insomnia.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Соль FM - Deep",
+      "s": "http://solfm.ru:8000/deep128",
+      "l": "https://kuasark.com/files/stations-logos/sol-fm-deep.png",
+      "g": [
+        "New Age",
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Калина Красная",
+      "s": "https://icecast-studio21.cdnvideo.ru/KalynaK_1a",
+      "l": "https://kuasark.com/files/stations-logos/kalina-krasnaa.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Старое Радио",
+      "s": "http://server.audiopedia.su:8000/ices128\n",
+      "l": "https://kuasark.com/files/stations-logos/staroe-radio-old-radio.png",
+      "g": [
+        "Decades",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "101.ru - Шансон",
+      "s": "https://pub0102.101.ru:8443/stream/pro/aac/64/50?",
+      "l": "https://kuasark.com/files/stations-logos/101ru-sanson.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Techno",
+      "s": "https://radiorecord.hostingradio.ru/techno96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-techno.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Trap",
+      "s": "https://radiorecord.hostingradio.ru/trap96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-trap.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Москва FM",
+      "s": "https://icecast-vgtrk.cdnvideo.ru/moscowfm128?",
+      "l": "https://kuasark.com/files/stations-logos/moskva-fm-.png",
+      "g": [
+        "Talk",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Мария FM",
+      "s": "http://mariafm.ru:8000/maria-fm-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/maria-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио 7 на семи холмах - Наедине с музыкой",
+      "s": "https://radio7.hostingradio.ru:8040/radio7_alone64.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-7-naedine-s-muzykoj.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Владивосток FM",
+      "s": "http://vladfm.ru:8000/vfm",
+      "l": "https://kuasark.com/files/stations-logos/vladivostok-fm.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Симфония FM",
+      "s": "https://radiorecord.hostingradio.ru/symph96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-simfonia-fm.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "ANDRS Radio",
+      "s": "https://relay1.radiotoolkit.com/andrsfree",
+      "l": "https://kuasark.com/files/stations-logos/andrs-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио 7 на семи холмах - Музыка",
+      "s": "https://radio7.hostingradio.ru:8040/radio7_love64.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-7-muzyka-lubvi.png",
+      "g": [
+        "Pop",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Наше радио 2.0",
+      "s": "https://nashe1.hostingradio.ru:18000/nashe20-128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/nase-radio-20.png",
+      "g": [
+        "Rock",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Маятник Фуко",
+      "s": "https://radiorecord.hostingradio.ru/mf96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-maatnik-fuko.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Сибирь",
+      "s": "https://stream.radiosibir.ru:8093/om2",
+      "l": "https://kuasark.com/files/stations-logos/radio-sibir.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Зайцев.FM - Шансон",
+      "s": "https://abs.zaycev.fm/shanson128k",
+      "l": "https://kuasark.com/files/stations-logos/zajcevfm-sanson.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Соль FM - Dance",
+      "s": "http://solfm.ru:8000/dance128",
+      "l": "https://kuasark.com/files/stations-logos/sol-fm-dance.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Relax FM - Life",
+      "s": "https://pub0102.101.ru:8443/stream/trust/mp3/128/267?",
+      "l": "https://kuasark.com/files/stations-logos/relax-fm-life.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ватан Седасы",
+      "s": "http://91.214.128.125:64000/vatan",
+      "l": "https://kuasark.com/files/stations-logos/vatan-sedasy.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Premium",
+      "s": "https://listen2.rpfm.ru/premium128",
+      "l": "https://kuasark.com/files/stations-logos/radio-premium.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио-3",
+      "s": "http://81.23.194.18:8010/radio3.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-3-ru.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Соль FM - 90-е",
+      "s": "http://solfm.ru:8000/solfm90",
+      "l": "https://kuasark.com/files/stations-logos/sol-fm-90-e.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "101.RU - Chillоut",
+      "s": "https://pub0202.101.ru:8443/stream/trust/mp3/128/24",
+      "l": "https://kuasark.com/files/stations-logos/101ru-chill.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "101.ru - Виктор Цой и группа «КИНО»",
+      "s": "https://pub0202.101.ru:8443/stream/pro/aac/64/103?",
+      "l": "https://kuasark.com/files/stations-logos/101ru-viktor-coj-i-gruppa-kino-.png",
+      "g": [
+        "Rock",
+        "Themes",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Таван ",
+      "s": "http://icecast.ntrk21.ru:8000/tavan",
+      "l": "https://kuasark.com/files/stations-logos/radio-tavan-.png",
+      "g": [
+        "Folk",
+        "Talk",
+        "News",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Пионер FM - Dance 9.0",
+      "s": "https://listen10.myradio24.com/pionerro_newsound",
+      "l": "https://kuasark.com/files/stations-logos/pioner-fm-dance-90.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Delish Deep Radio",
+      "s": "https://relay2.radiotoolkit.com/delishdeep",
+      "l": "https://kuasark.com/files/stations-logos/delish-deep-radio.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Русское Радио - Русское Кино",
+      "s": "https://rr-russkoekino.hostingradio.ru/russkoekino96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/russkoe-radio-russkoe-kino.png",
+      "g": [
+        "Themes",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Рекорд - Dream Dance",
+      "s": "https://radiorecord.hostingradio.ru/dream96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-dream-dance-ru-36099.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио JAZZ - Jazz Legends",
+      "s": "https://jfm1.hostingradio.ru:14536/jlstream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-jazz-891-jazz-legends.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "DFM Club",
+      "s": "https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp",
+      "l": "https://kuasark.com/files/stations-logos/dfm-club.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Кавказ радио",
+      "s": "https://stream03.pcradio.ru/rad_kvkzrd-med",
+      "l": "https://kuasark.com/files/stations-logos/kavkaz-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rock FM Heavy",
+      "s": "https://jfm1.hostingradio.ru:14536/metal.mp3",
+      "l": "https://kuasark.com/files/stations-logos/rock-fmheavy.png",
+      "g": [
+        "Rock",
+        "Metal",
+        "Other"
+      ]
+    },
+    {
+      "t": "Хит FM Dance 1990s",
+      "s": "https://stream03.pcradio.ru/rad_htdnc90-med",
+      "l": "https://kuasark.com/files/stations-logos/hit-fm-dance-1990s.png",
+      "g": [
+        "Decades",
+        "Pop",
+        "Other"
+      ]
+    }
+  ]
+}

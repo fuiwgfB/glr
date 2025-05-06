@@ -1,0 +1,89 @@
+{
+  "stations": [
+    {
+      "t": "QRadio",
+      "s": "http://s9.viastreaming.net:9560/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421266/4ecbaafbba856568b46a66dbb6be6317_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hot FM",
+      "s": "https://rbx2.hnux.com/http://e14058.cloudrad.io:8062/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429386/24fd5fa04f5f14960dfadbee33f57d3e_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Senn FM",
+      "s": "http://www.partyviberadio.com:8000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421264/0f820589f87bce5d5aac548ab6bbb694_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Capital FM",
+      "s": "http://s3.viastreaming.net:8815/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421265/f4c815218c52541f7992a1a371bcc0e8_130x130.webp",
+      "g": [
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "West Coast Radio 2",
+      "s": "http://stream.westcoast.gm:8002/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/28137/b3933a53e16734df14b423f38b212908_130x130.webp",
+      "g": [
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "Choice FM",
+      "s": "http://94.76.216.200:8276/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421268/706c6e6e51c98c35e70593e613b7f5b6_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "DIALAKHA",
+      "s": "https://stream.zeno.fm/zk8edcdydbruv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426965/3532635bc8e37394f38d34d2d7201315_130x130.webp",
+      "g": [
+        "Country",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Up Africa radio",
+      "s": "https://stream-153.zeno.fm/um48p4wgmkhvv?zs=ajF2UqtRRby8nKTb1CqLnQ",
+      "l": "https://kuasark.com/files/stations-logos/up-africa-radio.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Manding Boulundala",
+      "s": "https://listen.radioking.com/radio/594/stream/2165",
+      "l": "https://kuasark.com/files/stations-logos/manding-boulundala.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Gloria",
+      "s": "https://radiogloria.out.airtime.pro/radiogloria_b",
+      "l": "https://kuasark.com/files/stations-logos/radio-gloria-gm.png",
+      "g": [
+        "Inspirational"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "stations": [
+    {
+      "t": "90s Eurodance",
+      "s": "http://listen1.myradio24.com:9000/5967",
+      "l": "https://images.radiovolna.net/_files/images/stations/9607/1468925032_vswbgfxvzgg_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Жулдыз FM",
+      "s": "http://91.201.214.229:8000/zhulduz",
+      "l": "https://images.radiovolna.net/_files/images/stations/5878/e61fd87c0987b11278b70b2fd1bce00c_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Авторадио",
+      "s": "http://178.88.167.62:8080/AVTORADIO_192",
+      "l": "https://images.radiovolna.net/_files/images/stations/552/b5da2aac7b97f53bc418c33387272b58_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Русское Радио Азия",
+      "s": "http://31.148.22.35:9000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/5880/uxrv593f95f7d385c348669549_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Орда FM",
+      "s": "https://orda.daitsuna.net/orda/orda/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/5911/nmma594d460dd60f8143158032_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NS - Rock",
+      "s": "http://89.219.35.26:8000/radions-rock",
+      "l": "https://images.radiovolna.net/_files/images/stations/5886/erwg594d46d0cb2d2222108697_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "City",
+      "s": "https://kvs01.businessfm.kz/city",
+      "l": "https://images.radiovolna.net/_files/images/stations/5286/0a9c95ae817d954f5e242f87216a7824_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "NS",
+      "s": "http://89.219.35.26:8000/radions",
+      "l": "https://images.radiovolna.net/_files/images/stations/492/2bc4c60e6e34aa6295007cf98f9f5a3a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Той Думан Радиосы",
+      "s": "https://stream.gakku.tv:8443/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/5311/d09c20fe98ac98d3ee665e4f328606b2_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Той Думан Радиосы",
+      "s": "https://stream.gakku.tv:8443/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/395879/35308dad000a998deb93737ec3712748_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радио Вышка Казахстан",
+      "s": "https://stream.vyshka24.ru/kz",
+      "l": "https://images.radiovolna.net/_files/images/stations/427401/9eb54a31cfe7215a01dd2dbedba1d54b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Тандем",
+      "s": "https://a1.radioheart.ru:9001/RH20072",
+      "l": "https://images.radiovolna.net/_files/images/stations/420378/d85531fb0444a43092f8b31fed98cf97_130x130.webp",
+      "g": [
+        "News",
+        "Pop"
+      ]
+    },
+    {
+      "t": "ЖАНА FM",
+      "s": "http://s0.radioheart.ru:8000/RH41867",
+      "l": "https://images.radiovolna.net/_files/images/stations/1139/fs815a320584f2a5e199701734_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Рауан",
+      "s": "https://myradio24.org/rauan",
+      "l": "https://images.radiovolna.net/_files/images/stations/9172/ij3r5975f348df426772825398_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NE.FM - Rock",
+      "s": "http://episodes.ne.fm/mp3/ROCK",
+      "l": "https://images.radiovolna.net/_files/images/stations/395540/1482739576_1424785713_nefmrock_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Tengri FM",
+      "s": "http://91.201.214.229:8000/tengrifm",
+      "l": "https://images.radiovolna.net/_files/images/stations/5881/edra597488a8d7b6e547601363_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Актобе",
+      "s": "http://85.29.144.124:8000/;audio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/6387/mu0p5acc532014cf4709153102_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Classic радиосы",
+      "s": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/5887/vqr159d213f7af9ce080206408_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Европа Плюс",
+      "s": "https://hls-01-regions.emgsound.ru/11_kazakhstan/96/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/395623/1482740046_vbkytopbhuc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Energy FM",
+      "s": "http://89.219.34.117:8008/NEWENERGY",
+      "l": "https://images.radiovolna.net/_files/images/stations/5884/zakc594d480adebf3778574316_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Palmera Blanca radio",
+      "s": "https://daystream.palmerablanca.com/daystream-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/430929/f18b7bd44042a93cb9b79c2dde31cf1b_130x130.webp",
+      "g": [
+        "Easy Listening",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Дача",
+      "s": "https://listen5.myradio24.com/76267",
+      "l": "https://images.radiovolna.net/_files/images/stations/418654/87ec56149d1e04a2f4ec4f7321e5e447_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Soul FM",
+      "s": "https://myradio24.org/37928",
+      "l": "https://images.radiovolna.net/_files/images/stations/425477/703d911335d85a83077d48c809acf89a_130x130.webp",
+      "g": [
+        "Easy Listening",
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "NE.FM - Urban",
+      "s": "http://episodes.ne.fm/mp3/URBAN",
+      "l": "https://images.radiovolna.net/_files/images/stations/395534/1482739515_nefmurban_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "NE.FM - Dance",
+      "s": "http://episodes.ne.fm/mp3/NE.FM",
+      "l": "https://images.radiovolna.net/_files/images/stations/395533/1482739412_nefmdance_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Special EDM",
+      "s": "https://stream.zeno.fm/8852wyq6v0hvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/417595/5ebbf5876a3ede766bc79664497d455c_130x130.webp",
+      "g": [
+        "Themes",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Новое Радио Азия",
+      "s": "http://82.118.17.75:8000/Novoe_Radio_Azia",
+      "l": "https://images.radiovolna.net/_files/images/stations/425972/5eb926c66b3da99d8266c56316be90de_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "7",
+      "s": "http://listen4.myradio24.com:9000/8334",
+      "l": "https://images.radiovolna.net/_files/images/stations/395462/sf0h5975f4b03b2c5610818823_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DSound.FM",
+      "s": "https://myradio24.org/dsound_192 ",
+      "l": "https://images.radiovolna.net/_files/images/stations/431377/a70523631153b10e4ad20f36e198206a_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Шалқар радиосы / Shalqar Radiosy",
+      "s": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/406032/ikri5bc0682a342e0912948579_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ОстровОК!",
+      "s": "https://listen1.myradio24.com/27010",
+      "l": "https://images.radiovolna.net/_files/images/stations/427611/cbab53798e7795eb796f827c40c4bfff_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "NE.FM - HIT",
+      "s": "http://episodes.ne.fm/mp3/HIT",
+      "l": "https://images.radiovolna.net/_files/images/stations/395561/1482739654_12501719_754788454654583_1518732032_n_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Алау",
+      "s": "http://s0.radioheart.ru:8000/RH67172",
+      "l": "https://images.radiovolna.net/_files/images/stations/9173/a3vt5975f44278219911280518_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Русский Город",
+      "s": "https://myradio24.org/russgorod",
+      "l": "https://images.radiovolna.net/_files/images/stations/427282/7d53f0fdcdbd497d5e28086c2682b08d_130x130.webp",
+      "g": [
+        "Decades",
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Lux-radio",
+      "s": "http://lux-radio.com:8000/radio",
+      "l": "https://images.radiovolna.net/_files/images/stations/418087/27b8f377dd5a54262d51a22f454e429c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Той Думан Радиосы",
+      "s": "https://stream.gakku.tv:8443/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426267/a47670c1d3c5ed800bf9c9e04d8620df_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Астана радиосы",
+      "s": "https://radio-streams.kaztrk.kz/astana/astana/icecast.audio",
+      "l": "https://images.radiovolna.net/_files/images/stations/406033/uxj55bc068ea51abf815864602_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Той Думан Радиосы",
+      "s": "https://stream.gakku.tv:8443/live.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/426270/9d06112f89bd05f127aba86ce93aec78_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Жулдыз ФМ",
+      "s": "https://radiosolo.ru/radio/zhuldyz-fm/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/zuldyz-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Русское Радио Азия",
+      "s": "https://rusradio.cdnqb.net/stream",
+      "l": "https://kuasark.com/files/stations-logos/russkoe-radio-azia.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Народное радио",
+      "s": "http://178.88.167.62:8080/DALA_192",
+      "l": "https://kuasark.com/files/stations-logos/narodnoe-radio-kz.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Казахское Радио",
+      "s": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/kazahskoe-radio.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Orda FM",
+      "s": "https://85.29.129.134:8443/orda",
+      "l": "https://kuasark.com/files/stations-logos/orda-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Love Radio Казахстан",
+      "s": "https://stream.gakku.tv:8443/love128.mp3",
+      "l": "https://kuasark.com/files/stations-logos/love-radio-kz-kz-86415.png",
+      "g": [
+        "Pop",
+        "Themes",
+        "Other"
+      ]
+    },
+    {
+      "t": "Ретро FM Qazaqstan",
+      "s": "http://91.201.214.229:8000/vostokfm",
+      "l": "https://kuasark.com/files/stations-logos/retro-fm-qazaqstan.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио NS - Шансон",
+      "s": "https://icecast.ns.kz/radions-shanson",
+      "l": "https://kuasark.com/files/stations-logos/radio-ns-sanson.png",
+      "g": [
+        "Folk",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Business FM",
+      "s": "https://kvs01.businessfm.kz/businessfm",
+      "l": "https://kuasark.com/files/stations-logos/business-fm-kz.png",
+      "g": [
+        "Pop",
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Geedeon Radio",
+      "s": "https://listen3.myradio24.com/87888",
+      "l": "https://kuasark.com/files/stations-logos/geedeon-radio.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио 7 Казахстан",
+      "s": "https://myradio24.org/8334",
+      "l": "https://kuasark.com/files/stations-logos/radio-7-kazahstan.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Lux FM",
+      "s": "https://icecast.luxfm.kz/luxfm",
+      "l": "https://kuasark.com/files/stations-logos/radio-lux-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радио SANA",
+      "s": "https://listen4.myradio24.com/radiosana",
+      "l": "https://kuasark.com/files/stations-logos/radio-sana.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Новое Радио (Жана FM)",
+      "s": "https://live.zhanafm.kz:8443/zhanafm_onair",
+      "l": "https://kuasark.com/files/stations-logos/novoe-radio-zana-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Bulbul",
+      "s": "https://radiobulbul.stream.laut.fm/radiobulbul?t302=2023-04-25_19-52-29&uuid=2e23c109-9b3b-474e-ae93-0227a13b0450",
+      "l": "https://kuasark.com/files/stations-logos/radio-bulbul.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Юмор FM Казахстан",
+      "s": "https://live.zhanafm.kz:8443/veseloeradio_onair",
+      "l": "https://kuasark.com/files/stations-logos/umor-fm-kazahstan.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Русское Радио Костанай",
+      "s": "https://cp.time4radio.ru/radio/8090/rusradiokostanai",
+      "l": "https://kuasark.com/files/stations-logos/russkoe-radio-kostanaj.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Радио КН",
+      "s": "https://radiokn.ddns.net:8080/",
+      "l": "https://kuasark.com/files/stations-logos/radio-kn.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Lux Radio",
+      "s": "https://lux-radio.com:8005/stream",
+      "l": "https://kuasark.com/files/stations-logos/lux-radio-kz.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Радио NS - Kazakh Music",
+      "s": "http://89.219.35.26:8000/radions-kz",
+      "l": "https://kuasark.com/files/stations-logos/radio-ns-kazakh-music.png",
+      "g": [
+        "Folk",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио NS - Русский Хит",
+      "s": "https://icecast.ns.kz/radions-russian",
+      "l": "https://kuasark.com/files/stations-logos/radio-ns-russkij-hit.png",
+      "g": [
+        "Pop",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Халык",
+      "s": "https://s0.radioheart.ru:8000/RH46806",
+      "l": "https://kuasark.com/files/stations-logos/radio-halyk.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Russian Dance Radio",
+      "s": "https://lux-radio.com:8015/stream",
+      "l": "https://kuasark.com/files/stations-logos/russian-dance-radio.png",
+      "g": [
+        "Electronic",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "Радио Талап",
+      "s": "https://okeyradio.ru/okey",
+      "l": "https://kuasark.com/files/stations-logos/radio-talap.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио NS - Jazz",
+      "s": "https://icecast.ns.kz/radions-jazz",
+      "l": "https://kuasark.com/files/stations-logos/radio-ns-jazz.png",
+      "g": [
+        "Blues",
+        "Jazz",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио NS - Rock",
+      "s": "https://icecast.ns.kz/radions-rock",
+      "l": "https://kuasark.com/files/stations-logos/radio-ns-rock.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Алау",
+      "s": "https://s0.radioheart.ru:8000/RH67172",
+      "l": "https://kuasark.com/files/stations-logos/alau.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио EDM Classic",
+      "s": "https://radio.geometryfm.ru/hls/geometryfm/live.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-edm-classic.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Бетельгейзе",
+      "s": "http://sat.radio-betelgeuse.com:8000/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-betelgejze.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Радио NS - Lounge",
+      "s": "https://icecast.ns.kz/radions-lounge",
+      "l": "https://kuasark.com/files/stations-logos/radio-ns-lounge.png",
+      "g": [
+        "Easy Listening",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио NS – Лаунж",
+      "s": "http://89.219.35.26:8000/radions-lounge",
+      "l": "https://kuasark.com/files/stations-logos/radio-ns-launz.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Радио GFM - Включайся в Ритм EDM",
+      "s": "https://music.geometryfm.ru/radio/8010/geometryfm320",
+      "l": "https://kuasark.com/files/stations-logos/gfm.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Татарское Радио ТМК",
+      "s": "https://a4.radioheart.ru:9036/RH13170",
+      "l": "https://kuasark.com/files/stations-logos/tatarskoe-radio-tmk.png",
+      "g": [
+        "Easy Listening",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Радио NS - KZ",
+      "s": "https://icecast.ns.kz/radions-kz",
+      "l": "https://kuasark.com/files/stations-logos/radio-ns-kz.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Themes",
+        "Other",
+        "News",
+        "Decades",
+        "International",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Synthwave Club",
+      "s": "https://stream-149.zeno.fm/hutw7c7q9c0uv?zs=aXdCTpUoSYaAphK5xiayfw",
+      "l": "https://kuasark.com/files/stations-logos/synthwave-club.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Моя Мелодия",
+      "s": "https://lux-radio.com:8025/stream",
+      "l": "https://kuasark.com/files/stations-logos/moa-melodia.png",
+      "g": [
+        "Easy Listening",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Радио NS – Джаз",
+      "s": "http://89.219.35.26:8000/radions-jazz",
+      "l": "https://kuasark.com/files/stations-logos/radio-ns-dzaz.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Жаңа - MIX",
+      "s": "https://live.zhanafm.kz:8443/zhanamix",
+      "l": "https://kuasark.com/files/stations-logos/zaa-mix.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Азамат",
+      "s": "https://listen4.myradio24.com/8162",
+      "l": "https://kuasark.com/files/stations-logos/radio-azamat.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "BoomRoom.kz",
+      "s": "https://a5.radioheart.ru:9037/RH3009",
+      "l": "https://kuasark.com/files/stations-logos/boomroomkz.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Aloha FM",
+      "s": "https://listen6.myradio24.com/alohafm",
+      "l": "https://kuasark.com/files/stations-logos/aloha-fm.png",
+      "g": [
+        "Blues",
+        "Easy Listening",
+        "Electronic",
+        "Rap",
+        "Jazz",
+        "Rock",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Техно Сборник Радио",
+      "s": "http://freeuk27.listen2myradio.com:11412/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/tehnosbornikradio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Жаңа FM - Rock",
+      "s": "https://live.zhanafm.kz:8443/zhanarock",
+      "l": "https://kuasark.com/files/stations-logos/zaa-fm-rock.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Жаңа - Lounge",
+      "s": "https://live.zhanafm.kz:8443/zhanalounge",
+      "l": "https://kuasark.com/files/stations-logos/zaa-lounge.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "ВАШЕ РАДИО",
+      "s": "https://live.zhanafm.kz:8443/vasheradio",
+      "l": "https://kuasark.com/files/stations-logos/vase-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио АВЕРС",
+      "s": "https://listen3.myradio24.com/8134",
+      "l": "https://kuasark.com/files/stations-logos/radio-avers.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Радио Житикара",
+      "s": "https://listen.myrh.ru/zhiti",
+      "l": "https://kuasark.com/files/stations-logos/radio-zitikara.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио онлайн Житикара",
+      "s": "https://a8.radioheart.ru:9006/RH75633",
+      "l": "https://kuasark.com/files/stations-logos/radio-onlajn-zitikara.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Жаңа FM - Pioner FM KZ",
+      "s": "https://live.zhanafm.kz:8443/pionerfm",
+      "l": "https://kuasark.com/files/stations-logos/zaa-fm-pioner-fm-kz.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 24 KZ",
+      "s": "http://stream.vyshka24.ru/r24kz",
+      "l": "https://kuasark.com/files/stations-logos/radio-24-kz.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио 90s Eurodance",
+      "s": "https://listen1.myradio24.com/5967",
+      "l": "https://kuasark.com/files/stations-logos/radio-90s-eurodance.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "KTK TV",
+      "s": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/ktk-tv.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

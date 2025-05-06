@@ -1,0 +1,420 @@
+{
+  "stations": [
+    {
+      "t": "MFM GUADELOUPE",
+      "s": "https://madrasfm.ice.infomaniak.ch/madrasfm-192.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403201/rj4y59de6db0bd1f8914805050_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Zouk & New'Z",
+      "s": "https://zouknews.ice.infomaniak.ch/zouknews-192",
+      "l": "https://images.radiovolna.net/_files/images/stations/29573/mkoz59de6eb801f27506429272_130x130.webp",
+      "g": [
+        "Latin",
+        "International"
+      ]
+    },
+    {
+      "t": "Bel'Radio Guadeloupe",
+      "s": "https://stream.rcs.revma.com/a7qacprtpwzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/23101/3fb2266c9dc6fe71815f5145d2711f92_130x130.webp",
+      "g": [
+        "Latin",
+        "Decades",
+        "International"
+      ]
+    },
+    {
+      "t": "RFM",
+      "s": "http://coollabel1.streaming-ingenierie.fr:8136/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/1846/11036ae3fb5006fcf189977b49ac2564_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Steevy FM",
+      "s": "https://stream.zeno.fm/h8xmj7cmfnqtv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427783/2afebd80799e499048a492464bc942b5_130x130.webp",
+      "g": [
+        "Latin",
+        "Decades",
+        "Reggae",
+        "International"
+      ]
+    },
+    {
+      "t": "DJ PATOS' RADIO",
+      "s": "http://163.172.16.107:5084/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/417373/y0tv5c59af2ea001b001982191_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Massabielle",
+      "s": "http://51.15.176.106:8000/massabielle-mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/428712/435f7a0fee486e56520f00f23963dd44_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "NRJ Antilles",
+      "s": "http://185.52.127.157/fr_an/55248/mp3_128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403202/jbwi59de7143a6cce586197046_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FUN RADIO GUADELOUPE",
+      "s": "https://www.radioking.com/play/fun-radio-guadeloupe",
+      "l": "https://images.radiovolna.net/_files/images/stations/1847/rdw2597a4f3673e4a111950487_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RCI Guadeloupe",
+      "s": "https://stream.rcs.revma.com/v4hf7bwspwzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/6758/om795981f27c41652092121781_130x130.webp",
+      "g": [
+        "Latin",
+        "Talk"
+      ]
+    },
+    {
+      "t": "TELUS FM",
+      "s": "https://www.radioking.com/play/telus-fm-une-radio-pour-les-antillais-du-monde-entier",
+      "l": "https://images.radiovolna.net/_files/images/stations/425530/7902796ee3ad2b72831c43c27e363835_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Vie Meilleure",
+      "s": "http://guadadvent.org:8000/rvm",
+      "l": "https://images.radiovolna.net/_files/images/stations/23942/qbjh59de6dfd37148545852116_130x130.webp",
+      "g": [
+        "Easy Listening",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Saphir FM",
+      "s": "https://saphirfm.ice.infomaniak.ch/saphirfm-192.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/403200/tq8y59de68e313019665714641_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Guadeloupe la 1ère",
+      "s": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/30266/dcaa828fb1a2cc63a6a1dfa8b87333f0_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "RHT GUADELOUPE",
+      "s": "http://haute-tension.ice.infomaniak.ch/haute-tension-high.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/30288/a1c34aafc47a6a23e50ba3cd779eb192_130x130.webp",
+      "g": [
+        "Latin",
+        "International"
+      ]
+    },
+    {
+      "t": "TRACE FM Guadeloupe",
+      "s": "https://n03-as.rcs.revma.com/u98b8f5q54zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9621/qzzu5981f050ac03b346697586_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Reggae",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Nostalgie Guadeloupe",
+      "s": "http://2stream.dyndns.org:8000/nostalgiegp",
+      "l": "https://images.radiovolna.net/_files/images/stations/403205/gmhx59de7295b9017248018875_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "VOGUE RADIO",
+      "s": "https://vogueradio2.ice.infomaniak.ch/vogueradio2-128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/425991/98e8c0820c8cbd26c3097bbbb8bf253f_130x130.webp",
+      "g": [
+        "International",
+        "Decades",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Basses Internationale",
+      "s": "http://213.186.61.62:7400/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421278/3d9cded5a787ea9eb1dd62e245323293_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio Transat",
+      "s": "https://stream.rcs.revma.com/dy09pqzctwzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/428711/d226df25c2477dfaf0f0ed6b13725952_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RCI Guadeloupe",
+      "s": "https://n22a-eu.rcs.revma.com/v4hf7bwspwzuv?rj-ttl=5&rj-tok=AAABiLQEJYkAGTCXw8TFssZfQQ",
+      "l": "https://kuasark.com/files/stations-logos/rci-guadeloupe.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RCI Dancehall",
+      "s": "https://n04a-eu.rcs.revma.com/5stt0yrtpwzuv?rj-ttl=5&rj-tok=AAABiq29_cwAXkV1TQHCMrrvhw",
+      "l": "https://kuasark.com/files/stations-logos/rci-dancehall.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "RADIO SOFAIA ALTITUDE",
+      "s": "http://radiosofaia.ice.infomaniak.ch/radiosofaia-high.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-sofaia-altitude.png",
+      "g": [
+        "Folk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Souffle de vie",
+      "s": "https://radio.rsv-gpe.info/radio/8000/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-souffle-de-vie.png",
+      "g": [
+        "Inspirational",
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "TRACE FM",
+      "s": "https://n18a-eu.rcs.revma.com/nv1hu7644k0uv?rj-ttl=5&rj-tok=AAABiq3GLAsALcegwp3Oetkn3A",
+      "l": "https://kuasark.com/files/stations-logos/trace-fm-35611.png",
+      "g": [
+        "Rap",
+        "Reggae",
+        "R&B and Urban",
+        "International"
+      ]
+    },
+    {
+      "t": "RCI Zouk",
+      "s": "https://n16a-eu.rcs.revma.com/wkf0thzctwzuv?rj-ttl=5&rj-tok=AAABiq3ZafcAH1OwFlt5CTDXSg",
+      "l": "https://kuasark.com/files/stations-logos/rci-zouk.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RTL 2 Guadeloupe",
+      "s": "http://163.172.96.134:8090/;stream.qtl",
+      "l": "https://kuasark.com/files/stations-logos/rtl-2-guadeloupe.png",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Bel'Radio - Guadeloupe",
+      "s": "https://n02a-eu.rcs.revma.com/a7qacprtpwzuv?rj-ttl=5&rj-tok=AAABiLP1gEgAoA6oRtKzw77xlw",
+      "l": "https://kuasark.com/files/stations-logos/belradio-guadeloupe.png",
+      "g": [
+        "Reggae",
+        "Latin",
+        "Decades",
+        "Other",
+        "International"
+      ]
+    },
+    {
+      "t": "RCI Compas",
+      "s": "https://n09a-eu.rcs.revma.com/5dvn9urtpwzuv?rj-ttl=5&rj-tok=AAABiq3ZZ_0AfKUZtnEzXh6fCg",
+      "l": "https://kuasark.com/files/stations-logos/rci-compas.png",
+      "g": [
+        "Reggae",
+        "Other"
+      ]
+    },
+    {
+      "t": "Millenium Guadeloupe",
+      "s": "https://listen.radioking.com/radio/154186/stream/194791",
+      "l": "https://kuasark.com/files/stations-logos/millenium-guadeloupe.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Saphir Fm 89.4",
+      "s": "http://saphirfm.ice.infomaniak.ch/saphirfm-192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/saphir-fm-894.png",
+      "g": [
+        "Other",
+        "Latin",
+        "International"
+      ]
+    },
+    {
+      "t": "RCI Latino",
+      "s": "https://n11a-eu.rcs.revma.com/y77561rtpwzuv?rj-ttl=5&rj-tok=AAABiq3ZZ6wA5TRRHYCjp-IvFA",
+      "l": "https://kuasark.com/files/stations-logos/rci-latino.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RCI Kassav",
+      "s": "https://n14a-eu.rcs.revma.com/6mddg9utpwzuv?rj-ttl=5&rj-tok=AAABiq3ZaUcA79svU6PAE4hEDA",
+      "l": "https://kuasark.com/files/stations-logos/rci-kassav.png",
+      "g": [
+        "Alternative",
+        "Other"
+      ]
+    },
+    {
+      "t": "Rht Guadeloupe-radio Haute Tension",
+      "s": "http://haute-tension.ice.infomaniak.ch/haute-tension-high.aac",
+      "l": "https://kuasark.com/files/stations-logos/rht-guadeloupe-radio-haute-tension-gp-2156.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Hits 1 Antilles",
+      "s": "https://radio7.pro-fhi.net/listen/xqahcorv/stream",
+      "l": "https://kuasark.com/files/stations-logos/hits-1-antilles.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Mega fm Guadeloupe",
+      "s": "https://ecmanager4.pro-fhi.net:2815/stream",
+      "l": "https://kuasark.com/files/stations-logos/mega-fm-guadeloupe.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "RCI Live",
+      "s": "https://n15a-eu.rcs.revma.com/gf7d96rtpwzuv?rj-ttl=5&rj-tok=AAABiq3ZZ9gACEsXScHzjIWWrQ",
+      "l": "https://kuasark.com/files/stations-logos/rci-live.png",
+      "g": [
+        "New Age",
+        "Blues",
+        "Easy Listening",
+        "Folk",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "WAPTOR MUSIC FM",
+      "s": "https://stream-148.zeno.fm/uscsupw0m5yuv?zs=lF5EaoTiQUyLTXFferGDQw",
+      "l": "https://kuasark.com/files/stations-logos/waptor-music-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Steevy Fm",
+      "s": "https://stream-150.zeno.fm/h8xmj7cmfnqtv?zs=pKNKtqUZTC2IpDHm9MhDFA",
+      "l": "https://kuasark.com/files/stations-logos/steevy-fm.png",
+      "g": [
+        "Reggae",
+        "Other",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Les Stylprod",
+      "s": "https://listen.radioking.com/radio/421063/stream/474319",
+      "l": "https://kuasark.com/files/stations-logos/les-stylprod.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RCI Tradition",
+      "s": "https://n20a-eu.rcs.revma.com/mufppgzctwzuv?rj-ttl=5&rj-tok=AAABiq3ZaK8ArabdrstoNDDDow",
+      "l": "https://kuasark.com/files/stations-logos/rci-tradition.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Chérie FM Guadeloupe",
+      "s": "http://2stream.dyndns.org:8000/cheriefmgp",
+      "l": "https://kuasark.com/files/stations-logos/cherie-fm-guadeloupe.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RSA (Radio Sofaïa Altitude)",
+      "s": "http://radiosofaia.ice.infomaniak.ch/radiosofaia-high",
+      "l": "https://kuasark.com/files/stations-logos/rsa-radio-sofaia-altitude.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Guadalupe LLallagua",
+      "s": "https://ares.disfrutaenlared.com/9304/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-guadalupe-llallagua.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Mouteyen jean-philippe",
+      "s": "http://france16.coollabel-productions.com:8276/;",
+      "l": "https://kuasark.com/files/stations-logos/mouteyen-jean-philippe.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Zouk Newz",
+      "s": "https://zouknews.ice.infomaniak.ch/zouknews-192.mp3",
+      "l": "https://kuasark.com/files/stations-logos/zouk-newz.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    }
+  ]
+}

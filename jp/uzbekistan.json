@@ -1,0 +1,180 @@
+{
+  "stations": [
+    {
+      "t": "O'zbegim Taronasi / Веселое Радио",
+      "s": "https://fm101.uz:9943/fm101_low.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/7498/if1i594d2339af4b0142482040_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "A'lo FM",
+      "s": "http://tabassum.uz:9000/alo_low",
+      "l": "https://images.radiovolna.net/_files/images/stations/526/7811b4a4fe86584a1fb7331ed63f3460_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mars FM Uzbekistan",
+      "s": "https://stream.zeno.fm/ugzz955srnhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427049/c4b028b5a55200ebf7cc0065000d1dd6_130x130.webp",
+      "g": [
+        "Decades",
+        "Themes",
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "See The Sea FM",
+      "s": "https://listen5.myradio24.com/seethesea",
+      "l": "https://images.radiovolna.net/_files/images/stations/423445/c5006eaaa38a1b85e807e170ae5c615a_130x130.webp",
+      "g": [
+        "Electronic",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Classic FM",
+      "s": "https://classicfm.uz:8444/classic.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/405471/pcfa5a4779ba1f4cf739671231_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Maxima",
+      "s": "https://classicfm.uz:8444/maxima.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/405472/p8bk5a477a3c3e846361504511_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pink Unicorn Radio",
+      "s": "https://listen6.myradio24.com/unicorn",
+      "l": "https://images.radiovolna.net/_files/images/stations/423955/342fe63d297387c4d6c917c7b8267f74_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "2000's (Радио нулевых)",
+      "s": "https://stream.zeno.fm/fwstad5837zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/424018/da23d9eb17d86e6bf5ecd49b460633df_130x130.webp",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Navroʻz radiosi / Navruz FM",
+      "s": "http://navruzfm.uz:9000/navruz_low",
+      "l": "https://images.radiovolna.net/_files/images/stations/400772/14013b97f928914885403bb22694095e_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Oriat Dono",
+      "s": "http://194.5.152.248:8000/dono",
+      "l": "https://images.radiovolna.net/_files/images/stations/400770/1486302290_cg5hpw98_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Timsol online radiosi",
+      "s": "https://stream.zeno.fm/cqtrku1o8bbuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/430275/7e4e7170c0af548b3252760023d1b75e_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Avtoradio",
+      "s": "https://st2.mediabay.tv/Radio_AvtoradioUz/tracks-a1/mono.m3u8?token=f5061a7473ec8282e4a9a515818d3ce1a046e435-5f5015975246913a9eb24cbc5fe81c12-1673263445-1673252645",
+      "l": "https://images.radiovolna.net/_files/images/stations/428440/eac8b2cfecb6362bbab4575034fabc36_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Markaz Online",
+      "s": "http://mediamarkaz.com:8000/radiomarkaz",
+      "l": "https://images.radiovolna.net/_files/images/stations/431355/74c5c36eef9fa2e0b284f33613faad4d_130x130.webp",
+      "g": [
+        "Decades",
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RADIO MAXIMA",
+      "s": "http://80.80.222.26:8000/maximafm.ogg",
+      "l": "https://kuasark.com/files/stations-logos/radio-maxima-uz.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Qalbim Navosi",
+      "s": "http://213.230.109.7:9000/alo_low",
+      "l": "https://kuasark.com/files/stations-logos/qalbim-navosi.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sezam FM",
+      "s": "http://sezamfm.com:8000/stream",
+      "l": "https://kuasark.com/files/stations-logos/sezam-fm.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "РАДИО \"Ориат Доно\"",
+      "s": "http://www.oriatdono.uz/",
+      "l": "https://kuasark.com/files/stations-logos/radio-oriat-dono.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Mars Fm Uzbekistan",
+      "s": "https://stream-153.zeno.fm/ugzz955srnhvv?zs=v4oqo9FDRB2af66GgybNEw",
+      "l": "https://kuasark.com/files/stations-logos/mars-fm-uzbekistan.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Oriat FM",
+      "s": "http://194.5.152.248:8000/fm",
+      "l": "https://kuasark.com/files/stations-logos/oriat-fm.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Классик ФМ",
+      "s": "http://80.80.222.26:8000/classicfm.ogg?_=1",
+      "l": "https://kuasark.com/files/stations-logos/klassik-fm.png",
+      "g": [
+        "Classical",
+        "Other"
+      ]
+    }
+  ]
+}

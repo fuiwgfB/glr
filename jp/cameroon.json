@@ -1,0 +1,94 @@
+{
+  "stations": [
+    {
+      "t": "Vie Nouvelle",
+      "s": "https://rvn-lafrequencedevie.ice.infomaniak.ch/rvn-lafrequencedevie-32.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/422432/47df5e9ece187fd9310c98e5c7c8f510_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Balafon",
+      "s": "https://stream.streamgenial.stream/28fd7yt57vzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/422431/d80947ae011b6bac7117d69c15790e18_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Tiemeni Siantou",
+      "s": "https://stream.zenolive.com/gper1b4xc6quv.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/422430/48881671ea944d8b4b599dc0c5b4c627_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Bonne Nouvelle",
+      "s": "http://radiobonnenouvelle2.ice.infomaniak.ch/radiobonnenouvelle2-96.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429402/bd679304cc6ba09488a452c477172c81_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Brightstar Studios",
+      "s": "https://s17.ssl-stream.com/proxy/brightstar?mp=/stream",
+      "l": "https://kuasark.com/files/stations-logos/brightstar-studios.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "EASY RADIO KRIBI",
+      "s": "https://listen.radioking.com/radio/534455/stream/592967",
+      "l": "https://kuasark.com/files/stations-logos/easy-radio-kribi.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "ICT University Radio",
+      "s": "https://icturadio.radioca.st/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/ict-university-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Tzgospel ( Cameron)",
+      "s": "https://stream-150.zeno.fm/kurdy9q1uchvv?zs=-Wp3Y0ygTdCJu1rd6EJMiA",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-cameron.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rush FM Bamenda",
+      "s": "https://stream-050.zeno.fm/8ggdk1wbtc9uv?zs=t7HDbopOQr2G9hWCV9ozyg",
+      "l": "https://kuasark.com/files/stations-logos/rush-fm-bamenda.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Equinoxe Radio",
+      "s": "https://listen.radioking.com/radio/39218/stream/76118",
+      "l": "https://kuasark.com/files/stations-logos/equinoxe-radio.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Wispering Piano",
+      "s": "http://live.str3am.com:3120/secure2?username=marusic%40gmx.ch&password=Hallopiano4fun",
+      "l": "https://kuasark.com/files/stations-logos/wispering-piano.png",
+      "g": [
+        "Other"
+      ]
+    }
+  ]
+}

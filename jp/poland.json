@@ -1,0 +1,4134 @@
+{
+  "stations": [
+    {
+      "t": "RMF Hard and Heavy",
+      "s": "http://195.150.20.9:8000/rmf_hard_heavy",
+      "l": "https://images.radiovolna.net/_files/images/stations/5016/dfrn594a4d3f32bac958658872_130x130.webp",
+      "g": [
+        "Metal"
+      ]
+    },
+    {
+      "t": "RMI - Italo Disco Classic",
+      "s": "https://ruby.torontocast.com:1385/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/833/h766594a21ea3964d627271456_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RMF FM",
+      "s": "https://rs6-krk2.rmfstream.pl/RMFFM48",
+      "l": "https://images.radiovolna.net/_files/images/stations/637/64ed5761027e96d068786f981ccb5c96_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Antyradio",
+      "s": "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+      "l": "https://images.radiovolna.net/_files/images/stations/6515/7051c40bb16c11c5dccfb163b75f1b54_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio ZET",
+      "s": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
+      "l": "https://images.radiovolna.net/_files/images/stations/503/e2a9f43505be92fc0910636f759e6f96_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rave FM",
+      "s": "http://ravefm.org:9850/ravefm",
+      "l": "https://images.radiovolna.net/_files/images/stations/426126/6f62adcdbb7da3929b5ae3264aeefb4c_130x130.webp",
+      "g": [
+        "Decades",
+        "Themes",
+        "Electronic",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "RMI - Italo Disco New Generation",
+      "s": "https://ruby.torontocast.com:1525/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/7329/xl2n594a28864f163496460717_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Eska",
+      "s": "https://radio.stream.smcdn.pl/icradio-p/2180-1.aac/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/4931/s1x4593fecf6e91af012328142_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RMI - Euro Disco",
+      "s": "https://ruby.torontocast.com:1565/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/7333/s1nh594a2942951c9105461744_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "RMF Michael Jackson",
+      "s": "http://195.150.20.242:8000/rmf_Michael_Jackson",
+      "l": "https://images.radiovolna.net/_files/images/stations/5024/hsj5594a4e4db66f7699242502_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 7",
+      "s": "http://stream.radio7.pl:443/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/6503/l9tl5a286055006fa904207392_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Antyradio Classic Rock",
+      "s": "https://an02.cdn.eurozet.pl/ANTCLA.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/5935/e5x15980db720796a716221645_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Open.FM - MTV Rocks",
+      "s": "https://stream.open.fm/77",
+      "l": "https://images.radiovolna.net/_files/images/stations/5939/zkm8594b7d2f2c2df332964169_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RMI - Italo Disco In The Mix",
+      "s": "https://ruby.torontocast.com:1365/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/7330/bq63594a28b4b67fb665801331_130x130.webp",
+      "g": [
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "RMI - Synthesizer Dance",
+      "s": "https://ruby.torontocast.com:1615/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/7332/tyam594a292e3f774115225518_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Eska ROCK",
+      "s": "https://radio.stream.smcdn.pl/icradio-p/5380-1.aac/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423299/54f5a2c11e69d80694074e432da124b5_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Open.FM - Italo Disco",
+      "s": "http://stream.open.fm/27",
+      "l": "https://images.radiovolna.net/_files/images/stations/5962/zate594b7df520666735721601_130x130.webp",
+      "g": [
+        "Pop",
+        "International"
+      ]
+    },
+    {
+      "t": "TOK FM",
+      "s": "https://radiostream.pl/tuba10-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/5044/kt89594d030f10b6d849570922_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Minimalmix radio",
+      "s": "https://minimalmix.radioca.st/media",
+      "l": "https://images.radiovolna.net/_files/images/stations/4843/wswi594d023a5d1cf307792454_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Italo4you",
+      "s": "http://s4.radiohost.pl:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/6513/f6sk594d039854d39712423535_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "International"
+      ]
+    },
+    {
+      "t": "Polskie Radio Jedynka",
+      "s": "http://stream3.polskieradio.pl:8900/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7324/776354aca8ac3495de423e6b7b986bd5_130x130.webp",
+      "g": [
+        "News",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Polskie Radio Katowice",
+      "s": "http://stream4.nadaje.com:9212/radiokatowice",
+      "l": "https://images.radiovolna.net/_files/images/stations/4914/wbfh594d04d43be8e585432310_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Open.FM - Biesiada",
+      "s": "https://stream.open.fm/59",
+      "l": "https://images.radiovolna.net/_files/images/stations/6034/c2gp594b86b72d659935266380_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Open.FM - Ballady Wszech Czasów",
+      "s": "https://stream.open.fm/20",
+      "l": "https://images.radiovolna.net/_files/images/stations/5974/w535594b7f9c01f52847442649_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RMF Dance",
+      "s": "http://31.192.216.8:8000/rmf_dance",
+      "l": "https://images.radiovolna.net/_files/images/stations/5008/oju1594a4cacd3bde650661585_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "RMF Smooth Jazz",
+      "s": "http://31.192.216.8:8000/rmf_smooth_jazz",
+      "l": "https://images.radiovolna.net/_files/images/stations/5041/ay88594a4f7a5da42906867289_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "RadioParty Energy 2000",
+      "s": "http://energy2000.radioparty.pl:8005/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4948/mtyr594d010b79409025687097_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chillizet Deep",
+      "s": "https://ch02.cdn.eurozet.pl/CHIDEP.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4853/cfjt594a53f878bb6162404416_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Forever 80s",
+      "s": "http://sirius.shoutca.st:8761/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405959/u4dh5b805f2875885272660467_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Open.FM - Hip-Hop Ulica",
+      "s": "https://stream.open.fm/92",
+      "l": "https://images.radiovolna.net/_files/images/stations/5991/suqi594b858f66735280499711_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Polskie Radio Trójka",
+      "s": "http://mp3.polskieradio.pl:8904/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/7321/ogtp594d0823b66bd909418971_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - Chillout",
+      "s": "https://stream.open.fm/33",
+      "l": "https://images.radiovolna.net/_files/images/stations/6019/q0ig594b863fc0519158217654_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Mirage Italo Dance",
+      "s": "http://91.232.4.33:9569/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/418467/8573d8055bde4bbca1b7aac3dffdf6a1_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Bercik - Silesia",
+      "s": "http://s3.slotex.pl:7770/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4840/02ae0223e128a0782a691045ad571bdc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ZET 90",
+      "s": "https://zt04.cdn.eurozet.pl/ZET090.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4966/cpnq594a6bf4e44ea646715851_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Pogoda",
+      "s": "https://radiostream.pl/tuba144-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423328/5910d755e3e5963433a063d41e88464b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RMF 60s",
+      "s": "http://195.150.20.242:8000/rmf_60s",
+      "l": "https://images.radiovolna.net/_files/images/stations/4993/xuw8594a4b107cd9f668496388_130x130.webp",
+      "g": [
+        "Decades",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "RMF Rock",
+      "s": "http://195.150.20.242:8000/rmf_rock",
+      "l": "https://images.radiovolna.net/_files/images/stations/5038/lnom594a4f589149d649432465_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RMF Blues",
+      "s": "http://195.150.20.243:8000/rmf_blues",
+      "l": "https://images.radiovolna.net/_files/images/stations/609/g1ie594a2a21ba4f2368952019_130x130.webp",
+      "g": [
+        "Jazz",
+        "Blues"
+      ]
+    },
+    {
+      "t": "Polskie Radio Wroclaw",
+      "s": "http://stream4.nadaje.com:9240/prw",
+      "l": "https://images.radiovolna.net/_files/images/stations/6479/x7oh594d07092db3d875968057_130x130.webp",
+      "g": [
+        "International",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Antyradio Hard",
+      "s": "https://an.cdn.eurozet.pl/ANTHAR.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/5929/euom5980dad9c6146791122429_130x130.webp",
+      "g": [
+        "Metal"
+      ]
+    },
+    {
+      "t": "Open.FM - Miejska Stacja",
+      "s": "https://stream.open.fm/106",
+      "l": "https://images.radiovolna.net/_files/images/stations/6016/t135594b862d2a4f8945650540_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Open.FM - Classic Rock",
+      "s": "https://stream.open.fm/32",
+      "l": "https://images.radiovolna.net/_files/images/stations/6000/lxs9594b85c44b297759979955_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Open.FM - 500 Party Hits",
+      "s": "https://stream.open.fm/81",
+      "l": "https://images.radiovolna.net/_files/images/stations/5952/uhp8594b7db98adca301213909_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RMF Chillout",
+      "s": "http://195.150.20.243:8000/rmf_chillout",
+      "l": "https://images.radiovolna.net/_files/images/stations/5002/uncc594a4c1ad1cdd291216699_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Open.FM - Hip-Hop PL",
+      "s": "https://stream.open.fm/24",
+      "l": "https://images.radiovolna.net/_files/images/stations/5987/w5ic594b7ff4a2173662670561_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "ZET na Swieta",
+      "s": "https://zt04.cdn.eurozet.pl/ZETSWI.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423351/dc9bd20a0304d605c9c795da188b866f_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - Lejdis Party",
+      "s": "https://stream.open.fm/102",
+      "l": "https://images.radiovolna.net/_files/images/stations/5953/a6kp594b7dbf9f59c650330571_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Gold Live",
+      "s": "https://s1.slotex.pl/shoutcast/7062/stream?sid=1",
+      "l": "https://images.radiovolna.net/_files/images/stations/427633/accab232b4b1bf49cbaa95b3bdf22060_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Open.FM - Sad",
+      "s": "https://stream.open.fm/103",
+      "l": "https://images.radiovolna.net/_files/images/stations/5945/zsaf594b7d9519109661107680_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Rock Radio",
+      "s": "https://radiostream.pl/tuba9006-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/6475/onfr5a2808f9d062e985623057_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Jutrzenka- Polskie Radio Armii Krajowej",
+      "s": "http://sluchaj.radiojutrzenka.waw.pl:12854/test",
+      "l": "https://images.radiovolna.net/_files/images/stations/6519/v9w0594d07f474ef8748363132_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "RMF Queen",
+      "s": "http://195.150.20.7:8000/rmf_queen",
+      "l": "https://images.radiovolna.net/_files/images/stations/5035/sc0n594a4f385da2f761760152_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Muzyczne Radio",
+      "s": "https://stream3.nadaje.com:9001/;stream/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/4870/wf0w5a285dee599a7252298150_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Warszawa",
+      "s": "http://streaming01.technologicznie.net:8765/radio_warszawa.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4963/uzyw597104db5357d508837013_130x130.webp",
+      "g": [
+        "Inspirational",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - House",
+      "s": "https://stream.open.fm/5",
+      "l": "https://images.radiovolna.net/_files/images/stations/5956/c92n594b7dd0b3b36778556634_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Polskie Radio Lublin",
+      "s": "https://streaming.radio.lublin.pl:8843/128k",
+      "l": "https://images.radiovolna.net/_files/images/stations/4915/zf5y594d05c883cbd694666565_130x130.webp",
+      "g": [
+        "Themes",
+        "News"
+      ]
+    },
+    {
+      "t": "Open.FM - Smooth Jazz",
+      "s": "https://stream.open.fm/60",
+      "l": "https://images.radiovolna.net/_files/images/stations/6029/ldsm594b868144517329130448_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Chillizet",
+      "s": "https://n-6-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx?audio=5",
+      "l": "https://images.radiovolna.net/_files/images/stations/4851/gdlb5c17a49fd3fab813722169_130x130.webp",
+      "g": [
+        "New Age",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Open.FM - Dance",
+      "s": "https://stream.open.fm/31",
+      "l": "https://images.radiovolna.net/_files/images/stations/5954/d0xv594b7dc532d85233834701_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Open.FM - OMG! 100% Hits",
+      "s": "https://stream.open.fm/64?type",
+      "l": "https://images.radiovolna.net/_files/images/stations/5967/we2r594b7cfd4b581316389807_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Piekary",
+      "s": "https://stream.radiopiekary.pl",
+      "l": "https://images.radiovolna.net/_files/images/stations/7322/ium5595d43caeb0a3652025991_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pogoda",
+      "s": "https://radiostream.pl/tuba145-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423325/82cc8532ab3a54851b58971ef8325b9b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Polskie Radio Białystok",
+      "s": "http://stream4.nadaje.com:15476/radiobialystok",
+      "l": "https://images.radiovolna.net/_files/images/stations/27722/373bdf8cf6cd84a7d1758ead4fde031f_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Open.FM - Happy",
+      "s": "https://stream.open.fm/120",
+      "l": "https://images.radiovolna.net/_files/images/stations/5944/che9594b7d8e9790a255955466_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "MUZO.FM",
+      "s": "https://stream.rcs.revma.com/1nnezw8qz7zuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9134/trw55a28094505660508873794_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Racyja",
+      "s": "http://air.racyja.com:8000/racja128",
+      "l": "https://images.radiovolna.net/_files/images/stations/7337/ay8t5a2843bad2a3f591543347_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RMF Club Breaks",
+      "s": "http://217.74.72.11:8000/rmf_club",
+      "l": "https://images.radiovolna.net/_files/images/stations/5006/isa6594a4c7a4628f362710485_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "LagoonFM",
+      "s": "http://s1.slotex.pl:7828/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/6499/qjhl598ff66e4053f334863368_130x130.webp",
+      "g": [
+        "Rock",
+        "Reggae",
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - Alt Café",
+      "s": "https://stream.open.fm/34",
+      "l": "https://images.radiovolna.net/_files/images/stations/6012/ib5v594b860f1c805019652915_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Złote Przeboje",
+      "s": "https://radiostream.pl/tuba8906-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423326/5a0ffbc78ad213d77d375a785f3bb6a7_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Akadera",
+      "s": "https://stream4.nadaje.com:11847/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/6487/j1mr5c84d229c54df579152908_130x130.webp",
+      "g": [
+        "International",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Open.FM - Retro Café",
+      "s": "http://stream.open.fm/25",
+      "l": "https://images.radiovolna.net/_files/images/stations/6028/d0ri594b867ac7342024085403_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "RMF Gold",
+      "s": "http://217.74.72.4:8000/rmf_gold",
+      "l": "https://images.radiovolna.net/_files/images/stations/5013/usei594a4ce5eef0a543663660_130x130.webp",
+      "g": [
+        "Pop",
+        "Themes",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Польське радіо для України",
+      "s": "https://stream85.polskieradio.pl/radio_ukraina/ukraina.stream/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/9152/ef087f3e8135772b46490ea1326a1619_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Open.FM - Trance",
+      "s": "https://stream.open.fm/7",
+      "l": "https://images.radiovolna.net/_files/images/stations/5955/cic1594b7dcacb2e2958649136_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio JARD",
+      "s": "http://online.jard.pl:8744/jard1",
+      "l": "https://images.radiovolna.net/_files/images/stations/7338/58dc28a77b884c2f6a76616cbd233893_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - Muzyka Filmowa",
+      "s": "https://stream.open.fm/38",
+      "l": "https://images.radiovolna.net/_files/images/stations/6031/kd90594b868e28f06604080167_130x130.webp",
+      "g": [
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Open.FM - Drum'n'Bass",
+      "s": "https://stream.open.fm/41",
+      "l": "https://images.radiovolna.net/_files/images/stations/6018/zg47594b8639790d6759695414_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Niepokalanow",
+      "s": "http://88.199.169.10:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4945/u2rz5a2846425587c547491133_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Kolor",
+      "s": "https://stream.radiojar.com/xt0cf1v8938uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4942/buti5a280785244a0928566682_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mirage",
+      "s": "http://91.232.4.33:9709/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/30732/3875bb4681f191825b2d9f08db034b51_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - Odgłosy Natury",
+      "s": "https://stream.open.fm/52",
+      "l": "https://images.radiovolna.net/_files/images/stations/6037/mi8y594b86caa255b649763368_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Open.FM - Do Auta Club",
+      "s": "https://stream.open.fm/114",
+      "l": "https://images.radiovolna.net/_files/images/stations/6024/ui3i594b865fa64b6969265881_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Antyradio Covers",
+      "s": "https://an02.cdn.eurozet.pl/ANTCOV.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/5931/ijrn5980daef905e6534734460_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Afera",
+      "s": "https://radio.afera.com.pl/afera128.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/6493/t4415a2820c9ac914006327512_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Akademickie Radio Centrum",
+      "s": "http://5.201.13.191/live?1407311365100.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/22297/6195e4eea77b81523a2f31853c2b2155_130x130.webp",
+      "g": [
+        "Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Pogoda",
+      "s": "https://radiostream.pl/tuba138-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4850/77eb849c750dbf632182b845629fce79_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Parada",
+      "s": "http://stream4.nadaje.com:15274/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/9411/x2kz5a28089e19bd0928806645_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Opole",
+      "s": "http://dab.radio.opole.pl:8035/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/4946/ays75a282108ef4bf590948853_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RadioParty Djmixes",
+      "s": "http://djmixes.radioparty.pl:8035/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4947/mdgv594d0104a0801008515331_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "ZET PL",
+      "s": "https://zt04.cdn.eurozet.pl/ZETPL1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4983/l48z594a711f74e6d534027078_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio eM",
+      "s": "http://91.200.187.58/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/6495/qyec597b02f429d2a885370248_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Mirage Space",
+      "s": "http://91.232.4.33:9563/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/418474/9b16150eae4d985bcd6661d602b2bb77_130x130.webp",
+      "g": [
+        "Themes",
+        "Electronic",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Katolickie Radio Rodzina",
+      "s": "http://sluchaj.radiorodzina.pl:8000/RadioRodzinaWroclawLIVE.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4959/j47z5a285a3184d0c293840213_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Open.FM - 500 Rock Hits",
+      "s": "https://stream.open.fm/82",
+      "l": "https://images.radiovolna.net/_files/images/stations/5996/n6ox594b85ab02ebb451230423_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Doxa FM",
+      "s": "http://81.210.92.213:8000/play.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423315/413d29f1d472fda2526e3385865906ac_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Polskie Radio Czwórka",
+      "s": "http://stream3.polskieradio.pl:8906/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/22474/2240492addeae7387b8518729fb18a83_130x130.webp",
+      "g": [
+        "Talk",
+        "Rock",
+        "Alternative",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Rock Radio",
+      "s": "https://radiostream.pl/tuba9000-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423310/30493e64c2ce6d008cf0cafdb930ac77_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Open.FM - Alt Club",
+      "s": "https://stream.open.fm/9",
+      "l": "https://images.radiovolna.net/_files/images/stations/6011/tav4594b86095ccfc598614061_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Polskie Radio RZESZOW",
+      "s": "https://streaming.g-news.pl:8040/rzeszow",
+      "l": "https://images.radiovolna.net/_files/images/stations/4918/lm48594d069cf3e19182765793_130x130.webp",
+      "g": [
+        "Themes",
+        "News"
+      ]
+    },
+    {
+      "t": "RMF 90s",
+      "s": "http://195.150.20.243:8000/rmf_90s",
+      "l": "https://images.radiovolna.net/_files/images/stations/4996/uecw594a4b682fac6878968574_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Silesia",
+      "s": "http://s1.slotex.pl:7926/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/22011/da380cee67d8700ed148dfb36af53278_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock",
+        "Blues"
+      ]
+    },
+    {
+      "t": "Radio PLUS",
+      "s": "http://plus-warszawa-01.eurozet.pl:8500/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/6547/eods59be2a6967fe7835585131_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open FM - Top 20 Rock",
+      "s": "https://stream.open.fm/99",
+      "l": "https://images.radiovolna.net/_files/images/stations/4886/fa4ef64fe730f362934df5eb0aaa1a93_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Pop"
+      ]
+    },
+    {
+      "t": "FaMa",
+      "s": "http://stream3.nadaje.com:9024/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/21012/e7623ee3279b534b251c4bc138b325f1_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Polskie Radio Olsztyn",
+      "s": "http://213.73.25.178:7055/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4916/hbln594d059ec8034176157650_130x130.webp",
+      "g": [
+        "Themes",
+        "News"
+      ]
+    },
+    {
+      "t": "Open.FM - 500 Electronic Hits",
+      "s": "https://stream.open.fm/94",
+      "l": "https://images.radiovolna.net/_files/images/stations/6015/yb5o594b8627251ee461125372_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Sud FM",
+      "s": "https://stream2.nadaje.com:8013/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/27774/3a6f9163e3f2870c14c5e9bc27c51011_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ZET Kids",
+      "s": "https://zt04.cdn.eurozet.pl/ZETKID.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4978/e3d6594a7002a70f0263572495_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "POP Radio",
+      "s": "http://stream1.popradio.pl:9000/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423298/d14d81e275800e0250758733148150a3_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Fortyplus / Czterdzieściplus",
+      "s": "http://s1.slotex.pl:7178/listen.xtl?sid=1 ",
+      "l": "https://images.radiovolna.net/_files/images/stations/426222/4b0b139be85ff3c4a8a41bf982cd0993_130x130.webp",
+      "g": [
+        "Country",
+        "Folk",
+        "Decades",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Antyradio",
+      "s": "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+      "l": "https://images.radiovolna.net/_files/images/stations/6516/561ebb6ba3ff7f85f79b7befe89e6eb9_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "MEGA Radio",
+      "s": "https://stream.rcs.revma.com/q18ty3qhwzzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423304/1ec1fc17e0496c6d5458c2ec4f51936c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Freee",
+      "s": "https://streaming.radio.lublin.pl:8843/radiofreee",
+      "l": "https://images.radiovolna.net/_files/images/stations/4935/q8bl5a2845940b6e7875635555_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ArtRadio",
+      "s": "http://91.232.4.33:7096/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/4849/cbm15a28435943631815068295_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "ZET 80",
+      "s": "https://zt02.cdn.eurozet.pl/ZET080.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4965/tjmi594a6bd2145f1829388685_130x130.webp",
+      "g": [
+        "Decades",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Antyradio Greatest",
+      "s": "https://an02.cdn.eurozet.pl/ANTGRE.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/5932/ewi45980db24ea390786676753_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Open.FM - Trening",
+      "s": "https://stream.open.fm/101",
+      "l": "https://images.radiovolna.net/_files/images/stations/6022/nx0a594b865276967531714409_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Polskie Radio Pik",
+      "s": "http://stream1.radiopik.pl:9006/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/4917/rtdo594d065ee5b9b167984441_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Disco Radio",
+      "s": "https://stream.rcs.revma.com/cvswvmyewzzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423303/43685315e85366c667ab0a93c26cc5d4_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "LicznikFM",
+      "s": "https://stream.zeno.fm/cdmhcpwy1f9uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426514/7fbea1dea33d30185beb8da67e99b859_130x130.webp",
+      "g": [
+        "Pop",
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "ZET Kolędy",
+      "s": "https://zt04.cdn.eurozet.pl/ZETKOL.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423352/95fb9a9bccb9736bcf374c13ad1c5712_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "Pogoda",
+      "s": "https://radiostream.pl/tuba8902-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423324/b86203c58616c1f14191bac60376e361_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RMF Maxxx Hop Bec",
+      "s": "http://195.150.20.242:8000/rmf_hop_bec",
+      "l": "https://images.radiovolna.net/_files/images/stations/5023/p04x594a4e3939459355820256_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "DUBSTEP24H",
+      "s": "https://stream.24dubstep.pl/listen/dubstep24h/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/430962/26cf22031f38071a52d4439ab97260ae_130x130.webp",
+      "g": [
+        "Themes",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Polskie Radio",
+      "s": "http://91.232.4.33:9680/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/20775/d93cd882b40b6298f129f9b8c1eed95c_130x130.webp",
+      "g": [
+        "News",
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - Top 20 Pop",
+      "s": "https://stream.open.fm/96",
+      "l": "https://images.radiovolna.net/_files/images/stations/5948/fnla594b7da8199a9241907753_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Września",
+      "s": "http://s1.slotex.pl:7446/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/32355/72f07bcf353abec89d3ea7daab5ea321_130x130.webp",
+      "g": [
+        "Talk",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - 500 Alternative Hits",
+      "s": "https://stream.open.fm/55",
+      "l": "https://images.radiovolna.net/_files/images/stations/6009/rlil594b85fd89e34342337229_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "RAM",
+      "s": "http://stream4.nadaje.com:9220/ram",
+      "l": "https://images.radiovolna.net/_files/images/stations/4956/1f8b87261ec21a79b22d2bec0ea16807_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Śląsk",
+      "s": "http://s1.slotex.pl:7022/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/6490/wf2c5a286260cbfae281699108_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Open.FM - 500 Największych Hitów",
+      "s": "https://stream.open.fm/11",
+      "l": "https://images.radiovolna.net/_files/images/stations/5963/jv66594b7dfbd6027134966754_130x130.webp",
+      "g": [
+        "Folk",
+        "International"
+      ]
+    },
+    {
+      "t": "RMF Baby",
+      "s": "http://217.74.72.11:8000/rmf_baby",
+      "l": "https://images.radiovolna.net/_files/images/stations/4998/zjzt594a4b9fd3ea5951375359_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "RMF 70s",
+      "s": "http://217.74.72.11:8000/rmf_70s",
+      "l": "https://images.radiovolna.net/_files/images/stations/4994/g9co594a4b20c2310706645972_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Polskie Radio Krakow",
+      "s": "http://stream3.nadaje.com:9116/radiokrakow",
+      "l": "https://images.radiovolna.net/_files/images/stations/6481/t3gy594d07b863d87084612886_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Club Party",
+      "s": "http://4stream.pl:18278/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/6520/e6128e236428e1458a9546f725660baf_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Open.FM - Polski Rock Classic",
+      "s": "https://stream.open.fm/45",
+      "l": "https://images.radiovolna.net/_files/images/stations/5998/sira594b85b802fa4961703569_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Baobab",
+      "s": "http://mainstream.radioagora.pl:80/tuba22-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9160/oyll5a28658f6a456664432311_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RadioParty Trance",
+      "s": "http://trance.radioparty.pl:8015/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/6498/f3zd594d0128da6d4680204378_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Złote Przeboje",
+      "s": "https://radiostream.pl/tuba8900-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423320/e7ef4f4b6f90eea36521efdbda87d0f2_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "FJV FM",
+      "s": "http://s3.slotex.pl:7752/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423924/afcbf220191b3897d6da69dcb3af5f58_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio 357",
+      "s": "https://stream.rcs.revma.com/an1ugyygzk8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427903/3fc10d2a92559cb167f74cf971205dc3_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "FARA",
+      "s": "http://62.133.128.22:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4932/met75a28453875001395716684_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Flash FM",
+      "s": "http://91.201.235.225:8017/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/420330/c57ff9013328370079c10fbd6140b5ea_130x130.webp",
+      "g": [
+        "Pop",
+        "Metal",
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Sudety 24",
+      "s": "http://stream4.nadaje.com:15006/sudety24",
+      "l": "https://images.radiovolna.net/_files/images/stations/32361/h64p5c63370796a49569822340_130x130.webp",
+      "g": [
+        "Electronic",
+        "News",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chillizet Biega",
+      "s": "https://ch02.cdn.eurozet.pl/CHIRUN.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400839/bzxi594a55b1cea53616968241_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Nasze Radio",
+      "s": "http://online.nasze.fm:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/6504/epef5a285ac7b77de267851079_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Open.FM - Kids",
+      "s": "https://stream.open.fm/16",
+      "l": "https://images.radiovolna.net/_files/images/stations/6036/sbqr594b86c3c3606333727739_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Nedds24",
+      "s": "http://s1.nedds24.pl:8000/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/420457/8bc5a09eea6be77f5e62e0bcd06928f7_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic",
+        "Rap",
+        "Alternative",
+        "Blues",
+        "Classical"
+      ]
+    },
+    {
+      "t": "RMF Party",
+      "s": "https://rs6-krk2.rmfstream.pl/PARTY",
+      "l": "https://images.radiovolna.net/_files/images/stations/5028/jsp0594a4ea2d59bc255683532_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "ZET 2000",
+      "s": "https://zt04.cdn.eurozet.pl/ZET200.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4964/i44e594a6bb8398ef324733896_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Dimash",
+      "s": "https://samcloud.spacial.com/api/listen?sid=125052&rid=262397",
+      "l": "https://images.radiovolna.net/_files/images/stations/429856/e9edc099b992dc209a03fb2a6aff57f7_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - 500 R'n'b Hits",
+      "s": "https://stream.open.fm/26",
+      "l": "https://images.radiovolna.net/_files/images/stations/5994/pc4i594b859e5c13e991347442_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Victoria",
+      "s": "http://stream.v4.radiovictoria.pl:8176/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/6494/y8jn5a281e00230e4193127038_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Polskie Radio Kielce",
+      "s": "https://streaming.g-news.pl:8030/rk2",
+      "l": "https://images.radiovolna.net/_files/images/stations/400829/1487603774_radiokielce_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RMF Muzyka filmowa",
+      "s": "http://195.150.20.9:8000/rmf_muzyka_filmowa",
+      "l": "https://images.radiovolna.net/_files/images/stations/5025/u744594a4e869eec2257648293_130x130.webp",
+      "g": [
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Leliwa",
+      "s": "https://streaming.g-news.pl/radio/8050/leliwa",
+      "l": "https://images.radiovolna.net/_files/images/stations/27655/1487604801_radio_leliwa_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Wrocław Kultura",
+      "s": "http://stream4.nadaje.com:9230/rwkultura",
+      "l": "https://images.radiovolna.net/_files/images/stations/9168/of005a28578f4a534547944578_130x130.webp",
+      "g": [
+        "Talk",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Toksyna FM",
+      "s": "http://s01.toksyna.fm:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4846/rjxp5979f3c9a3e32443685248_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Polskie Radio Dzieciom",
+      "s": "http://mp3.polskieradio.pl:8916/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9156/smzt594d09c99e04a857308219_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "DiscoParty.pl - Disco Polo",
+      "s": "https://s1.slotex.pl/shoutcast/7432/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426473/0a2b235f08887deba693d23d43e9824c_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Chrześcijanin - Biblia",
+      "s": "http://s1.slotex.pl:7116/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/29801/ba92522cdb81b4a9a9523a3c2ea9e1ae_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "MC Radio",
+      "s": "https://stream4.nadaje.com:8625/mcradio",
+      "l": "https://images.radiovolna.net/_files/images/stations/400823/1487535910_257137_123734251044132_5297872_o.jpg-1000800_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Złote Przeboje",
+      "s": "https://radiostream.pl/tuba8940-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423344/07f3b590b8b947baf5ecd8ff5e34e262_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RockSerwis.fm",
+      "s": "https://radio.rockserwis.fm/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/9165/wrpx5a285fd481ce7423948570_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RadioL4INE",
+      "s": "https://stream.zeno.fm/x3fm7vcxzbduv",
+      "l": "https://images.radiovolna.net/_files/images/stations/431055/57306bf61f6ffd4df497902666358079_130x130.webp",
+      "g": [
+        "International",
+        "Pop",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RadioParty House",
+      "s": "http://house.radioparty.pl:8010/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/6496/dhji594d011ac4e3c502672980_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Akademickie Radio Centrum",
+      "s": "http://62.93.41.27:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/400826/1487537479_akademickie-radio-centrum-rzeszw-poisk-v-google_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - 80s Hits",
+      "s": "https://stream.open.fm/3",
+      "l": "https://images.radiovolna.net/_files/images/stations/5983/fbn4594b7fe23e7ec194768424_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Off Radio",
+      "s": "http://stream4.nadaje.com:13332/offradiokrakow",
+      "l": "https://images.radiovolna.net/_files/images/stations/9146/z3e05a281d42b8617969197801_130x130.webp",
+      "g": [
+        "International",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Open.FM - Do Auta Rock",
+      "s": "https://stream.open.fm/113",
+      "l": "https://images.radiovolna.net/_files/images/stations/6023/bsej594b865867712167805353_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Open.FM - Hip-Hop Klasyk",
+      "s": "https://stream.open.fm/107",
+      "l": "https://images.radiovolna.net/_files/images/stations/5990/u0bt594b8588db10e117865335_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Radio TPI",
+      "s": "https://s1.slotex.pl/shoutcast/7632/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/425604/b2e3d1be1b8649a3b4239d65489ef6f8_130x130.webp",
+      "g": [
+        "Seasonal and Holiday",
+        "Pop",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Radio Sigma FM",
+      "s": "https://play.radiosigma.net/radio/8000/sigma_128kbps",
+      "l": "https://images.radiovolna.net/_files/images/stations/427676/66746fd4f2fb827a32a8c3181c9526c9_130x130.webp",
+      "g": [
+        "Decades",
+        "Reggae",
+        "R&B and Urban",
+        "Rock",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Radio Iskra",
+      "s": "https://shoutcast12.hosterion.pl/9984/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430100/2c0f2dfee1b1b19a7bbc314fb95d2196_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Chillizet World Jazz",
+      "s": "https://ch.cdn.eurozet.pl/CHIWJZ.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423359/3b4830959f794053570223bb1ad1ef73_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "ZET Dance",
+      "s": "https://zt04.cdn.eurozet.pl/ZETDAN.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4971/mebd594a6d1e187a5697325293_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "UWM FM",
+      "s": "http://213.184.18.156:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/5051/rw695a2859ee41bec140190827_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Strefa FM",
+      "s": "https://play.strefa.fm:8443/strefa.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/6488/z6wm59770babe8482092370121_130x130.webp",
+      "g": [
+        "Alternative",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Open.FM - 500 Hip-Hop Hits",
+      "s": "https://stream.open.fm/84",
+      "l": "https://images.radiovolna.net/_files/images/stations/5986/cb1h594b7feebd758073234107_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Jura",
+      "s": "http://streams.radiojura.com.pl:8000/jura_96kbps_stereo.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/29792/18279232e8144c65109f7f211d69460d_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Paranormalium",
+      "s": "http://shoutcast.paranormalium.pl:8000/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/9163/j17s5a290a53adb5f585582720_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Open.FM - Po Polsku Classic",
+      "s": "https://stream.open.fm/79",
+      "l": "https://images.radiovolna.net/_files/images/stations/5969/h8wk594b7e17c63e4861379042_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Chillizet Jazz",
+      "s": "http://chijaz-01.cdn.eurozet.pl:8106/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9402/dtft594a543bcc21b733011205_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "AIN KARIM",
+      "s": "http://stream.profeto.pl/radioainkarim.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/6501/dib45a2856a41d025813079745_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Katolickie Radio Rzeszov - VIA",
+      "s": "http://62.133.128.18:8040/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4868/xy2a5a2863a524c42831898754_130x130.webp",
+      "g": [
+        "Themes",
+        "News"
+      ]
+    },
+    {
+      "t": "RMF Poplista",
+      "s": "http://217.74.72.11:8000/rmf_poplista",
+      "l": "https://images.radiovolna.net/_files/images/stations/5032/k5tn594a4f0185af8322405599_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Wnet",
+      "s": "http://audio.radiownet.pl:8000/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/5924/im2v5a2845c57dc6f306169413_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RMF Szanty",
+      "s": "http://195.150.20.242:8000/rmf_szanty",
+      "l": "https://images.radiovolna.net/_files/images/stations/5043/ewym594a4fb4999cd361692687_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Malbork",
+      "s": "https://stream3.nadaje.com:9023/",
+      "l": "https://images.radiovolna.net/_files/images/stations/21757/f121a56cb4406392d40e359eed06859b_130x130.webp",
+      "g": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio The Best - The Best POP & ROCK",
+      "s": "http://51.255.8.139:9410/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/425904/c1465ab8f16ea0c5ed3d439940a7721d_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "RMF Classic Rock",
+      "s": "http://80.48.65.99/CLASSICROCKVT",
+      "l": "https://images.radiovolna.net/_files/images/stations/5004/cm0z594a4c3f154ba650571816_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Kolobrzeg",
+      "s": "http://graj.radiokolobrzeg.pl:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4941/el3c5a285a604b0d7784562342_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - Crema Café",
+      "s": "https://stream.open.fm/76",
+      "l": "https://images.radiovolna.net/_files/images/stations/5972/rd4v594b7e2a6c567095995198_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Szczecin Extra",
+      "s": "http://stream3.nadaje.com:8200/szczecinfm?1408088119074.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/23592/zp1i5a285e46ccf3d276118619_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Open.FM - 500 Pop Hits",
+      "s": "https://stream.open.fm/83",
+      "l": "https://images.radiovolna.net/_files/images/stations/5964/pmmq594b7e022ae70092169255_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RMF Classic",
+      "s": "https://rs101-krk.rmfstream.pl/RMFCLASSIC48",
+      "l": "https://images.radiovolna.net/_files/images/stations/427898/8a748c885b1d6a9b9ea611b775c80c1e_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Gra",
+      "s": "http://217.74.72.4:8000/radio_gra_wroc",
+      "l": "https://images.radiovolna.net/_files/images/stations/400820/1487524457_ufrrjt72_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Park FM",
+      "s": "http://sluchaj.radiopark.com.pl:8048/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/7326/izdb597b4962db6c6364738566_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Toksyna FM - Chillout and more",
+      "s": "http://s01.toksyna.fm:8050/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/5045/1403203759_1toksyna_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Szczecin",
+      "s": "http://stream4.nadaje.com:11986/prs",
+      "l": "https://images.radiovolna.net/_files/images/stations/27046/33e8a98f5a38ae3199b5a59de769606a_130x130.webp",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Open.FM - Hip-Hop Freszzz",
+      "s": "https://stream.open.fm/93",
+      "l": "https://images.radiovolna.net/_files/images/stations/5989/zudi594b80003e829207922422_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Radio Norda FM (Wejherowo)",
+      "s": "https://ls.tkchopin.pl/norda/nordafm_aac_128/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/427911/70d286e0c5ac5f86ec4c3a7fdbceb16f_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Open.FM - Impreza PL",
+      "s": "https://stream.open.fm/12",
+      "l": "https://images.radiovolna.net/_files/images/stations/5940/nt95594b7d3633f0c553912696_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - 100% Grabaż",
+      "s": "https://stream.open.fm/73",
+      "l": "https://images.radiovolna.net/_files/images/stations/6004/tdna594b85dec56b4428257874_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Antyradio Made in Poland",
+      "s": "https://an02.cdn.eurozet.pl/ANTPOL.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/5918/x7sk5980da677219f619641539_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Open FM - Rock",
+      "s": "https://stream.open.fm/104",
+      "l": "https://images.radiovolna.net/_files/images/stations/4907/iyzr5a5ca8cf3e518844563252_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RMF Groove",
+      "s": "http://217.74.72.4:8000/rmf_groove",
+      "l": "https://images.radiovolna.net/_files/images/stations/5014/v67y594a4d1b55cbd391789613_130x130.webp",
+      "g": [
+        "R&B and Urban",
+        "Rap"
+      ]
+    },
+    {
+      "t": "Złote Przeboje",
+      "s": "https://radiostream.pl/tuba8912-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423329/7797ab383371430b1b426cec63ca50ad_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "ZET Love",
+      "s": "https://zt04.cdn.eurozet.pl/ZETLOV.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4980/pptv594a70413fa12117897924_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Open.FM - Top 20 Hip-Hop",
+      "s": "https://stream.open.fm/98",
+      "l": "https://images.radiovolna.net/_files/images/stations/5950/iph4594b7db3292f6099533293_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Przy mikrofonie FM",
+      "s": "https://stream.zeno.fm/8zeg4m72pnhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/426780/0e41f804760983aee7e5d303bb17afcd_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Slonskie Radio Hitmix",
+      "s": "http://s1.slotex.pl:7294/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/26698/fa269a4a1f82b648d72139405238d184_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Sochaczew",
+      "s": "https://stream.radiosochaczew.pl//;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/26306/139ea46b7210c499039f39911a3b595f_130x130.webp",
+      "g": [
+        "Themes",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Crazy Hits",
+      "s": "http://s2.slotex.pl:10150/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/26455/9883aa77a4f9323cd115fda3c08413ed_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "RMF Cuba",
+      "s": "http://217.74.72.11:8000/rmf_cuba",
+      "l": "https://images.radiovolna.net/_files/images/stations/5007/zbz8594a4c8e0a9c6554854960_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "ModFM - modules.pl",
+      "s": "http://radio.modules.pl:8500/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4847/s7x6597a3f66912ee015181898_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Open.FM - Top 20 PL",
+      "s": "https://stream.open.fm/97",
+      "l": "https://images.radiovolna.net/_files/images/stations/5949/tzg0594b7dad96d02528901867_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Nuta",
+      "s": "https://stream.rcs.revma.com/0004tehdxzzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423314/590a93d6643a7b38a209b33a4f4fa498_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rock Radio",
+      "s": "https://radiostream.pl/tuba9004-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423339/cc7c665b6d2777bfa65a95797b9dfd84_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Open.FM - Freszzz",
+      "s": "https://stream.open.fm/39",
+      "l": "https://images.radiovolna.net/_files/images/stations/5968/nb1j594b7e11aaee9865480092_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "FEST",
+      "s": "https://primary.moodyradiostream.org/radiofest",
+      "l": "https://images.radiovolna.net/_files/images/stations/4933/dp885a285bd95cf76566904616_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Mirage Stars",
+      "s": "http://91.232.4.33:9709/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/418463/d2aaaf51ef016d946d85b9b7fe9384ce_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades",
+        "International"
+      ]
+    },
+    {
+      "t": "Open.FM - 500 Reggae Hits",
+      "s": "https://stream.open.fm/30",
+      "l": "https://images.radiovolna.net/_files/images/stations/6026/k16n594b866e67833072298698_130x130.webp",
+      "g": [
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Open.FM - Biesiada Śląska",
+      "s": "https://stream.open.fm/66",
+      "l": "https://images.radiovolna.net/_files/images/stations/6035/x73j594b86bdbca9c499895999_130x130.webp",
+      "g": [
+        "Folk",
+        "International"
+      ]
+    },
+    {
+      "t": "Złote Przeboje",
+      "s": "https://radiostream.pl/tuba8902-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423323/dbec3b6c4fe87fd5f494e3a218b4393d_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Super FM",
+      "s": "https://stream.super.fm:8443/superfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427931/0fd738451ed88a7077bafdfb3a26c0f9_130x130.webp",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Chrześcijanin - Gospel",
+      "s": "http://s1.slotex.pl:7002/stream/1/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/6514/tmoq5a28655edc64c625817619_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Open.FM - Alt Freszzz",
+      "s": "https://stream.open.fm/6",
+      "l": "https://images.radiovolna.net/_files/images/stations/6010/legm594b86038bd99452180736_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "ZET Klasyka pop",
+      "s": "http://zetgol-01.cdn.eurozet.pl:8424/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4979/bw38594a7020e97bc363177968_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio WP",
+      "s": "https://stream.open.fm/367?type=.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/427901/a120b8bc0e5111d69366573c50ab1b5b_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio1.7",
+      "s": "https://emisja.radio17.pl/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/26981/dc4f0d4b0abc5c33580820b40ac3b1ee_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Famka",
+      "s": "http://stream4.nadaje.com:10118/famka",
+      "l": "https://images.radiovolna.net/_files/images/stations/430634/f37ca99b42798880ff3ba36744885871_130x130.webp",
+      "g": [
+        "Decades",
+        "International",
+        "Pop",
+        "News",
+        "Talk",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "FaMa",
+      "s": "http://stream3.nadaje.com:8096/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/21013/e037c549f00c00c275391b9d2bbf6965_130x130.webp",
+      "g": [
+        "Pop",
+        "Themes"
+      ]
+    },
+    {
+      "t": "Chillizet Soul",
+      "s": "http://chi01.cdn.eurozet.pl:8112/CHISOU.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/400840/xjnt594a562346e5f043143378_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Bielsko",
+      "s": "http://stream4.nadaje.com:13322/radiobielsko",
+      "l": "https://images.radiovolna.net/_files/images/stations/423312/626289ea73a2ba5f5c11bc6dad1838e2_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Express",
+      "s": "https://stream.rcs.revma.com/yx6cub73kwzuv",
+      "l": "https://images.radiovolna.net/_files/images/stations/423313/31c34418c26f86a9aea88661ea06f5c9_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "SmoothJazz.com.pl",
+      "s": "http://stream15.shoutcastsolutions.com:8090/128stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/414431/isv25c0d7bb0cc2f3598495894_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Studenckie Radio ŻAK",
+      "s": "http://lodz.radio.pionier.net.pl:8000/radiozak.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/423330/6d86a034632c75fa79d2d579a415ca5a_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Złote Przeboje",
+      "s": "https://radiostream.pl/tuba8928-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423340/d170397a0a639c772c244179d2669327_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "OKO (Ostroleka)",
+      "s": "http://stream2.nadaje.com:8094/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423968/aa875cbfa625008f49516863b32da3fc_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RadioJAZZ FM",
+      "s": "https://radiojazzfm.radiokitstream.org/radiojazzfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/9162/cowu5a2860c9ec623665878459_130x130.webp",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "newone Radio",
+      "s": "https://stream.rcs.revma.com/fq577gymev8uv",
+      "l": "https://images.radiovolna.net/_files/images/stations/427904/21b91f3e2a794d072503d5c23ba9d652_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Rádio 5",
+      "s": "http://51.254.35.19:8035/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/27988/77612727f846faa5d8380c70c6c047e5_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - Bieganie",
+      "s": "https://stream.open.fm/116",
+      "l": "https://images.radiovolna.net/_files/images/stations/6020/oq86594b864558ef3508418416_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ZET Alternatywa",
+      "s": "https://zt04.cdn.eurozet.pl/ZETALT.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423350/e948c4d51903f11c7379046f06792e4d_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Toksyna FM - Elektronika",
+      "s": "http://s01.toksyna.fm:8010/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/5047/1403203852_1toksyna_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Hair Trendy",
+      "s": "http://91.232.4.33:8049/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/21042/cd355d1e628b64d7de685e4804e53365_130x130.webp",
+      "g": [
+        "Pop",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Meloradio Premium",
+      "s": "https://ml.cdn.eurozet.pl/MELPRE.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423356/bc482af5c00dbe96aa4d3ee300f44852_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Profeto",
+      "s": "http://151.80.24.114/streammq.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423305/7007e4d6d056a4f4ae224e4af2d53b88_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Antyradio Unplugged",
+      "s": "https://an03.cdn.eurozet.pl/ANTUNP.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/6518/d4mp5980dc7d51df9502098229_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Emaus",
+      "s": "http://51.68.139.236:8000/oggstream",
+      "l": "https://images.radiovolna.net/_files/images/stations/423336/9ce856b3d9e402a5823cf05dc4d2d73c_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Index",
+      "s": "http://212.109.136.69:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4938/wrth5a285b90691ad430905778_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ZET Do Biegania",
+      "s": "http://zet02.cdn.eurozet.pl:8452/ZETRUN.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4972/rowi594a6d91ea821625684564_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DiscoParty.pl - Club MiX",
+      "s": "https://s3.slotex.pl/shoutcast/7354/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426474/92c9de5a305283157fa6b80ce7ed9164_130x130.webp",
+      "g": [
+        "Electronic",
+        "R&B and Urban",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Twoje Radio",
+      "s": "http://51.77.59.65:8000/stream.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/423343/cebce2f80a4f9fac95950017a05a3999_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio.Cmp3.eu - Klubowe Radio Internetowe",
+      "s": "https://s1.cmp3.eu:8000",
+      "l": "https://images.radiovolna.net/_files/images/stations/425811/a52518f8b741ee4517b0dfe5077a7e79_130x130.webp",
+      "g": [
+        "Themes",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "RMF Classic",
+      "s": "http://217.74.72.11:8000/rmf_classic",
+      "l": "https://images.radiovolna.net/_files/images/stations/5003/jooi594a4c2e127e0975551952_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Open.FM - 100% Dżem",
+      "s": "https://stream.open.fm/15",
+      "l": "https://images.radiovolna.net/_files/images/stations/6003/j8rh594b85d878184795121723_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "ZET Soul",
+      "s": "http://chisou-01.cdn.eurozet.pl:8112/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4988/jxwp594a71572e435457654542_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "RMF Polskie Przeboje",
+      "s": "http://217.74.72.11:8000/rmf_polskie_przeboje",
+      "l": "https://images.radiovolna.net/_files/images/stations/5030/twye594a4ecf924c8344989915_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - Latino",
+      "s": "https://stream.open.fm/19",
+      "l": "https://images.radiovolna.net/_files/images/stations/5977/yj79594b7fa9e3b4a848152175_130x130.webp",
+      "g": [
+        "Latin"
+      ]
+    },
+    {
+      "t": "FIAT",
+      "s": "http://stream2.nadaje.com:8056/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423316/13da604b7632c7a2308c4b9ebb4aeea1_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Tczew",
+      "s": "http://195.191.180.5:8000/live",
+      "l": "https://images.radiovolna.net/_files/images/stations/6483/urs85a2863622ad6d506932737_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "Meloradio",
+      "s": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5",
+      "l": "https://images.radiovolna.net/_files/images/stations/4975/992238ab45b6ea5c2fe0eae4f4a1ca22_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RMF Styl",
+      "s": "http://217.74.72.4:8000/rmf_styl",
+      "l": "https://images.radiovolna.net/_files/images/stations/5042/k33o594a4fa3c5191702815685_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Polskie Radio Kierowców",
+      "s": "https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/427900/829457043fcfe6d7b31dccc2ac744a33_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - Gwiazdy",
+      "s": "https://stream.open.fm/58",
+      "l": "https://images.radiovolna.net/_files/images/stations/5966/ia0d594b7e07ef541511651101_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RMF Piosenka Literacka",
+      "s": "http://195.150.20.242:8000/rmf_piosenka_literacka",
+      "l": "https://images.radiovolna.net/_files/images/stations/5029/ld3m594a4eb3923d2929470332_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Antyradio Ballads",
+      "s": "https://an02.cdn.eurozet.pl/ANTBAL.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/5920/fs4r5980daa57dc57289446415_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Nowy Świat",
+      "s": "https://stream.nowyswiat.online/mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/427905/fac549116c17e51ed8950d6087f4777c_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Meloradio Film",
+      "s": "https://ml.cdn.eurozet.pl/MELFIL.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423354/aa45b9b43ba91a866ee350f80232ed6d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Nysa",
+      "s": "http://stream2.nadaje.com:8066/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/31521/3654e7580f0495c96ddd2fe481c6492a_130x130.webp",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "ZET Hip Hop",
+      "s": "https://zt04.cdn.eurozet.pl/ZETHIP.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423348/0e13e3f2c8da0a48d14ac0f6bce283fc_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Katolickie Radio",
+      "s": "http://posluchaj.krz.pl/hq",
+      "l": "https://images.radiovolna.net/_files/images/stations/4869/czl95a285d973aafc740078949_130x130.webp",
+      "g": [
+        "Themes",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Nakło",
+      "s": "http://sluchaj.107i5.fm/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/4944/bhl259919ba530f54600329871_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Toksyna FM - DJ Channel",
+      "s": "http://s01.toksyna.fm:8040/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/5046/ivib5982d57296670825049448_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Meloradio Classics",
+      "s": "https://ml.cdn.eurozet.pl/MELCLA.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423355/f139547d4c3bbaa51dc54b557bb9ede9_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "Open.FM - Lejdis Café",
+      "s": "https://stream.open.fm/48",
+      "l": "https://images.radiovolna.net/_files/images/stations/5971/eln7594b7e2435bad903604045_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Bogoria",
+      "s": "http://s6.radiohost.pl:8888/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/24447/53cbf2140827150954493c83b170241a_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Kaszëbë",
+      "s": "http://stream3.nadaje.com:8048/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/4940/a00l5a280a6d69695900981360_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Open.FM - Hip-Hop Stacja",
+      "s": "https://stream.open.fm/23",
+      "l": "https://images.radiovolna.net/_files/images/stations/5988/ztpe594b7ffab4ea6232305943_130x130.webp",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Centrum",
+      "s": "http://shot2.inten.pl:8888/rcfm.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423346/bac0e63022a3488493611245fa22e415_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "stacjamikrofonia",
+      "s": "http://s1.slotex.pl:7458/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/417607/dd695d112ce88853c485010669_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RMF 2000",
+      "s": "http://217.74.72.11:8000/rmf_2000",
+      "l": "https://images.radiovolna.net/_files/images/stations/4991/r6c6594a2a78b66eb619417769_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Pogoda",
+      "s": "https://radiostream.pl/tuba142-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423345/dd8ab7e442190514f91155dc7bbb1bc0_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Orthodoxia",
+      "s": "https://stream.orthodoxia.pl/stream192.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423321/237b6dbfce53edc4914c621cc5bda7ac_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio The Best - Euro Dance",
+      "s": "https://s3.slotex.pl/shoutcast/7308/stream?sid=1",
+      "l": "https://images.radiovolna.net/_files/images/stations/425903/a7d84004c71ee5726bf2e3c2b27e806f_130x130.webp",
+      "g": [
+        "Decades",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "StrefaDobrejMuzy",
+      "s": "http://4stream.pl:18226/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/418228/fce66bd89ca354ff2264ff441dfead41_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Weekend FM",
+      "s": "http://188.125.128.15:8000/weekendfm_najlepsza.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/27867/24333f48b3cca57875159dc1d4190393_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "RMF Sloneczne Przeboje",
+      "s": "http://195.150.20.242:8000/rmf_sloneczne_przeboje",
+      "l": "https://images.radiovolna.net/_files/images/stations/5040/ykwl594a4f6a3b455064132137_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Open.FM - Ciężkie Brzmienia",
+      "s": "https://stream.open.fm/13",
+      "l": "https://images.radiovolna.net/_files/images/stations/6002/xcnk594b85d152590630326199_130x130.webp",
+      "g": [
+        "Metal"
+      ]
+    },
+    {
+      "t": "RDN Małopolska",
+      "s": "http://rdn.pl:8002/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423309/6b6a73131a38e3db8f9fa689587b8f72_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Śląskie Radio",
+      "s": "http://sc.slaskieradio.com:8180/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/5922/ia695a2857384a8e4691394519_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio RMF24",
+      "s": "https://rs201-krk.rmfstream.pl/RMF24",
+      "l": "https://images.radiovolna.net/_files/images/stations/427906/5dd69ae087d3a538dd46eb65a8cf111f_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Meloradio Acoustic",
+      "s": "https://ml.cdn.eurozet.pl/MELACO.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423353/c29e21f7cc04230ea7c41af6072097d9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Iskra Szamocin",
+      "s": "http://eu9.fastcast4u.com:6284/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/425406/20fdccd1a1eed073abccb37879405992_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Katolickie Radio",
+      "s": "http://s1.slotex.pl:7762/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4867/xn8j5a285c356d88d419954157_130x130.webp",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Toksyna FM - New Romantic",
+      "s": "http://s01.toksyna.fm:8020/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/5048/1403203917_1toksyna_130x130.webp",
+      "g": [
+        "Decades",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Glos",
+      "s": "http://87.204.92.180:8000/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/6500/dfmf5a2905ab196b6249150637_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Open.FM - Szanty",
+      "s": "https://stream.open.fm/28",
+      "l": "https://images.radiovolna.net/_files/images/stations/6033/lp23594b869b73787277008705_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "FaMa",
+      "s": "http://stream2.nadaje.com:8076/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/10408/da97fe7f31afb29a118007c46a3bc79d_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "DiscoParty.pl - Impreza Disco",
+      "s": "https://s3.slotex.pl/shoutcast/7046/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/426475/c2278b41cf33581b61b072af4a3b2065_130x130.webp",
+      "g": [
+        "Decades",
+        "Classical"
+      ]
+    },
+    {
+      "t": "Meloradio Christmas",
+      "s": "https://ml.cdn.eurozet.pl/MELCHR.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423358/ab28887822578fa66122fc198eb72d77_130x130.webp",
+      "g": [
+        "Seasonal and Holiday"
+      ]
+    },
+    {
+      "t": "Kontestacja",
+      "s": "http://hyades.shoutca.st:8188/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/6477/vooj5a286618cdbaf604570877_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Antyradio Woodstock 2014",
+      "s": "https://an.cdn.eurozet.pl/ANTWOD.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/22319/57aed083efb0b98db23e60ca5308050d_130x130.webp",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Reggae"
+      ]
+    },
+    {
+      "t": "Polskie Radio Łódź",
+      "s": "http://217.113.224.171/RadioLodz-NW-LQ.aac",
+      "l": "https://images.radiovolna.net/_files/images/stations/400821/1487535014_lodz_130x130.webp",
+      "g": [
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "ZET Fitness",
+      "s": "http://zetfit-02.cdn.eurozet.pl:8420/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/4974/dgb5594a6e03bf991153064702_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Tuptus",
+      "s": "http://s1.slotex.pl:7428/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/425868/1c5cc2a324d08133e405cad5d734c471_130x130.webp",
+      "g": [
+        "Decades",
+        "International",
+        "Pop"
+      ]
+    },
+    {
+      "t": "Max Radio Polska",
+      "s": "http://s1.slotex.pl:7216/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/418076/8b7686bb0ea09e712014f2ed3bf82846_130x130.webp",
+      "g": [
+        "Electronic",
+        "Themes"
+      ]
+    },
+    {
+      "t": "FTB Trance",
+      "s": "http://play.radioftb.net:8028/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/423245/7d352e5bf2a9ed100f84be8f89e8b7f7_130x130.webp",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Pasja Chillout",
+      "s": "http://91.232.4.33:8108/pasja/1/",
+      "l": "https://images.radiovolna.net/_files/images/stations/22525/705044e5dd5329100622b14b0bec3e80_130x130.webp",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "FaMa",
+      "s": "http://stream4.nadaje.com:13770/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423300/ea4b1017386d5a9884457c9fb6c5fe78_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - Muzyka Klasyczna",
+      "s": "https://stream.open.fm/67",
+      "l": "https://images.radiovolna.net/_files/images/stations/6030/r3r9594b8688127bd085059981_130x130.webp",
+      "g": [
+        "Classical"
+      ]
+    },
+    {
+      "t": "DiscoFM.pl",
+      "s": "https://s3.slotex.pl/shoutcast/7320/stream?sid=1",
+      "l": "https://images.radiovolna.net/_files/images/stations/426425/5bae36b2d2ce0e69bc1b43b1b9fc99bb_130x130.webp",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Open.FM - Alt Classic",
+      "s": "https://stream.open.fm/43",
+      "l": "https://images.radiovolna.net/_files/images/stations/6014/dksi594b861cdda4f089102481_130x130.webp",
+      "g": [
+        "Alternative"
+      ]
+    },
+    {
+      "t": "CYBERStacja",
+      "s": "http://sc.cyberstacja.pl:8000/radio.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/420380/e9cc5ffbcfc9b76abfd46f95e4b14819_130x130.webp",
+      "g": [
+        "Pop",
+        "Electronic"
+      ]
+    },
+    {
+      "t": "RadioL4INE Polska",
+      "s": "https://stream.zeno.fm/x3fm7vcxzbduv",
+      "l": "/img/img-6.jpg",
+      "g": [
+        "News",
+        "Talk",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio SuperNova",
+      "s": "https://radio.stream.smcdn.pl/icradio-p/1380-1.aac/playlist.m3u8",
+      "l": "https://images.radiovolna.net/_files/images/stations/423297/f9c17714b42b1c4eabbc7de34aa6a002_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Pro-Radio",
+      "s": "http://radiointernetowe.net:7802/;stream.nsv",
+      "l": "https://images.radiovolna.net/_files/images/stations/9410/csdg5a28564688bea735482389_130x130.webp",
+      "g": [
+        "Rock",
+        "Pop",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Jasna Góra",
+      "s": "http://online.radiojasnagora.pl:8000/rjg",
+      "l": "https://images.radiovolna.net/_files/images/stations/9161/e3js5a285af95b6bd868532640_130x130.webp",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Złote Przeboje",
+      "s": "https://radiostream.pl/tuba8926-1.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/423337/b64aedbec4ea5c1cf52fababfaa3ea40_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "RMF Maxxx",
+      "s": "https://rs101-krk.rmfstream.pl/RMFMAXXX48",
+      "l": "https://images.radiovolna.net/_files/images/stations/427897/d64df5d803c4bc39eeeb3754337c40dd_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - Praca",
+      "s": "https://stream.open.fm/109",
+      "l": "https://images.radiovolna.net/_files/images/stations/5941/bw9c594b7d3cd43ee661574911_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Open.FM - 100% Depeche Mode",
+      "s": "https://stream.open.fm/74",
+      "l": "https://images.radiovolna.net/_files/images/stations/6008/rilf594b85f774337384181680_130x130.webp",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Open.FM - 100% Michael Jackson",
+      "s": "https://stream.open.fm/10",
+      "l": "https://images.radiovolna.net/_files/images/stations/5975/pi7z594b7fa2ad2d3801917750_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Best",
+      "s": "https://s3.slotex.pl:7136/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/430050/8bda5196c2855a690c29f0284bde97f7_130x130.webp",
+      "g": [
+        "Pop",
+        "Folk"
+      ]
+    },
+    {
+      "t": "Polskie Radio Poznań",
+      "s": "http://stream4.nadaje.com:8578/poznan",
+      "l": "https://images.radiovolna.net/_files/images/stations/423338/a28bb977d25f08625757154fddc4ee36_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "90.pl",
+      "s": "http://streams.radio90.pl:8000/radio90_96kbps_stereo.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/27751/b54a2f730ec1eb700f52d012bb7c14f8_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ZET Party",
+      "s": "https://zt04.cdn.eurozet.pl/ZETPAR.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/4982/vlkh594a70d363676050178710_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Zlote Przeboje",
+      "s": "https://radiostream.pl/tuba9-1.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-zlote-przeboje-pl-79762.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio ZET",
+      "s": "https://n-25-32.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx",
+      "l": "https://kuasark.com/files/stations-logos/radio-zet-pl-80118.png",
+      "g": [
+        "Classical",
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "VOX FM",
+      "s": "https://radio.stream.smcdn.pl/timeradio-p/3990-1.aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vox-fm-pl-36349.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Plus",
+      "s": "https://pl01.cdn.eurozet.pl/plu-waw.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-plus-pl-1885.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Nowy Świat",
+      "s": "https://n20a-eu.rcs.revma.com/ypqt40u0x1zuv?rj-ttl=5&rj-tok=AAABiLP17U8AA4GbtWJVVdFFsQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-nowy-swiat.png",
+      "g": [
+        "Alternative",
+        "Pop",
+        "News",
+        "Talk",
+        "Other"
+      ]
+    },
+    {
+      "t": "ESKA Warszawa",
+      "s": "https://radio.stream.smcdn.pl/timeradio-p/2380-1.aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/eska-warszawa.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Polskie Radio - Jedynka",
+      "s": "https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/polskie-radio-jedynka-pl-88428.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Pogoda",
+      "s": "https://pl-play.adtonos.com/radio-pogoda",
+      "l": "https://kuasark.com/files/stations-logos/radio-pogoda.png",
+      "g": [
+        "Other",
+        "News",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Polskie Radio - 24",
+      "s": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/polskie-radio-24-pl-27438.png",
+      "g": [
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Polskie Radio - Trojka",
+      "s": "https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/polskie-radio-trojka.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RadioParty.pl",
+      "s": "https://s2.radioparty.pl:8015/stream",
+      "l": "https://kuasark.com/files/stations-logos/radiopartypl.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio RMF MAXXX",
+      "s": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-maxxx.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Open FM - Disco Polo",
+      "s": "https://stream.open.fm/21",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-disco-polo.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Antyradio",
+      "s": "https://n-22-12.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
+      "l": "https://kuasark.com/files/stations-logos/antyradio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Open FM - Impreza",
+      "s": "https://stream.open.fm/2",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-impreza.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio 357",
+      "s": "https://n22a-eu.rcs.revma.com/ye5kghkgcm0uv?rj-ttl=5&rj-tok=AAABiLP5AwIA_FZmWF9HT7ro3g",
+      "l": "https://kuasark.com/files/stations-logos/radio-357-pl-23518.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "SuperNova Warszawa",
+      "s": "https://radio.stream.smcdn.pl/timeradio-p/1380-1.aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/supernova-warszawa.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Meloradio",
+      "s": "https://n-25-14.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5",
+      "l": "https://kuasark.com/files/stations-logos/meloradio-pl.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Silesia",
+      "s": "http://s1.slotex.pl:7926/stream/1/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-silesia-pl.png",
+      "g": [
+        "Pop",
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "RadioParty - Vocal Trance",
+      "s": "https://s2.radioparty.pl:8015/vocaltrance",
+      "l": "https://kuasark.com/files/stations-logos/radioparty-vocal-trance.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio Italo4you",
+      "s": "http://s0.radiohost.pl:8018/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-italo4you.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Open FM - Tylko Polskie Przeboje",
+      "s": "https://stream.open.fm/111",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-tylko-polskie-przeboje.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "RMI-Italo Disco Classic",
+      "s": "https://fred.torontocast.com:2320/stream",
+      "l": "https://kuasark.com/files/stations-logos/rmi-italo-disco-classic.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Open FM - 100% Hits",
+      "s": "https://stream.open.fm/64",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-100-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Polskie Radio Pink Floyd",
+      "s": "https://stream85.polskieradio.pl/omniaaxe/k46.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/polskie-radio-pink-floyd.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Rock Radio",
+      "s": "https://pl-play.adtonos.com/rock-radio",
+      "l": "https://kuasark.com/files/stations-logos/rock-radio-pl.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Polskie Radio Led Zeppelin",
+      "s": "https://stream85.polskieradio.pl/omniaaxe/k45.stream/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/polskie-radio-led-zeppelin.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio RMF - Classic",
+      "s": "https://rs9-krk2.rmfstream.pl/RMFCLASSIC48",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-classic.png",
+      "g": [
+        "Classical",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Radio Maryja",
+      "s": "https://radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-maryja.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Park",
+      "s": "https://sluchaj2.radiopark.biz.pl:8443/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-park.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio TOP80",
+      "s": "https://top80.pl:8000/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-top80.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Open FM - Italo Disco",
+      "s": "https://stream.open.fm/27",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-italo-disco.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Polskie Radio - Dwójka",
+      "s": "https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/polskie-radio-dwojka.png",
+      "g": [
+        "Classical",
+        "Folk",
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Hitradio",
+      "s": "http://51.255.8.139:9090/stream",
+      "l": "https://kuasark.com/files/stations-logos/hitradio-pl.png",
+      "g": [
+        "Electronic",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Piekary",
+      "s": "https://stream.radiopiekary.pl/",
+      "l": "https://kuasark.com/files/stations-logos/radio-piekary.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Slaskie Radio",
+      "s": "http://stream10.hosterion.pl/8066/stream",
+      "l": "https://kuasark.com/files/stations-logos/slaskie-radio.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Party Energy 2000",
+      "s": "http://energy2000.radioparty.pl:8005/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-party-energy-2000.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "RMI-Euro Disco",
+      "s": "https://cast1.torontocast.com:1160/stream",
+      "l": "https://kuasark.com/files/stations-logos/rmi-euro-disco.png",
+      "g": [
+        "R&B and Urban",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RMI - Italo Disco New Generation",
+      "s": "https://cast1.torontocast.com:1310/stream",
+      "l": "https://kuasark.com/files/stations-logos/rmi-italo-disco-new-generation.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio FTB Disco Polo",
+      "s": "http://play.radioftb.net:8022/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-ftb-disco-polo.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio ItaloDance",
+      "s": "http://radio.italodance.pl:7694/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-italodance.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Eska ROCK Warszawa",
+      "s": "https://radio.stream.smcdn.pl/timeradio-p/5380-1.aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/eska-rock-warszawa.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Baobab",
+      "s": "http://stream.radiobaobab.pl:8000/radiobaobab.ogg",
+      "l": "https://kuasark.com/files/stations-logos/radio-baobab.png",
+      "g": [
+        "Blues",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Rockserwis FM",
+      "s": "http://stream9.nadaje.com:8002/live",
+      "l": "https://kuasark.com/files/stations-logos/radio-rockserwis-fm.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Dzieciom",
+      "s": "https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/radio-dzieciom.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Muzyczne Radio Polska",
+      "s": "http://stream3.nadaje.com:9000/;stream/1",
+      "l": "https://kuasark.com/files/stations-logos/muzyczne-radio-polska.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Kaszebe",
+      "s": "http://stream3.nadaje.com:8048/;0872561763972044stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-kaszebe.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Polskie Radio - Czworka",
+      "s": "https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/polskie-radio-czworka.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Open FM - Klub 90",
+      "s": "https://stream.open.fm/8",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-klub-90.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio ZET - Hits",
+      "s": "https://zt02.cdn.eurozet.pl/ZETHIT.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-zet-hits.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Express",
+      "s": "https://n16a-eu.rcs.revma.com/yx6cub73kwzuv?rj-ttl=5&rj-tok=AAABiLP62mMASyvg1uZz5hLTjg",
+      "l": "https://kuasark.com/files/stations-logos/radio-express-pl.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Slonskie Radio Hitmix",
+      "s": "http://s1.slotex.pl:7294/;",
+      "l": "https://kuasark.com/files/stations-logos/slonskie-radio-hitmix.png",
+      "g": [
+        "Blues",
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Bielsko",
+      "s": "https://n15a-eu.rcs.revma.com/062uq3z3kwzuv?rj-ttl=5&rj-tok=AAABiLP66QsA2j6Vih2h3rX-Zg",
+      "l": "https://kuasark.com/files/stations-logos/radio-bielsko.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Muzo FM",
+      "s": "https://n10a-eu.rcs.revma.com/1nnezw8qz7zuv?rj-ttl=5&rj-tok=AAABiLP3QLwAoeu_KCBW65f_oQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-muzo-fm.png",
+      "g": [
+        "Alternative",
+        "Rock",
+        "Pop",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio RMF - Disco polo",
+      "s": "https://rs203-krk-cyfronet.rmfstream.pl/DISCOPOLOF",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-disco-polo.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio ZET - 80",
+      "s": "https://zt02.cdn.eurozet.pl/ZETKID.mp3?t=1674559008780?redirected=02",
+      "l": "https://kuasark.com/files/stations-logos/radio-zet-80.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Party Kanał Dj Mixes",
+      "s": "http://djmixes.radioparty.pl:8035/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-party-kanal-dj-mixes.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Forever 80s",
+      "s": "http://sirius.shoutca.st:8761/1",
+      "l": "https://kuasark.com/files/stations-logos/radio-forever-80s.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "SmoothJazz.com.pl",
+      "s": "http://stream18.shoutcastsolutions.com:8227/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/smoothjazzcompl.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Halo.Radio",
+      "s": "https://s3.radio.co/s6b9e36d1c/listen",
+      "l": "https://kuasark.com/files/stations-logos/haloradio.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "DobraStacja Disco Polo",
+      "s": "https://s3.slotex.pl/shoutcast/7344/stream?sid=1",
+      "l": "https://kuasark.com/files/stations-logos/dobrastacja-disco-polo.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Радио Рация",
+      "s": "https://air.racyja.com/racja256",
+      "l": "https://kuasark.com/files/stations-logos/radio-racia.png",
+      "g": [
+        "Rock",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Katowice",
+      "s": "https://stream4.nadaje.com:9213/radiokatowice",
+      "l": "https://kuasark.com/files/stations-logos/radio-katowice.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Open FM - Pozytywki",
+      "s": "https://stream.open.fm/194",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-pozytywki.png",
+      "g": [
+        "Themes",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Slonky Radio",
+      "s": "http://h2866159.stratoserver.net:8000/?1580030592268",
+      "l": "https://kuasark.com/files/stations-logos/slonky-radio.png",
+      "g": [
+        "Folk"
+      ]
+    },
+    {
+      "t": "Radio HIT",
+      "s": "http://46.170.199.85:8000/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-hit-pl-104627.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RM80",
+      "s": "http://91.232.4.33:9011/stream",
+      "l": "https://kuasark.com/files/stations-logos/rm80.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Jard",
+      "s": "https://stream4.nadaje.com:8745/jard1",
+      "l": "https://kuasark.com/files/stations-logos/radio-jard.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio RMF - Gold",
+      "s": "https://rs103-krk.rmfstream.pl/GOLD",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-gold.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio RMF - Blues",
+      "s": "https://rs202-krk-cyfronet.rmfstream.pl/BLUES",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-blues.png",
+      "g": [
+        "Blues"
+      ]
+    },
+    {
+      "t": "Radio Open FM - Wesele",
+      "s": "https://stream.open.fm/110",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-wesele.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Chrzescijanin - Dzieci",
+      "s": "http://s1.slotex.pl:7410/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-chrzescijanin-dzieci.png",
+      "g": [
+        "Inspirational",
+        "Themes"
+      ]
+    },
+    {
+      "t": "DiscoParty.pl - Disco Polo",
+      "s": "https://s1.slotex.pl/shoutcast/7432/stream?sid=1",
+      "l": "https://kuasark.com/files/stations-logos/discopartypl-disco-polo.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "MusicMax",
+      "s": "http://91.232.4.33:7040/stream1",
+      "l": "https://kuasark.com/files/stations-logos/musicmax.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Mega Radio",
+      "s": "https://n11a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABiLP65NYAtaIdKWa3nS9JRA",
+      "l": "https://kuasark.com/files/stations-logos/mega-radio-pl.png",
+      "g": [
+        "Electronic",
+        "Pop"
+      ]
+    },
+    {
+      "t": "RadioParty House",
+      "s": "https://s2.radioparty.pl:8015/house",
+      "l": "https://kuasark.com/files/stations-logos/radioparty-house.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio RMF - 80s Disco",
+      "s": "https://rs103-krk-cyfronet.rmfstream.pl/80SDISCO",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-80s-disco.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Park FM",
+      "s": "http://sluchaj2.radiopark.biz.pl:8058/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-park-fm-pl-104626.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radia WNET",
+      "s": "https://media.wnet.fm/wnet.fm",
+      "l": "https://kuasark.com/files/stations-logos/radia-wnet.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Manhattan",
+      "s": "http://s1.slotex.pl:7780/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-manhattan.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio RMF - Dla dzieci",
+      "s": "https://rs101-krk.rmfstream.pl/BABY",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-dla-dzieci.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio RMF - Ballady",
+      "s": "https://rs101-krk.rmfstream.pl/NOSTALGIA",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-ballady.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio RMF - Baby",
+      "s": "http://217.74.72.11/BABY",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-baby.png",
+      "g": [
+        "Themes"
+      ]
+    },
+    {
+      "t": "Radio Rekord",
+      "s": "https://stream3.nadaje.com:8007/radom2",
+      "l": "https://kuasark.com/files/stations-logos/radio-rekord-pl.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio RMF - Maxxx Hop Bec",
+      "s": "https://rs202-krk.rmfstream.pl/HOPBEC",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-maxxx-hop-bec.png",
+      "g": [
+        "Rap"
+      ]
+    },
+    {
+      "t": "Twoja Polska Stacja",
+      "s": "https://sluchaj2.radiopark.biz.pl:8443/twojapolskastacja",
+      "l": "https://kuasark.com/files/stations-logos/twoja-polska-stacja.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Chrzescijanin",
+      "s": "http://s1.slotex.pl:7002/mountpoint",
+      "l": "https://kuasark.com/files/stations-logos/radio-chrzescijanin.png",
+      "g": [
+        "Pop",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio ZET - PL",
+      "s": "https://zt01.cdn.eurozet.pl/ZETPL1.mp3?t=1674559170817?redirected=01",
+      "l": "https://kuasark.com/files/stations-logos/radio-zet-pl.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio RMF - Dance",
+      "s": "https://rs202-krk-cyfronet.rmfstream.pl/DANCE",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-dance.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio RMF - PRL",
+      "s": "https://rs7-krk2-cyfronet.rmfstream.pl/PRL",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-prl.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Metal Live Radio",
+      "s": "http://51.255.8.139:8738/stream",
+      "l": "https://kuasark.com/files/stations-logos/metal-live-radio.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio ZET - 90",
+      "s": "https://zt03.cdn.eurozet.pl/ZET090.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-zet-90.png",
+      "g": [
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Party Kanał Trance",
+      "s": "https://s2.radioparty.pl:8015/trance",
+      "l": "https://kuasark.com/files/stations-logos/radio-party-kanal-trance.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio RMF - Depeche Mode",
+      "s": "https://rs8-krk2-cyfronet.rmfstream.pl/DEPECHEMODE",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-depeche-mode.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio RMF - 80s",
+      "s": "https://rs9-krk2-cyfronet.rmfstream.pl/80S",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-80s.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio RMF - Relaks",
+      "s": "https://rs9-krk2-cyfronet.rmfstream.pl/RELAKS",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-relaks.png",
+      "g": [
+        "Easy Listening"
+      ]
+    },
+    {
+      "t": "Radio Alex",
+      "s": "https://frradioq.radioca.st/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-alex-pl.png",
+      "g": [
+        "Folk",
+        "Inspirational",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Slask Świecie",
+      "s": "http://s1.slotex.pl:7022/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-slask-swiecie.png",
+      "g": [
+        "Pop",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio RMF - Queen",
+      "s": "https://rs102-krk-cyfronet.rmfstream.pl/QUEEN",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-queen.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Niepokalanow",
+      "s": "http://88.199.169.10:7600/rn.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-niepokalanow.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio RMF - Classic Rock",
+      "s": "https://rs201-krk.rmfstream.pl/rmf_classic_rock",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-classic-rock.png",
+      "g": [
+        "Rock"
+      ]
+    },
+    {
+      "t": "Radio Chrzescijanin - Biblia",
+      "s": "http://s1.slotex.pl:7116/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-chrzescijanin-biblia.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Open FM - Piosenki dla dzieci",
+      "s": "https://stream.open.fm/160",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-piosenki-dla-dzieci.png",
+      "g": [
+        "Themes",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Gdansk",
+      "s": "http://stream.task.gda.pl:8000/rg1?1457959224845.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-gdansk.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio CCM",
+      "s": "https://primary.moodyradiostream.org/radioccm",
+      "l": "https://kuasark.com/files/stations-logos/radio-ccm-pl-12451.png",
+      "g": [
+        "Rock",
+        "Decades",
+        "Other",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio Chrzescijanin - Muzyka instrumentalna",
+      "s": "http://s1.slotex.pl:7172/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-chrzescijanin-muzyka-instrumentalna.png",
+      "g": [
+        "Classical",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Bercik Silesia",
+      "s": "http://s3.slotex.pl:7770/listen.xtl?sid=1",
+      "l": "https://kuasark.com/files/stations-logos/radio-bercik-silesia.png",
+      "g": [
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Open FM - 90s Hits",
+      "s": "https://stream.open.fm/14",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-90s-hits.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio ZET - Dance",
+      "s": "https://zt01.cdn.eurozet.pl/ZETDAN.mp3?redirected=01",
+      "l": "https://kuasark.com/files/stations-logos/radio-zet-dance.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "RadioJAZZ FM",
+      "s": "https://radiojazz.out.airtime.pro/radiojazz_a",
+      "l": "https://kuasark.com/files/stations-logos/radiojazz-fm.png",
+      "g": [
+        "Jazz"
+      ]
+    },
+    {
+      "t": "Antyradio Hard",
+      "s": "https://an06.cdn.eurozet.pl/ANTHAR.mp3?redirected=06",
+      "l": "https://kuasark.com/files/stations-logos/antyradio-hard.png",
+      "g": [
+        "Rock",
+        "Metal",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Open FM - Disco Polo Classic",
+      "s": "https://stream.open.fm/49",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-disco-polo-classic.png",
+      "g": [
+        "Electronic",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Racja",
+      "s": "http://air.racyja.com:8000/racja128?type=.mp3/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-racja.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Vanessa",
+      "s": "http://s1.slotex.pl:7358/;;",
+      "l": "https://kuasark.com/files/stations-logos/radio-vanessa-pl.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Open FM - Kołysanki",
+      "s": "https://stream.open.fm/142",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-kolysanki.png",
+      "g": [
+        "Themes",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Anime 24",
+      "s": "http://91.232.4.33:7028/stream/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-anime-24.png",
+      "g": [
+        "Themes",
+        "Pop",
+        "Soundtracks",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio RMF - Muzyka Filmowa",
+      "s": "https://rs6-krk2-cyfronet.rmfstream.pl/MUZYKAFILMOWA",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-muzyka-filmowa.png",
+      "g": [
+        "Soundtracks"
+      ]
+    },
+    {
+      "t": "Radio Pik",
+      "s": "http://stream.radiopik.pl:9004/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-pik-pl-17711.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio RMF - Polskie Przeboje",
+      "s": "https://rs102-krk.rmfstream.pl/PPRZEBOJE",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-polskie-przeboje.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Polskie Radio - Chopin",
+      "s": "https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/polskie-radio-chopin.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "RDC 101.0 FM",
+      "s": "https://stream2.nadaje.com:11141/rdc",
+      "l": "https://kuasark.com/files/stations-logos/rdc-1010-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Folk Radio - Radio Kielce",
+      "s": "https://streaming.g-news.pl:8030/fr1",
+      "l": "https://kuasark.com/files/stations-logos/folk-radio-radio-kielce.png",
+      "g": [
+        "Folk",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Chrzescijanin - Smooth Jazz",
+      "s": "http://51.255.8.139:9760/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/radio-chrzescijanin-smooth-jazz.png",
+      "g": [
+        "Easy Listening",
+        "Jazz",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Radio FTB Club",
+      "s": "http://play.radioftb.net:8000/;.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-ftb-club.png",
+      "g": [
+        "Electronic",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Open FM - Disco Polo Freszzz",
+      "s": "https://stream.open.fm/57",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-disco-polo-freszzz.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio RMF - Niezapomniane melodie",
+      "s": "https://rs202-krk-cyfronet.rmfstream.pl/NIEZAPOMNIANEMELODIE",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-niezapomniane-melodie.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio One Live",
+      "s": "http://91.232.4.33:8198/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-one-live.png",
+      "g": [
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Różaniec",
+      "s": "http://51.255.235.165:5696/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-rozaniec.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Mirage - ItaloDance Channel",
+      "s": "http://91.232.4.33:9569/Stream1",
+      "l": "https://kuasark.com/files/stations-logos/radio-mirage-italodance-channel.png",
+      "g": [
+        "Electronic",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio RMF - 90s",
+      "s": "https://rs6-krk2.rmfstream.pl/90S",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-90s.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Open FM - Classic Party",
+      "s": "https://stream.open.fm/50",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-classic-party.png",
+      "g": [
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio MRS",
+      "s": "https://s1.slotex.pl/shoutcast/7494/stream",
+      "l": "https://kuasark.com/files/stations-logos/radio-mrs.png",
+      "g": [
+        "Electronic"
+      ]
+    },
+    {
+      "t": "Radio RMF - 5 Łagodne Przeboje",
+      "s": "https://rs201-krk.rmfstream.pl/RMF5",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-5-lagodne-przeboje.png",
+      "g": [
+        "Pop",
+        "Decades",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio RMF24.PL",
+      "s": "https://rs103-krk.rmfstream.pl/RMF24",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf24pl.png",
+      "g": [
+        "Pop",
+        "Rock",
+        "Other",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Nuta",
+      "s": "https://n13a-eu.rcs.revma.com/0004tehdxzzuv?rj-ttl=5&rj-tok=AAABiLP5W0YAJneZIvhBMFiZdg",
+      "l": "https://kuasark.com/files/stations-logos/radio-nuta.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio ZET - Party",
+      "s": "https://zt02.cdn.eurozet.pl/ZETPAR.mp3",
+      "l": "https://kuasark.com/files/stations-logos/radio-zet-party.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Open FM - 00s Hits",
+      "s": "https://stream.open.fm/72",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-00s-hits.png",
+      "g": [
+        "Pop",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Radio Open FM - 4FUN Radio",
+      "s": "https://stream.open.fm/173",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-4fun-radio.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "VOX Disco Party",
+      "s": "https://radio.stream.smcdn.pl/timeradio-p/6180-2.aac/playlist.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/vox-disco-party.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Zachód",
+      "s": "http://stream02.zachod.pl:10113/;",
+      "l": "https://kuasark.com/files/stations-logos/radio-zachod.png",
+      "g": [
+        "Folk",
+        "Rock",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Gdynia Radio",
+      "s": "http://51.255.8.139:8064/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/gdynia-radio.png",
+      "g": [
+        "Blues",
+        "Easy Listening",
+        "R&B and Urban",
+        "Jazz",
+        "Reggae",
+        "Rock",
+        "Other",
+        "Decades",
+        "Latin"
+      ]
+    },
+    {
+      "t": "Radio ZET - 2000",
+      "s": "https://zt02.cdn.eurozet.pl/ZET200.mp3?t=1674559303604?redirected=02",
+      "l": "https://kuasark.com/files/stations-logos/radio-zet-2000.png",
+      "g": [
+        "Pop",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio RMF - Hard & Heavy",
+      "s": "https://rs103-krk.rmfstream.pl/HARDHEAVY",
+      "l": "https://kuasark.com/files/stations-logos/radio-rmf-hard-heavy.png",
+      "g": [
+        "Rock",
+        "Metal"
+      ]
+    },
+    {
+      "t": "Radio Open FM - Top 20 Disco Polo",
+      "s": "https://stream.open.fm/53",
+      "l": "https://kuasark.com/files/stations-logos/radio-open-fm-top-20-disco-polo.png",
+      "g": [
+        "Pop",
+        "Other",
+        "News"
+      ]
+    }
+  ]
+}

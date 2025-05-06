@@ -1,0 +1,635 @@
+{
+  "stations": [
+    {
+      "t": "Rock FM",
+      "s": "http://69.175.94.98:8136/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405340/agzv5a43a1e921788301393672_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Phoenix",
+      "s": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_PHOENIXAAC_SC",
+      "l": "https://images.radiovolna.net/_files/images/stations/405339/ybl25a43a12f8261f824880277_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Voice of Hope - Africa",
+      "s": "http://99.198.118.250:8164/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421547/b37edabc6233ae33ea86912559d2d49a_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Komboni FM",
+      "s": "http://41.72.106.138:8888/broadwave.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/429487/cba073edbde555da3628a3974fdacaeb_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Unza Radio",
+      "s": "https://stream.zeno.fm/y8kc8dv0afhvv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429486/772a5e1d4e0e2858e5026151cb2be903_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Power FM",
+      "s": "http://41.60.195.11:8000/stream.ogg",
+      "l": "https://images.radiovolna.net/_files/images/stations/421542/5c4d19fc0c98ffb45974ba37bff2e394_130x130.webp",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "Christian Voice",
+      "s": "http://zas2.ndx.co.za:8184/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421546/f5cad18faee95825cede24f639a83e8f_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Maria",
+      "s": "http://dreamsiteradiocp2.com:8060/;stream.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421544/5d9e3294869b6f20808847abe2030552_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Money FM",
+      "s": "http://s26.myradiostream.com:18162/listen.mp3",
+      "l": "https://images.radiovolna.net/_files/images/stations/421543/a9e3b0b3cbb1ca39e86977794a57c1f9_130x130.webp",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "ZNBC Radio 4",
+      "s": "https://eu6.fastcast4u.com/proxy/radio4?mp=/1",
+      "l": "https://images.radiovolna.net/_files/images/stations/429485/c484429372656a3cdc0e66031192283b_130x130.webp",
+      "g": [
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hot FM",
+      "s": "http://s2.yesstreaming.net:7091/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/405338/ps0g5a43a0b67adc6688707890_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Flava",
+      "s": "http://s2.voscast.com:9304/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/405341/wexo5a43a2cc7937e611451290_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "One Love Radio",
+      "s": "http://usa11.fastcast4u.com:5576/stream/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/421545/6439c02237f6e4ca3d3b91bf0da615ab_130x130.webp",
+      "g": [
+        "Themes",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Smooth 90.1fm",
+      "s": "https://s25.myradiostream.com/:15172/listen.mp3?nocache=1682450342",
+      "l": "https://kuasark.com/files/stations-logos/smooth-901fm.png",
+      "g": [
+        "Pop",
+        "Themes",
+        "News",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Radio Phoenix",
+      "s": "https://25433.live.streamtheworld.com:443/RADIO_PHOENIXAAC_SC",
+      "l": "https://kuasark.com/files/stations-logos/radio-phoenix-zm.png",
+      "g": [
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "FLAVA FM",
+      "s": "http://s2.voscast.com:9304/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/flava-fm.png",
+      "g": [
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "965 Rock FM",
+      "s": "http://99.198.118.250:8238/stream",
+      "l": "https://kuasark.com/files/stations-logos/965-rock-fm.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Other"
+      ]
+    },
+    {
+      "t": "CHIKUNI RADIO",
+      "s": "http://centauri.shoutca.st:8102/stream",
+      "l": "https://kuasark.com/files/stations-logos/chikuni-radio.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Parliament Radio",
+      "s": "http://streamer.parliament.gov.zm:8063/;",
+      "l": "https://kuasark.com/files/stations-logos/parliament-radio.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Q FM Zambia",
+      "s": "http://87.98.216.129:7620/;",
+      "l": "https://kuasark.com/files/stations-logos/q-fm-zambia.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "5fm Radio Zambia",
+      "s": "http://ca9.rcast.net:8014/;stream.mp3",
+      "l": "https://kuasark.com/files/stations-logos/5fm-radio-zambia.png",
+      "g": [
+        "Folk",
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Breeze FM Zambia",
+      "s": "http://178.netromedia.com:8000/BreezeFM",
+      "l": "https://kuasark.com/files/stations-logos/breeze-fm-zambia.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "iWave FM Radio",
+      "s": "https://s47.myradiostream.com/:9934/listen.mp3?nocache=1682446754",
+      "l": "https://kuasark.com/files/stations-logos/iwave-fm-radio.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "VOICE OF HOPE",
+      "s": "http://184.154.43.106:8030/stream",
+      "l": "https://kuasark.com/files/stations-logos/voice-of-hope.png",
+      "g": [
+        "Inspirational",
+        "Jazz",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Kanele 97.7 FM",
+      "s": "https://stream-148.zeno.fm/zn26dkfnvvytv?zs=OWTv9Y6hQ7WsqZfy1nW1QA",
+      "l": "https://kuasark.com/files/stations-logos/kanele-977-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Hits FM Radio ZM",
+      "s": "https://stream-058.zeno.fm/irq7hesdk0muv?zs=CSP74nv4TFCg9SgjtbzxMQ",
+      "l": "https://kuasark.com/files/stations-logos/hits-fm-radio-zm.png",
+      "g": [
+        "Blues",
+        "Rap",
+        "Pop",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "thaBIGGRADIO",
+      "s": "https://stream-152.zeno.fm/c17yxm6rrg0uv?zs=Uqd_4lKdQOmMrv9YhnJ6Nw",
+      "l": "https://kuasark.com/files/stations-logos/thabiggradio.png",
+      "g": [
+        "Rap",
+        "R&B and Urban",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "https://dreamsiteradiocp5.com/proxy/zambialusaka?mp=/stream?ver=604926",
+      "l": "https://kuasark.com/files/stations-logos/radio-maria-zm.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Hope Fm Zambia",
+      "s": "https://carina.streamerr.co:8078/stream",
+      "l": "https://kuasark.com/files/stations-logos/hope-fm-zambia.png",
+      "g": [
+        "International",
+        "Inspirational",
+        "Other"
+      ]
+    },
+    {
+      "t": "Utuntu FM",
+      "s": "https://stream-148.zeno.fm/h55brcsmhzzuv?zs=N-bTcfK8Rn6Pms64FWOkRA",
+      "l": "https://kuasark.com/files/stations-logos/utuntu-fm.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Vybz Music Radio",
+      "s": "https://stream-150.zeno.fm/wg3ygb1nw98uv?zs=y7h00Z_eQsO4oWPdjhau_w",
+      "l": "https://kuasark.com/files/stations-logos/vybz-music-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Pice Radio",
+      "s": "https://stream-148.zeno.fm/83nnq9ntgzzuv?zs=zKvkMRpiTqyJRZYhFGwMyQ",
+      "l": "https://kuasark.com/files/stations-logos/pice-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Wave FM",
+      "s": "https://s23.myradiostream.com/:17458/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/wave-fm-zm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Poetic Juice FM",
+      "s": "https://stream-052.zeno.fm/51107ezabzzuv?zs=2dYJyVqmTliJ7rSShELzdA",
+      "l": "https://kuasark.com/files/stations-logos/poetic-juice-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Radio Yangeni 98.7",
+      "s": "https://stream-150.zeno.fm/8bg66s5fc78uv?zs=7YlxYnriRzSkthP9VuCTNA",
+      "l": "https://kuasark.com/files/stations-logos/radio-yangeni-987.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Tzgospel Radio (Zambia)",
+      "s": "https://stream-153.zeno.fm/xr5c0n95schvv?zs=j7DpQp3gSMWwCmVVeW0nNw",
+      "l": "https://kuasark.com/files/stations-logos/tzgospel-radio-zambia.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "Live Radio 97.3 Fm",
+      "s": "http://s26.myradiostream.com:20462/listen.mp3",
+      "l": "https://kuasark.com/files/stations-logos/live-radio-973-fm.png",
+      "g": [
+        "Rap",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "ZedStage Radio",
+      "s": "https://stream-068.zeno.fm/49836bqkpd0uv?zs=u1EzacMrR0O1GAl5hjQfig",
+      "l": "https://kuasark.com/files/stations-logos/zedstage-radio.png",
+      "g": [
+        "Folk",
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "K-FM 95.5",
+      "s": "https://stream-150.zeno.fm/tcvdgrzxuk8uv?zs=n6w6DVX4S-eNSLyl8gMbdQ",
+      "l": "https://kuasark.com/files/stations-logos/k-fm-955.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Matero Radio",
+      "s": "https://stream-149.zeno.fm/8ad6degwy7zuv?zs=VuSKC7uJTrmNQfmynVoveg",
+      "l": "https://kuasark.com/files/stations-logos/matero-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Spice FM Zambia",
+      "s": "http://live.rcast.net:8768/;",
+      "l": "https://kuasark.com/files/stations-logos/spice-fm-zambia.png",
+      "g": [
+        "Blues",
+        "Country",
+        "Jazz",
+        "R&B and Urban",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "I Am Catholic Zambia (Online radio)",
+      "s": "https://ec4.yesstreaming.net:2015/stream",
+      "l": "https://kuasark.com/files/stations-logos/i-am-catholic-zambia-online-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Rovert Radio",
+      "s": "https://streaming.relevantmediaservices.com:8004/stream",
+      "l": "https://kuasark.com/files/stations-logos/rovert-radio.png",
+      "g": [
+        "Blues",
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "ITT Radio 90.9 FM",
+      "s": "https://stream-152.zeno.fm/srnxstft6rhvv?zs=BBXF5VxjRiCIBxXZd2rPew",
+      "l": "https://kuasark.com/files/stations-logos/itt-radio-909-fm.png",
+      "g": [
+        "Pop",
+        "R&B and Urban",
+        "Other",
+        "Decades"
+      ]
+    },
+    {
+      "t": "Voice of Kalomo Radio",
+      "s": "http://live.rcast.net:8820/;",
+      "l": "https://kuasark.com/files/stations-logos/voice-of-kalomo-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Oblate Radio Liseli",
+      "s": "https://node.stream-africa.com:8443/OblateRadioLiseli",
+      "l": "https://kuasark.com/files/stations-logos/oblate-radio-liseli.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Tuta Radio",
+      "s": "https://s11.myradiostream.com/:24282/listen.mp3?nocache=1695119982",
+      "l": "https://kuasark.com/files/stations-logos/tuta-radio.png",
+      "g": [
+        "Jazz",
+        "Pop",
+        "R&B and Urban",
+        "Rock",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Mwami fm",
+      "s": "https://stream-149.zeno.fm/63ae8ksgns8uv?zs=64tkyeBGQQ6QlKrJCqz0nQ",
+      "l": "https://kuasark.com/files/stations-logos/mwami-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Kasama Radio",
+      "s": "https://stream-152.zeno.fm/n1p3a2urh98uv?zs=h6b4tL8lRF-mHN0T1vnlGQ",
+      "l": "https://kuasark.com/files/stations-logos/kasama-radio.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Urban Fm",
+      "s": "https://stream-061.zeno.fm/eevbnhqc1k8uv?zs=k-3XLWyJSKyjazK3iYZXvQ",
+      "l": "https://kuasark.com/files/stations-logos/urban-fm-zm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Grace Fm Zambia",
+      "s": "https://stream-148.zeno.fm/n16bhtfm698uv?zs=fNrvz0KNTD-xLVfNuU2DjA",
+      "l": "https://kuasark.com/files/stations-logos/grace-fm-zambia.png",
+      "g": [
+        "Rock",
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Peopos Radio 101.7 FM",
+      "s": "https://stream-058.zeno.fm/frcw13ktp0hvv?zs=caOJECp3Tvq2t6zkF3PH3w",
+      "l": "https://kuasark.com/files/stations-logos/peopos-radio-1017-fm.png",
+      "g": [
+        "Inspirational",
+        "News"
+      ]
+    },
+    {
+      "t": "YAR FM 89.7",
+      "s": "https://stream-153.zeno.fm/vfkk2o41inzuv?zs=v-xxn3G5TDqnSuj6f66JUQ",
+      "l": "https://kuasark.com/files/stations-logos/yar-fm-897.png",
+      "g": [
+        "Pop",
+        "Reggae",
+        "R&B and Urban",
+        "Rock"
+      ]
+    },
+    {
+      "t": "Megarock Fm",
+      "s": "https://stream-149.zeno.fm/3t4x1nxtff9uv?zs=Od9NTsZRSAC9CHaLZuWEaw",
+      "l": "https://kuasark.com/files/stations-logos/megarock-fm.png",
+      "g": [
+        "Rap",
+        "Pop",
+        "R&B and Urban",
+        "International",
+        "News",
+        "Other"
+      ]
+    },
+    {
+      "t": "Kruze Radio Zambia",
+      "s": "https://stream-149.zeno.fm/wirhot5a8f0tv?zs=t-epxisSTgWicyKj5nWc_w",
+      "l": "https://kuasark.com/files/stations-logos/kruze-radio-zambia.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Roots FM 101.3",
+      "s": "https://stream-156.zeno.fm/s7d1prkfbxhvv?zs=jqeFb_3tSVqRCpaL92YqJg",
+      "l": "https://kuasark.com/files/stations-logos/roots-fm-1013.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Imimbo FM",
+      "s": "https://stream-150.zeno.fm/k2ryd9apkxhvv?zs=FlwNQujhSay84t60YAQMaA",
+      "l": "https://kuasark.com/files/stations-logos/imimbo-fm.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Classic Woods 98.9 FM",
+      "s": "https://stream-052.zeno.fm/hkg9a439g0hvv?zs=MusHpQJUQKiJAoNcU5e-8Q",
+      "l": "https://kuasark.com/files/stations-logos/classic-woods-989-fm.png",
+      "g": [
+        "Pop",
+        "News"
+      ]
+    },
+    {
+      "t": "Mphangwe FM radio 88.9",
+      "s": "https://ec4.yesstreaming.net:1925/stream",
+      "l": "https://kuasark.com/files/stations-logos/mphangwe-fm-radio-889.png",
+      "g": [
+        "Folk",
+        "Jazz",
+        "R&B and Urban"
+      ]
+    },
+    {
+      "t": "ZNBC Radio 1",
+      "s": "https://eu6.fastcast4u.com/proxy/radio1?mp=/1&1632938861811",
+      "l": "https://kuasark.com/files/stations-logos/znbc-radio-1.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "ZNBC Radio 2",
+      "s": "https://eu6.fastcast4u.com/proxy/radio2?mp=/1&1632939799942",
+      "l": "https://kuasark.com/files/stations-logos/znbc-radio-2.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "ZNBC Radio 4",
+      "s": "https://eu6.fastcast4u.com/proxy/radio4?mp=/1&1632940311668",
+      "l": "https://kuasark.com/files/stations-logos/znbc-radio-4.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Chikuni Community Radio Station",
+      "s": "https://chikunir.radioca.st/stream",
+      "l": "https://kuasark.com/files/stations-logos/chikuni-community-radio-station.png",
+      "g": [
+        "Other"
+      ]
+    },
+    {
+      "t": "Gifts and Blessings Radio",
+      "s": "https://stream-148.zeno.fm/xbk5qep537zuv?zs=7ErO3AuCTbW29D9Spgwhlg",
+      "l": "https://kuasark.com/files/stations-logos/gifts-and-blessings-radio.png",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "Hype FM 107.3 FM Zambia",
+      "s": "https://stream-149.zeno.fm/dupvt1fgcewvv?zs=2bm6hAkqT0OrSvzTjGJ1Og",
+      "l": "https://kuasark.com/files/stations-logos/hype-fm-1073-fm-zambia.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Station Beta Africa",
+      "s": "https://stream-152.zeno.fm/poon7aazretuv?zs=TZ0hsobhTL6JI946gveEeA",
+      "l": "https://kuasark.com/files/stations-logos/station-beta-africa-125178.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "Radio Mpongwe",
+      "s": "https://stream-151.zeno.fm/q7mcbk2s3a0uv?zs=X_5tR7AfSXOy5p07ayDgEQ",
+      "l": "https://kuasark.com/files/stations-logos/radio-mpongwe.png",
+      "g": [
+        "Pop",
+        "International",
+        "Other"
+      ]
+    },
+    {
+      "t": "Maite Radio",
+      "s": "https://stream-151.zeno.fm/vgxdljgyufxuv?zs=u23D2GXTR26OJQPmA7NLzg",
+      "l": "https://kuasark.com/files/stations-logos/maite-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Pan African Radio",
+      "s": "https://stream-150.zeno.fm/iyixhiejbv1vv?zs=8vzzADBtRkStV4WjRZHFTw",
+      "l": "https://kuasark.com/files/stations-logos/pan-african-radio.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "24H卢萨卡中文网络电台",
+      "s": "https://a8.asurahosting.com:8050/radio.mp3",
+      "l": "https://kuasark.com/files/stations-logos/24h-lu-sa-ka-zhong-wen-wang-luo-dian-tai.png",
+      "g": [
+        "Other",
+        "Pop",
+        "Talk"
+      ]
+    }
+  ]
+}

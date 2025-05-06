@@ -1,0 +1,104 @@
+{
+  "stations": [
+    {
+      "t": "Harvest FM",
+      "s": "https://stream.zeno.fm/gbttqnabh3vtv",
+      "l": "https://images.radiovolna.net/_files/images/stations/429481/78a22bdfb5ac1cbb66db9b7fc357fb79_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "357 FM",
+      "s": "http://198.178.121.76:8329/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429480/cc7e7d5b8abbf07caf0fd90cbf14f16d_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "MoAfrika FM",
+      "s": "http://ca3.rcast.net:8040/;",
+      "l": "https://images.radiovolna.net/_files/images/stations/429479/9c25351a36d2a1d2546fc74c758fc589_130x130.webp",
+      "g": [
+        "International"
+      ]
+    },
+    {
+      "t": "Radio Maria",
+      "s": "https://dreamsiteradiocp5.com/proxy/rmlesotho?mp=/stream",
+      "l": "https://images.radiovolna.net/_files/images/stations/429482/e8c313ab98c4356afaeeee3ce4abce82_130x130.webp",
+      "g": [
+        "Inspirational"
+      ]
+    },
+    {
+      "t": "PC FM",
+      "s": "http://102.130.114.208:8000/pcfm",
+      "l": "https://kuasark.com/files/stations-logos/pc-fm.png",
+      "g": [
+        "News"
+      ]
+    },
+    {
+      "t": "Harvest FM",
+      "s": "https://stream-021.zeno.fm/gbttqnabh3vtv?zs=ZHWxMKRWQIiMZi2LUAtKCw",
+      "l": "https://kuasark.com/files/stations-logos/harvest-fm.png",
+      "g": [
+        "Inspirational",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Ts'enolo FM",
+      "s": "http://102.130.114.208:8000/tsenolofm",
+      "l": "https://kuasark.com/files/stations-logos/tsenolo-fm.png",
+      "g": [
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Moafrika FM",
+      "s": "http://ca3.rcast.net:8040/;stream.nsv",
+      "l": "https://kuasark.com/files/stations-logos/moafrika-fm.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "LM Radio",
+      "s": "https://streaming.fabrik.fm/lm-radio/echocast/audio/medium/index.m3u8",
+      "l": "https://kuasark.com/files/stations-logos/lm-radio.png",
+      "g": [
+        "Pop",
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Retsmaloi 24/7 Talk And Music",
+      "s": "https://stream-150.zeno.fm/esexgdd114zuv?zs=M3DcWPGkQ9WS4ZwT9eX4fg",
+      "l": "https://kuasark.com/files/stations-logos/retsmaloi-24-7-talk-and-music.png",
+      "g": [
+        "News",
+        "Other",
+        "Talk"
+      ]
+    },
+    {
+      "t": "Mapholi Fm",
+      "s": "https://stream-052.zeno.fm/ru861vkfpchvv?zs=CxLt0SS0REqc7EgDM-YuzA",
+      "l": "https://kuasark.com/files/stations-logos/mapholi-fm.png",
+      "g": [
+        "Pop",
+        "Other",
+        "Talk"
+      ]
+    }
+  ]
+}
