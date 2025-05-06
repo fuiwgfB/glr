@@ -1245,14 +1245,6 @@
       ]
     },
     {
-      "t": "2000  TICK TOCK RADIO",
-      "s": "https://streaming.ticktock.radio/tt/2000/icecast.audio",
-      "l": "https://kuasark.com/files/stations-logos/2000-tick-tock-radio.png",
-      "g": [
-        "Pop"
-      ]
-    },
-    {
       "t": "经典音乐广播",
       "s": "https://lhttp.qingting.fm/live/267/64k.mp3",
       "l": "https://kuasark.com/files/stations-logos/jing-dian-yin-le-guang-bo.png",
@@ -1287,9 +1279,97 @@
       ]
     },
     {
+      "t": "1991  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1991/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1991-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1992  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1992/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1992-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1993  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1993/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1993-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1994  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1994/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1994-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1995  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1995/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1995-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1998  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1998/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1998-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "1999  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/1999/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/1999-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2000  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2000/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2000-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
       "t": "2001  TICK TOCK RADIO",
       "s": "https://streaming.ticktock.radio/tt/2001/icecast.audio",
       "l": "https://kuasark.com/files/stations-logos/2001-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2002  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2002/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2002-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2003  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2003/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2003-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2004  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2004/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2004-tick-tock-radio.png",
       "g": [
         "Pop"
       ]
@@ -1306,6 +1386,22 @@
       "t": "2006  TICK TOCK RADIO",
       "s": "https://streaming.ticktock.radio/tt/2006/icecast.audio",
       "l": "https://kuasark.com/files/stations-logos/2006-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2007  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2007/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2007-tick-tock-radio.png",
+      "g": [
+        "Pop"
+      ]
+    },
+    {
+      "t": "2008  TICK TOCK RADIO",
+      "s": "https://streaming.ticktock.radio/tt/2008/icecast.audio",
+      "l": "https://kuasark.com/files/stations-logos/2008-tick-tock-radio.png",
       "g": [
         "Pop"
       ]
@@ -1355,14 +1451,6 @@
       ]
     },
     {
-      "t": "2003  TICK TOCK RADIO",
-      "s": "https://streaming.ticktock.radio/tt/2003/icecast.audio",
-      "l": "https://kuasark.com/files/stations-logos/2003-tick-tock-radio.png",
-      "g": [
-        "Pop"
-      ]
-    },
-    {
       "t": "Green Village Radio FM 99.5 -  澳門",
       "s": "https://fm995.ddns.net/hls1/fm995.m3u8",
       "l": "https://kuasark.com/files/stations-logos/green-village-radio-fm-995-ao-men.png",
@@ -1391,54 +1479,6 @@
       "g": [
         "Other",
         "Latin"
-      ]
-    },
-    {
-      "t": "1991  TICK TOCK RADIO",
-      "s": "https://streaming.ticktock.radio/tt/1991/icecast.audio",
-      "l": "https://kuasark.com/files/stations-logos/1991-tick-tock-radio.png",
-      "g": [
-        "Pop"
-      ]
-    },
-    {
-      "t": "1995  TICK TOCK RADIO",
-      "s": "https://streaming.ticktock.radio/tt/1995/icecast.audio",
-      "l": "https://kuasark.com/files/stations-logos/1995-tick-tock-radio.png",
-      "g": [
-        "Pop"
-      ]
-    },
-    {
-      "t": "1999  TICK TOCK RADIO",
-      "s": "https://streaming.ticktock.radio/tt/1999/icecast.audio",
-      "l": "https://kuasark.com/files/stations-logos/1999-tick-tock-radio.png",
-      "g": [
-        "Pop"
-      ]
-    },
-    {
-      "t": "2002  TICK TOCK RADIO",
-      "s": "https://streaming.ticktock.radio/tt/2002/icecast.audio",
-      "l": "https://kuasark.com/files/stations-logos/2002-tick-tock-radio.png",
-      "g": [
-        "Pop"
-      ]
-    },
-    {
-      "t": "2007  TICK TOCK RADIO",
-      "s": "https://streaming.ticktock.radio/tt/2007/icecast.audio",
-      "l": "https://kuasark.com/files/stations-logos/2007-tick-tock-radio.png",
-      "g": [
-        "Pop"
-      ]
-    },
-    {
-      "t": "2008  TICK TOCK RADIO",
-      "s": "https://streaming.ticktock.radio/tt/2008/icecast.audio",
-      "l": "https://kuasark.com/files/stations-logos/2008-tick-tock-radio.png",
-      "g": [
-        "Pop"
       ]
     },
     {
@@ -1503,33 +1543,9 @@
       ]
     },
     {
-      "t": "1992  TICK TOCK RADIO",
-      "s": "https://streaming.ticktock.radio/tt/1992/icecast.audio",
-      "l": "https://kuasark.com/files/stations-logos/1992-tick-tock-radio.png",
-      "g": [
-        "Pop"
-      ]
-    },
-    {
-      "t": "1993  TICK TOCK RADIO",
-      "s": "https://streaming.ticktock.radio/tt/1993/icecast.audio",
-      "l": "https://kuasark.com/files/stations-logos/1993-tick-tock-radio.png",
-      "g": [
-        "Pop"
-      ]
-    },
-    {
       "t": "1997  TICK TOCK RADIO",
       "s": "https://streaming.ticktock.radio/tt/1997/icecast.audio",
       "l": "https://kuasark.com/files/stations-logos/1997-tick-tock-radio.png",
-      "g": [
-        "Pop"
-      ]
-    },
-    {
-      "t": "2004  TICK TOCK RADIO",
-      "s": "https://streaming.ticktock.radio/tt/2004/icecast.audio",
-      "l": "https://kuasark.com/files/stations-logos/2004-tick-tock-radio.png",
       "g": [
         "Pop"
       ]
@@ -1638,22 +1654,6 @@
       "t": "1966  TICK TOCK RADIO",
       "s": "https://streaming.ticktock.radio/tt/1966/icecast.audio",
       "l": "https://kuasark.com/files/stations-logos/1966-tick-tock-radio.png",
-      "g": [
-        "Pop"
-      ]
-    },
-    {
-      "t": "1994  TICK TOCK RADIO",
-      "s": "https://streaming.ticktock.radio/tt/1994/icecast.audio",
-      "l": "https://kuasark.com/files/stations-logos/1994-tick-tock-radio.png",
-      "g": [
-        "Pop"
-      ]
-    },
-    {
-      "t": "1998  TICK TOCK RADIO",
-      "s": "https://streaming.ticktock.radio/tt/1998/icecast.audio",
-      "l": "https://kuasark.com/files/stations-logos/1998-tick-tock-radio.png",
       "g": [
         "Pop"
       ]
